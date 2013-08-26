@@ -19,7 +19,7 @@ my $date = sprintf("%4d-%02d-%02d", $yearnow+1900, $monnow+1, $daynow);
 print "\nDate: $date";
 my $debug = 0; # set to 1 to avoid downloading, give extra output
 my $linxdump = $dir."wmgk.$date.txt";
-my $outputfile = $dir."allsongs.txt";
+my $outputfile = $dir."allsongs.txt"; #main file with a record of each play
 my $url = "http://www.wmgk.com/broadcasthistory.aspx";
 
 my @filearray; #stores lines of input files
@@ -40,7 +40,7 @@ if (!$debug) {system($temp);} #download page when not debug
 if ($debug) {$linxdump = "dump.txt";} #if debug use saved page
 
 open my $ifile, '<', $linxdump;
-@filearray = <$ifile>;
+@filearray = <$ifile>; #put the wmgk page into an array for processing
 close $ifile;
 
 open my $ofile, '>>', $outputfile;
@@ -52,13 +52,14 @@ foreach $fileline (@filearray)
 		#1: month, 2: day, 3: year
 		$tempdate = sprintf("%4d-%02d-%02d", $3, $1, $2);
 		
-		if ($tempdate ne $date)
-		{#wrong day, panic
-			print "\nWrong Day";
-			print "\t$date vs $3-$1-$2";
-			#die("\nWrong Day \t$date vs $3-$1-$2");
-			$date = $tempdate;
-		}
+		$date = $tempdate; #always use date from wmgk file, script is ran just after midnight
+		#if ($tempdate ne $date)
+		#{#wrong day, panic
+		#	print "\nWrong Day";
+		#	print "\t$date vs $3-$1-$2";
+		#	#die("\nWrong Day \t$date vs $3-$1-$2");
+		#	$date = $tempdate;
+		#}
 	} 
 	
 	#   1:40 PM  "DON'T STOP BELIEVING" - JOURNEY
@@ -66,7 +67,7 @@ foreach $fileline (@filearray)
 	if ($fileline =~ m/\s*(\d{1,2}):(\d{2})\s(AM|PM)\s+\"(.+)\"\s-\s(.+)/)
 	{#this line should contain a song
 		$hour = $1;
-		$min = $2;
+		$min  = $2;
 		$ampm = $3;
 		$song = $4;
 		$band = $5;
@@ -78,7 +79,7 @@ foreach $fileline (@filearray)
 		$song =~ s/(['|\w]+)/\u\L$1/g; #Title Case
 		
 		unless ($band =~ m/shoes/i || $band eq '' || $band =~ m/PUBLICAFFAIRS/i|| $band =~ m/wmgk/i)
-		{
+		{#strip out some non-song entries
 			print $ofile "\n$date;$hour:$min;$band;$song";
 		}
 	}
@@ -86,6 +87,5 @@ foreach $fileline (@filearray)
 }
 
 close $ofile;
-
 
 print "\nDone\n\n";

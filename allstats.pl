@@ -2,16 +2,14 @@
 #stats by Dale Swanson July 11 2013
 #requires gnuplot
 
-
 use strict;
 use warnings;
 use autodie;
 
 #$|++; #autoflush disk buffer
 
-
 my $station = "WMGK";
-my $limit = 15000;
+my $limit = 15000; #only display this many unique songs, or bands
 my $inputfile = "allsongs.txt";
 my $allbands = "$station.bands.csv";
 my $allsongs = "$station.songs.csv";
@@ -19,20 +17,18 @@ my $allhours = "$station.hours.csv";
 my $playcountsfile = "$station.plays.csv";
 my $gnuplotfile = "plot.gp";
 
-my $days = 0;
-my $lastday = 0;
-my $earliest;
-my $latest;
+my $days = 0; #a count of days we have song data for
+my $lastday = 0; #the previous date, used to the $days count
 my @filearray; #stores lines of input files
 my $fileline; #store individual lines of input file in for loops
 my ($year, $mon, $day, $hour, $min);
 my $band;
 my $song;
 my $fullsongname;
-my %songs;
-my %bands;
-my @songplays;
-my @hours;
+my %songs; #play counts for songs
+my %bands; #play counts for bands
+my @songplays; #a count of how many songs are played [index] many times
+my @hours; #how many songs are played in a given hour
 
 open my $ifile, '<', $inputfile;
 @filearray = <$ifile>;
@@ -50,18 +46,17 @@ foreach $fileline (@filearray)
 		$band = $6;
 		$song = $7;
 		
-		if ($day != $lastday) {$days++;}
+		if ($day != $lastday) {$days++;} #count the days
 		$lastday = $day;
 		
-		$bands{$band}++;
+		$bands{$band}++; #count the band
 		
 		$fullsongname = "$band - $song";
-		$songs{$fullsongname}++;
+		$songs{$fullsongname}++; #count the song
 		
-		$hours[$hour]++;
+		$hours[$hour]++; #count a play in this hour
 		#print "\n$band";
 	}
-	
 }
 
 print "\n$days days\n";
@@ -72,10 +67,11 @@ print "\n$days days\n";
 #$temp = $bands{'Led Zeppelin'};
 ##print "\nZ - $temp";
 
+#output csv files:
 open my $ofile, '>', $allbands;
 my $i = 0;
 foreach $band (sort {$bands{$b} <=> $bands{$a} } keys %bands)
-{
+{#all bands, sorted by plays
 	$i++;
 	if ($i >= $limit) {last;}
 	print "\n$bands{$band} \t$band";
@@ -86,7 +82,7 @@ close $ofile;
 open $ofile, '>', $allsongs;
 $i = 0;
 foreach $song (sort {$songs{$b} <=> $songs{$a} } keys %songs)
-{
+{#all songs, sorted by plays
 	$i++;
 	if ($i >= $limit) {last;}
 	print "\n$songs{$song} \t$song";
@@ -99,7 +95,7 @@ close $ofile;
 open $ofile, '>', $allhours;
 $i = 0;
 foreach my $playcount (@hours)
-{
+{#plays per hour
 	my $nicehour;
 	if ($i == 0) {$nicehour = '12 am';}
 	elsif ($i <= 12) {$nicehour = "$i am";}
@@ -114,7 +110,7 @@ open $ofile, '>', $playcountsfile;
 $i=1;
 for ($i=1; $i<$days; $i++)
 #until ($songplays[$i] eq '')
-{
+{#how many songs were played this many times
 	#if ($songplays[$i] eq '') {last;}
 	$songplays[$i] //= 0;
 	print "\n$songplays[$i] $i";
@@ -123,6 +119,7 @@ for ($i=1; $i<$days; $i++)
 }
 close $ofile;
 
+#plot data using gnuplot:
 open my $gfile, '>', $gnuplotfile;
 print $gfile <<ENDTEXT;
 set terminal png size 1200, 800 enhanced
@@ -236,7 +233,6 @@ plot "$playcountsfile" using 1:xtic(2) ti "Play Count"
 ENDTEXT
 close $gfile;
 system("gnuplot $gnuplotfile");
-
 
 open  $gfile, '>', $gnuplotfile;
 print $gfile <<ENDTEXT;
