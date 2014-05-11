@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#Radio Parser by Dale Swanson June 26 2013
+#Radio Parser by Stephen Wetzel June 26 2013
 #grabs recently played list from WMGK site
 #run daily at midnight
 #uses lynx
@@ -47,12 +47,14 @@ open my $ofile, '>>', $outputfile;
 foreach $fileline (@filearray)
 {#go through the linx dump, gather data
 	#   Played on   [7/10/2013]
-	if ($fileline =~ m/\s*Played on\s+\[(\d{1,2})\/(\d{1,2})\/(\d{4})\]/)
+	if ($fileline =~ m/\s*Played on\s+\[(\d{1,2})\/(\d{1,2})\/(\d{4}).*\]/)
 	{#this line should contain date
 		#1: month, 2: day, 3: year
 		$tempdate = sprintf("%4d-%02d-%02d", $3, $1, $2);
+		print "\ndate: $date tempdate: $tempdate";
 		
 		$date = $tempdate; #always use date from wmgk file, script is ran just after midnight
+		
 		#if ($tempdate ne $date)
 		#{#wrong day, panic
 		#	print "\nWrong Day";
