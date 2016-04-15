@@ -13,6 +13,6 @@ You can looks at the graphs/ directory to see a ton of graphs.  There is one for
 
 ![Top Who Songs](/graphs/WMGK.Who.topsongs.png)
 
-![Top Led Zeppelin Songs]("/graphs/WMGK.Led\ Zeppelin.topsongs2.png")
+![Top Led Zeppelin Songs](/graphs/WMGK.Led%2CZeppelin.topsongs2.png)
 
 ![WMGK Plays Per Hour](/graphs/WMGK.hours.png)
