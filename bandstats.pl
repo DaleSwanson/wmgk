@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#stats by Dale Swanson July 11 2013
+#stats by Stephen Wetzel July 11 2013
 #requires gnuplot
 
 use strict;

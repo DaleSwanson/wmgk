@@ -1,0 +1,4181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Bruce Springsteen" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Born to Run</name>
+    <duration>269</duration>
+            <playcount>137916</playcount>
+                <listeners>57074</listeners>
+    
+            <mbid>1b02137e-3e1d-4a82-beb7-26df7ad08b3d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Born+to+Run</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="2">
+    <name>Dancing in the Dark</name>
+    <duration>239</duration>
+            <playcount>121102</playcount>
+                <listeners>43513</listeners>
+    
+            <mbid>0b932662-a2a4-4137-98c6-f0bf04939c2b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Dancing+in+the+Dark</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="3">
+    <name>Born in the U.S.A.</name>
+    <duration>189</duration>
+            <playcount>94061</playcount>
+                <listeners>41589</listeners>
+    
+            <mbid>25621bcf-df09-4344-8661-2ac7f232c7f0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Born+in+the+U.S.A.</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="4">
+    <name>Streets of Philadelphia</name>
+    <duration>195</duration>
+            <playcount>98316</playcount>
+                <listeners>35333</listeners>
+    
+            <mbid>00737da6-d8e3-4d5a-98bd-42bcdefb176e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Streets+of+Philadelphia</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="5">
+    <name>I'm On Fire</name>
+    <duration>30</duration>
+            <playcount>85590</playcount>
+                <listeners>30491</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I%27m+On+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                </track>                    <track rank="6">
+    <name>Thunder Road</name>
+    <duration>288</duration>
+            <playcount>72641</playcount>
+                <listeners>28111</listeners>
+    
+            <mbid>12592265-717d-4714-b316-0303938081be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Thunder+Road</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="7">
+    <name>The River</name>
+    <duration>299</duration>
+            <playcount>65664</playcount>
+                <listeners>25991</listeners>
+    
+            <mbid>14b46a5b-6206-4d5b-83aa-d8f0eab6b798</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+River</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="8">
+    <name>Hungry Heart</name>
+    <duration>199</duration>
+            <playcount>62018</playcount>
+                <listeners>23864</listeners>
+    
+            <mbid>3ab4ecd5-31e9-49a5-bc7d-a5f1c0f29fc0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Hungry+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="9">
+    <name>Glory Days</name>
+    <duration>227</duration>
+            <playcount>52917</playcount>
+                <listeners>22831</listeners>
+    
+            <mbid>505eedc3-59eb-4a51-a898-bc80bbdedaa2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Glory+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="10">
+    <name>Atlantic City</name>
+    <duration>236</duration>
+            <playcount>46942</playcount>
+                <listeners>18110</listeners>
+    
+            <mbid>0478cbd2-c806-4ea2-9b76-0a2e73fbad11</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Atlantic+City</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="11">
+    <name>High Hopes</name>
+    <duration>266</duration>
+            <playcount>51158</playcount>
+                <listeners>17574</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/High+Hopes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="12">
+    <name>The Ghost of Tom Joad</name>
+    <duration>261</duration>
+            <playcount>44302</playcount>
+                <listeners>14209</listeners>
+    
+            <mbid>894aa4d2-e4d4-4b57-a420-02668764b27d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Ghost+of+Tom+Joad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="13">
+    <name>Badlands</name>
+    <duration>242</duration>
+            <playcount>33664</playcount>
+                <listeners>13033</listeners>
+    
+            <mbid>596ff2c4-7d3e-451f-a5f7-92edd4a3a281</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Badlands</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="14">
+    <name>The Wall</name>
+    <duration>254</duration>
+            <playcount>28090</playcount>
+                <listeners>12702</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Wall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="15">
+    <name>My Hometown</name>
+    <duration>248</duration>
+            <playcount>26202</playcount>
+                <listeners>11772</listeners>
+    
+            <mbid>9c83c599-a57a-4425-b753-d63d822d2cc1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/My+Hometown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="16">
+    <name>Dream Baby Dream</name>
+    <duration>302</duration>
+            <playcount>26658</playcount>
+                <listeners>11322</listeners>
+    
+            <mbid>93a12239-d59a-4a89-b1f5-d59494a85fa5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Dream+Baby+Dream</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="17">
+    <name>Just Like Fire Would</name>
+    <duration>232</duration>
+            <playcount>28983</playcount>
+                <listeners>11168</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Just+Like+Fire+Would</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="18">
+    <name>Jungleland</name>
+    <duration>575</duration>
+            <playcount>25541</playcount>
+                <listeners>11063</listeners>
+    
+            <mbid>01c9dd37-636d-4b60-8aae-0e40054fe21d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Jungleland</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="19">
+    <name>Brilliant Disguise</name>
+    <duration>255</duration>
+            <playcount>25912</playcount>
+                <listeners>10970</listeners>
+    
+            <mbid>908d084f-2994-439f-9729-a092a4f6b181</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Brilliant+Disguise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="20">
+    <name>Radio Nowhere</name>
+    <duration>199</duration>
+            <playcount>28150</playcount>
+                <listeners>10895</listeners>
+    
+            <mbid>3d0c8a6b-f064-4142-9a7e-969c72d88729</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Radio+Nowhere</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="21">
+    <name>American Skin (41 Shots)</name>
+    <duration>442</duration>
+            <playcount>25743</playcount>
+                <listeners>10077</listeners>
+    
+            <mbid>72213a7d-86cb-4930-acb0-f2abba21184e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/American+Skin+(41+Shots)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="22">
+    <name>Human Touch</name>
+    <duration>309</duration>
+            <playcount>23686</playcount>
+                <listeners>9963</listeners>
+    
+            <mbid>63307821-4084-4fd1-b023-6b0ea22fc755</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Human+Touch</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="23">
+    <name>Harry's Place</name>
+    <duration>243</duration>
+            <playcount>26694</playcount>
+                <listeners>9822</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Harry%27s+Place</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="24">
+    <name>Cover Me</name>
+    <duration>207</duration>
+            <playcount>24359</playcount>
+                <listeners>9787</listeners>
+    
+            <mbid>a10e82e3-9c4c-4edb-b529-e7d5332f8348</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Cover+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="25">
+    <name>Blinded by the Light</name>
+    <duration>303</duration>
+            <playcount>18483</playcount>
+                <listeners>9545</listeners>
+    
+            <mbid>06248116-0c27-4f94-8cb4-5e407095e72c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Blinded+by+the+Light</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="26">
+    <name>Down in the Hole</name>
+    <duration>296</duration>
+            <playcount>22894</playcount>
+                <listeners>9234</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Down+in+the+Hole</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="27">
+    <name>Nebraska</name>
+    <duration>266</duration>
+            <playcount>18928</playcount>
+                <listeners>9053</listeners>
+    
+            <mbid>15e2142c-d6a0-4a95-9ef8-03e73579c7ca</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Nebraska</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="28">
+    <name>Secret Garden</name>
+    <duration>266</duration>
+            <playcount>22873</playcount>
+                <listeners>8997</listeners>
+    
+            <mbid>9f7ea7b6-b8fb-4078-911f-692bb484c32e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Secret+Garden</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="29">
+    <name>I'm Goin' Down</name>
+    <duration>207</duration>
+            <playcount>24833</playcount>
+                <listeners>8972</listeners>
+    
+            <mbid>9b4eae4f-fc37-4078-92de-6bd6a1ab21ec</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I%27m+Goin%27+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="30">
+    <name>No Surrender</name>
+    <duration>239</duration>
+            <playcount>23473</playcount>
+                <listeners>8950</listeners>
+    
+            <mbid>7d6ea922-dd25-4a27-85bc-f6279fd20bd3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/No+Surrender</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="31">
+    <name>Rosalita (Come out Tonight)</name>
+    <duration>421</duration>
+            <playcount>18162</playcount>
+                <listeners>8580</listeners>
+    
+            <mbid>42c0d59e-6ce1-43fd-9aca-8e7416b9b4f0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Rosalita+(Come+out+Tonight)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="32">
+    <name>Backstreets</name>
+    <duration>391</duration>
+            <playcount>20046</playcount>
+                <listeners>8380</listeners>
+    
+            <mbid>223e9671-0ae9-4132-8d36-19087088a9ea</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Backstreets</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="33">
+    <name>The Rising</name>
+    <duration>287</duration>
+            <playcount>18880</playcount>
+                <listeners>8331</listeners>
+    
+            <mbid>4e125b0c-0260-49fd-8a1b-a2c0be0c4db7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Rising</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="34">
+    <name>Downbound Train</name>
+    <duration>216</duration>
+            <playcount>22755</playcount>
+                <listeners>8247</listeners>
+    
+            <mbid>a8cddb19-5bc2-409c-b147-5595731076af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Downbound+Train</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="35">
+    <name>Frankie Fell in Love</name>
+    <duration>165</duration>
+            <playcount>22128</playcount>
+                <listeners>8207</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Frankie+Fell+in+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="36">
+    <name>We Take Care of Our Own</name>
+    <duration>233</duration>
+            <playcount>20153</playcount>
+                <listeners>8124</listeners>
+    
+            <mbid>c0c5cc62-9d98-4c3d-80bb-02b066e53e09</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/We+Take+Care+of+Our+Own</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="37">
+    <name>Heaven's Wall</name>
+    <duration>227</duration>
+            <playcount>19226</playcount>
+                <listeners>7971</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Heaven%27s+Wall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="38">
+    <name>Bobby Jean</name>
+    <duration>222</duration>
+            <playcount>20575</playcount>
+                <listeners>7884</listeners>
+    
+            <mbid>619ee6cc-e9b6-4bd5-a6de-afd5cdebd96e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Bobby+Jean</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="39">
+    <name>Tenth Avenue Freeze-Out</name>
+    <duration>191</duration>
+            <playcount>18354</playcount>
+                <listeners>7787</listeners>
+    
+            <mbid>34a6e904-0d0b-4393-9ff0-07ef217c7d3d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Tenth+Avenue+Freeze-Out</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="40">
+    <name>This is Your Sword</name>
+    <duration>169</duration>
+            <playcount>18259</playcount>
+                <listeners>7645</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/This+is+Your+Sword</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="41">
+    <name>Night</name>
+    <duration>181</duration>
+            <playcount>16254</playcount>
+                <listeners>7522</listeners>
+    
+            <mbid>4b0f1d40-b544-4357-acf9-b8e815ebc7d0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="42">
+    <name>Hunter of Invisible Game</name>
+    <duration>279</duration>
+            <playcount>17837</playcount>
+                <listeners>7443</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Hunter+of+Invisible+Game</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94944225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94944225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94944225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94944225.png</image>
+        </track>                    <track rank="43">
+    <name>Working on the Highway</name>
+    <duration>192</duration>
+            <playcount>16892</playcount>
+                <listeners>7308</listeners>
+    
+            <mbid>bf39f6ca-2bea-4c64-af05-e907dfa6c4e2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Working+on+the+Highway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="44">
+    <name>She's the One</name>
+    <duration>268</duration>
+            <playcount>15939</playcount>
+                <listeners>7288</listeners>
+    
+            <mbid>2d0ef233-c4f2-408a-8789-d159d600cba3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/She%27s+the+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="45">
+    <name>Darlington County</name>
+    <duration>284</duration>
+            <playcount>15984</playcount>
+                <listeners>7241</listeners>
+    
+            <mbid>0e71119b-65bb-4e34-a8b0-8870d4cc213a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Darlington+County</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="46">
+    <name>Darkness on the Edge of Town</name>
+    <duration>268</duration>
+            <playcount>16263</playcount>
+                <listeners>7052</listeners>
+    
+            <mbid>181db54e-9f5d-4ecc-9c3c-1501badd48e2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Darkness+on+the+Edge+of+Town</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="47">
+    <name>State Trooper</name>
+    <duration>191</duration>
+            <playcount>14392</playcount>
+                <listeners>6709</listeners>
+    
+            <mbid>c44262f1-e54b-481d-9264-bce9bee062c8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/State+Trooper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="48">
+    <name>Meeting Across the River</name>
+    <duration>198</duration>
+            <playcount>12745</playcount>
+                <listeners>6442</listeners>
+    
+            <mbid>0aabf235-5e0f-4518-be89-8c76f6852eca</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Meeting+Across+the+River</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="49">
+    <name>Spirit in the Night</name>
+    <duration>298</duration>
+            <playcount>14431</playcount>
+                <listeners>6409</listeners>
+    
+            <mbid>127f5477-caeb-462b-9689-57da3c9e6972</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Spirit+in+the+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="50">
+    <name>The Promised Land</name>
+    <duration>268</duration>
+            <playcount>15024</playcount>
+                <listeners>6382</listeners>
+    
+            <mbid>1299143b-c08e-4717-b912-eb4deaa6c650</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Promised+Land</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="51">
+    <name>Johnny 99</name>
+    <duration>218</duration>
+            <playcount>12506</playcount>
+                <listeners>5910</listeners>
+    
+            <mbid>eae22cd3-750a-4e01-82e4-6df58b3d5070</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Johnny+99</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="52">
+    <name>Wrecking Ball</name>
+    <duration>349</duration>
+            <playcount>15073</playcount>
+                <listeners>5803</listeners>
+    
+            <mbid>15e48d0e-343f-43c5-90d9-0564fe62c6d8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Wrecking+Ball</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="53">
+    <name>Mansion on the Hill</name>
+    <duration>245</duration>
+            <playcount>11775</playcount>
+                <listeners>5781</listeners>
+    
+            <mbid>fef68283-5157-4c74-a8dc-76a444eb679d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Mansion+on+the+Hill</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="54">
+    <name>Shackled and Drawn</name>
+    <duration>223</duration>
+            <playcount>12991</playcount>
+                <listeners>5675</listeners>
+    
+            <mbid>31fccf90-a89d-4b4f-8b86-aa750ee44283</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Shackled+and+Drawn</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="55">
+    <name>Highway Patrolman</name>
+    <duration>336</duration>
+            <playcount>11561</playcount>
+                <listeners>5490</listeners>
+    
+            <mbid>7af44bde-95e1-4c2b-ba7a-296fddd8b8d8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Highway+Patrolman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="56">
+    <name>Death to My Hometown</name>
+    <duration>205</duration>
+            <playcount>13358</playcount>
+                <listeners>5459</listeners>
+    
+            <mbid>23966cf2-4e5f-4130-be99-3f63696b33e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Death+to+My+Hometown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="57">
+    <name>Better Days</name>
+    <duration>224</duration>
+            <playcount>12557</playcount>
+                <listeners>5283</listeners>
+    
+            <mbid>7680a827-5408-487e-bad0-8b92f728a6c8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Better+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="58">
+    <name>4th of July, Asbury Park (Sandy)</name>
+    <duration>335</duration>
+            <playcount>10344</playcount>
+                <listeners>5226</listeners>
+    
+            <mbid>2d998582-0b88-44e3-98fe-c4b8f06ba09e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/4th+of+July,+Asbury+Park+(Sandy)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="59">
+    <name>Waitin' on a Sunny Day</name>
+    <duration>256</duration>
+            <playcount>14361</playcount>
+                <listeners>5198</listeners>
+    
+            <mbid>4ca864fc-1818-4775-9328-52c093ecc920</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Waitin%27+on+a+Sunny+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="60">
+    <name>For You</name>
+    <duration>280</duration>
+            <playcount>10773</playcount>
+                <listeners>5133</listeners>
+    
+            <mbid>1454eaef-fa52-48e0-9728-4e7fb6be8352</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/For+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="61">
+    <name>Tunnel of Love</name>
+    <duration>309</duration>
+            <playcount>11084</playcount>
+                <listeners>5095</listeners>
+    
+            <mbid>a73e54e2-7d2c-49f6-91cb-8f148ca056ed</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Tunnel+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="62">
+    <name>Lonesome Day</name>
+    <duration>245</duration>
+            <playcount>11277</playcount>
+                <listeners>4868</listeners>
+    
+            <mbid>7797129f-96b9-4935-8a2e-558b46c00d1a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Lonesome+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="63">
+    <name>Growin' Up</name>
+    <duration>185</duration>
+            <playcount>11443</playcount>
+                <listeners>4767</listeners>
+    
+            <mbid>109c22b2-0d97-419f-bee4-edb7d6f8dbff</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Growin%27+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201711.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201711.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201711.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201711.png</image>
+        </track>                    <track rank="64">
+    <name>Open All Night</name>
+    <duration>173</duration>
+            <playcount>9955</playcount>
+                <listeners>4761</listeners>
+    
+            <mbid>6c8fb1db-ac21-4363-846e-c2c2dcb3db10</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Open+All+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="65">
+    <name>Used Cars</name>
+    <duration>185</duration>
+            <playcount>9431</playcount>
+                <listeners>4711</listeners>
+    
+            <mbid>bce60ecb-53b4-49e3-9661-183c76c4b563</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Used+Cars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="66">
+    <name>Reason to Believe</name>
+    <duration>247</duration>
+            <playcount>9663</playcount>
+                <listeners>4545</listeners>
+    
+            <mbid>c7e7f3f2-1edf-424a-a6a2-8d426001f24b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Reason+to+Believe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="67">
+    <name>Easy Money</name>
+    <duration>215</duration>
+            <playcount>8783</playcount>
+                <listeners>4420</listeners>
+    
+            <mbid>31935b43-7cc7-4032-b47e-2f2f87b71237</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Easy+Money</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="68">
+    <name>My Father's House</name>
+    <duration>302</duration>
+            <playcount>8438</playcount>
+                <listeners>4240</listeners>
+    
+            <mbid>9be6df53-1e1f-4d31-be2d-1f526cba533b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/My+Father%27s+House</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201803.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201803.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201803.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201803.png</image>
+        </track>                    <track rank="69">
+    <name>Out in the Street</name>
+    <duration>257</duration>
+            <playcount>9780</playcount>
+                <listeners>4203</listeners>
+    
+            <mbid>6db451f3-95e0-44d8-9c46-17f0944d8e00</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Out+in+the+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="70">
+    <name>Independence Day</name>
+    <duration>283</duration>
+            <playcount>8003</playcount>
+                <listeners>4194</listeners>
+    
+            <mbid>33b7cd4d-eb44-4ada-ae4e-7f780b0a8eac</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Independence+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="71">
+    <name>American Beauty</name>
+    <duration>246</duration>
+            <playcount>8804</playcount>
+                <listeners>4152</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/American+Beauty</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98390221.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98390221.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98390221.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98390221.png</image>
+        </track>                    <track rank="72">
+    <name>The Ties That Bind</name>
+    <duration>210</duration>
+            <playcount>8715</playcount>
+                <listeners>4146</listeners>
+    
+            <mbid>47b1592c-f0c6-4e1f-aa14-0e252643ff0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Ties+That+Bind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="73">
+    <name>Land of Hope and Dreams</name>
+    <duration>416</duration>
+            <playcount>9789</playcount>
+                <listeners>4118</listeners>
+    
+            <mbid>ac27534a-179b-407f-9393-88b8cf970a30</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Land+of+Hope+and+Dreams</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="74">
+    <name>Racing in the Street</name>
+    <duration>413</duration>
+            <playcount>10880</playcount>
+                <listeners>4105</listeners>
+    
+            <mbid>4cc34edd-4da0-42d3-b23b-8d2a19519978</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Racing+in+the+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="75">
+    <name>Because the Night</name>
+    <duration>205</duration>
+            <playcount>9869</playcount>
+                <listeners>4045</listeners>
+    
+            <mbid>dc52c7fe-1306-49e4-becd-f4f52d3d3725</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Because+the+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="76">
+    <name>Jack Of All Trades</name>
+    <duration>358</duration>
+            <playcount>8279</playcount>
+                <listeners>4042</listeners>
+    
+            <mbid>3b4055be-bb35-4728-a2f5-93835d7e2e85</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Jack+Of+All+Trades</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="77">
+    <name>Adam Raised a Cain</name>
+    <duration>272</duration>
+            <playcount>9876</playcount>
+                <listeners>3982</listeners>
+    
+            <mbid>ab37cf53-00a6-4e74-b10c-56eeb13fae55</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Adam+Raised+a+Cain</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="78">
+    <name>Working on a Dream</name>
+    <duration>209</duration>
+            <playcount>8526</playcount>
+                <listeners>3968</listeners>
+    
+            <mbid>15dc8966-eafb-41c1-a293-f3fa77e993fb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Working+on+a+Dream</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track>                    <track rank="79">
+    <name>Girls in Their Summer Clothes</name>
+    <duration>259</duration>
+            <playcount>8851</playcount>
+                <listeners>3936</listeners>
+    
+            <mbid>6383e99e-f93c-4d70-a17e-3d4b66b40866</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Girls+in+Their+Summer+Clothes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="80">
+    <name>Sherry Darling</name>
+    <duration>241</duration>
+            <playcount>8706</playcount>
+                <listeners>3933</listeners>
+    
+            <mbid>fd40a72d-8b30-47d3-9f47-ac7482666482</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Sherry+Darling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="81">
+    <name>Candy's Room</name>
+    <duration>165</duration>
+            <playcount>9280</playcount>
+                <listeners>3909</listeners>
+    
+            <mbid>01a2e294-20ef-43a2-9699-479a370b6488</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Candy%27s+Room</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="82">
+    <name>Tougher Than The Rest</name>
+    <duration>274</duration>
+            <playcount>11920</playcount>
+                <listeners>3867</listeners>
+    
+            <mbid>2925873b-90d5-4104-b494-342d76ccc7e6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Tougher+Than+The+Rest</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="83">
+    <name>Born in the USA</name>
+    <duration>279</duration>
+            <playcount>9723</playcount>
+                <listeners>3848</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Born+in+the+USA</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/6646219.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/6646219.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/6646219.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/6646219.jpg</image>
+        </track>                    <track rank="84">
+    <name>Prove It All Night</name>
+    <duration>236</duration>
+            <playcount>9660</playcount>
+                <listeners>3841</listeners>
+    
+            <mbid>d162da72-61be-4311-9e9c-fb19c7f10cc7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Prove+It+All+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="85">
+    <name>Rocky Ground</name>
+    <duration>280</duration>
+            <playcount>7212</playcount>
+                <listeners>3726</listeners>
+    
+            <mbid>09cadb3f-2457-49ad-8fa6-24b37b5f2753</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Rocky+Ground</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="86">
+    <name>Two Hearts</name>
+    <duration>161</duration>
+            <playcount>7926</playcount>
+                <listeners>3721</listeners>
+    
+            <mbid>4fb5ec61-9a50-4411-9e46-59a7263f7d38</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Two+Hearts</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="87">
+    <name>Lucky Town</name>
+    <duration>205</duration>
+            <playcount>8507</playcount>
+                <listeners>3716</listeners>
+    
+            <mbid>4a184e42-bc9b-44cf-a835-a3dd57de995d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Lucky+Town</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="88">
+    <name>American Land</name>
+    <duration>283</duration>
+            <playcount>7835</playcount>
+                <listeners>3623</listeners>
+    
+            <mbid>32db8b4a-d691-435b-a963-991febc90d74</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/American+Land</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="89">
+    <name>Mary's Place</name>
+    <duration>359</duration>
+            <playcount>7341</playcount>
+                <listeners>3517</listeners>
+    
+            <mbid>18c234ef-c387-4e36-9027-1c9406a009da</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Mary%27s+Place</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="90">
+    <name>This Depression</name>
+    <duration>247</duration>
+            <playcount>6955</playcount>
+                <listeners>3512</listeners>
+    
+            <mbid>29629fae-1919-4a9b-8ff2-8eb4650e0151</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/This+Depression</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="91">
+    <name>Murder Incorporated</name>
+    <duration>237</duration>
+            <playcount>7801</playcount>
+                <listeners>3508</listeners>
+    
+            <mbid>dcb4e070-6b68-49b1-9ee7-865b21bbe8f1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Murder+Incorporated</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="92">
+    <name>Blood Brothers</name>
+    <duration>272</duration>
+            <playcount>7530</playcount>
+                <listeners>3452</listeners>
+    
+            <mbid>1c0f138b-745f-49d6-bb8e-6bc2b5c099de</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Blood+Brothers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="93">
+    <name>This Hard Land</name>
+    <duration>290</duration>
+            <playcount>7133</playcount>
+                <listeners>3415</listeners>
+    
+            <mbid>55a52645-1ce0-4b0f-947c-6f849dda4776</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/This+Hard+Land</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91266097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91266097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91266097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91266097.png</image>
+        </track>                    <track rank="94">
+    <name>Cadillac Ranch</name>
+    <duration>182</duration>
+            <playcount>7149</playcount>
+                <listeners>3397</listeners>
+    
+            <mbid>a129b89d-aa65-44fc-b1fa-9fc77fac71d7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Cadillac+Ranch</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="95">
+    <name>Something in the Night</name>
+    <duration>311</duration>
+            <playcount>7602</playcount>
+                <listeners>3393</listeners>
+    
+            <mbid>dbd46307-185e-4488-9081-37af7df8cab7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Something+in+the+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="96">
+    <name>Jackson Cage</name>
+    <duration>183</duration>
+            <playcount>7060</playcount>
+                <listeners>3390</listeners>
+    
+            <mbid>1f5c2e45-cbf6-4b40-8b8d-49c6f69f74e5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Jackson+Cage</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="97">
+    <name>It's Hard to Be a Saint in the City</name>
+    <duration>191</duration>
+            <playcount>7161</playcount>
+                <listeners>3301</listeners>
+    
+            <mbid>a704d8cd-b6d7-4918-b865-82f623f4a4ce</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/It%27s+Hard+to+Be+a+Saint+in+the+City</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201711.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201711.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201711.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201711.png</image>
+        </track>                    <track rank="98">
+    <name>Streets of Fire</name>
+    <duration>243</duration>
+            <playcount>7319</playcount>
+                <listeners>3232</listeners>
+    
+            <mbid>a1e228b0-a92e-42f5-be14-2e6211df65f9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Streets+of+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="99">
+    <name>I'm on Fire</name>
+    <duration>161</duration>
+            <playcount>11407</playcount>
+                <listeners>3203</listeners>
+    
+            <mbid>11902cb5-a5de-4661-be2c-c03333a5cea0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I%27m+on+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201831.png</image>
+        </track>                    <track rank="100">
+    <name>You've Got It</name>
+    <duration>226</duration>
+            <playcount>5919</playcount>
+                <listeners>3197</listeners>
+    
+            <mbid>1b3fd380-52a9-41bf-b9a9-9d032fb673de</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/You%27ve+Got+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="101">
+    <name>Mary Mary</name>
+    <duration>168</duration>
+            <playcount>6931</playcount>
+                <listeners>3175</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Mary+Mary</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98390221.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98390221.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98390221.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98390221.png</image>
+        </track>                    <track rank="102">
+    <name>Point Blank</name>
+    <duration>362</duration>
+            <playcount>6330</playcount>
+                <listeners>3158</listeners>
+    
+            <mbid>3fbc5a86-db75-4ee7-aa24-daaa4659e8ae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Point+Blank</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="103">
+    <name>The E Street Shuffle</name>
+    <duration>777</duration>
+            <playcount>6676</playcount>
+                <listeners>3102</listeners>
+    
+            <mbid>21e16c80-5adf-401e-8822-3bca9015204f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+E+Street+Shuffle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97792861.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97792861.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97792861.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97792861.png</image>
+        </track>                    <track rank="104">
+    <name>Factory</name>
+    <duration>137</duration>
+            <playcount>6869</playcount>
+                <listeners>3097</listeners>
+    
+            <mbid>3d7ef2fd-5885-4fb7-a068-09f4eba79f19</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Factory</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362639.png</image>
+        </track>                    <track rank="105">
+    <name>We Are Alive</name>
+    <duration>334</duration>
+            <playcount>6044</playcount>
+                <listeners>3084</listeners>
+    
+            <mbid>1669db8c-ad85-460e-91d1-a41ab9d097ca</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/We+Are+Alive</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="106">
+    <name>Hurry Up Sundown</name>
+    <duration>197</duration>
+            <playcount>6778</playcount>
+                <listeners>2998</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Hurry+Up+Sundown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98390221.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98390221.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98390221.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98390221.png</image>
+        </track>                    <track rank="107">
+    <name>Drive All Night</name>
+    <duration>504</duration>
+            <playcount>6405</playcount>
+                <listeners>2996</listeners>
+    
+            <mbid>4d6e49ab-12b5-4a52-8e0d-fbedda68f250</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Drive+All+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="108">
+    <name>Fire</name>
+    <duration>248</duration>
+            <playcount>7770</playcount>
+                <listeners>2955</listeners>
+    
+            <mbid>04132621-8b94-4520-9b30-f8953f752770</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="109">
+    <name>Lost in the Flood</name>
+    <duration>313</duration>
+            <playcount>6373</playcount>
+                <listeners>2938</listeners>
+    
+            <mbid>666148da-9889-470c-a2cd-efc9fb0c7199</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Lost+in+the+Flood</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201711.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201711.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201711.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201711.png</image>
+        </track>                    <track rank="110">
+    <name>Crush on You</name>
+    <duration>189</duration>
+            <playcount>5647</playcount>
+                <listeners>2927</listeners>
+    
+            <mbid>d88d30bc-a5fc-4bd4-890c-60d6fb8d0b1f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Crush+on+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="111">
+    <name>Mary Queen of Arkansas</name>
+    <duration>320</duration>
+            <playcount>5179</playcount>
+                <listeners>2924</listeners>
+    
+            <mbid>13bdde38-e8cc-41cf-a0bb-6c195bb8665f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Mary+Queen+of+Arkansas</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201711.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201711.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201711.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201711.png</image>
+        </track>                    <track rank="112">
+    <name>I Wanna Marry You</name>
+    <duration>205</duration>
+            <playcount>5487</playcount>
+                <listeners>2924</listeners>
+    
+            <mbid>2e11bbb7-a9ae-4444-88dc-c8b15a7c864f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I+Wanna+Marry+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="113">
+    <name>Stolen Car</name>
+    <duration>232</duration>
+            <playcount>6229</playcount>
+                <listeners>2922</listeners>
+    
+            <mbid>3a11bd43-0bee-485e-a53c-b5665e8ccccf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Stolen+Car</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="114">
+    <name>Badlands - Remastered</name>
+    <duration>244</duration>
+            <playcount>5338</playcount>
+                <listeners>2892</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Badlands+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                </track>                    <track rank="115">
+    <name>My City of Ruins</name>
+    <duration>298</duration>
+            <playcount>6391</playcount>
+                <listeners>2829</listeners>
+    
+            <mbid>e75f5591-abad-42b9-aff0-9d05a518b761</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/My+City+of+Ruins</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="116">
+    <name>You Can Look (but You Better Not Touch)</name>
+    <duration>155</duration>
+            <playcount>5551</playcount>
+                <listeners>2827</listeners>
+    
+            <mbid>8eaa0668-37fb-4150-9107-91779d1b1fde</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/You+Can+Look+(but+You+Better+Not+Touch)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="117">
+    <name>Sad Eyes</name>
+    <duration>227</duration>
+            <playcount>8910</playcount>
+                <listeners>2820</listeners>
+    
+            <mbid>296eaa8b-bbdf-4551-a974-234570e7248b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Sad+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/3543859.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/3543859.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/3543859.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/3543859.jpg</image>
+        </track>                    <track rank="118">
+    <name>Hey Blue Eyes</name>
+    <duration>273</duration>
+            <playcount>6767</playcount>
+                <listeners>2817</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Hey+Blue+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98390221.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98390221.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98390221.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98390221.png</image>
+        </track>                    <track rank="119">
+    <name>Incident on 57th Street</name>
+    <duration>464</duration>
+            <playcount>6364</playcount>
+                <listeners>2806</listeners>
+    
+            <mbid>bcad875f-5933-4a8e-90dc-045cf406fb7e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Incident+on+57th+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97792861.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97792861.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97792861.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97792861.png</image>
+        </track>                    <track rank="120">
+    <name>Living Proof</name>
+    <duration>285</duration>
+            <playcount>5560</playcount>
+                <listeners>2744</listeners>
+    
+            <mbid>5e3bd1ae-b22c-4c0d-95ae-e5cf38284b05</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Living+Proof</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100167421.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100167421.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100167421.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100167421.png</image>
+        </track>                    <track rank="121">
+    <name>Kitty's Back</name>
+    <duration>425</duration>
+            <playcount>5923</playcount>
+                <listeners>2724</listeners>
+    
+            <mbid>577bb920-dd6f-447f-87d2-6c412a30efd1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Kitty%27s+Back</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97792861.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97792861.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97792861.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97792861.png</image>
+        </track>                    <track rank="122">
+    <name>Devils &amp; Dust</name>
+    <duration>299</duration>
+            <playcount>6229</playcount>
+                <listeners>2711</listeners>
+    
+            <mbid>8db70d87-66e0-44b4-a3b9-35fb5e60e51f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Devils+&amp;+Dust</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/20703169.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/20703169.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/20703169.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/20703169.jpg</image>
+        </track>                    <track rank="123">
+    <name>Long Walk Home</name>
+    <duration>274</duration>
+            <playcount>6374</playcount>
+                <listeners>2705</listeners>
+    
+            <mbid>9fd780d9-b7a3-4a5d-9395-5e5c3cf66846</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Long+Walk+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="124">
+    <name>Fade Away</name>
+    <duration>280</duration>
+            <playcount>4857</playcount>
+                <listeners>2611</listeners>
+    
+            <mbid>fea4cbff-08c2-4457-9d17-ae822ae8711d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Fade+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="125">
+    <name>I'm a Rocker</name>
+    <duration>214</duration>
+            <playcount>4683</playcount>
+                <listeners>2588</listeners>
+    
+            <mbid>e8cbc5dd-5808-4719-9b3a-b9b25b286682</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I%27m+a+Rocker</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="126">
+    <name>Magic</name>
+    <duration>165</duration>
+            <playcount>5565</playcount>
+                <listeners>2565</listeners>
+    
+            <mbid>e5db695c-15c2-4738-8ed2-01de4ab56f92</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Magic</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="127">
+    <name>Ramrod</name>
+    <duration>243</duration>
+            <playcount>5129</playcount>
+                <listeners>2558</listeners>
+    
+            <mbid>c6c9f899-aed8-4f59-bb7b-43cafbfe9e73</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Ramrod</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="128">
+    <name>New York City Serenade</name>
+    <duration>595</duration>
+            <playcount>5706</playcount>
+                <listeners>2520</listeners>
+    
+            <mbid>09a69c99-3185-439f-8c59-3f6d0ed270fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/New+York+City+Serenade</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97792861.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97792861.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97792861.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97792861.png</image>
+        </track>                    <track rank="129">
+    <name>Does This Bus Stop at 82nd Street?</name>
+    <duration>125</duration>
+            <playcount>4971</playcount>
+                <listeners>2512</listeners>
+    
+            <mbid>3a660478-af46-4b24-a5d6-6f30b317c85a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Does+This+Bus+Stop+at+82nd+Street%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201711.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201711.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201711.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201711.png</image>
+        </track>                    <track rank="130">
+    <name>Youngstown</name>
+    <duration>236</duration>
+            <playcount>6340</playcount>
+                <listeners>2458</listeners>
+    
+            <mbid>9fc9152f-5816-49d4-92ea-3367896c1161</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Youngstown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201917.png</image>
+        </track>                    <track rank="131">
+    <name>Old Dan Tucker</name>
+    <duration>30</duration>
+            <playcount>5043</playcount>
+                <listeners>2444</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Old+Dan+Tucker</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                </track>                    <track rank="132">
+    <name>If I Should Fall Behind</name>
+    <duration>307</duration>
+            <playcount>6138</playcount>
+                <listeners>2437</listeners>
+    
+            <mbid>b6a35654-c804-4497-9828-582ceb2bcd75</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/If+I+Should+Fall+Behind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/9492677.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/9492677.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/9492677.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/9492677.jpg</image>
+        </track>                    <track rank="133">
+    <name>O Mary Don't You Weep</name>
+    <duration>364</duration>
+            <playcount>4812</playcount>
+                <listeners>2395</listeners>
+    
+            <mbid>3fddfe59-dd3b-4b6b-8023-a2f5fbfa5099</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/O+Mary+Don%27t+You+Weep</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96610475.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96610475.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96610475.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96610475.jpg</image>
+        </track>                    <track rank="134">
+    <name>You're Missing</name>
+    <duration>306</duration>
+            <playcount>5815</playcount>
+                <listeners>2384</listeners>
+    
+            <mbid>595b0ca8-866f-459f-bf29-deb82d289148</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/You%27re+Missing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="135">
+    <name>Nothing Man</name>
+    <duration>259</duration>
+            <playcount>5386</playcount>
+                <listeners>2382</listeners>
+    
+            <mbid>ac2f8dea-5726-4ffc-a248-87f42fef2951</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Nothing+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="136">
+    <name>The Price You Pay</name>
+    <duration>325</duration>
+            <playcount>4344</playcount>
+                <listeners>2354</listeners>
+    
+            <mbid>d7776044-8682-4700-85f8-91958bcf8343</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Price+You+Pay</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="137">
+    <name>Livin' In The Future</name>
+    <duration>235</duration>
+            <playcount>4800</playcount>
+                <listeners>2328</listeners>
+    
+            <mbid>b28510a2-30c0-4de4-97fb-1e36650f6679</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Livin%27+In+The+Future</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="138">
+    <name>One Step Up</name>
+    <duration>260</duration>
+            <playcount>6088</playcount>
+                <listeners>2294</listeners>
+    
+            <mbid>cfdfa706-04cc-45dc-b997-25a5e21cbd4b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/One+Step+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="139">
+    <name>Into the Fire</name>
+    <duration>300</duration>
+            <playcount>5000</playcount>
+                <listeners>2288</listeners>
+    
+            <mbid>928f94db-aec9-4fe4-9bbe-8ef5a7b4b1d9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Into+the+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="140">
+    <name>Empty Sky</name>
+    <duration>211</duration>
+            <playcount>4885</playcount>
+                <listeners>2274</listeners>
+    
+            <mbid>917fd1d3-8ada-4741-bd6b-4b956e227387</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Empty+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="141">
+    <name>Mrs. McGrath</name>
+    <duration>30</duration>
+            <playcount>4728</playcount>
+                <listeners>2259</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Mrs.+McGrath</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                </track>                    <track rank="142">
+    <name>The Promised Land - Remastered</name>
+    <duration>268</duration>
+            <playcount>4198</playcount>
+                <listeners>2256</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Promised+Land+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                </track>                    <track rank="143">
+    <name>The Angel</name>
+    <duration>204</duration>
+            <playcount>4131</playcount>
+                <listeners>2246</listeners>
+    
+            <mbid>f8102160-84a5-4ecd-b1ad-f3c7e5ad6877</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Angel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201711.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201711.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201711.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201711.png</image>
+        </track>                    <track rank="144">
+    <name>Wreck on the Highway</name>
+    <duration>232</duration>
+            <playcount>4019</playcount>
+                <listeners>2245</listeners>
+    
+            <mbid>75c79b14-ea07-4ac6-bbae-8f722264e760</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Wreck+on+the+Highway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201777.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201777.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201777.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201777.png</image>
+        </track>                    <track rank="145">
+    <name>Tenth Avenue Freeze Out</name>
+    <duration>191</duration>
+            <playcount>5332</playcount>
+                <listeners>2210</listeners>
+    
+            <mbid>40e72bd3-d31d-4c72-aa30-2617e303e905</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Tenth+Avenue+Freeze+Out</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201747.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201747.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201747.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201747.png</image>
+        </track>                    <track rank="146">
+    <name>Pay Me My Money Down</name>
+    <duration>89</duration>
+            <playcount>4696</playcount>
+                <listeners>2195</listeners>
+    
+            <mbid>86ca5266-3c6c-44ae-98c2-d33024973b2e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Pay+Me+My+Money+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51311331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51311331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51311331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51311331.png</image>
+        </track>                    <track rank="147">
+    <name>Further On (Up the Road)</name>
+    <duration>229</duration>
+            <playcount>5345</playcount>
+                <listeners>2164</listeners>
+    
+            <mbid>5ae7b31a-a5ae-404e-900b-5a3d1f5c5a76</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Further+On+(Up+the+Road)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="148">
+    <name>Wild Billy's Circus Story</name>
+    <duration>281</duration>
+            <playcount>4366</playcount>
+                <listeners>2163</listeners>
+    
+            <mbid>9f423f3c-e741-428a-9389-aa977ed0fc08</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Wild+Billy%27s+Circus+Story</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201741.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201741.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201741.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201741.png</image>
+        </track>                    <track rank="149">
+    <name>The Promise</name>
+    <duration>287</duration>
+            <playcount>5157</playcount>
+                <listeners>2156</listeners>
+    
+            <mbid>678fff5a-d1c5-46d1-a5b0-b95be075d53b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Promise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="150">
+    <name>Countin' on a Miracle</name>
+    <duration>279</duration>
+            <playcount>4295</playcount>
+                <listeners>2150</listeners>
+    
+            <mbid>36c26838-73dc-4116-aa15-c54bb4ae025f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Countin%27+on+a+Miracle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="151">
+    <name>I'll Work For Your Love</name>
+    <duration>214</duration>
+            <playcount>4430</playcount>
+                <listeners>2121</listeners>
+    
+            <mbid>de7fd59b-e11f-4b14-826b-d5d4b71f664c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I%27ll+Work+For+Your+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="152">
+    <name>All That Heaven Will Allow</name>
+    <duration>157</duration>
+            <playcount>4301</playcount>
+                <listeners>2076</listeners>
+    
+            <mbid>6d3e2918-cfe5-45f3-8566-1013c8b00b63</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/All+That+Heaven+Will+Allow</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="153">
+    <name>Gypsy Biker</name>
+    <duration>271</duration>
+            <playcount>4032</playcount>
+                <listeners>2071</listeners>
+    
+            <mbid>05336a0c-246d-42df-af60-f51a8a975e8c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Gypsy+Biker</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="154">
+    <name>Outlaw Pete</name>
+    <duration>480</duration>
+            <playcount>4315</playcount>
+                <listeners>2064</listeners>
+    
+            <mbid>1a4054e4-5f40-430a-9918-f541945a7096</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Outlaw+Pete</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track>                    <track rank="155">
+    <name>Last to Die</name>
+    <duration>256</duration>
+            <playcount>4030</playcount>
+                <listeners>2060</listeners>
+    
+            <mbid>679c7730-d638-4bdd-8468-c45fa9063e7d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Last+to+Die</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="156">
+    <name>Paradise</name>
+    <duration>333</duration>
+            <playcount>9577</playcount>
+                <listeners>2050</listeners>
+    
+            <mbid>d1a26d57-91bb-49ce-83d3-2d10e2bf469d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Paradise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="157">
+    <name>Ain't Good Enough for You</name>
+    <duration>242</duration>
+            <playcount>5112</playcount>
+                <listeners>2040</listeners>
+    
+            <mbid>6eac232f-c5b0-40a1-9fee-2b76cfd85eab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Ain%27t+Good+Enough+for+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="158">
+    <name>Ain't Got You</name>
+    <duration>128</duration>
+            <playcount>4090</playcount>
+                <listeners>2037</listeners>
+    
+            <mbid>5407dd50-f35b-432e-9648-9300e9e21b13</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Ain%27t+Got+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="159">
+    <name>Worlds Apart</name>
+    <duration>361</duration>
+            <playcount>4462</playcount>
+                <listeners>2011</listeners>
+    
+            <mbid>74013309-f49c-4010-b2a4-8dcb5eded8b0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Worlds+Apart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="160">
+    <name>Your Own Worst Enemy</name>
+    <duration>198</duration>
+            <playcount>3844</playcount>
+                <listeners>2010</listeners>
+    
+            <mbid>8aaf9888-4a55-43dd-975e-267b517532ba</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Your+Own+Worst+Enemy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="161">
+    <name>You'll Be Comin' Down</name>
+    <duration>225</duration>
+            <playcount>3965</playcount>
+                <listeners>1920</listeners>
+    
+            <mbid>c795755e-5872-4fe1-bc1e-18ca5646028a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/You%27ll+Be+Comin%27+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364073.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364073.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364073.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364073.png</image>
+        </track>                    <track rank="162">
+    <name>Pink Cadillac</name>
+    <duration>213</duration>
+            <playcount>4184</playcount>
+                <listeners>1911</listeners>
+    
+            <mbid>375faec5-4c44-40da-8093-2d525105700c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Pink+Cadillac</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89573543.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89573543.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89573543.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89573543.jpg</image>
+        </track>                    <track rank="163">
+    <name>Walk Like A Man</name>
+    <duration>215</duration>
+            <playcount>4137</playcount>
+                <listeners>1902</listeners>
+    
+            <mbid>17ec614e-f950-4083-8cd4-ca3ef695fd5c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Walk+Like+A+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="164">
+    <name>Two Faces</name>
+    <duration>180</duration>
+            <playcount>4103</playcount>
+                <listeners>1869</listeners>
+    
+            <mbid>5a812e4d-3abc-458a-bb86-195a949afb11</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Two+Faces</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="165">
+    <name>Rendezvous</name>
+    <duration>157</duration>
+            <playcount>3624</playcount>
+                <listeners>1863</listeners>
+    
+            <mbid>7df34dd5-8386-4516-8cb6-2cfd14808cfa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Rendezvous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="166">
+    <name>My Lucky Day</name>
+    <duration>241</duration>
+            <playcount>3454</playcount>
+                <listeners>1835</listeners>
+    
+            <mbid>2800e9ca-0c63-4670-ad4c-5a1e50085d5b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/My+Lucky+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track>                    <track rank="167">
+    <name>The Fuse</name>
+    <duration>335</duration>
+            <playcount>3702</playcount>
+                <listeners>1824</listeners>
+    
+            <mbid>5edf35b3-3ff2-4fab-b048-da1cf307e41a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Fuse</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="168">
+    <name>Spare Parts</name>
+    <duration>217</duration>
+            <playcount>3546</playcount>
+                <listeners>1804</listeners>
+    
+            <mbid>68c06028-cd56-4d3c-9e48-4c37e31325f5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Spare+Parts</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="169">
+    <name>Straight Time</name>
+    <duration>204</duration>
+            <playcount>3697</playcount>
+                <listeners>1802</listeners>
+    
+            <mbid>7afdbb65-4cce-4fc9-bd01-da29c73a9d2e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Straight+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201917.png</image>
+        </track>                    <track rank="170">
+    <name>Save My Love</name>
+    <duration>156</duration>
+            <playcount>3718</playcount>
+                <listeners>1798</listeners>
+    
+            <mbid>4ac900b9-547b-462e-8eec-56e9661f32ee</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Save+My+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="171">
+    <name>Outside Looking In</name>
+    <duration>136</duration>
+            <playcount>3152</playcount>
+                <listeners>1784</listeners>
+    
+            <mbid>eb35f4b2-d38c-4f3a-8c55-553902da55ca</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Outside+Looking+In</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="172">
+    <name>Erie Canal</name>
+    <duration>243</duration>
+            <playcount>3395</playcount>
+                <listeners>1774</listeners>
+    
+            <mbid>0d420f05-17ae-4eb1-a2a0-375f1e3385f6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Erie+Canal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51311331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51311331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51311331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51311331.png</image>
+        </track>                    <track rank="173">
+    <name>We Shall Overcome</name>
+    <duration>292</duration>
+            <playcount>3119</playcount>
+                <listeners>1756</listeners>
+    
+            <mbid>508d747f-f765-4ec8-ac78-57651b839385</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/We+Shall+Overcome</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51311331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51311331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51311331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51311331.png</image>
+        </track>                    <track rank="174">
+    <name>Gotta Get That Feeling</name>
+    <duration>197</duration>
+            <playcount>2938</playcount>
+                <listeners>1735</listeners>
+    
+            <mbid>bb5e162d-2111-42a1-89e6-6f0caa1e001a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Gotta+Get+That+Feeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="175">
+    <name>When You're Alone</name>
+    <duration>200</duration>
+            <playcount>3627</playcount>
+                <listeners>1731</listeners>
+    
+            <mbid>4e8bac93-adf1-4d67-951d-dba3a163e994</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/When+You%27re+Alone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="176">
+    <name>Valentine's Day</name>
+    <duration>311</duration>
+            <playcount>3593</playcount>
+                <listeners>1708</listeners>
+    
+            <mbid>a171cf08-ff66-4bfd-96ae-8b13788f707e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Valentine%27s+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="177">
+    <name>Let's Be Friends (Skin to Skin)</name>
+    <duration>257</duration>
+            <playcount>3916</playcount>
+                <listeners>1692</listeners>
+    
+            <mbid>8763cd46-2af6-4f28-a271-cf37c309d428</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Let%27s+Be+Friends+(Skin+to+Skin)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363863.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363863.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363863.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363863.png</image>
+        </track>                    <track rank="178">
+    <name>Cautious Man</name>
+    <duration>235</duration>
+            <playcount>3324</playcount>
+                <listeners>1690</listeners>
+    
+            <mbid>6c4c7b80-70b3-40b2-ae30-7a2f644f35b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Cautious+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83362875.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83362875.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83362875.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83362875.png</image>
+        </track>                    <track rank="179">
+    <name>John Henry</name>
+    <duration>303</duration>
+            <playcount>2990</playcount>
+                <listeners>1672</listeners>
+    
+            <mbid>007218da-8845-428f-bb5f-a295f86c038e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/John+Henry</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51311331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51311331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51311331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51311331.png</image>
+        </track>                    <track rank="180">
+    <name>Someday (We'll Be Together)</name>
+    <duration>336</duration>
+            <playcount>2795</playcount>
+                <listeners>1663</listeners>
+    
+            <mbid>63572289-96c7-46c1-86a0-8b3f425ddcad</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Someday+(We%27ll+Be+Together)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="181">
+    <name>Highway 29</name>
+    <duration>219</duration>
+            <playcount>3523</playcount>
+                <listeners>1662</listeners>
+    
+            <mbid>0f7ca43f-888f-4e0f-8924-6e1688dd8745</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Highway+29</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201917.png</image>
+        </track>                    <track rank="182">
+    <name>Long Time Comin'</name>
+    <duration>252</duration>
+            <playcount>3601</playcount>
+                <listeners>1656</listeners>
+    
+            <mbid>bad277bc-8843-4f67-812e-fe68c2258eb4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Long+Time+Comin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363913.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363913.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363913.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363913.png</image>
+        </track>                    <track rank="183">
+    <name>Swallowed Up (In The Belly Of The Whale)</name>
+    <duration>333</duration>
+            <playcount>2871</playcount>
+                <listeners>1656</listeners>
+    
+            <mbid>0223f32a-38f3-4890-9a70-f4c69a561d30</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Swallowed+Up+(In+The+Belly+Of+The+Whale)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85204505.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85204505.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85204505.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85204505.png</image>
+        </track>                    <track rank="184">
+    <name>The Wrestler - Bonus Track</name>
+    <duration>230</duration>
+            <playcount>3934</playcount>
+                <listeners>1618</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Wrestler+-+Bonus+Track</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                </track>                    <track rank="185">
+    <name>All the Way Home</name>
+    <duration>214</duration>
+            <playcount>3204</playcount>
+                <listeners>1592</listeners>
+    
+            <mbid>e4f064d0-b004-4aea-adbd-f5c1d9e71ad8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/All+the+Way+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363913.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363913.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363913.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363913.png</image>
+        </track>                    <track rank="186">
+    <name>The Wrestler</name>
+    <duration>328</duration>
+            <playcount>4031</playcount>
+                <listeners>1579</listeners>
+    
+            <mbid>141f6ffb-53dd-475b-8ef3-cbd7f8b49be7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Wrestler</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track>                    <track rank="187">
+    <name>One Way Street</name>
+    <duration>259</duration>
+            <playcount>2586</playcount>
+                <listeners>1572</listeners>
+    
+            <mbid>1be88479-1f22-44ab-9a67-111e8220058f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/One+Way+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="188">
+    <name>Wrong Side of the Street</name>
+    <duration>214</duration>
+            <playcount>2566</playcount>
+                <listeners>1554</listeners>
+    
+            <mbid>69d318ec-b65a-4822-b005-fe46c40e40a2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Wrong+Side+of+the+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="189">
+    <name>My Oklahoma Home</name>
+    <duration>505</duration>
+            <playcount>2732</playcount>
+                <listeners>1552</listeners>
+    
+            <mbid>29f0775f-81e2-42f8-abf6-90d5d64c3ee7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/My+Oklahoma+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51311331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51311331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51311331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51311331.png</image>
+        </track>                    <track rank="190">
+    <name>Sinaloa Cowboys</name>
+    <duration>235</duration>
+            <playcount>2960</playcount>
+                <listeners>1537</listeners>
+    
+            <mbid>9a682d7a-4596-43d8-93ae-438b353c85e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Sinaloa+Cowboys</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85201917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85201917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85201917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85201917.png</image>
+        </track>                    <track rank="191">
+    <name>Queen of the Supermarket</name>
+    <duration>278</duration>
+            <playcount>2980</playcount>
+                <listeners>1521</listeners>
+    
+            <mbid>3606c441-f810-4565-98de-53f2b41d2d94</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Queen+of+the+Supermarket</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track>                    <track rank="192">
+    <name>I Wish I Were Blind</name>
+    <duration>284</duration>
+            <playcount>4375</playcount>
+                <listeners>1509</listeners>
+    
+            <mbid>7b70b786-903c-45a4-8c5c-e03b25900b23</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/I+Wish+I+Were+Blind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899735.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899735.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899735.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899735.png</image>
+        </track>                    <track rank="193">
+    <name>57 Channels (And Nothin' On)</name>
+    <duration>144</duration>
+            <playcount>2829</playcount>
+                <listeners>1499</listeners>
+    
+            <mbid>a646c1ea-5162-4e42-8cea-db0710fbdc12</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/57+Channels+(And+Nothin%27+On)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899735.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899735.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899735.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899735.png</image>
+        </track>                    <track rank="194">
+    <name>Eyes on the Prize</name>
+    <duration>314</duration>
+            <playcount>2883</playcount>
+                <listeners>1495</listeners>
+    
+            <mbid>2b1e58c0-e871-4fd7-b8f1-ee21e2f8b222</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Eyes+on+the+Prize</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51311331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51311331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51311331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51311331.png</image>
+        </track>                    <track rank="195">
+    <name>Tomorrow Never Knows</name>
+    <duration>133</duration>
+            <playcount>2686</playcount>
+                <listeners>1487</listeners>
+    
+            <mbid>2160673a-2b5c-4484-81b8-214649a9ce3a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Tomorrow+Never+Knows</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track>                    <track rank="196">
+    <name>The Brokenhearted</name>
+    <duration>319</duration>
+            <playcount>2732</playcount>
+                <listeners>1477</listeners>
+    
+            <mbid>7a54a5d5-8188-495a-8b51-84a056c45a97</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/The+Brokenhearted</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="197">
+    <name>Reno</name>
+    <duration>244</duration>
+            <playcount>2774</playcount>
+                <listeners>1472</listeners>
+    
+            <mbid>23dd1dab-f8c8-4a52-8c89-44937c3ed66d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Reno</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83363913.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83363913.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83363913.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83363913.png</image>
+        </track>                    <track rank="198">
+    <name>Man's Job</name>
+    <duration>274</duration>
+            <playcount>3303</playcount>
+                <listeners>1471</listeners>
+    
+            <mbid>4b2d45da-a608-4e54-9495-8fc33b82e9ff</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Man%27s+Job</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899735.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899735.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899735.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899735.png</image>
+        </track>                    <track rank="199">
+    <name>Talk to Me</name>
+    <duration>260</duration>
+            <playcount>2962</playcount>
+                <listeners>1466</listeners>
+    
+            <mbid>0f9a644f-4bf7-4865-9bdd-330e86bfe357</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/Talk+to+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87899771.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87899771.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87899771.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87899771.png</image>
+        </track>                    <track rank="200">
+    <name>What Love Can Do</name>
+    <duration>176</duration>
+            <playcount>2568</playcount>
+                <listeners>1463</listeners>
+    
+            <mbid>1469dcfa-2d31-449b-841c-cdd36fb49c13</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bruce+Springsteen/_/What+Love+Can+Do</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bruce Springsteen</name>
+                <mbid>70248960-cb53-4ea4-943a-edb18f7d336f</mbid>
+     
+        <url>http://www.last.fm/music/Bruce+Springsteen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83364105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83364105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83364105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83364105.png</image>
+        </track></toptracks></lfm>

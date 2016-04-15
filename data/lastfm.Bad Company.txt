@@ -1,0 +1,3989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Bad Company" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Bad Company</name>
+    <duration>352</duration>
+            <playcount>28230</playcount>
+                <listeners>10521</listeners>
+    
+            <mbid>d118c652-517d-4bac-b871-1a9f4d2c2c02</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Bad+Company</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="2">
+    <name>Bad Company (Remastered Album Version)</name>
+    <duration>287</duration>
+            <playcount>17411</playcount>
+                <listeners>9193</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Bad+Company+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="3">
+    <name>Feel Like Makin' Love</name>
+    <duration>296</duration>
+            <playcount>18427</playcount>
+                <listeners>7425</listeners>
+    
+            <mbid>4b0a17af-ce8e-4ea4-b60e-ace27f9907b4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Feel+Like+Makin%27+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52719947.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52719947.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52719947.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52719947.jpg</image>
+        </track>                    <track rank="4">
+    <name>Can't Get Enough</name>
+    <duration>258</duration>
+            <playcount>15341</playcount>
+                <listeners>6678</listeners>
+    
+            <mbid>068dc664-b673-42a4-bd5f-af82c52f1bb4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Can%27t+Get+Enough</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="5">
+    <name>Shooting Star</name>
+    <duration>376</duration>
+            <playcount>14132</playcount>
+                <listeners>5602</listeners>
+    
+            <mbid>134ba2df-5696-45af-be1a-fe93cd6d2d87</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Shooting+Star</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="6">
+    <name>Ready for Love</name>
+    <duration>508</duration>
+            <playcount>13757</playcount>
+                <listeners>5411</listeners>
+    
+            <mbid>0c51afdc-56c1-47d9-a4d9-1c5092b97353</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Ready+for+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="7">
+    <name>Movin' On</name>
+    <duration>191</duration>
+            <playcount>7942</playcount>
+                <listeners>3763</listeners>
+    
+            <mbid>3d106781-f5dd-4b98-850a-5442a6e2b92e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Movin%27+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="8">
+    <name>Seagull</name>
+    <duration>278</duration>
+            <playcount>7876</playcount>
+                <listeners>3665</listeners>
+    
+            <mbid>4f17f8ab-3316-43b7-ac0d-aada5fd1a3bf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Seagull</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="9">
+    <name>Rock Steady</name>
+    <duration>230</duration>
+            <playcount>7034</playcount>
+                <listeners>3219</listeners>
+    
+            <mbid>72b6d3d2-cee3-43d9-b9f3-07091180da79</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+Steady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="10">
+    <name>Feel Like Makin' Love (Remastered Album Version)</name>
+    <duration>312</duration>
+            <playcount>5324</playcount>
+                <listeners>3196</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Feel+Like+Makin%27+Love+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="11">
+    <name>Can't Get Enough (Remastered Album Version)</name>
+    <duration>255</duration>
+            <playcount>5070</playcount>
+                <listeners>2991</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Can%27t+Get+Enough+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="12">
+    <name>Rock 'n' Roll Fantasy</name>
+    <duration>198</duration>
+            <playcount>6371</playcount>
+                <listeners>2820</listeners>
+    
+            <mbid>c2f554be-c2a7-4de3-b206-88e6e762ca60</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+%27n%27+Roll+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52719947.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52719947.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52719947.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52719947.jpg</image>
+        </track>                    <track rank="13">
+    <name>Shooting Star (Remastered Album Version)</name>
+    <duration>376</duration>
+            <playcount>2990</playcount>
+                <listeners>1800</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Shooting+Star+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="14">
+    <name>Ready For Love (Remastered Album Version)</name>
+    <duration>300</duration>
+            <playcount>3414</playcount>
+                <listeners>1765</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Ready+For+Love+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="15">
+    <name>Feel Like Making Love</name>
+    <duration>327</duration>
+            <playcount>3478</playcount>
+                <listeners>1728</listeners>
+    
+            <mbid>0ce9d7e6-e6f2-4941-abea-4c3343a24ffe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Feel+Like+Making+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="16">
+    <name>Good Lovin' Gone Bad</name>
+    <duration>241</duration>
+            <playcount>3686</playcount>
+                <listeners>1721</listeners>
+    
+            <mbid>57618511-70a3-43cf-9a77-8353def95cbc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Good+Lovin%27+Gone+Bad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917981.png</image>
+        </track>                    <track rank="17">
+    <name>Don't Let Me Down</name>
+    <duration>259</duration>
+            <playcount>3015</playcount>
+                <listeners>1537</listeners>
+    
+            <mbid>1d7d66ab-a509-435b-82cf-b76ba1941278</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Don%27t+Let+Me+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="18">
+    <name>Run With the Pack</name>
+    <duration>261</duration>
+            <playcount>3416</playcount>
+                <listeners>1468</listeners>
+    
+            <mbid>5280bbed-355e-45c3-94ee-fb83924ca85b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Run+With+the+Pack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52719947.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52719947.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52719947.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52719947.jpg</image>
+        </track>                    <track rank="19">
+    <name>The Way I Choose</name>
+    <duration>302</duration>
+            <playcount>3135</playcount>
+                <listeners>1424</listeners>
+    
+            <mbid>39391b17-04ab-4835-9126-4da7a717c325</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/The+Way+I+Choose</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917839.png</image>
+        </track>                    <track rank="20">
+    <name>Feel Like Makin Love</name>
+    <duration>315</duration>
+            <playcount>1731</playcount>
+                <listeners>1357</listeners>
+    
+            <mbid>d1837388-7cfc-4ccf-acff-3afe194fd3b2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Feel+Like+Makin+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="21">
+    <name>Burnin' Sky</name>
+    <duration>367</duration>
+            <playcount>2662</playcount>
+                <listeners>1306</listeners>
+    
+            <mbid>fe826b5c-c828-47b8-b9d6-f274d233c717</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Burnin%27+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="22">
+    <name>Deal With the Preacher</name>
+    <duration>275</duration>
+            <playcount>2363</playcount>
+                <listeners>1214</listeners>
+    
+            <mbid>2b245a2f-5ab0-476d-b89f-4bc5319ce15c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Deal+With+the+Preacher</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="23">
+    <name>Movin' On (Remastered Album Version)</name>
+    <duration>201</duration>
+            <playcount>1813</playcount>
+                <listeners>1090</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Movin%27+On+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="24">
+    <name>Wild Fire Woman</name>
+    <duration>274</duration>
+            <playcount>2108</playcount>
+                <listeners>1026</listeners>
+    
+            <mbid>2f2c234e-8f24-4950-aadb-fad23865cd7c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Wild+Fire+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917981.png</image>
+        </track>                    <track rank="25">
+    <name>Honey Child</name>
+    <duration>233</duration>
+            <playcount>1900</playcount>
+                <listeners>1022</listeners>
+    
+            <mbid>2f0802c0-ed21-494d-816a-566c063c743e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Honey+Child</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="26">
+    <name>If You Needed Somebody</name>
+    <duration>313</duration>
+            <playcount>2912</playcount>
+                <listeners>1015</listeners>
+    
+            <mbid>af89e9ce-cc1c-4ab0-a3eb-0eff42b079df</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/If+You+Needed+Somebody</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="27">
+    <name>She Brings Me Love</name>
+    <duration>132</duration>
+            <playcount>2224</playcount>
+                <listeners>1015</listeners>
+    
+            <mbid>a83a72b8-e096-4966-a102-22cdb2eb9234</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/She+Brings+Me+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="28">
+    <name>Simple Man</name>
+    <duration>296</duration>
+            <playcount>2173</playcount>
+                <listeners>1012</listeners>
+    
+            <mbid>14030a86-b9b1-4a4f-9341-21ed9915f2fe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Simple+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="29">
+    <name>Rock 'n' Roll Fantasy (Remastered Album Version)</name>
+    <duration>198</duration>
+            <playcount>1641</playcount>
+                <listeners>977</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+%27n%27+Roll+Fantasy+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="30">
+    <name>Rock Steady (Remastered Album Version)</name>
+    <duration>226</duration>
+            <playcount>1549</playcount>
+                <listeners>957</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+Steady+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="31">
+    <name>Live For The Music</name>
+    <duration>314</duration>
+            <playcount>1579</playcount>
+                <listeners>899</listeners>
+    
+            <mbid>687d312a-8ce5-46d1-870e-dfa37b5ce76e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Live+For+The+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52719947.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52719947.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52719947.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52719947.jpg</image>
+        </track>                    <track rank="32">
+    <name>Crazy Circles</name>
+    <duration>210</duration>
+            <playcount>1881</playcount>
+                <listeners>883</listeners>
+    
+            <mbid>e3477e7b-345f-4e61-8c6e-0c1dd5754207</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Crazy+Circles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="33">
+    <name>Holy Water</name>
+    <duration>267</duration>
+            <playcount>1985</playcount>
+                <listeners>852</listeners>
+    
+            <mbid>200fce6b-ba49-4fd0-8999-ccf9bfd5be6d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Holy+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="34">
+    <name>Silver, Blue &amp; Gold (Remastered Album Version)</name>
+    <duration>304</duration>
+            <playcount>1100</playcount>
+                <listeners>765</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Silver,+Blue+&amp;+Gold+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="35">
+    <name>Seagull (Remastered Album Version)</name>
+    <duration>243</duration>
+            <playcount>1216</playcount>
+                <listeners>755</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Seagull+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="36">
+    <name>Weep No More</name>
+    <duration>240</duration>
+            <playcount>1583</playcount>
+                <listeners>754</listeners>
+    
+            <mbid>09accfb2-5b7d-4d84-9a62-697406d62f5c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Weep+No+More</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917981.png</image>
+        </track>                    <track rank="37">
+    <name>Young Blood</name>
+    <duration>229</duration>
+            <playcount>1217</playcount>
+                <listeners>691</listeners>
+    
+            <mbid>087f3b13-9648-4199-9d68-b2c43c0f47fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Young+Blood</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="38">
+    <name>Call on Me</name>
+    <duration>365</duration>
+            <playcount>1174</playcount>
+                <listeners>651</listeners>
+    
+            <mbid>6d261311-201b-4a43-828d-20eea4811636</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Call+on+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917981.png</image>
+        </track>                    <track rank="39">
+    <name>Gone, Gone, Gone</name>
+    <duration>273</duration>
+            <playcount>1235</playcount>
+                <listeners>642</listeners>
+    
+            <mbid>4e9bf4a2-8c15-4a82-901c-8cd3d866f49b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Gone,+Gone,+Gone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="40">
+    <name>Anna</name>
+    <duration>223</duration>
+            <playcount>1175</playcount>
+                <listeners>639</listeners>
+    
+            <mbid>2218fb69-4b45-4620-a028-5e3a8aee1990</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Anna</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83917981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83917981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83917981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83917981.png</image>
+        </track>                    <track rank="41">
+    <name>Silver, Blue and Gold</name>
+    <duration>303</duration>
+            <playcount>1254</playcount>
+                <listeners>568</listeners>
+    
+            <mbid>2b135fb1-41bd-4ecc-9788-c15140f4cbb5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Silver,+Blue+and+Gold</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="42">
+    <name>Electric Land</name>
+    <duration>305</duration>
+            <playcount>1018</playcount>
+                <listeners>564</listeners>
+    
+            <mbid>f362a3a5-1aad-43e0-965a-3d06ba6eff19</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Electric+Land</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/67711934.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/67711934.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/67711934.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/67711934.jpg</image>
+        </track>                    <track rank="43">
+    <name>Evil Wind</name>
+    <duration>259</duration>
+            <playcount>1116</playcount>
+                <listeners>547</listeners>
+    
+            <mbid>78134572-8579-48fb-8fe9-4fc2453f595b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Evil+Wind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="44">
+    <name>Heartbeat</name>
+    <duration>156</duration>
+            <playcount>972</playcount>
+                <listeners>547</listeners>
+    
+            <mbid>0743eb67-f7d8-43c7-86aa-7122e61ad19e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Heartbeat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="45">
+    <name>Don't Let Me Down (Remastered Album Version)</name>
+    <duration>259</duration>
+            <playcount>902</playcount>
+                <listeners>523</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Don%27t+Let+Me+Down+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="46">
+    <name>Rhythm Machine</name>
+    <duration>95</duration>
+            <playcount>984</playcount>
+                <listeners>517</listeners>
+    
+            <mbid>2df6aa53-6254-4562-92b1-6424c8520568</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rhythm+Machine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="47">
+    <name>Do Right By Your Woman</name>
+    <duration>170</duration>
+            <playcount>884</playcount>
+                <listeners>503</listeners>
+    
+            <mbid>9e8b2385-4dcc-42c0-bfc2-fbae13d542a9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Do+Right+By+Your+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="48">
+    <name>Too Bad</name>
+    <duration>230</duration>
+            <playcount>874</playcount>
+                <listeners>498</listeners>
+    
+            <mbid>c5970d93-81fe-4fb2-bdff-0ed854e412f3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Too+Bad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="49">
+    <name>Silver, Blue &amp; Gold</name>
+    <duration>304</duration>
+            <playcount>950</playcount>
+                <listeners>455</listeners>
+    
+            <mbid>7a726916-f4f7-4284-9ba7-bde99307f50d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Silver,+Blue+&amp;+Gold</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="50">
+    <name>How About That</name>
+    <duration>330</duration>
+            <playcount>869</playcount>
+                <listeners>438</listeners>
+    
+            <mbid>c56080db-cb81-4f3f-933c-6cc1a79be660</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/How+About+That</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="51">
+    <name>Oh, Atlanta</name>
+    <duration>245</duration>
+            <playcount>784</playcount>
+                <listeners>438</listeners>
+    
+            <mbid>9528e42e-2627-46be-88d1-12e2c4720d4b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Oh,+Atlanta</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="52">
+    <name>Fade Away</name>
+    <duration>171</duration>
+            <playcount>774</playcount>
+                <listeners>427</listeners>
+    
+            <mbid>5ba9f07a-b4b3-4605-98e5-2f0084c9ee8f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Fade+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="53">
+    <name>Love Me Somebody</name>
+    <duration>189</duration>
+            <playcount>810</playcount>
+                <listeners>424</listeners>
+    
+            <mbid>5c3c7ba0-7e8d-47df-a925-4650eaab7215</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Love+Me+Somebody</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="54">
+    <name>The Nine</name>
+    <duration>216</duration>
+            <playcount>863</playcount>
+                <listeners>395</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/The+Nine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/17933029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/17933029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/17933029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/17933029.jpg</image>
+        </track>                    <track rank="55">
+    <name>The Way I Choose (Remastered Album Version)</name>
+    <duration>303</duration>
+            <playcount>637</playcount>
+                <listeners>392</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/The+Way+I+Choose+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="56">
+    <name>No Smoke Without a Fire</name>
+    <duration>304</duration>
+            <playcount>982</playcount>
+                <listeners>391</listeners>
+    
+            <mbid>34ee36aa-71f4-4039-a66c-7d45bd81654f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/No+Smoke+Without+a+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="57">
+    <name>Untie the Knot</name>
+    <duration>247</duration>
+            <playcount>695</playcount>
+                <listeners>371</listeners>
+    
+            <mbid>9d6d16c9-05f6-449d-8537-53a566c2e550</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Untie+the+Knot</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="58">
+    <name>Rock and Roll Fantasy</name>
+    <duration>256</duration>
+            <playcount>777</playcount>
+                <listeners>367</listeners>
+    
+            <mbid>53336fab-ecdf-42cc-8b9a-966898823f79</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+and+Roll+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="59">
+    <name>Sweet Lil' Sister</name>
+    <duration>211</duration>
+            <playcount>579</playcount>
+                <listeners>356</listeners>
+    
+            <mbid>5a79a030-a1b6-40e2-8bc2-b1f205db7d77</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Sweet+Lil%27+Sister</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183669.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183669.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183669.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183669.jpg</image>
+        </track>                    <track rank="60">
+    <name>Here Comes Trouble</name>
+    <duration>240</duration>
+            <playcount>622</playcount>
+                <listeners>352</listeners>
+    
+            <mbid>56ae8a65-c0f6-4860-95ee-5712e059b33c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Here+Comes+Trouble</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="61">
+    <name>Leaving You</name>
+    <duration>203</duration>
+            <playcount>685</playcount>
+                <listeners>350</listeners>
+    
+            <mbid>20879a2c-a777-4548-8c6e-e7cbeab58c42</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Leaving+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="62">
+    <name>Planet Dust</name>
+    <duration>123</duration>
+            <playcount>696</playcount>
+                <listeners>342</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Planet+Dust</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/8593125.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8593125.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8593125.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/8593125.jpg</image>
+        </track>                    <track rank="63">
+    <name>Walk Through Fire</name>
+    <duration>289</duration>
+            <playcount>735</playcount>
+                <listeners>334</listeners>
+    
+            <mbid>b0bfd30a-4409-487a-a64a-effb73d70fd0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Walk+Through+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="64">
+    <name>Electricland</name>
+    <duration>328</duration>
+            <playcount>561</playcount>
+                <listeners>330</listeners>
+    
+            <mbid>642dad81-9f0c-42b6-afaa-7bab35aeaec5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Electricland</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52719947.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52719947.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52719947.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52719947.jpg</image>
+        </track>                    <track rank="65">
+    <name>Crazy Circles (Remastered Album Version)</name>
+    <duration>211</duration>
+            <playcount>631</playcount>
+                <listeners>330</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Crazy+Circles+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="66">
+    <name>All Right Now</name>
+    <duration>389</duration>
+            <playcount>699</playcount>
+                <listeners>315</listeners>
+    
+            <mbid>30e98dd6-bf49-450a-ba9a-fa32cc826310</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/All+Right+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="67">
+    <name>Morning Sun</name>
+    <duration>240</duration>
+            <playcount>561</playcount>
+                <listeners>307</listeners>
+    
+            <mbid>b4544a6d-abe1-484f-b646-eb54796fedcb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Morning+Sun</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="68">
+    <name>Downhill Ryder</name>
+    <duration>251</duration>
+            <playcount>548</playcount>
+                <listeners>298</listeners>
+    
+            <mbid>c2db10ef-cd19-4730-897d-e2de342a138a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Downhill+Ryder</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="69">
+    <name>Everything I Need</name>
+    <duration>203</duration>
+            <playcount>472</playcount>
+                <listeners>290</listeners>
+    
+            <mbid>d69e09eb-d003-4f27-84cb-5eb8d8861c48</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Everything+I+Need</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="70">
+    <name>Early in the Morning</name>
+    <duration>341</duration>
+            <playcount>717</playcount>
+                <listeners>287</listeners>
+    
+            <mbid>7e9584ff-f081-4cab-bcf5-f06a482375cc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Early+in+the+Morning</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="71">
+    <name>Fearless</name>
+    <duration>213</duration>
+            <playcount>493</playcount>
+                <listeners>276</listeners>
+    
+            <mbid>4fffb6eb-f1a1-4a02-9f9b-f2ff315c7af1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Fearless</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="72">
+    <name>Company of Strangers</name>
+    <duration>314</duration>
+            <playcount>583</playcount>
+                <listeners>275</listeners>
+    
+            <mbid>00bed961-0db1-4c14-b9ca-26dcb2d572df</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Company+of+Strangers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="73">
+    <name>Stranger Stranger</name>
+    <duration>292</duration>
+            <playcount>506</playcount>
+                <listeners>273</listeners>
+    
+            <mbid>80741921-19c9-4510-b6c8-9e711b8d6199</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Stranger+Stranger</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="74">
+    <name>Dangerous Age</name>
+    <duration>230</duration>
+            <playcount>499</playcount>
+                <listeners>272</listeners>
+    
+            <mbid>d0cc1e8f-0fe6-4320-bde0-80ee9fac34a6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Dangerous+Age</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="75">
+    <name>Like Water</name>
+    <duration>263</duration>
+            <playcount>544</playcount>
+                <listeners>272</listeners>
+    
+            <mbid>300511ae-2c36-4e25-903a-1cb93253103b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Like+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="76">
+    <name>Peace of Mind</name>
+    <duration>205</duration>
+            <playcount>458</playcount>
+                <listeners>270</listeners>
+    
+            <mbid>c86ae401-c571-4893-baed-a8bd43230b08</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Peace+of+Mind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="77">
+    <name>Lay Your Love On Me</name>
+    <duration>245</duration>
+            <playcount>464</playcount>
+                <listeners>269</listeners>
+    
+            <mbid>2d56d7ae-dff2-44ef-b0e4-840c668e0a9b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Lay+Your+Love+On+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="78">
+    <name>Brokenhearted</name>
+    <duration>288</duration>
+            <playcount>549</playcount>
+                <listeners>266</listeners>
+    
+            <mbid>1bab49cc-5762-4d93-9078-d9674f2f751b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Brokenhearted</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="79">
+    <name>Man Needs Woman</name>
+    <duration>230</duration>
+            <playcount>444</playcount>
+                <listeners>265</listeners>
+    
+            <mbid>f1a0320f-61b2-4066-af1a-53950715d3a3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Man+Needs+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="80">
+    <name>Shake It Up</name>
+    <duration>272</duration>
+            <playcount>460</playcount>
+                <listeners>265</listeners>
+    
+            <mbid>7ce8fab0-b01c-4375-a8e6-c955be6bd481</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Shake+It+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="81">
+    <name>Boys Cry Tough</name>
+    <duration>329</duration>
+            <playcount>504</playcount>
+                <listeners>262</listeners>
+    
+            <mbid>6c2a87ae-39e4-433d-b798-2c2b374e9526</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Boys+Cry+Tough</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="82">
+    <name>Good Lovin' Gone Bad (Remastered Album Version)</name>
+    <duration>216</duration>
+            <playcount>404</playcount>
+                <listeners>260</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Good+Lovin%27+Gone+Bad+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="83">
+    <name>One Night</name>
+    <duration>322</duration>
+            <playcount>478</playcount>
+                <listeners>260</listeners>
+    
+            <mbid>3876aba2-cb54-48d0-bb6d-b76d8951b2c7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/One+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="84">
+    <name>Lonely for Your Love</name>
+    <duration>202</duration>
+            <playcount>464</playcount>
+                <listeners>260</listeners>
+    
+            <mbid>92efa98a-6590-416e-8d97-be9c0bf7d8c6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Lonely+for+Your+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="85">
+    <name>Take the Time</name>
+    <duration>251</duration>
+            <playcount>436</playcount>
+                <listeners>257</listeners>
+    
+            <mbid>646b658d-1af1-4683-afb7-82954d649dea</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Take+the+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92211311.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92211311.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92211311.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92211311.jpg</image>
+        </track>                    <track rank="86">
+    <name>Something About You</name>
+    <duration>259</duration>
+            <playcount>468</playcount>
+                <listeners>255</listeners>
+    
+            <mbid>9f392bd2-bbc7-4988-8ffc-4d5a1b79ec8f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Something+About+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="87">
+    <name>Rock &amp; Roll Fantasy</name>
+    <duration>276</duration>
+            <playcount>423</playcount>
+                <listeners>252</listeners>
+    
+            <mbid>ed8b06e4-9a2b-4fd8-b474-87e258a4ec7a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+&amp;+Roll+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/67711934.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/67711934.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/67711934.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/67711934.jpg</image>
+        </track>                    <track rank="88">
+    <name>Knapsack</name>
+    <duration>80</duration>
+            <playcount>372</playcount>
+                <listeners>251</listeners>
+    
+            <mbid>8e85a7c9-951d-40f0-bcfd-caac43c227f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Knapsack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="89">
+    <name>Bad Man</name>
+    <duration>229</duration>
+            <playcount>453</playcount>
+                <listeners>250</listeners>
+    
+            <mbid>4894b1c3-0737-4e33-a29d-6f0e1e39e734</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Bad+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="90">
+    <name>Dead Of The Night</name>
+    <duration>221</duration>
+            <playcount>441</playcount>
+                <listeners>250</listeners>
+    
+            <mbid>3412d83e-6cce-4d6e-bcbe-5efbf616a91e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Dead+Of+The+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="91">
+    <name>Stranger Than Fiction</name>
+    <duration>314</duration>
+            <playcount>510</playcount>
+                <listeners>242</listeners>
+    
+            <mbid>e9012a36-1add-4ff6-9676-7fdd4a9485e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Stranger+Than+Fiction</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="92">
+    <name>Take This Town</name>
+    <duration>315</duration>
+            <playcount>430</playcount>
+                <listeners>237</listeners>
+    
+            <mbid>f4876800-6086-4c87-95c8-00f05ab5d08e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Take+This+Town</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="93">
+    <name>Dirty Boy</name>
+    <duration>232</duration>
+            <playcount>426</playcount>
+                <listeners>234</listeners>
+    
+            <mbid>8410323a-663e-426d-aef7-a49326492a78</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Dirty+Boy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="94">
+    <name>Passing Time</name>
+    <duration>148</duration>
+            <playcount>348</playcount>
+                <listeners>233</listeners>
+    
+            <mbid>056a1341-5bd4-4bcc-b22d-fcea4da61c8b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Passing+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="95">
+    <name>With You In A Heartbeat</name>
+    <duration>274</duration>
+            <playcount>391</playcount>
+                <listeners>229</listeners>
+    
+            <mbid>8aa4bfeb-f823-4a77-9cc8-5a2f60744d83</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/With+You+In+A+Heartbeat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="96">
+    <name>Judas My Brother</name>
+    <duration>284</duration>
+            <playcount>505</playcount>
+                <listeners>228</listeners>
+    
+            <mbid>5d7b1293-5927-46cd-96a5-2176d5471e0b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Judas+My+Brother</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="97">
+    <name>Rock n Roll Fantasy</name>
+    <duration>199</duration>
+            <playcount>478</playcount>
+                <listeners>227</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+n+Roll+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="98">
+    <name>Never Too Late</name>
+    <duration>222</duration>
+            <playcount>399</playcount>
+                <listeners>227</listeners>
+    
+            <mbid>6b504063-2e4f-4a3c-a84a-a775523ad564</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Never+Too+Late</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="99">
+    <name>Love Attack</name>
+    <duration>235</duration>
+            <playcount>370</playcount>
+                <listeners>227</listeners>
+    
+            <mbid>bb7341c8-4459-4246-a433-c61846afb002</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Love+Attack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="100">
+    <name>This Could Be The One</name>
+    <duration>318</duration>
+            <playcount>435</playcount>
+                <listeners>225</listeners>
+    
+            <mbid>0740891f-2558-47c9-a222-3a2537504a1b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/This+Could+Be+The+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="101">
+    <name>This Love</name>
+    <duration>246</duration>
+            <playcount>386</playcount>
+                <listeners>224</listeners>
+    
+            <mbid>95f4b19a-a78a-4aa4-8dc3-2cbf4e969673</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/This+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="102">
+    <name>Burnin' Sky (Remastered Album Version)</name>
+    <duration>310</duration>
+            <playcount>377</playcount>
+                <listeners>224</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Burnin%27+Sky+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="103">
+    <name>Run With the Pack (Remastered Album Version)</name>
+    <duration>322</duration>
+            <playcount>398</playcount>
+                <listeners>223</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Run+With+the+Pack+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="104">
+    <name>Burning Sky</name>
+    <duration>336</duration>
+            <playcount>338</playcount>
+                <listeners>221</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Burning+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="105">
+    <name>Rock of America</name>
+    <duration>236</duration>
+            <playcount>374</playcount>
+                <listeners>219</listeners>
+    
+            <mbid>cc655d4b-529c-4087-913f-f56a13fceaea</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+of+America</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="106">
+    <name>Fame and Fortune</name>
+    <duration>214</duration>
+            <playcount>376</playcount>
+                <listeners>216</listeners>
+    
+            <mbid>25a439f8-30c0-4826-937e-4b764df387da</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Fame+and+Fortune</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000008D4A.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000008D4A.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000008D4A.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000008D4A.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="107">
+    <name>Little Angel</name>
+    <duration>303</duration>
+            <playcount>410</playcount>
+                <listeners>216</listeners>
+    
+            <mbid>d46858ce-29ad-439e-8df2-3eee700407ce</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Little+Angel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="108">
+    <name>Cant Get Enough</name>
+    <duration></duration>
+            <playcount>322</playcount>
+                <listeners>216</listeners>
+    
+            <mbid>98fc0a73-01ee-49b3-9351-844398f0d7b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Cant+Get+Enough</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="109">
+    <name>I Don't Care</name>
+    <duration>274</duration>
+            <playcount>369</playcount>
+                <listeners>216</listeners>
+    
+            <mbid>b1034192-18e2-4538-aef4-ad8c9b965bef</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/I+Don%27t+Care</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="110">
+    <name>100 Miles</name>
+    <duration>117</duration>
+            <playcount>371</playcount>
+                <listeners>215</listeners>
+    
+            <mbid>5dbe4487-0f58-48f3-bace-32f60b108029</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/100+Miles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="111">
+    <name>Burning Up</name>
+    <duration>244</duration>
+            <playcount>317</playcount>
+                <listeners>214</listeners>
+    
+            <mbid>cef9d653-1e63-49f7-b32c-60476582a94d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Burning+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="112">
+    <name>What About You</name>
+    <duration>235</duration>
+            <playcount>452</playcount>
+                <listeners>214</listeners>
+    
+            <mbid>887a861c-8b52-44d3-86a6-fc4df113fe9a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/What+About+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="113">
+    <name>Can't Get Enough of Your Love</name>
+    <duration>206</duration>
+            <playcount>656</playcount>
+                <listeners>211</listeners>
+    
+            <mbid>61aeacf2-c37a-4ccf-a86d-2121250d7185</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Can%27t+Get+Enough+of+Your+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="114">
+    <name>Down and Dirty</name>
+    <duration>290</duration>
+            <playcount>410</playcount>
+                <listeners>211</listeners>
+    
+            <mbid>b012ad82-27a2-4254-85a5-0bc4b2c353f0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Down+and+Dirty</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="115">
+    <name>Abandoned and Alone</name>
+    <duration>339</duration>
+            <playcount>416</playcount>
+                <listeners>210</listeners>
+    
+            <mbid>6a0d6870-8d6e-43c5-a6aa-4613df40f856</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Abandoned+and+Alone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="116">
+    <name>I Can't Live Without You</name>
+    <duration>231</duration>
+            <playcount>365</playcount>
+                <listeners>210</listeners>
+    
+            <mbid>2ecbb9b5-827a-4986-a908-3b0712737076</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/I+Can%27t+Live+Without+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086815.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086815.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086815.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086815.jpg</image>
+        </track>                    <track rank="117">
+    <name>She Brings Me Love (Remastered Album Version)</name>
+    <duration>282</duration>
+            <playcount>312</playcount>
+                <listeners>210</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/She+Brings+Me+Love+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="118">
+    <name>Long Walk</name>
+    <duration>219</duration>
+            <playcount>306</playcount>
+                <listeners>206</listeners>
+    
+            <mbid>f58c1072-3903-47e0-a12e-43840836442b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Long+Walk</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="119">
+    <name>Both Feet In The Water</name>
+    <duration>285</duration>
+            <playcount>362</playcount>
+                <listeners>205</listeners>
+    
+            <mbid>40802941-ca56-460c-8e1e-10cd029d8385</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Both+Feet+In+The+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="120">
+    <name>Racetrack</name>
+    <duration>286</duration>
+            <playcount>318</playcount>
+                <listeners>203</listeners>
+    
+            <mbid>62a34fce-78a1-4e2e-a731-79d8b3f7fc9b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Racetrack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="121">
+    <name>Clearwater Highway</name>
+    <duration>205</duration>
+            <playcount>344</playcount>
+                <listeners>202</listeners>
+    
+            <mbid>e5e55171-966b-43d5-9043-2dbfa34a576e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Clearwater+Highway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="122">
+    <name>Little Martha</name>
+    <duration>177</duration>
+            <playcount>357</playcount>
+                <listeners>201</listeners>
+    
+            <mbid>bec9d502-7438-41be-ad53-f5791e72fcea</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Little+Martha</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="123">
+    <name>Hold On To My Heart</name>
+    <duration>280</duration>
+            <playcount>422</playcount>
+                <listeners>199</listeners>
+    
+            <mbid>d9cab806-881b-4a52-ad32-00cec14419d7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Hold+On+To+My+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="124">
+    <name>Where I Belong</name>
+    <duration>241</duration>
+            <playcount>357</playcount>
+                <listeners>197</listeners>
+    
+            <mbid>9425b06a-6018-4f89-bcd7-2af5ccb37999</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Where+I+Belong</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="125">
+    <name>Master of Ceremony</name>
+    <duration>427</duration>
+            <playcount>326</playcount>
+                <listeners>196</listeners>
+    
+            <mbid>f509ff7b-6283-492b-bc5e-3ac0526fdad7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Master+of+Ceremony</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183735.jpg</image>
+        </track>                    <track rank="126">
+    <name>Dance With the Devil</name>
+    <duration>186</duration>
+            <playcount>383</playcount>
+                <listeners>195</listeners>
+    
+            <mbid>cfaabf77-c3ac-40eb-be6a-435c26c41955</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Dance+With+the+Devil</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="127">
+    <name>Feel Like Makin'love</name>
+    <duration>316</duration>
+            <playcount>321</playcount>
+                <listeners>193</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Feel+Like+Makin%27love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/75460148.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/75460148.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/75460148.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/75460148.jpg</image>
+        </track>                    <track rank="128">
+    <name>Painted Face</name>
+    <duration>208</duration>
+            <playcount>312</playcount>
+                <listeners>190</listeners>
+    
+            <mbid>5ad94170-0381-45e7-8b06-5c69fca8c628</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Painted+Face</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="129">
+    <name>Pretty Woman</name>
+    <duration>212</duration>
+            <playcount>305</playcount>
+                <listeners>188</listeners>
+    
+            <mbid>d5318e9d-f055-4769-aa5b-befc119a1785</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Pretty+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="130">
+    <name>Valerie</name>
+    <duration>208</duration>
+            <playcount>265</playcount>
+                <listeners>182</listeners>
+    
+            <mbid>4097d579-f14e-47d2-a54b-694e31dc6948</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Valerie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="131">
+    <name>Gimme Gimme</name>
+    <duration>213</duration>
+            <playcount>290</playcount>
+                <listeners>178</listeners>
+    
+            <mbid>5c0ea922-7ba9-4031-8939-307cd42d66e5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Gimme+Gimme</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="132">
+    <name>Live For The Music (Remastered Album Version)</name>
+    <duration>239</duration>
+            <playcount>298</playcount>
+                <listeners>172</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Live+For+The+Music+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="133">
+    <name>If I'm Sleeping</name>
+    <duration>207</duration>
+            <playcount>265</playcount>
+                <listeners>169</listeners>
+    
+            <mbid>2ebd3bd4-6775-47c0-9d6f-4c3808f46ab8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/If+I%27m+Sleeping</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="134">
+    <name>Shooting Star (1996)</name>
+    <duration>255</duration>
+            <playcount>440</playcount>
+                <listeners>168</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Shooting+Star+(1996)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="135">
+    <name>Nuthin' on the TV</name>
+    <duration>228</duration>
+            <playcount>219</playcount>
+                <listeners>167</listeners>
+    
+            <mbid>c529952e-4337-4b63-8c66-4d424b77f340</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Nuthin%27+on+the+TV</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="136">
+    <name>When We Made Love</name>
+    <duration>262</duration>
+            <playcount>281</playcount>
+                <listeners>167</listeners>
+    
+            <mbid>3fa8a3fb-5c5a-418d-98a3-c30459ba5e21</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/When+We+Made+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="137">
+    <name>Hold on My Heart</name>
+    <duration>259</duration>
+            <playcount>258</playcount>
+                <listeners>167</listeners>
+    
+            <mbid>53d275af-2814-4e5c-99ee-f92e0e3aa9ea</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Hold+on+My+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="138">
+    <name>My Only One</name>
+    <duration>301</duration>
+            <playcount>296</playcount>
+                <listeners>165</listeners>
+    
+            <mbid>610d6fe2-7302-48f5-bfbf-8aee336e45cb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/My+Only+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353247.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353247.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353247.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353247.jpg</image>
+        </track>                    <track rank="139">
+    <name>Deal With The Preacher (Remastered Album Version)</name>
+    <duration>303</duration>
+            <playcount>212</playcount>
+                <listeners>163</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Deal+With+The+Preacher+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="140">
+    <name>Loving You Out Loud</name>
+    <duration>169</duration>
+            <playcount>287</playcount>
+                <listeners>162</listeners>
+    
+            <mbid>473954b3-74a5-4ede-8203-ac2396f13614</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Loving+You+Out+Loud</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="141">
+    <name>Ballad of the Band</name>
+    <duration>134</duration>
+            <playcount>249</playcount>
+                <listeners>161</listeners>
+    
+            <mbid>b6e84a3f-3e99-47d7-8980-05d8b8e93d49</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Ballad+of+the+Band</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="142">
+    <name>The Way That It Goes</name>
+    <duration>207</duration>
+            <playcount>312</playcount>
+                <listeners>160</listeners>
+    
+            <mbid>438071a6-e44c-4172-b202-1658eaf036eb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/The+Way+That+It+Goes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="143">
+    <name>Cant Get Enough of Your Love</name>
+    <duration>200</duration>
+            <playcount>255</playcount>
+                <listeners>159</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Cant+Get+Enough+of+Your+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="144">
+    <name>Old Mexico</name>
+    <duration>231</duration>
+            <playcount>220</playcount>
+                <listeners>157</listeners>
+    
+            <mbid>b46f696d-cc72-4dd2-aace-93c96231ffb3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Old+Mexico</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="145">
+    <name>Wild Fire Woman (Remastered Album Version)</name>
+    <duration>275</duration>
+            <playcount>258</playcount>
+                <listeners>154</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Wild+Fire+Woman+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Cross Country Boy</name>
+    <duration>182</duration>
+            <playcount>197</playcount>
+                <listeners>153</listeners>
+    
+            <mbid>f984e69e-7a8a-4830-b8de-0b242e21ce63</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Cross+Country+Boy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="147">
+    <name>That Girl</name>
+    <duration>242</duration>
+            <playcount>201</playcount>
+                <listeners>152</listeners>
+    
+            <mbid>2bab92e6-d371-4970-8a0a-50b7aac85334</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/That+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="148">
+    <name>Simple Man (Remastered Album Version)</name>
+    <duration>217</duration>
+            <playcount>264</playcount>
+                <listeners>152</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Simple+Man+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="149">
+    <name>You're The Only Reason</name>
+    <duration>226</duration>
+            <playcount>265</playcount>
+                <listeners>150</listeners>
+    
+            <mbid>af5a62c4-446b-4e09-95f6-835db6fa960e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/You%27re+The+Only+Reason</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="150">
+    <name>Weep No More (Remastered Album Version)</name>
+    <duration>240</duration>
+            <playcount>193</playcount>
+                <listeners>149</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Weep+No+More+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="151">
+    <name>Hey, Hey</name>
+    <duration>167</duration>
+            <playcount>350</playcount>
+                <listeners>144</listeners>
+    
+            <mbid>d245d8bf-a849-45cd-a8de-d3c28edea3b9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Hey,+Hey</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="152">
+    <name>Gone Gone Gone</name>
+    <duration>300</duration>
+            <playcount>222</playcount>
+                <listeners>141</listeners>
+    
+            <mbid>424eb22f-3fd3-40f5-8a73-c44292a2722c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Gone+Gone+Gone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="153">
+    <name>Nitrous</name>
+    <duration>434</duration>
+            <playcount>317</playcount>
+                <listeners>141</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Nitrous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="154">
+    <name>Oh Atlanta</name>
+    <duration>326</duration>
+            <playcount>312</playcount>
+                <listeners>140</listeners>
+    
+            <mbid>229eaaa3-59fb-4c35-bbff-fc75ebbbe299</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Oh+Atlanta</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="155">
+    <name>Tell It Like It Is</name>
+    <duration>224</duration>
+            <playcount>186</playcount>
+                <listeners>140</listeners>
+    
+            <mbid>9002ecbf-f7c4-41e9-978d-84b483174bae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Tell+It+Like+It+Is</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="156">
+    <name>Smokin' 45</name>
+    <duration>209</duration>
+            <playcount>263</playcount>
+                <listeners>134</listeners>
+    
+            <mbid>0332b30e-f4f0-449b-b5b0-9313c9b98c62</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Smokin%27+45</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="157">
+    <name>Tracking Down a Runaway</name>
+    <duration>219</duration>
+            <playcount>290</playcount>
+                <listeners>132</listeners>
+    
+            <mbid>dd1a91cf-5832-4f03-903a-826b318e1178</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Tracking+Down+a+Runaway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="158">
+    <name>Waiting on Love</name>
+    <duration>272</duration>
+            <playcount>230</playcount>
+                <listeners>129</listeners>
+    
+            <mbid>b2147f0c-bc0e-4e37-9e86-ed91ee37c520</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Waiting+on+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58985569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58985569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58985569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58985569.jpg</image>
+        </track>                    <track rank="159">
+    <name>Running With The Pack</name>
+    <duration></duration>
+            <playcount>200</playcount>
+                <listeners>126</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Running+With+The+Pack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="160">
+    <name>Rock N' Roll Fantasy</name>
+    <duration>275</duration>
+            <playcount>167</playcount>
+                <listeners>122</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Rock+N%27+Roll+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/43452501.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/43452501.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/43452501.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/43452501.jpg</image>
+        </track>                    <track rank="161">
+    <name>Whiskey Bottle</name>
+    <duration>224</duration>
+            <playcount>210</playcount>
+                <listeners>121</listeners>
+    
+            <mbid>edf6ce58-f030-4daf-b0d7-c72d7a0e1504</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Whiskey+Bottle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666087.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666087.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666087.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666087.jpg</image>
+        </track>                    <track rank="162">
+    <name>Hammer of Love</name>
+    <duration>321</duration>
+            <playcount>266</playcount>
+                <listeners>121</listeners>
+    
+            <mbid>1a766f8a-568c-4490-a15b-06369642dc35</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Hammer+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="163">
+    <name>Superstar Woman</name>
+    <duration>304</duration>
+            <playcount>246</playcount>
+                <listeners>120</listeners>
+    
+            <mbid>4ede3068-ab84-4af5-859f-6e6cdd7fda4e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Superstar+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666087.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666087.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666087.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666087.jpg</image>
+        </track>                    <track rank="164">
+    <name>Little Miss Fortune</name>
+    <duration>230</duration>
+            <playcount>251</playcount>
+                <listeners>120</listeners>
+    
+            <mbid>1cb3397e-fb17-438c-b8ce-7efce52a7246</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Little+Miss+Fortune</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666087.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666087.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666087.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666087.jpg</image>
+        </track>                    <track rank="165">
+    <name>Ain't it Good</name>
+    <duration>186</duration>
+            <playcount>236</playcount>
+                <listeners>118</listeners>
+    
+            <mbid>c69e238c-1a0c-40d7-bd98-c97a8ac20193</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Ain%27t+it+Good</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666255.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666255.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666255.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666255.jpg</image>
+        </track>                    <track rank="166">
+    <name>No Smoke Without Fire</name>
+    <duration>305</duration>
+            <playcount>281</playcount>
+                <listeners>116</listeners>
+    
+            <mbid>e6423850-5706-4446-8194-7c1f0c2623f1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/No+Smoke+Without+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51362485.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51362485.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51362485.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51362485.jpg</image>
+        </track>                    <track rank="167">
+    <name>Easy on My soul</name>
+    <duration>249</duration>
+            <playcount>242</playcount>
+                <listeners>115</listeners>
+    
+            <mbid>07a1c225-07d9-43ec-832d-e6bae0af51c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Easy+on+My+soul</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666087.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666087.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666087.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666087.jpg</image>
+        </track>                    <track rank="168">
+    <name>Movin' On [single mix]</name>
+    <duration></duration>
+            <playcount>196</playcount>
+                <listeners>113</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Movin%27+On+%5Bsingle+mix%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666125.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666125.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666125.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666125.jpg</image>
+        </track>                    <track rank="169">
+    <name>Down Down Down</name>
+    <duration>199</duration>
+            <playcount>189</playcount>
+                <listeners>112</listeners>
+    
+            <mbid>44ff7a2f-6b4b-47b9-81c8-e6c5ad3271a5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Down+Down+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666165.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666165.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666165.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666165.jpg</image>
+        </track>                    <track rank="170">
+    <name>Electricland (Remastered Album Version)</name>
+    <duration>327</duration>
+            <playcount>192</playcount>
+                <listeners>112</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Electricland+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Movin On</name>
+    <duration></duration>
+            <playcount>161</playcount>
+                <listeners>111</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Movin+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="172">
+    <name>Little Miss Fortune [single mix]</name>
+    <duration>233</duration>
+            <playcount>168</playcount>
+                <listeners>107</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Little+Miss+Fortune+%5Bsingle+mix%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666125.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666125.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666125.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666125.jpg</image>
+        </track>                    <track rank="173">
+    <name>Anna (Remastered Album Version)</name>
+    <duration>224</duration>
+            <playcount>133</playcount>
+                <listeners>106</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Anna+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Young Blood (Remastered Album Version)</name>
+    <duration>159</duration>
+            <playcount>158</playcount>
+                <listeners>105</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Young+Blood+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>You're Never Alone</name>
+    <duration>277</duration>
+            <playcount>158</playcount>
+                <listeners>104</listeners>
+    
+            <mbid>4c4b1189-ddb5-4f38-83ab-edab160e49b9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/You%27re+Never+Alone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58985569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58985569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58985569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58985569.jpg</image>
+        </track>                    <track rank="176">
+    <name>Bad Company [From Bad Company]</name>
+    <duration></duration>
+            <playcount>221</playcount>
+                <listeners>102</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Bad+Company+%5BFrom+Bad+Company%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="177">
+    <name>Honey Child (Remastered Album Version)</name>
+    <duration>197</duration>
+            <playcount>177</playcount>
+                <listeners>100</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Honey+Child+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>I Still Believe in You</name>
+    <duration>277</duration>
+            <playcount>162</playcount>
+                <listeners>99</listeners>
+    
+            <mbid>a3833f1a-b5fe-4f77-871e-9cbe153e9df3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/I+Still+Believe+in+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58985569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58985569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58985569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58985569.jpg</image>
+        </track>                    <track rank="179">
+    <name>Call On Me (Remastered Album Version)</name>
+    <duration>365</duration>
+            <playcount>140</playcount>
+                <listeners>99</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Call+On+Me+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="180">
+    <name>Down, Down, Down</name>
+    <duration>199</duration>
+            <playcount>152</playcount>
+                <listeners>97</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Bad+Company/_/Down,+Down,+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>Is That All There Is to Love</name>
+    <duration>213</duration>
+            <playcount>134</playcount>
+                <listeners>97</listeners>
+    
+            <mbid>fc4e3675-5acc-4f8c-ad5b-3477a7355a15</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Is+That+All+There+Is+to+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58985569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58985569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58985569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58985569.jpg</image>
+        </track>                    <track rank="182">
+    <name>Superstar Woman [original unused track]</name>
+    <duration>305</duration>
+            <playcount>148</playcount>
+                <listeners>96</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Superstar+Woman+%5Boriginal+unused+track%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666125.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666125.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666125.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666125.jpg</image>
+        </track>                    <track rank="183">
+    <name>Excited</name>
+    <duration>273</duration>
+            <playcount>136</playcount>
+                <listeners>95</listeners>
+    
+            <mbid>1bf47424-4c5c-4eb3-be25-81b1885c6f4e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Excited</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83918109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83918109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83918109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83918109.png</image>
+        </track>                    <track rank="184">
+    <name>Colonies</name>
+    <duration>529</duration>
+            <playcount>171</playcount>
+                <listeners>94</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Colonies</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/17933029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/17933029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/17933029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/17933029.jpg</image>
+        </track>                    <track rank="185">
+    <name>Ready For Love (1996)</name>
+    <duration>255</duration>
+            <playcount>187</playcount>
+                <listeners>91</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Ready+For+Love+(1996)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="186">
+    <name>Easy on My Soul [single mix]</name>
+    <duration></duration>
+            <playcount>149</playcount>
+                <listeners>90</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Easy+on+My+Soul+%5Bsingle+mix%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666125.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666125.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666125.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666125.jpg</image>
+        </track>                    <track rank="187">
+    <name>Sentient</name>
+    <duration>290</duration>
+            <playcount>183</playcount>
+                <listeners>89</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Sentient</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/17933029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/17933029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/17933029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/17933029.jpg</image>
+        </track>                    <track rank="188">
+    <name>Love Me Somebody (Remastered Album Version)</name>
+    <duration>189</duration>
+            <playcount>117</playcount>
+                <listeners>87</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Love+Me+Somebody+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>Gone, Gone, Gone (Remastered Album Version)</name>
+    <duration>228</duration>
+            <playcount>158</playcount>
+                <listeners>87</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Gone,+Gone,+Gone+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="190">
+    <name>The Pulse</name>
+    <duration>243</duration>
+            <playcount>145</playcount>
+                <listeners>86</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/The+Pulse</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="191">
+    <name>All Right Now - Free</name>
+    <duration>333</duration>
+            <playcount>177</playcount>
+                <listeners>85</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/All+Right+Now+-+Free</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="192">
+    <name>Joe Fabulous</name>
+    <duration>220</duration>
+            <playcount>161</playcount>
+                <listeners>85</listeners>
+    
+            <mbid>b856d8a1-4456-4eed-96e7-9ac95ab1339d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Joe+Fabulous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88131145.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88131145.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88131145.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88131145.jpg</image>
+        </track>                    <track rank="193">
+    <name>Kickdown</name>
+    <duration>217</duration>
+            <playcount>109</playcount>
+                <listeners>82</listeners>
+    
+            <mbid>30236ef7-4899-499d-bc72-320f76864d87</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Kickdown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89183835.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89183835.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89183835.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89183835.jpg</image>
+        </track>                    <track rank="194">
+    <name>Kick Down</name>
+    <duration>217</duration>
+            <playcount>115</playcount>
+                <listeners>81</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Bad+Company/_/Kick+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="195">
+    <name>Son Of Nitrous</name>
+    <duration>169</duration>
+            <playcount>136</playcount>
+                <listeners>81</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Son+Of+Nitrous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/75529456.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/75529456.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/75529456.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/75529456.jpg</image>
+        </track>                    <track rank="196">
+    <name>Do Right By Your Woman (Remastered Album Version)</name>
+    <duration>171</duration>
+            <playcount>110</playcount>
+                <listeners>81</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Do+Right+By+Your+Woman+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Love So Strong</name>
+    <duration>228</duration>
+            <playcount>109</playcount>
+                <listeners>80</listeners>
+    
+            <mbid>dcf63613-346c-4dd0-bb4a-694eb8f9fbb3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Love+So+Strong</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58985569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58985569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58985569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58985569.jpg</image>
+        </track>                    <track rank="198">
+    <name>Moving On</name>
+    <duration>204</duration>
+            <playcount>99</playcount>
+                <listeners>77</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Moving+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="199">
+    <name>Fade Away (Remastered Album Version)</name>
+    <duration>173</duration>
+            <playcount>136</playcount>
+                <listeners>77</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Fade+Away+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Whiskey Bottle [single mix]</name>
+    <duration></duration>
+            <playcount>113</playcount>
+                <listeners>76</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Bad+Company/_/Whiskey+Bottle+%5Bsingle+mix%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Bad Company</name>
+                <mbid>0053dbd9-bfbc-4e38-9f08-66a27d914c38</mbid>
+     
+        <url>http://www.last.fm/music/Bad+Company</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96666125.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96666125.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96666125.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96666125.jpg</image>
+        </track></toptracks></lfm>

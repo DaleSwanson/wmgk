@@ -1,0 +1,3973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Billy Joel" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Piano Man</name>
+    <duration>337</duration>
+            <playcount>126597</playcount>
+                <listeners>45578</listeners>
+    
+            <mbid>00d5a4ee-61e0-4b1a-9ef1-cfca399d8ad4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Piano+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="2">
+    <name>Uptown Girl</name>
+    <duration>217</duration>
+            <playcount>75531</playcount>
+                <listeners>30991</listeners>
+    
+            <mbid>d90da67d-eb0c-4e1c-81be-3a12bcf8fd13</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Uptown+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="3">
+    <name>We Didn't Start the Fire</name>
+    <duration>289</duration>
+            <playcount>70653</playcount>
+                <listeners>27031</listeners>
+    
+            <mbid>f3d30418-d51f-4096-90ee-c0604d3b0b89</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/We+Didn%27t+Start+the+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="4">
+    <name>She's Always a Woman</name>
+    <duration>200</duration>
+            <playcount>45439</playcount>
+                <listeners>18044</listeners>
+    
+            <mbid>029ce4ee-e108-4466-a44d-85afbc498f33</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Always+a+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="5">
+    <name>Just The Way You Are</name>
+    <duration>289</duration>
+            <playcount>41722</playcount>
+                <listeners>17306</listeners>
+    
+            <mbid>0ea1c5c6-67de-4ac8-bd5b-882c270e2ec8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Just+The+Way+You+Are</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/47231051.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/47231051.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47231051.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47231051.png</image>
+        </track>                    <track rank="6">
+    <name>Movin' Out (Anthony's Song)</name>
+    <duration>209</duration>
+            <playcount>38844</playcount>
+                <listeners>14821</listeners>
+    
+            <mbid>0eea5a5d-d6a5-47b1-924b-77fc3198767a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Movin%27+Out+(Anthony%27s+Song)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="7">
+    <name>The Longest Time</name>
+    <duration>218</duration>
+            <playcount>41031</playcount>
+                <listeners>14550</listeners>
+    
+            <mbid>4ca79a59-da43-4e3f-8f7f-5e2be564c5e0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Longest+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="8">
+    <name>The River of Dreams</name>
+    <duration>245</duration>
+            <playcount>30943</playcount>
+                <listeners>13138</listeners>
+    
+            <mbid>ec5f881e-cf84-4ba3-91a0-046b5a04e052</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+River+of+Dreams</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="9">
+    <name>Vienna</name>
+    <duration>214</duration>
+            <playcount>41032</playcount>
+                <listeners>12625</listeners>
+    
+            <mbid>f225d136-39b7-480c-8058-6441e2102887</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Vienna</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/47231051.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/47231051.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47231051.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47231051.png</image>
+        </track>                    <track rank="10">
+    <name>My Life</name>
+    <duration>283</duration>
+            <playcount>29236</playcount>
+                <listeners>11570</listeners>
+    
+            <mbid>a5709b3c-f5dd-4ae5-aa1b-7e0228c2e1ae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/My+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="11">
+    <name>It's Still Rock and Roll to Me</name>
+    <duration>177</duration>
+            <playcount>26182</playcount>
+                <listeners>11489</listeners>
+    
+            <mbid>fa51997f-be68-4812-a6e3-a74977f43da1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/It%27s+Still+Rock+and+Roll+to+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="12">
+    <name>New York State Of Mind</name>
+    <duration>362</duration>
+            <playcount>27137</playcount>
+                <listeners>11352</listeners>
+    
+            <mbid>07968413-800b-436e-af69-52c40a3d9fb7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="13">
+    <name>Only the Good Die Young</name>
+    <duration>233</duration>
+            <playcount>21276</playcount>
+                <listeners>9022</listeners>
+    
+            <mbid>0922cb5c-c499-4d5f-a255-3b6a25f62266</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Only+the+Good+Die+Young</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="14">
+    <name>You May Be Right</name>
+    <duration>253</duration>
+            <playcount>19701</playcount>
+                <listeners>8539</listeners>
+    
+            <mbid>453d62c0-6896-4d50-bd4a-d4fc775a6b78</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/You+May+Be+Right</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="15">
+    <name>Honesty</name>
+    <duration>234</duration>
+            <playcount>19923</playcount>
+                <listeners>8166</listeners>
+    
+            <mbid>c2801ad7-68b5-4e01-bcdf-d7df73050c68</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Honesty</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="16">
+    <name>Tell Her About It</name>
+    <duration>230</duration>
+            <playcount>17996</playcount>
+                <listeners>7815</listeners>
+    
+            <mbid>09cd2528-0475-479c-bcd7-651288accae0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Tell+Her+About+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="17">
+    <name>Scenes from an Italian Restaurant</name>
+    <duration>454</duration>
+            <playcount>16089</playcount>
+                <listeners>7092</listeners>
+    
+            <mbid>59e980e2-1000-4f3c-b8c3-d5a5ef46e161</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Scenes+from+an+Italian+Restaurant</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="18">
+    <name>Allentown</name>
+    <duration>232</duration>
+            <playcount>14853</playcount>
+                <listeners>6796</listeners>
+    
+            <mbid>555f7f9d-a814-41e9-b862-744d2f683028</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Allentown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="19">
+    <name>The Stranger</name>
+    <duration>310</duration>
+            <playcount>13869</playcount>
+                <listeners>5880</listeners>
+    
+            <mbid>204b039d-07da-4ef8-9edd-177a425776da</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Stranger</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/47231051.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/47231051.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47231051.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47231051.png</image>
+        </track>                    <track rank="20">
+    <name>Goodnight Saigon</name>
+    <duration>422</duration>
+            <playcount>12283</playcount>
+                <listeners>5850</listeners>
+    
+            <mbid>d4eb24d5-c38b-4905-84ae-f4fa5c0ea9f9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Goodnight+Saigon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="21">
+    <name>Captain Jack</name>
+    <duration>416</duration>
+            <playcount>11709</playcount>
+                <listeners>5759</listeners>
+    
+            <mbid>362aaff1-7713-470f-bc99-ae115aff04aa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Captain+Jack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="22">
+    <name>Only The Good Die Young - Single Version</name>
+    <duration>235</duration>
+            <playcount>12617</playcount>
+                <listeners>5635</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Only+The+Good+Die+Young+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="23">
+    <name>Don't Ask Me Why</name>
+    <duration>177</duration>
+            <playcount>12230</playcount>
+                <listeners>5617</listeners>
+    
+            <mbid>061cfabd-d913-46f1-9388-2e19dfd3b4c1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Don%27t+Ask+Me+Why</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="24">
+    <name>The Entertainer</name>
+    <duration>220</duration>
+            <playcount>12216</playcount>
+                <listeners>5481</listeners>
+    
+            <mbid>a8f43d56-cbb4-4b4e-a427-a423f208459c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Entertainer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="25">
+    <name>An Innocent Man</name>
+    <duration>318</duration>
+            <playcount>12337</playcount>
+                <listeners>5440</listeners>
+    
+            <mbid>ba63ed93-ba8f-4c93-92b3-d679fa6224ad</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/An+Innocent+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="26">
+    <name>She's Got a Way</name>
+    <duration>180</duration>
+            <playcount>12062</playcount>
+                <listeners>5349</listeners>
+    
+            <mbid>1b475b1e-fa2d-43c5-99da-fdf82a940657</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Got+a+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="27">
+    <name>A Matter Of Trust</name>
+    <duration>248</duration>
+            <playcount>13438</playcount>
+                <listeners>5281</listeners>
+    
+            <mbid>f0e99aa0-4018-43af-b5f6-c00dda6f487d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/A+Matter+Of+Trust</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="28">
+    <name>Big Shot</name>
+    <duration>242</duration>
+            <playcount>11110</playcount>
+                <listeners>5130</listeners>
+    
+            <mbid>26e4f689-dc68-4d52-a6b9-b474115f82f1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Big+Shot</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="29">
+    <name>The Downeaster &quot;Alexa&quot;</name>
+    <duration>223</duration>
+            <playcount>13303</playcount>
+                <listeners>5003</listeners>
+    
+            <mbid>04eaa65c-ad22-4af8-86a9-35a1ac434fbb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Downeaster+%22Alexa%22</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="30">
+    <name>Say Goodbye to Hollywood</name>
+    <duration>276</duration>
+            <playcount>10013</playcount>
+                <listeners>4986</listeners>
+    
+            <mbid>3e192415-3626-424d-b089-c39af522e08f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Say+Goodbye+to+Hollywood</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="31">
+    <name>You're My Home</name>
+    <duration>193</duration>
+            <playcount>8310</playcount>
+                <listeners>4185</listeners>
+    
+            <mbid>93274bdc-5842-49df-811e-525ced5d7bb2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/You%27re+My+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="32">
+    <name>And So It Goes</name>
+    <duration>255</duration>
+            <playcount>10515</playcount>
+                <listeners>3905</listeners>
+    
+            <mbid>f13d1aaf-ceba-4196-8da6-8ddde2d27829</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/And+So+It+Goes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="33">
+    <name>Leningrad</name>
+    <duration>243</duration>
+            <playcount>8189</playcount>
+                <listeners>3714</listeners>
+    
+            <mbid>27076bda-0304-44e5-a18c-7c06d84c1106</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Leningrad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="34">
+    <name>Pressure</name>
+    <duration>279</duration>
+            <playcount>7404</playcount>
+                <listeners>3695</listeners>
+    
+            <mbid>d6985b25-a4d6-4396-86d2-5f3cc30c6969</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Pressure</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="35">
+    <name>I Go to Extremes</name>
+    <duration>260</duration>
+            <playcount>7655</playcount>
+                <listeners>3633</listeners>
+    
+            <mbid>f15fe2e2-9f5a-4658-956f-714b0a4a8024</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/I+Go+to+Extremes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="36">
+    <name>Lullabye (Goodnight, My Angel)</name>
+    <duration>213</duration>
+            <playcount>7681</playcount>
+                <listeners>3457</listeners>
+    
+            <mbid>07f60654-35d2-4cac-8f4d-9f03901b2186</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Lullabye+(Goodnight,+My+Angel)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="37">
+    <name>It's Still Rock &amp; Roll To Me</name>
+    <duration>249</duration>
+            <playcount>7254</playcount>
+                <listeners>2904</listeners>
+    
+            <mbid>71ff7557-59c0-4896-ad77-61c9fcb65257</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/It%27s+Still+Rock+&amp;+Roll+To+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002BVU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002BVU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002BVU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002BVU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="38">
+    <name>Leave a Tender Moment Alone</name>
+    <duration>231</duration>
+            <playcount>5458</playcount>
+                <listeners>2620</listeners>
+    
+            <mbid>3993184c-cb73-4261-b331-8c3e70dc7713</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Leave+a+Tender+Moment+Alone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="39">
+    <name>Get It Right the First Time</name>
+    <duration>237</duration>
+            <playcount>4138</playcount>
+                <listeners>2311</listeners>
+    
+            <mbid>44b706f9-2506-458a-bcd1-ba6f84911591</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Get+It+Right+the+First+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/47231051.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/47231051.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47231051.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47231051.png</image>
+        </track>                    <track rank="40">
+    <name>Everybody Loves You Now</name>
+    <duration>190</duration>
+            <playcount>5022</playcount>
+                <listeners>2202</listeners>
+    
+            <mbid>057c36d7-817a-40c3-b672-22bc65559d7c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Everybody+Loves+You+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="41">
+    <name>Uptown Girl - Live</name>
+    <duration>188</duration>
+            <playcount>3512</playcount>
+                <listeners>2067</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Uptown+Girl+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="42">
+    <name>All For Leyna</name>
+    <duration>252</duration>
+            <playcount>4765</playcount>
+                <listeners>2058</listeners>
+    
+            <mbid>51574817-f082-4b1a-aced-e6b70e0f9202</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+For+Leyna</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="43">
+    <name>Everybody Has a Dream</name>
+    <duration>396</duration>
+            <playcount>3540</playcount>
+                <listeners>1960</listeners>
+    
+            <mbid>39afb557-bfb9-4ee8-9abb-3d60e3748628</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Everybody+Has+a+Dream</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/47231051.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/47231051.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47231051.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47231051.png</image>
+        </track>                    <track rank="44">
+    <name>You're Only Human (Second Wind)</name>
+    <duration>288</duration>
+            <playcount>3872</playcount>
+                <listeners>1942</listeners>
+    
+            <mbid>7f6800f3-9dfa-44e0-ab20-a598620eb8d4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/You%27re+Only+Human+(Second+Wind)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="45">
+    <name>Keeping the Faith</name>
+    <duration>278</duration>
+            <playcount>4120</playcount>
+                <listeners>1938</listeners>
+    
+            <mbid>037b4c9a-b52a-4d79-aaa1-41428dcd2578</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Keeping+the+Faith</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="46">
+    <name>The Ballad Of Billy The Kid</name>
+    <duration>343</duration>
+            <playcount>3914</playcount>
+                <listeners>1898</listeners>
+    
+            <mbid>00a6b7a2-ccb9-41e2-953c-e80be101464f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Ballad+Of+Billy+The+Kid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="47">
+    <name>This Is The Time</name>
+    <duration>299</duration>
+            <playcount>4119</playcount>
+                <listeners>1844</listeners>
+    
+            <mbid>5cd5f804-5059-4a96-9569-c9de653874f9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/This+Is+The+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="48">
+    <name>Miami 2017 (I've Seen the Lights Go Out on Broadway)</name>
+    <duration>312</duration>
+            <playcount>3323</playcount>
+                <listeners>1622</listeners>
+    
+            <mbid>69d60085-c937-4719-a3d7-97e67f5b249f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Miami+2017+(I%27ve+Seen+the+Lights+Go+Out+on+Broadway)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="49">
+    <name>Miami 2017 (Seen the Lights Go Out on Broadway)</name>
+    <duration>313</duration>
+            <playcount>3505</playcount>
+                <listeners>1539</listeners>
+    
+            <mbid>57caa629-0a5e-4d5d-95d6-ba10e62d0eb8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Miami+2017+(Seen+the+Lights+Go+Out+on+Broadway)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="50">
+    <name>Summer, Highland Falls</name>
+    <duration>199</duration>
+            <playcount>4088</playcount>
+                <listeners>1505</listeners>
+    
+            <mbid>d5fb8ceb-92dc-4989-b6c8-4de5001d4164</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Summer,+Highland+Falls</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153147.png</image>
+        </track>                    <track rank="51">
+    <name>The Night Is Still Young</name>
+    <duration>326</duration>
+            <playcount>2522</playcount>
+                <listeners>1443</listeners>
+    
+            <mbid>65514c96-6c53-409a-a919-827df371bdf3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Night+Is+Still+Young</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131857.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131857.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131857.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131857.png</image>
+        </track>                    <track rank="52">
+    <name>Zanzibar</name>
+    <duration>310</duration>
+            <playcount>2945</playcount>
+                <listeners>1438</listeners>
+    
+            <mbid>07aa0201-b9d7-442f-8ac2-624ecb9a3800</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Zanzibar</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="53">
+    <name>Travelin' Prayer</name>
+    <duration>256</duration>
+            <playcount>2511</playcount>
+                <listeners>1376</listeners>
+    
+            <mbid>3295404e-8c0d-4436-9ddd-083884ffcf0b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Travelin%27+Prayer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="54">
+    <name>She's Got A Way - live</name>
+    <duration></duration>
+            <playcount>2641</playcount>
+                <listeners>1371</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Got+A+Way+-+live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="55">
+    <name>Stiletto</name>
+    <duration>282</duration>
+            <playcount>2604</playcount>
+                <listeners>1329</listeners>
+    
+            <mbid>2dbec886-bf64-4371-9a55-5ea8d80dd91a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Stiletto</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="56">
+    <name>All About Soul</name>
+    <duration>128</duration>
+            <playcount>3356</playcount>
+                <listeners>1305</listeners>
+    
+            <mbid>7e2377bb-ef69-4b2d-9b48-dcbb671f6b1b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+About+Soul</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="57">
+    <name>Streetlife Serenader</name>
+    <duration>317</duration>
+            <playcount>2584</playcount>
+                <listeners>1278</listeners>
+    
+            <mbid>1a2a536a-b456-4966-a471-463f93763da8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Streetlife+Serenader</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="58">
+    <name>Ain't No Crime</name>
+    <duration>197</duration>
+            <playcount>2254</playcount>
+                <listeners>1235</listeners>
+    
+            <mbid>41d76ee4-8fef-45a7-9597-cb16b4277a60</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Ain%27t+No+Crime</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="59">
+    <name>Shameless</name>
+    <duration>266</duration>
+            <playcount>2242</playcount>
+                <listeners>1223</listeners>
+    
+            <mbid>64f3a388-68b2-417b-a7e2-d7c29c4a35fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Shameless</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="60">
+    <name>Rosalinda's Eyes</name>
+    <duration>280</duration>
+            <playcount>2377</playcount>
+                <listeners>1206</listeners>
+    
+            <mbid>08372680-3ada-4f12-8788-886ea7dc5fcb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Rosalinda%27s+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="61">
+    <name>This Night</name>
+    <duration>257</duration>
+            <playcount>2156</playcount>
+                <listeners>1103</listeners>
+    
+            <mbid>aea83083-bd59-42b3-a8a0-5bbfe7e46306</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/This+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="62">
+    <name>Easy Money</name>
+    <duration>76</duration>
+            <playcount>2058</playcount>
+                <listeners>1097</listeners>
+    
+            <mbid>88c65b0f-ce08-4c31-8083-d5fb676ea894</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Easy+Money</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="63">
+    <name>Baby Grand</name>
+    <duration>348</duration>
+            <playcount>2610</playcount>
+                <listeners>1096</listeners>
+    
+            <mbid>23cb46cf-910d-48a4-a6dd-27b82259507a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Baby+Grand</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130583.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130583.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130583.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130583.png</image>
+        </track>                    <track rank="64">
+    <name>Worse Comes To Worst</name>
+    <duration>195</duration>
+            <playcount>1881</playcount>
+                <listeners>1085</listeners>
+    
+            <mbid>73981d31-9319-4ad3-9be0-576cc1d85035</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Worse+Comes+To+Worst</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="65">
+    <name>Until the Night</name>
+    <duration>395</duration>
+            <playcount>2080</playcount>
+                <listeners>1085</listeners>
+    
+            <mbid>c5bb8da3-f85b-4122-86ca-e54b16d2a2fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Until+the+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="66">
+    <name>Modern Woman</name>
+    <duration>227</duration>
+            <playcount>2167</playcount>
+                <listeners>1057</listeners>
+    
+            <mbid>178792f5-813a-45d5-93d2-b5743fbd8699</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Modern+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="67">
+    <name>Stop In Nevada</name>
+    <duration>235</duration>
+            <playcount>1882</playcount>
+                <listeners>1047</listeners>
+    
+            <mbid>c2fc50f6-ede6-4f05-8b9d-2c71a7f41743</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Stop+In+Nevada</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="68">
+    <name>Half A Mile Away</name>
+    <duration>248</duration>
+            <playcount>1949</playcount>
+                <listeners>1028</listeners>
+    
+            <mbid>10592ebc-737a-4027-bcf8-05b0b15e82f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Half+A+Mile+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="69">
+    <name>For The Longest Time</name>
+    <duration>217</duration>
+            <playcount>2956</playcount>
+                <listeners>1026</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/For+The+Longest+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="70">
+    <name>She's Got a Way (Live)</name>
+    <duration>179</duration>
+            <playcount>2362</playcount>
+                <listeners>1023</listeners>
+    
+            <mbid>e25d3de0-af0d-4c24-863a-bfe8e2c825c8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Got+a+Way+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="71">
+    <name>Somewhere Along The Line</name>
+    <duration>200</duration>
+            <playcount>1804</playcount>
+                <listeners>997</listeners>
+    
+            <mbid>187660cf-718e-419e-b1de-170d947fc12d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Somewhere+Along+The+Line</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="72">
+    <name>Sometimes a Fantasy</name>
+    <duration>218</duration>
+            <playcount>2229</playcount>
+                <listeners>991</listeners>
+    
+            <mbid>3fb42a83-e536-40e4-b521-dfe7f45a126f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Sometimes+a+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153419.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153419.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153419.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153419.png</image>
+        </track>                    <track rank="73">
+    <name>52nd Street</name>
+    <duration>146</duration>
+            <playcount>1712</playcount>
+                <listeners>972</listeners>
+    
+            <mbid>31383d53-29b2-4b24-a2d7-1b9e6235e7eb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/52nd+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84157225.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84157225.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84157225.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84157225.png</image>
+        </track>                    <track rank="74">
+    <name>I've Loved These Days</name>
+    <duration>274</duration>
+            <playcount>1991</playcount>
+                <listeners>971</listeners>
+    
+            <mbid>a4881da1-40cd-4767-9dcd-f440a9bc4633</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/I%27ve+Loved+These+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153147.png</image>
+        </track>                    <track rank="75">
+    <name>If I Only Had The Words (To Tell You)</name>
+    <duration>214</duration>
+            <playcount>1710</playcount>
+                <listeners>970</listeners>
+    
+            <mbid>72d5ebbd-047b-4808-acfb-b9a023abe3fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/If+I+Only+Had+The+Words+(To+Tell+You)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="76">
+    <name>Piano Man - Radio Edit</name>
+    <duration>274</duration>
+            <playcount>2001</playcount>
+                <listeners>925</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Piano+Man+-+Radio+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="77">
+    <name>Souvenir</name>
+    <duration>128</duration>
+            <playcount>2320</playcount>
+                <listeners>914</listeners>
+    
+            <mbid>4caa0e6a-bcfa-495b-86d1-6971bae46adf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Souvenir</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/47231051.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/47231051.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47231051.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47231051.png</image>
+        </track>                    <track rank="78">
+    <name>To Make You Feel My Love</name>
+    <duration>230</duration>
+            <playcount>1799</playcount>
+                <listeners>899</listeners>
+    
+            <mbid>1bf51e3f-dd54-43d0-9ec0-1f6a57a86d6b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/To+Make+You+Feel+My+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130973.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130973.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130973.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130973.png</image>
+        </track>                    <track rank="79">
+    <name>She Always A Woman</name>
+    <duration>200</duration>
+            <playcount>1688</playcount>
+                <listeners>879</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She+Always+A+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131857.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131857.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131857.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131857.png</image>
+        </track>                    <track rank="80">
+    <name>Nocturne</name>
+    <duration>177</duration>
+            <playcount>1757</playcount>
+                <listeners>873</listeners>
+    
+            <mbid>e8901352-68a5-48b3-8369-237b60031669</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Nocturne</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="81">
+    <name>I Don't Want to Be Alone</name>
+    <duration>237</duration>
+            <playcount>1649</playcount>
+                <listeners>852</listeners>
+    
+            <mbid>d242f2cb-69f7-4892-80d9-8fd311dd8764</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/I+Don%27t+Want+to+Be+Alone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131595.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131595.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131595.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131595.png</image>
+        </track>                    <track rank="82">
+    <name>James</name>
+    <duration>235</duration>
+            <playcount>1679</playcount>
+                <listeners>834</listeners>
+    
+            <mbid>8cfef31b-a4b4-40cc-b46f-1117fd2da8c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/James</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153147.png</image>
+        </track>                    <track rank="83">
+    <name>Careless Talk</name>
+    <duration>226</duration>
+            <playcount>1468</playcount>
+                <listeners>819</listeners>
+    
+            <mbid>0fce6ab7-0b97-42a1-b476-ef4c4fe9fea8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Careless+Talk</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="84">
+    <name>The Downeaster 'Alexa'</name>
+    <duration>223</duration>
+            <playcount>2358</playcount>
+                <listeners>811</listeners>
+    
+            <mbid>618b89a0-77e3-434b-8f9b-548f2420b5a0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Downeaster+%27Alexa%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="85">
+    <name>River of Dreams</name>
+    <duration>331</duration>
+            <playcount>1778</playcount>
+                <listeners>793</listeners>
+    
+            <mbid>dcb159f8-0d40-40f6-87c6-c003aaed1c13</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/River+of+Dreams</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132113.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132113.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132113.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132113.png</image>
+        </track>                    <track rank="86">
+    <name>Close to the Borderline</name>
+    <duration>226</duration>
+            <playcount>1450</playcount>
+                <listeners>784</listeners>
+    
+            <mbid>588244cc-c8b8-448d-b266-e7a033cd41ff</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Close+to+the+Borderline</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131595.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131595.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131595.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131595.png</image>
+        </track>                    <track rank="87">
+    <name>Christie Lee</name>
+    <duration>170</duration>
+            <playcount>1474</playcount>
+                <listeners>779</listeners>
+    
+            <mbid>0fc9f71e-09d6-401b-8657-bb2d6c4fbcc9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Christie+Lee</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132409.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132409.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132409.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132409.png</image>
+        </track>                    <track rank="88">
+    <name>Baby Grand - Duet With Ray Charles</name>
+    <duration>243</duration>
+            <playcount>1379</playcount>
+                <listeners>769</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Baby+Grand+-+Duet+With+Ray+Charles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="89">
+    <name>Prelude/Angry Young Man</name>
+    <duration>316</duration>
+            <playcount>1720</playcount>
+                <listeners>735</listeners>
+    
+            <mbid>334351ce-8820-4c8d-b57f-424e7c93d389</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Prelude%2FAngry+Young+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153147.png</image>
+        </track>                    <track rank="90">
+    <name>C'etait toi (You Were the One)</name>
+    <duration>204</duration>
+            <playcount>1360</playcount>
+                <listeners>729</listeners>
+    
+            <mbid>a7bd95a5-4827-4f94-a070-f4a6482b3ae8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/C%27etait+toi+(You+Were+the+One)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131595.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131595.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131595.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131595.png</image>
+        </track>                    <track rank="91">
+    <name>The Great Wall Of China</name>
+    <duration>347</duration>
+            <playcount>1345</playcount>
+                <listeners>728</listeners>
+    
+            <mbid>76af448e-dd81-4495-b2e3-6322114c6e7b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Great+Wall+Of+China</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="92">
+    <name>No Man's Land</name>
+    <duration>287</duration>
+            <playcount>1371</playcount>
+                <listeners>724</listeners>
+    
+            <mbid>c4bcf7bd-681a-43d6-8d78-6e50526f883f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/No+Man%27s+Land</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="93">
+    <name>She's Always a Woman to Me</name>
+    <duration>192</duration>
+            <playcount>1737</playcount>
+                <listeners>722</listeners>
+    
+            <mbid>990c8f46-d01a-4f5e-8653-ef65e1f8d998</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Always+a+Woman+to+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="94">
+    <name>She's Right On Time</name>
+    <duration>253</duration>
+            <playcount>1158</playcount>
+                <listeners>718</listeners>
+    
+            <mbid>d8f56c8c-b367-4bf8-ae4c-968ec0590291</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Right+On+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="95">
+    <name>Laura</name>
+    <duration>303</duration>
+            <playcount>1720</playcount>
+                <listeners>714</listeners>
+    
+            <mbid>1d0c0fe2-265b-42a9-8cfc-e2ebbd6ed14f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Laura</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="96">
+    <name>Through the Long Night</name>
+    <duration>163</duration>
+            <playcount>1414</playcount>
+                <listeners>707</listeners>
+    
+            <mbid>596dcb0d-5b2a-4c03-b156-ca77efd7b804</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Through+the+Long+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131595.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131595.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131595.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131595.png</image>
+        </track>                    <track rank="97">
+    <name>That's Not Her Style</name>
+    <duration>308</duration>
+            <playcount>1213</playcount>
+                <listeners>697</listeners>
+    
+            <mbid>564fda85-6e23-4bc1-bc55-bb789db84fbe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/That%27s+Not+Her+Style</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="98">
+    <name>All About Soul (Remix)</name>
+    <duration>358</duration>
+            <playcount>1331</playcount>
+                <listeners>695</listeners>
+    
+            <mbid>bdfb02ca-3ab3-4e5d-ad09-0eec017d8710</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+About+Soul+(Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="99">
+    <name>Sometimes A Fantasy - Live</name>
+    <duration>218</duration>
+            <playcount>1209</playcount>
+                <listeners>692</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Sometimes+A+Fantasy+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="100">
+    <name>State of Grace</name>
+    <duration>268</duration>
+            <playcount>1151</playcount>
+                <listeners>684</listeners>
+    
+            <mbid>06089d90-2743-48bf-891c-f0859a74a661</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/State+of+Grace</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="101">
+    <name>Los Angelenos</name>
+    <duration>220</duration>
+            <playcount>1421</playcount>
+                <listeners>681</listeners>
+    
+            <mbid>0936174a-1953-4e4d-ac96-658900c7ea23</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Los+Angelenos</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="102">
+    <name>Tomorrow Is Today</name>
+    <duration>278</duration>
+            <playcount>1587</playcount>
+                <listeners>678</listeners>
+    
+            <mbid>0b7c63c1-6da1-4b8d-b69e-98d2b70833fb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Tomorrow+Is+Today</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="103">
+    <name>All You Wanna Do Is Dance</name>
+    <duration>225</duration>
+            <playcount>1180</playcount>
+                <listeners>672</listeners>
+    
+            <mbid>cf257408-75c3-4270-96c9-cc72311f5a3f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+You+Wanna+Do+Is+Dance</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153147.png</image>
+        </track>                    <track rank="104">
+    <name>Two Thousand Years</name>
+    <duration>319</duration>
+            <playcount>1252</playcount>
+                <listeners>657</listeners>
+    
+            <mbid>15a67a3c-7e8a-4bc5-8bf0-f55542b25eba</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Two+Thousand+Years</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="105">
+    <name>Storm Front</name>
+    <duration>316</duration>
+            <playcount>1141</playcount>
+                <listeners>652</listeners>
+    
+            <mbid>8c464c40-af08-46c4-a9b7-aa2f2e0a0090</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Storm+Front</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="106">
+    <name>Blonde Over Blue</name>
+    <duration>295</duration>
+            <playcount>1124</playcount>
+                <listeners>644</listeners>
+    
+            <mbid>cf202ed6-a144-4765-9589-38482ca42f26</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Blonde+Over+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="107">
+    <name>Light As The Breeze</name>
+    <duration>373</duration>
+            <playcount>1163</playcount>
+                <listeners>644</listeners>
+    
+            <mbid>9913fe6e-af22-4a0c-b332-ff48252b9e33</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Light+As+The+Breeze</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130973.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130973.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130973.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130973.png</image>
+        </track>                    <track rank="108">
+    <name>Falling of the Rain</name>
+    <duration>157</duration>
+            <playcount>1278</playcount>
+                <listeners>640</listeners>
+    
+            <mbid>02e53f00-38f3-451f-96d3-6c3a2b9265b3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Falling+of+the+Rain</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="109">
+    <name>Piano Man (live)</name>
+    <duration>390</duration>
+            <playcount>1270</playcount>
+                <listeners>636</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Piano+Man+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="110">
+    <name>You Can Make Me Free</name>
+    <duration>175</duration>
+            <playcount>1175</playcount>
+                <listeners>631</listeners>
+    
+            <mbid>2574ab85-b003-4d4e-bb14-d95468642be5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/You+Can+Make+Me+Free</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="111">
+    <name>Scandinavian Skies</name>
+    <duration>358</duration>
+            <playcount>1367</playcount>
+                <listeners>622</listeners>
+    
+            <mbid>19d5bd66-ac32-4153-b856-3f49f296c763</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Scandinavian+Skies</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="112">
+    <name>Sleeping With the Television On</name>
+    <duration>182</duration>
+            <playcount>1305</playcount>
+                <listeners>618</listeners>
+    
+            <mbid>e5cd0564-fd67-499b-b9b8-ce040ddda76f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Sleeping+With+the+Television+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131595.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131595.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131595.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131595.png</image>
+        </track>                    <track rank="113">
+    <name>Prelude/Angry Young Man - Live At Shea, 2008</name>
+    <duration>346</duration>
+            <playcount>916</playcount>
+                <listeners>609</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Prelude%2FAngry+Young+Man+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="114">
+    <name>Invention In C minor</name>
+    <duration>60</duration>
+            <playcount>1102</playcount>
+                <listeners>604</listeners>
+    
+            <mbid>2d2fad3d-4f68-4935-b8cd-01d5ed4133e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Invention+In+C+minor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="115">
+    <name>Why Should I Worry?</name>
+    <duration>215</duration>
+            <playcount>2003</playcount>
+                <listeners>601</listeners>
+    
+            <mbid>aa865017-cf66-4f6f-8e24-e91cee5d0b70</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Why+Should+I+Worry%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/71299656.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/71299656.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/71299656.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/71299656.jpg</image>
+        </track>                    <track rank="116">
+    <name>All About Soul - Remix</name>
+    <duration>359</duration>
+            <playcount>1016</playcount>
+                <listeners>597</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+About+Soul+-+Remix</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="117">
+    <name>Hey Girl</name>
+    <duration>235</duration>
+            <playcount>1026</playcount>
+                <listeners>593</listeners>
+    
+            <mbid>3ef98168-7ba2-4360-b94f-0c951a536fcc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Hey+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130973.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130973.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130973.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130973.png</image>
+        </track>                    <track rank="118">
+    <name>Famous Last Words</name>
+    <duration>293</duration>
+            <playcount>966</playcount>
+                <listeners>590</listeners>
+    
+            <mbid>d7c330dc-6151-4999-944e-e9c940d69002</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Famous+Last+Words</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="119">
+    <name>My Life - Live At Shea, 2008</name>
+    <duration>330</duration>
+            <playcount>886</playcount>
+                <listeners>588</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/My+Life+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="120">
+    <name>Big Man On Mulberry Street</name>
+    <duration>326</duration>
+            <playcount>1057</playcount>
+                <listeners>586</listeners>
+    
+            <mbid>63290f0b-45d9-415f-a9ad-00c6a8a682b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Big+Man+On+Mulberry+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130583.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130583.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130583.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130583.png</image>
+        </track>                    <track rank="121">
+    <name>Shades Of Grey</name>
+    <duration>251</duration>
+            <playcount>1121</playcount>
+                <listeners>585</listeners>
+    
+            <mbid>293b6537-dbff-4ab4-89fe-3a622a1278f7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Shades+Of+Grey</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="122">
+    <name>When In Rome</name>
+    <duration>284</duration>
+            <playcount>1169</playcount>
+                <listeners>576</listeners>
+    
+            <mbid>8e13cb68-2311-41e9-91ce-cad5b4e67750</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/When+In+Rome</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84151953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84151953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84151953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84151953.png</image>
+        </track>                    <track rank="123">
+    <name>Why Judy Why</name>
+    <duration>175</duration>
+            <playcount>1061</playcount>
+                <listeners>563</listeners>
+    
+            <mbid>5daf91cb-04f4-45ae-8fea-415bf7fd65f0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Why+Judy+Why</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="124">
+    <name>A Minor Variation</name>
+    <duration>336</duration>
+            <playcount>963</playcount>
+                <listeners>563</listeners>
+    
+            <mbid>eccf82ef-4531-42a7-9812-faef10c1d2bd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/A+Minor+Variation</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70951474.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70951474.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70951474.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70951474.png</image>
+        </track>                    <track rank="125">
+    <name>New York State Of Mind - Live At Shea, 2008</name>
+    <duration>410</duration>
+            <playcount>864</playcount>
+                <listeners>561</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="126">
+    <name>A Room of Our Own</name>
+    <duration>240</duration>
+            <playcount>907</playcount>
+                <listeners>552</listeners>
+    
+            <mbid>76125962-3ef2-4e53-bce9-53de659c7ea0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/A+Room+of+Our+Own</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="127">
+    <name>Turn Around</name>
+    <duration>183</duration>
+            <playcount>1000</playcount>
+                <listeners>543</listeners>
+    
+            <mbid>4a068b9f-5ddf-4cd6-9882-9a06d0aa95fb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Turn+Around</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="128">
+    <name>Why Should I Worry</name>
+    <duration>213</duration>
+            <playcount>1760</playcount>
+                <listeners>524</listeners>
+    
+            <mbid>4e9c3a86-0632-4c34-9d39-275b088d7f87</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Why+Should+I+Worry</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/71189158.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/71189158.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/71189158.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/71189158.png</image>
+        </track>                    <track rank="129">
+    <name>Got to Begin Again</name>
+    <duration>169</duration>
+            <playcount>1071</playcount>
+                <listeners>522</listeners>
+    
+            <mbid>10728f8e-689e-45f3-8679-d5e1a4ba1638</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Got+to+Begin+Again</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="130">
+    <name>You Look so Good to Me</name>
+    <duration>146</duration>
+            <playcount>918</playcount>
+                <listeners>516</listeners>
+    
+            <mbid>2a177ea0-c1ba-465e-8faf-d5f875c2f470</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/You+Look+so+Good+to+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130789.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130789.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130789.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130789.png</image>
+        </track>                    <track rank="131">
+    <name>Summer, Highland Falls - Live At Shea, 2008</name>
+    <duration>222</duration>
+            <playcount>782</playcount>
+                <listeners>512</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Summer,+Highland+Falls+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="132">
+    <name>Temptation</name>
+    <duration>254</duration>
+            <playcount>1007</playcount>
+                <listeners>503</listeners>
+    
+            <mbid>5a9cf1f3-5d13-41db-9bcd-c61559a57f8e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Temptation</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130583.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130583.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130583.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130583.png</image>
+        </track>                    <track rank="133">
+    <name>Piano Man - Rehearsal take</name>
+    <duration>266</duration>
+            <playcount>595</playcount>
+                <listeners>490</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Piano+Man+-+Rehearsal+take</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="134">
+    <name>Running On Ice</name>
+    <duration>195</duration>
+            <playcount>1080</playcount>
+                <listeners>486</listeners>
+    
+            <mbid>024c1557-3437-4854-b9b9-ea07058d989d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Running+On+Ice</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130583.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130583.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130583.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130583.png</image>
+        </track>                    <track rank="135">
+    <name>Surprises</name>
+    <duration>206</duration>
+            <playcount>800</playcount>
+                <listeners>485</listeners>
+    
+            <mbid>c5984702-44ec-42c4-867f-f96e49e63ce4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Surprises</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="136">
+    <name>She's Got A Way (Live1977)</name>
+    <duration>63</duration>
+            <playcount>1112</playcount>
+                <listeners>478</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Got+A+Way+(Live1977)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="137">
+    <name>Prelude / Angry Young Man</name>
+    <duration>316</duration>
+            <playcount>1025</playcount>
+                <listeners>476</listeners>
+    
+            <mbid>9e4c8aa5-2c0d-43c6-b830-6c06ec650966</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Prelude+%2F+Angry+Young+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153147.png</image>
+        </track>                    <track rank="138">
+    <name>Just The Way You Are (Live1977)</name>
+    <duration>296</duration>
+            <playcount>1127</playcount>
+                <listeners>476</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Just+The+Way+You+Are+(Live1977)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="139">
+    <name>She's Always A Woman (Live)</name>
+    <duration>215</duration>
+            <playcount>937</playcount>
+                <listeners>471</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Always+A+Woman+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="140">
+    <name>The Great Suburban Showdown</name>
+    <duration>225</duration>
+            <playcount>829</playcount>
+                <listeners>463</listeners>
+    
+            <mbid>15cd965d-6438-46d8-8160-206f9efd3653</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Great+Suburban+Showdown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="141">
+    <name>Piano Man (Radio Edit)</name>
+    <duration>273</duration>
+            <playcount>1190</playcount>
+                <listeners>453</listeners>
+    
+            <mbid>c8c7bd69-098a-4b5e-966f-4ba66374cda2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Piano+Man+(Radio+Edit)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="142">
+    <name>She's Got A Way [live]</name>
+    <duration>182</duration>
+            <playcount>783</playcount>
+                <listeners>445</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Got+A+Way+%5Blive%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="143">
+    <name>Everybody Loves You Now - Live At Shea, 2008</name>
+    <duration>185</duration>
+            <playcount>655</playcount>
+                <listeners>443</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Everybody+Loves+You+Now+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="144">
+    <name>Roberta</name>
+    <duration>273</duration>
+            <playcount>789</playcount>
+                <listeners>439</listeners>
+    
+            <mbid>ef500ccb-81c8-437c-b3d1-cc632e50b3c6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Roberta</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="145">
+    <name>Only the Good Die Young (Single Version)</name>
+    <duration>233</duration>
+            <playcount>1117</playcount>
+                <listeners>437</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Only+the+Good+Die+Young+(Single+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Weekend Song</name>
+    <duration>210</duration>
+            <playcount>707</playcount>
+                <listeners>429</listeners>
+    
+            <mbid>01ba8815-2934-4d87-afa8-a558e14564e9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Weekend+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="147">
+    <name>Waltz No. 1 (Nunley's Carousel)</name>
+    <duration>412</duration>
+            <playcount>737</playcount>
+                <listeners>422</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Waltz+No.+1+(Nunley%27s+Carousel)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35679163.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35679163.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35679163.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35679163.png</image>
+        </track>                    <track rank="148">
+    <name>She's Always A Woman - Live</name>
+    <duration>225</duration>
+            <playcount>516</playcount>
+                <listeners>418</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Always+A+Woman+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="149">
+    <name>Allentown - Live At Shea, 2008</name>
+    <duration>231</duration>
+            <playcount>601</playcount>
+                <listeners>411</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Allentown+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="150">
+    <name>All About Soul [Remix]</name>
+    <duration>361</duration>
+            <playcount>893</playcount>
+                <listeners>409</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+About+Soul+%5BRemix%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132113.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132113.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132113.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132113.png</image>
+        </track>                    <track rank="151">
+    <name>Piano Man - Live At Shea, 2008</name>
+    <duration>353</duration>
+            <playcount>649</playcount>
+                <listeners>406</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Piano+Man+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="152">
+    <name>Sleeping With the Televison On</name>
+    <duration>180</duration>
+            <playcount>910</playcount>
+                <listeners>405</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Sleeping+With+the+Televison+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84131595.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84131595.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84131595.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84131595.png</image>
+        </track>                    <track rank="153">
+    <name>The Mexican Connection</name>
+    <duration>216</duration>
+            <playcount>657</playcount>
+                <listeners>401</listeners>
+    
+            <mbid>17a01d18-4500-489f-b3fd-7137493b82a2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Mexican+Connection</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="154">
+    <name>She's Always A Woman - Live At Shea, 2008</name>
+    <duration>225</duration>
+            <playcount>608</playcount>
+                <listeners>401</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Always+A+Woman+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="155">
+    <name>Just The Way You Are - Radio Edit</name>
+    <duration>199</duration>
+            <playcount>700</playcount>
+                <listeners>399</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Just+The+Way+You+Are+-+Radio+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="156">
+    <name>Last of the Big Time Spenders</name>
+    <duration>275</duration>
+            <playcount>690</playcount>
+                <listeners>398</listeners>
+    
+            <mbid>ff4da9ba-2b47-4f8e-bc9d-3c9efa72ec86</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Last+of+the+Big+Time+Spenders</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="157">
+    <name>Zanzibar - Live At Shea, 2008</name>
+    <duration>337</duration>
+            <playcount>599</playcount>
+                <listeners>396</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Zanzibar+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="158">
+    <name>Let It Be - Live At Shea, 2008</name>
+    <duration>312</duration>
+            <playcount>593</playcount>
+                <listeners>389</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Let+It+Be+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="159">
+    <name>Root Beer Rag</name>
+    <duration>159</duration>
+            <playcount>795</playcount>
+                <listeners>387</listeners>
+    
+            <mbid>299114d8-4017-4788-8bc1-42e1b6541201</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Root+Beer+Rag</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84152955.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84152955.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84152955.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84152955.png</image>
+        </track>                    <track rank="160">
+    <name>Just The Way You Are - Live Version</name>
+    <duration>296</duration>
+            <playcount>482</playcount>
+                <listeners>374</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Just+The+Way+You+Are+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="161">
+    <name>Prelude / Angry Young Man - Live</name>
+    <duration>323</duration>
+            <playcount>487</playcount>
+                <listeners>372</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Prelude+%2F+Angry+Young+Man+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="162">
+    <name>Back In The U.S.S.R. - Live</name>
+    <duration>164</duration>
+            <playcount>478</playcount>
+                <listeners>367</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Back+In+The+U.S.S.R.+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="163">
+    <name>Shameless - Live At Shea, 2008</name>
+    <duration>295</duration>
+            <playcount>552</playcount>
+                <listeners>365</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Shameless+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="164">
+    <name>Odoya - Live</name>
+    <duration>78</duration>
+            <playcount>423</playcount>
+                <listeners>360</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Odoya+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="165">
+    <name>The Ballad Of Billy The Kid - Live At Shea, 2008</name>
+    <duration>341</duration>
+            <playcount>538</playcount>
+                <listeners>356</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Ballad+Of+Billy+The+Kid+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="166">
+    <name>Miami 2017 (I've Seen The Lights Go Out On Broadway) - Live At Shea, 2008</name>
+    <duration>260</duration>
+            <playcount>642</playcount>
+                <listeners>352</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Miami+2017+(I%27ve+Seen+The+Lights+Go+Out+On+Broadway)+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="167">
+    <name>The Downeaster Alexa</name>
+    <duration>288</duration>
+            <playcount>1305</playcount>
+                <listeners>352</listeners>
+    
+            <mbid>61f009db-c961-4f0c-ba4c-cf0e510d8739</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+Downeaster+Alexa</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51671635.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51671635.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51671635.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51671635.jpg</image>
+        </track>                    <track rank="168">
+    <name>Uptown Girl (Album Version)</name>
+    <duration>194</duration>
+            <playcount>1064</playcount>
+                <listeners>351</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Uptown+Girl+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="169">
+    <name>She's Got a Way - Remastered</name>
+    <duration>176</duration>
+            <playcount>542</playcount>
+                <listeners>345</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/She%27s+Got+a+Way+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="170">
+    <name>Code of Silence</name>
+    <duration>316</duration>
+            <playcount>780</playcount>
+                <listeners>343</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Code+of+Silence</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130583.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130583.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130583.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130583.png</image>
+        </track>                    <track rank="171">
+    <name>Getting Closer</name>
+    <duration>299</duration>
+            <playcount>598</playcount>
+                <listeners>339</listeners>
+    
+            <mbid>5f6aa912-336f-4439-8f14-b3b04f75f697</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Getting+Closer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84130583.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84130583.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84130583.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84130583.png</image>
+        </track>                    <track rank="172">
+    <name>Miami 2017 (Seen The Lights Go Out On Broadway) - Live Version</name>
+    <duration>311</duration>
+            <playcount>501</playcount>
+                <listeners>334</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Miami+2017+(Seen+The+Lights+Go+Out+On+Broadway)+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>Goodnight Saigon - Live At Shea, 2008</name>
+    <duration>444</duration>
+            <playcount>506</playcount>
+                <listeners>330</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Goodnight+Saigon+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Only the Good Die Young - Live</name>
+    <duration>229</duration>
+            <playcount>412</playcount>
+                <listeners>324</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Only+the+Good+Die+Young+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>Movin' Out</name>
+    <duration>222</duration>
+            <playcount>781</playcount>
+                <listeners>322</listeners>
+    
+            <mbid>06de2fa7-30f1-4b7d-9c75-53cbb737036f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Movin%27+Out</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/71216580.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/71216580.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/71216580.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/71216580.png</image>
+        </track>                    <track rank="176">
+    <name>I Saw Her Standing There - Live At Shea, 2008</name>
+    <duration>246</duration>
+            <playcount>534</playcount>
+                <listeners>319</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/I+Saw+Her+Standing+There+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="177">
+    <name>Honesty - Live</name>
+    <duration>238</duration>
+            <playcount>414</playcount>
+                <listeners>318</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Honesty+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>We Didn't Start The Fire - Live At Shea, 2008</name>
+    <duration>314</duration>
+            <playcount>453</playcount>
+                <listeners>318</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/We+Didn%27t+Start+The+Fire+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="179">
+    <name>Take Me Out To The Ball Game - Live At Shea, 2008</name>
+    <duration>46</duration>
+            <playcount>446</playcount>
+                <listeners>311</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Take+Me+Out+To+The+Ball+Game+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="180">
+    <name>Captain Jack - Live At Shea, 2008</name>
+    <duration>441</duration>
+            <playcount>504</playcount>
+                <listeners>311</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Captain+Jack+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>Goodnight Saigon - Live</name>
+    <duration>441</duration>
+            <playcount>407</playcount>
+                <listeners>310</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Goodnight+Saigon+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>New York State Of Mind - Live Version</name>
+    <duration>500</duration>
+            <playcount>561</playcount>
+                <listeners>306</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/New+York+State+Of+Mind+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="183">
+    <name>Scenes From An Italian Restaurant - Live At Shea, 2008</name>
+    <duration>460</duration>
+            <playcount>441</playcount>
+                <listeners>303</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Scenes+From+An+Italian+Restaurant+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="184">
+    <name>A matter of trust - live</name>
+    <duration>308</duration>
+            <playcount>383</playcount>
+                <listeners>297</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/A+matter+of+trust+-+live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="185">
+    <name>Where's the Orchestra?</name>
+    <duration>194</duration>
+            <playcount>745</playcount>
+                <listeners>290</listeners>
+    
+            <mbid>4a4808e3-8e30-4f38-b920-ffd6ac997d7a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Where%27s+the+Orchestra%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83754361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83754361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83754361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83754361.png</image>
+        </track>                    <track rank="186">
+    <name>Only The Good Die Young - Live At Shea, 2008</name>
+    <duration>254</duration>
+            <playcount>426</playcount>
+                <listeners>289</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Only+The+Good+Die+Young+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="187">
+    <name>Growing Up During the Cold War</name>
+    <duration>84</duration>
+            <playcount>330</playcount>
+                <listeners>286</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Growing+Up+During+the+Cold+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="188">
+    <name>The River Of Dreams / A Hard Day's Night - Live At Shea, 2008</name>
+    <duration>464</duration>
+            <playcount>393</playcount>
+                <listeners>285</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/The+River+Of+Dreams+%2F+A+Hard+Day%27s+Night+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>Only the Good Die Young (Live)</name>
+    <duration>212</duration>
+            <playcount>588</playcount>
+                <listeners>282</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Only+the+Good+Die+Young+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153403.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153403.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153403.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153403.png</image>
+        </track>                    <track rank="190">
+    <name>Scenes From an Italian Restaurant - Live</name>
+    <duration>471</duration>
+            <playcount>344</playcount>
+                <listeners>282</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Scenes+From+an+Italian+Restaurant+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="191">
+    <name>Lullabye (Goodnight, My Angel) - Live At Shea, 2008</name>
+    <duration>223</duration>
+            <playcount>405</playcount>
+                <listeners>282</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Lullabye+(Goodnight,+My+Angel)+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="192">
+    <name>Baby Grand (feat. Ray Charles)</name>
+    <duration>246</duration>
+            <playcount>536</playcount>
+                <listeners>280</listeners>
+    
+            <mbid>737e64a4-ba1f-4211-91b1-8e6988221f92</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Baby+Grand+(feat.+Ray+Charles)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84132147.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84132147.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84132147.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84132147.png</image>
+        </track>                    <track rank="193">
+    <name>Angry Young Man</name>
+    <duration>332</duration>
+            <playcount>499</playcount>
+                <listeners>274</listeners>
+    
+            <mbid>6b503a92-bb7f-43da-899f-bf9170ff8c62</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Angry+Young+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84153403.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84153403.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84153403.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84153403.png</image>
+        </track>                    <track rank="194">
+    <name>Keeping The Faith - Live At Shea, 2008</name>
+    <duration>306</duration>
+            <playcount>420</playcount>
+                <listeners>270</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Keeping+The+Faith+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="195">
+    <name>All About Soul - Radio Edit</name>
+    <duration>258</duration>
+            <playcount>448</playcount>
+                <listeners>259</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/All+About+Soul+-+Radio+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="196">
+    <name>Honesty (Album Version)</name>
+    <duration>229</duration>
+            <playcount>617</playcount>
+                <listeners>255</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Honesty+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Just the Way You Are (Radio Edit)</name>
+    <duration>200</duration>
+            <playcount>578</playcount>
+                <listeners>254</listeners>
+    
+            <mbid>973c81aa-09c5-499f-a8eb-3b7d75b1a99f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Just+the+Way+You+Are+(Radio+Edit)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84134793.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84134793.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84134793.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84134793.png</image>
+        </track>                    <track rank="198">
+    <name>You May Be Right - Live At Shea, 2008</name>
+    <duration>294</duration>
+            <playcount>367</playcount>
+                <listeners>253</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/You+May+Be+Right+-+Live+At+Shea,+2008</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="199">
+    <name>Billy the Kid - Live</name>
+    <duration>333</duration>
+            <playcount>306</playcount>
+                <listeners>244</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Billy+the+Kid+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Allentown - Live</name>
+    <duration>288</duration>
+            <playcount>331</playcount>
+                <listeners>243</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Billy+Joel/_/Allentown+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Billy Joel</name>
+                <mbid>64b94289-9474-4d43-8c93-918ccc1920d1</mbid>
+     
+        <url>http://www.last.fm/music/Billy+Joel</url>
+    </artist>
+                </track></toptracks></lfm>

@@ -1,0 +1,4113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Styx" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Renegade</name>
+    <duration>254</duration>
+            <playcount>46366</playcount>
+                <listeners>17251</listeners>
+    
+            <mbid>a684715b-332b-4297-893b-442711fa125a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Renegade</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="2">
+    <name>Come Sail Away</name>
+    <duration>361</duration>
+            <playcount>31058</playcount>
+                <listeners>13001</listeners>
+    
+            <mbid>b8b7d5b8-b39b-4187-af5d-1d712f3361f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Come+Sail+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="3">
+    <name>Mr. Roboto</name>
+    <duration>328</duration>
+            <playcount>32531</playcount>
+                <listeners>12819</listeners>
+    
+            <mbid>5f4c31bb-e3c5-4be3-951a-d14f2466247b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mr.+Roboto</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="4">
+    <name>Babe</name>
+    <duration>265</duration>
+            <playcount>14477</playcount>
+                <listeners>6626</listeners>
+    
+            <mbid>15e0ab48-088d-4afd-9c23-c0acce1b216a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Babe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="5">
+    <name>Too Much Time On My Hands</name>
+    <duration>273</duration>
+            <playcount>13234</playcount>
+                <listeners>5981</listeners>
+    
+            <mbid>251d6639-29b0-4105-9c85-1f5606f3ad6d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Too+Much+Time+On+My+Hands</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="6">
+    <name>Boat On The River</name>
+    <duration>189</duration>
+            <playcount>10385</playcount>
+                <listeners>3937</listeners>
+    
+            <mbid>285795b0-5e75-4193-8fd7-140e04a112d1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Boat+On+The+River</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="7">
+    <name>The Best Of Times</name>
+    <duration>258</duration>
+            <playcount>8077</playcount>
+                <listeners>3840</listeners>
+    
+            <mbid>67ce2a7f-946a-4999-9f5e-01db64acac22</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Best+Of+Times</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="8">
+    <name>Blue Collar Man (Long Nights)</name>
+    <duration>259</duration>
+            <playcount>7506</playcount>
+                <listeners>3457</listeners>
+    
+            <mbid>eeffbf7c-9eb3-43f9-b293-229ad1b06348</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Blue+Collar+Man+(Long+Nights)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="9">
+    <name>The Grand Illusion</name>
+    <duration>324</duration>
+            <playcount>6480</playcount>
+                <listeners>3171</listeners>
+    
+            <mbid>0a560af6-beff-4794-b0fe-1d5a34cfe997</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Grand+Illusion</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="10">
+    <name>Fooling Yourself (The Angry Young Man)</name>
+    <duration>308</duration>
+            <playcount>6110</playcount>
+                <listeners>2915</listeners>
+    
+            <mbid>3d28955c-7858-43d9-861d-ae892b754ef8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fooling+Yourself+(The+Angry+Young+Man)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="11">
+    <name>Lorelei</name>
+    <duration>207</duration>
+            <playcount>4743</playcount>
+                <listeners>2399</listeners>
+    
+            <mbid>56f9607f-4303-4ebd-bfe1-675ab3cccf93</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lorelei</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="12">
+    <name>Lady</name>
+    <duration>178</duration>
+            <playcount>5089</playcount>
+                <listeners>2375</listeners>
+    
+            <mbid>479bc07c-93c5-4075-a31c-9fa98f5a4d51</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91022703.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91022703.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91022703.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91022703.jpg</image>
+        </track>                    <track rank="13">
+    <name>Crystal Ball</name>
+    <duration>274</duration>
+            <playcount>5083</playcount>
+                <listeners>2255</listeners>
+    
+            <mbid>050bf565-b687-42ef-9ee2-d29eb85160ad</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Crystal+Ball</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="14">
+    <name>Miss America</name>
+    <duration>419</duration>
+            <playcount>4542</playcount>
+                <listeners>2235</listeners>
+    
+            <mbid>0277350b-3514-4d08-944b-241e7ea0e5a1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Miss+America</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="15">
+    <name>Lady '95</name>
+    <duration>186</duration>
+            <playcount>3790</playcount>
+                <listeners>1981</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lady+%2795</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="16">
+    <name>Show Me The Way</name>
+    <duration>276</duration>
+            <playcount>3671</playcount>
+                <listeners>1973</listeners>
+    
+            <mbid>f64a24b6-5ea3-4a68-b1ea-b79b2365e70f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Show+Me+The+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="17">
+    <name>Suite Madame Blue</name>
+    <duration>393</duration>
+            <playcount>4180</playcount>
+                <listeners>1954</listeners>
+    
+            <mbid>fd1bb5be-be8d-44f1-9c8d-e657af5fd485</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Suite+Madame+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="18">
+    <name>Man In The Wilderness</name>
+    <duration>347</duration>
+            <playcount>4488</playcount>
+                <listeners>1786</listeners>
+    
+            <mbid>00a5e85e-2531-4d25-99df-5d055d87f7b9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Man+In+The+Wilderness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="19">
+    <name>Don't Let It End</name>
+    <duration>142</duration>
+            <playcount>3436</playcount>
+                <listeners>1717</listeners>
+    
+            <mbid>b2cb6bef-0b94-41d4-97e4-c8cb8f420609</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Don%27t+Let+It+End</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074029.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074029.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074029.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074029.jpg</image>
+        </track>                    <track rank="20">
+    <name>Boat On A River</name>
+    <duration>193</duration>
+            <playcount>3609</playcount>
+                <listeners>1616</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Boat+On+A+River</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074229.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074229.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074229.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074229.jpg</image>
+        </track>                    <track rank="21">
+    <name>Blue Collar Man</name>
+    <duration>259</duration>
+            <playcount>3081</playcount>
+                <listeners>1364</listeners>
+    
+            <mbid>10dbbf44-69d6-466b-a8fd-fb3734a7e3e5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Blue+Collar+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="22">
+    <name>Rockin' The Paradise</name>
+    <duration>215</duration>
+            <playcount>2256</playcount>
+                <listeners>1269</listeners>
+    
+            <mbid>0a4ddb5c-3cbb-4001-9c3c-d5a232130e2a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Rockin%27+The+Paradise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="23">
+    <name>Lady - 1873 Album Version</name>
+    <duration>178</duration>
+            <playcount>2185</playcount>
+                <listeners>1111</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lady+-+1873+Album+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="24">
+    <name>Snowblind</name>
+    <duration>298</duration>
+            <playcount>2102</playcount>
+                <listeners>1065</listeners>
+    
+            <mbid>0f3aadee-0d96-4fe1-acdb-47aa48ec9668</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Snowblind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="25">
+    <name>A.D. 1928</name>
+    <duration>67</duration>
+            <playcount>1956</playcount>
+                <listeners>1031</listeners>
+    
+            <mbid>2dde29b6-1cc6-44ab-b450-a8b3e4f32638</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/A.D.+1928</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="26">
+    <name>Sing For The Day</name>
+    <duration>298</duration>
+            <playcount>1741</playcount>
+                <listeners>992</listeners>
+    
+            <mbid>0c2aa835-a3ab-4172-be2c-ec99aa3db49c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Sing+For+The+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="27">
+    <name>Come Sail Away - Single Version</name>
+    <duration>187</duration>
+            <playcount>1760</playcount>
+                <listeners>868</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Come+Sail+Away+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="28">
+    <name>Castle Walls</name>
+    <duration>359</duration>
+            <playcount>1736</playcount>
+                <listeners>795</listeners>
+    
+            <mbid>82fd537e-0401-42a5-add2-958729aabae0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Castle+Walls</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="29">
+    <name>Borrowed Time</name>
+    <duration>299</duration>
+            <playcount>1311</playcount>
+                <listeners>765</listeners>
+    
+            <mbid>0f1699b3-3fcc-4e46-a43c-e7b2cdd9395b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Borrowed+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="30">
+    <name>Light Up</name>
+    <duration>261</duration>
+            <playcount>1395</playcount>
+                <listeners>759</listeners>
+    
+            <mbid>2b304fca-59ce-4f4d-8547-8df55825a043</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Light+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="31">
+    <name>Superstars</name>
+    <duration>235</duration>
+            <playcount>1324</playcount>
+                <listeners>755</listeners>
+    
+            <mbid>5b7e3451-6e60-491e-bd5b-fdd7a6539ffb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Superstars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="32">
+    <name>Pieces Of Eight</name>
+    <duration>285</duration>
+            <playcount>1377</playcount>
+                <listeners>741</listeners>
+    
+            <mbid>3fa809c0-5f72-47d9-b47c-d57b4c3d3dda</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Pieces+Of+Eight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="33">
+    <name>Mademoiselle</name>
+    <duration>240</duration>
+            <playcount>1317</playcount>
+                <listeners>689</listeners>
+    
+            <mbid>7f7f2d82-56c4-4bad-a0cf-7fd128af5831</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mademoiselle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="34">
+    <name>Queen Of Spades</name>
+    <duration>338</duration>
+            <playcount>1442</playcount>
+                <listeners>672</listeners>
+    
+            <mbid>11e900dd-c183-4a68-89be-598da80a0a99</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Queen+Of+Spades</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="35">
+    <name>Lights</name>
+    <duration>278</duration>
+            <playcount>1245</playcount>
+                <listeners>639</listeners>
+    
+            <mbid>3007232b-7227-4d05-a3ea-9cd7066b49f9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lights</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="36">
+    <name>The Grand Finale</name>
+    <duration>117</duration>
+            <playcount>1282</playcount>
+                <listeners>581</listeners>
+    
+            <mbid>b40f605a-0073-4b10-8aff-2813e3462903</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Grand+Finale</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="37">
+    <name>Nothing Ever Goes As Planned</name>
+    <duration>287</duration>
+            <playcount>1037</playcount>
+                <listeners>580</listeners>
+    
+            <mbid>075373f1-9a42-4d0b-a720-583c266deb51</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Nothing+Ever+Goes+As+Planned</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="38">
+    <name>Great White Hope</name>
+    <duration>264</duration>
+            <playcount>1032</playcount>
+                <listeners>543</listeners>
+    
+            <mbid>19cc08c9-55f8-49de-be9e-2cc4ed0008e0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Great+White+Hope</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="39">
+    <name>Lonely People</name>
+    <duration>322</duration>
+            <playcount>856</playcount>
+                <listeners>497</listeners>
+    
+            <mbid>f8eb4383-c361-41fc-8283-59e2c6bba5a7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lonely+People</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="40">
+    <name>Best Thing</name>
+    <duration>194</duration>
+            <playcount>819</playcount>
+                <listeners>496</listeners>
+    
+            <mbid>07fdcff2-cc7f-4a86-826f-f1b82009f5f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Best+Thing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074371.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074371.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074371.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074371.jpg</image>
+        </track>                    <track rank="41">
+    <name>Shooz</name>
+    <duration>287</duration>
+            <playcount>788</playcount>
+                <listeners>480</listeners>
+    
+            <mbid>10d54ae9-b725-4e28-8518-ef0d03c99912</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Shooz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="42">
+    <name>You Need Love</name>
+    <duration>225</duration>
+            <playcount>751</playcount>
+                <listeners>465</listeners>
+    
+            <mbid>5ddbea1b-d869-4f75-b8ce-0bcec91596a9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/You+Need+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="43">
+    <name>A.D. 1958</name>
+    <duration>67</duration>
+            <playcount>780</playcount>
+                <listeners>460</listeners>
+    
+            <mbid>f8ec81d7-d14e-4eda-bef5-c97b3b766496</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/A.D.+1958</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="44">
+    <name>Cold War</name>
+    <duration>267</duration>
+            <playcount>738</playcount>
+                <listeners>460</listeners>
+    
+            <mbid>a38e0b76-43cf-4e8c-8129-0e5e2370705c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Cold+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="45">
+    <name>Prelude 12</name>
+    <duration>80</duration>
+            <playcount>701</playcount>
+                <listeners>457</listeners>
+    
+            <mbid>0e63c080-d17e-44cf-ba2b-1723ae8a8212</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Prelude+12</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="46">
+    <name>Lords Of The Ring</name>
+    <duration>275</duration>
+            <playcount>780</playcount>
+                <listeners>457</listeners>
+    
+            <mbid>9313d12f-58e0-44fa-95b9-1eb7f0b69fe6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lords+Of+The+Ring</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="47">
+    <name>She Cares</name>
+    <duration>258</duration>
+            <playcount>820</playcount>
+                <listeners>454</listeners>
+    
+            <mbid>34668d04-d167-4bf1-83bc-7a12d743e602</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/She+Cares</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="48">
+    <name>Rock &amp; Roll Feeling</name>
+    <duration>183</duration>
+            <playcount>685</playcount>
+                <listeners>444</listeners>
+    
+            <mbid>04944cd0-57bc-43c2-a3b3-4a1a0be92342</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Rock+&amp;+Roll+Feeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="49">
+    <name>Heavy Metal Poisoning</name>
+    <duration>296</duration>
+            <playcount>753</playcount>
+                <listeners>439</listeners>
+    
+            <mbid>4f1bf38f-1846-4c66-a78d-3aed9f213a8f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Heavy+Metal+Poisoning</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="50">
+    <name>Love Is The Ritual</name>
+    <duration>227</duration>
+            <playcount>746</playcount>
+                <listeners>429</listeners>
+    
+            <mbid>15dde015-4786-41a8-9dc1-a5c05d02c7e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Love+Is+The+Ritual</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="51">
+    <name>The Message</name>
+    <duration>68</duration>
+            <playcount>672</playcount>
+                <listeners>405</listeners>
+    
+            <mbid>5f242b4e-32ac-4476-829f-a4fc2aea4620</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Message</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="52">
+    <name>Why Me</name>
+    <duration>237</duration>
+            <playcount>676</playcount>
+                <listeners>383</listeners>
+    
+            <mbid>861a41bc-b34e-47a8-a88c-f3250841f020</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Why+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074229.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074229.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074229.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074229.jpg</image>
+        </track>                    <track rank="53">
+    <name>High Time</name>
+    <duration>273</duration>
+            <playcount>627</playcount>
+                <listeners>379</listeners>
+    
+            <mbid>94e6224c-19a3-47b6-b029-4880d83a8577</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/High+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="54">
+    <name>Midnight Ride</name>
+    <duration>576</duration>
+            <playcount>602</playcount>
+                <listeners>377</listeners>
+    
+            <mbid>e371da28-751f-4fce-a1ea-5e48fe432cab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Midnight+Ride</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91022703.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91022703.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91022703.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91022703.jpg</image>
+        </track>                    <track rank="55">
+    <name>First Time</name>
+    <duration>265</duration>
+            <playcount>684</playcount>
+                <listeners>373</listeners>
+    
+            <mbid>3af81473-fec6-4bd7-8097-32c7cb11e104</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/First+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074229.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074229.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074229.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074229.jpg</image>
+        </track>                    <track rank="56">
+    <name>Half-Penny, Two-Penny</name>
+    <duration>359</duration>
+            <playcount>631</playcount>
+                <listeners>345</listeners>
+    
+            <mbid>0494981f-35fa-4142-aab1-0662f6d6b092</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Half-Penny,+Two-Penny</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="57">
+    <name>Double Life</name>
+    <duration>226</duration>
+            <playcount>545</playcount>
+                <listeners>342</listeners>
+    
+            <mbid>b7fa8e5f-a974-4404-901b-9e2b67e184bc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Double+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="58">
+    <name>Just Get Through This Night</name>
+    <duration>366</duration>
+            <playcount>564</playcount>
+                <listeners>340</listeners>
+    
+            <mbid>be914dea-106b-487f-96d0-926123c26be1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Just+Get+Through+This+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="59">
+    <name>Put Me On</name>
+    <duration>296</duration>
+            <playcount>543</playcount>
+                <listeners>329</listeners>
+    
+            <mbid>6af35fb9-1d6e-49cb-954c-0afceac00518</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Put+Me+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="60">
+    <name>Winner Take All</name>
+    <duration>184</duration>
+            <playcount>468</playcount>
+                <listeners>321</listeners>
+    
+            <mbid>3af7d546-8702-4a7a-a227-d1f1ac8f0f2f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Winner+Take+All</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/36302705.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/36302705.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/36302705.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/36302705.jpg</image>
+        </track>                    <track rank="61">
+    <name>Aku-Aku</name>
+    <duration>177</duration>
+            <playcount>545</playcount>
+                <listeners>320</listeners>
+    
+            <mbid>fdc9f00f-ab2c-4e5c-a9c5-66ce9fe4c82e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Aku-Aku</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="62">
+    <name>Fooling Yourself</name>
+    <duration>307</duration>
+            <playcount>667</playcount>
+                <listeners>314</listeners>
+    
+            <mbid>3120d34a-1d5b-4fe5-842a-152fd5eeb462</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fooling+Yourself</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="63">
+    <name>Never Say Never</name>
+    <duration>191</duration>
+            <playcount>518</playcount>
+                <listeners>309</listeners>
+    
+            <mbid>94a759c0-dc78-4b64-ab01-54f72c646795</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Never+Say+Never</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074229.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074229.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074229.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074229.jpg</image>
+        </track>                    <track rank="64">
+    <name>Love In The Midnight</name>
+    <duration>323</duration>
+            <playcount>584</playcount>
+                <listeners>304</listeners>
+    
+            <mbid>d499d5a4-39da-4fca-867c-b870362cd399</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Love+In+The+Midnight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074229.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074229.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074229.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074229.jpg</image>
+        </track>                    <track rank="65">
+    <name>I'm O.K.</name>
+    <duration>345</duration>
+            <playcount>521</playcount>
+                <listeners>290</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I%27m+O.K.</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="66">
+    <name>Summer In The City</name>
+    <duration>205</duration>
+            <playcount>731</playcount>
+                <listeners>285</listeners>
+    
+            <mbid>2dba1003-1805-444b-a2e6-6981d37cb348</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Summer+In+The+City</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="67">
+    <name>This Old Man</name>
+    <duration>311</duration>
+            <playcount>577</playcount>
+                <listeners>284</listeners>
+    
+            <mbid>946506f5-dee8-4d97-9efe-3bf8dad28b5a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/This+Old+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="68">
+    <name>Lonely Child</name>
+    <duration>230</duration>
+            <playcount>450</playcount>
+                <listeners>280</listeners>
+    
+            <mbid>1fd2a366-3c04-4a2f-a1b9-8810ffc735e1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lonely+Child</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074469.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074469.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074469.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074469.jpg</image>
+        </track>                    <track rank="69">
+    <name>Eddie</name>
+    <duration>257</duration>
+            <playcount>459</playcount>
+                <listeners>280</listeners>
+    
+            <mbid>5d953b12-b356-4f81-a4b1-b9b4d4740c1c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Eddie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074229.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074229.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074229.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074229.jpg</image>
+        </track>                    <track rank="70">
+    <name>Mother Dear</name>
+    <duration>330</duration>
+            <playcount>471</playcount>
+                <listeners>279</listeners>
+    
+            <mbid>9daa3abb-9a80-404b-961f-b6af108ce7ca</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mother+Dear</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074469.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074469.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074469.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074469.jpg</image>
+        </track>                    <track rank="71">
+    <name>Jennifer</name>
+    <duration>258</duration>
+            <playcount>501</playcount>
+                <listeners>278</listeners>
+    
+            <mbid>bec97d5c-e128-4e52-92a4-5fde2067bdfb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Jennifer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="72">
+    <name>What Has Come Between Us</name>
+    <duration>295</duration>
+            <playcount>451</playcount>
+                <listeners>272</listeners>
+    
+            <mbid>5fc15dc7-aa47-4ecb-8343-11fa3dd012d1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/What+Has+Come+Between+Us</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074371.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074371.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074371.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074371.jpg</image>
+        </track>                    <track rank="73">
+    <name>Born For Adventure</name>
+    <duration>317</duration>
+            <playcount>478</playcount>
+                <listeners>265</listeners>
+    
+            <mbid>e3b02f10-1308-4cac-b43d-9cba49f07f3c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Born+For+Adventure</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074469.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074469.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074469.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074469.jpg</image>
+        </track>                    <track rank="74">
+    <name>Witch Wolf</name>
+    <duration>238</duration>
+            <playcount>405</playcount>
+                <listeners>256</listeners>
+    
+            <mbid>415e89fa-7e3c-441a-aa11-c178c3da87e6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Witch+Wolf</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="75">
+    <name>One With Everything</name>
+    <duration>356</duration>
+            <playcount>417</playcount>
+                <listeners>233</listeners>
+    
+            <mbid>b261e283-f89e-4938-83c4-3332aac35ff9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/One+With+Everything</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="76">
+    <name>A Day</name>
+    <duration>502</duration>
+            <playcount>454</playcount>
+                <listeners>232</listeners>
+    
+            <mbid>1d767929-cac8-4cf0-92c1-87ae9e33a550</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/A+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="77">
+    <name>Man Of Miracles</name>
+    <duration>296</duration>
+            <playcount>392</playcount>
+                <listeners>228</listeners>
+    
+            <mbid>40d0b87e-a92b-4589-8375-cde3aed60d95</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Man+Of+Miracles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="78">
+    <name>Haven't We Been Here Before</name>
+    <duration>247</duration>
+            <playcount>524</playcount>
+                <listeners>228</listeners>
+    
+            <mbid>225afdb8-fdc1-4991-98ec-bfd2af565e49</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Haven%27t+We+Been+Here+Before</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/30790531.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/30790531.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/30790531.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/30790531.jpg</image>
+        </track>                    <track rank="79">
+    <name>Love At First Sight</name>
+    <duration>277</duration>
+            <playcount>407</playcount>
+                <listeners>226</listeners>
+    
+            <mbid>57e40bcd-012c-4da6-8110-ee51b970968c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Love+At+First+Sight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53688043.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53688043.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53688043.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53688043.jpg</image>
+        </track>                    <track rank="80">
+    <name>I'm Gonna Make You Feel It</name>
+    <duration>144</duration>
+            <playcount>335</playcount>
+                <listeners>219</listeners>
+    
+            <mbid>0c692e78-e22b-4def-b2da-e15b224d7390</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I%27m+Gonna+Make+You+Feel+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="81">
+    <name>Southern Woman</name>
+    <duration>190</duration>
+            <playcount>388</playcount>
+                <listeners>217</listeners>
+    
+            <mbid>12cf80fe-1948-495a-954a-ebed67503d84</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Southern+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="82">
+    <name>After You Leave Me</name>
+    <duration>242</duration>
+            <playcount>326</playcount>
+                <listeners>216</listeners>
+    
+            <mbid>6f17ec79-5971-45f4-a8c8-dd2d87f2ec53</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/After+You+Leave+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074371.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074371.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074371.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074371.jpg</image>
+        </track>                    <track rank="83">
+    <name>Right Away</name>
+    <duration>221</duration>
+            <playcount>327</playcount>
+                <listeners>216</listeners>
+    
+            <mbid>64e6c401-849c-4e89-92e9-1ba691073387</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Right+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074371.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074371.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074371.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074371.jpg</image>
+        </track>                    <track rank="84">
+    <name>Edge Of The Century</name>
+    <duration>262</duration>
+            <playcount>367</playcount>
+                <listeners>211</listeners>
+    
+            <mbid>5bd0ad63-d29a-43d9-9b99-cbb725940fef</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Edge+Of+The+Century</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="85">
+    <name>Not Dead Yet</name>
+    <duration>213</duration>
+            <playcount>360</playcount>
+                <listeners>208</listeners>
+    
+            <mbid>2bff74ef-69ef-4c8a-84f2-d3204fe5ce54</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Not+Dead+Yet</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="86">
+    <name>The Grove Of Eglantine</name>
+    <duration>299</duration>
+            <playcount>333</playcount>
+                <listeners>207</listeners>
+    
+            <mbid>0348b941-e162-430c-a3d7-aa8f2a6d7764</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Grove+Of+Eglantine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="87">
+    <name>I Am The Walrus</name>
+    <duration>281</duration>
+            <playcount>419</playcount>
+                <listeners>206</listeners>
+    
+            <mbid>55bacb88-9594-4c46-b9de-494d56ba6ee7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I+Am+The+Walrus</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="88">
+    <name>Mr Roboto</name>
+    <duration>327</duration>
+            <playcount>438</playcount>
+                <listeners>206</listeners>
+    
+            <mbid>5e12e28c-95c8-43da-ab6d-b1f14cc77250</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mr+Roboto</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="89">
+    <name>Grand Illusion</name>
+    <duration>410</duration>
+            <playcount>450</playcount>
+                <listeners>204</listeners>
+    
+            <mbid>7c3344b0-89f2-49ca-a126-442822f9af97</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Grand+Illusion</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000001YA1.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="90">
+    <name>Evil Eyes</name>
+    <duration>247</duration>
+            <playcount>336</playcount>
+                <listeners>202</listeners>
+    
+            <mbid>04d3fb1c-9752-409f-82cb-b700e910134a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Evil+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="91">
+    <name>Golden Lark</name>
+    <duration>217</duration>
+            <playcount>355</playcount>
+                <listeners>198</listeners>
+    
+            <mbid>20b72829-64d5-4015-8302-0d8526e28881</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Golden+Lark</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="92">
+    <name>A Song For Suzanne</name>
+    <duration>301</duration>
+            <playcount>333</playcount>
+                <listeners>196</listeners>
+    
+            <mbid>5355a5ba-f345-44d0-949f-bbe63882209c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/A+Song+For+Suzanne</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="93">
+    <name>Havin' A Ball</name>
+    <duration>234</duration>
+            <playcount>331</playcount>
+                <listeners>196</listeners>
+    
+            <mbid>341b6428-a0e8-4c9b-9736-f89db114eaa4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Havin%27+A+Ball</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="94">
+    <name>Movement For The Common Man</name>
+    <duration>795</duration>
+            <playcount>320</playcount>
+                <listeners>196</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Movement+For+The+Common+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074371.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074371.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074371.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074371.jpg</image>
+        </track>                    <track rank="95">
+    <name>Quick Is The Beat Of My Heart</name>
+    <duration>232</duration>
+            <playcount>308</playcount>
+                <listeners>195</listeners>
+    
+            <mbid>1596d4b5-0e8b-4f86-83ce-e4d59df5eec3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Quick+Is+The+Beat+Of+My+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074371.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074371.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074371.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074371.jpg</image>
+        </track>                    <track rank="96">
+    <name>Don't Let It End (Reprise)</name>
+    <duration>142</duration>
+            <playcount>328</playcount>
+                <listeners>195</listeners>
+    
+            <mbid>0e670a35-acd3-4c45-9dd7-98b992a2ccc4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Don%27t+Let+It+End+(Reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="97">
+    <name>You Better Ask</name>
+    <duration>234</duration>
+            <playcount>295</playcount>
+                <listeners>195</listeners>
+    
+            <mbid>c97dfb83-b93d-4f2c-b936-23b8f7857eec</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/You+Better+Ask</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="98">
+    <name>As Bad As This</name>
+    <duration>368</duration>
+            <playcount>302</playcount>
+                <listeners>191</listeners>
+    
+            <mbid>1a68d3e0-fe08-4927-a29a-e62d64df694d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/As+Bad+As+This</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="99">
+    <name>Christopher, Mr. Christopher</name>
+    <duration>241</duration>
+            <playcount>357</playcount>
+                <listeners>189</listeners>
+    
+            <mbid>456221ac-b592-4412-a742-367c12654111</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Christopher,+Mr.+Christopher</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="100">
+    <name>22 Years</name>
+    <duration>220</duration>
+            <playcount>316</playcount>
+                <listeners>186</listeners>
+    
+            <mbid>15d31978-7b66-4872-b836-4abc25649a7e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/22+Years</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="101">
+    <name>Young Man</name>
+    <duration>285</duration>
+            <playcount>278</playcount>
+                <listeners>186</listeners>
+    
+            <mbid>6d425e1c-a471-4dec-83ac-991684e6f7b4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Young+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="102">
+    <name>The Serpent Is Rising</name>
+    <duration>292</duration>
+            <playcount>322</playcount>
+                <listeners>184</listeners>
+    
+            <mbid>1bd5968c-e823-485f-a746-e5ce4e744ed5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Serpent+Is+Rising</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="103">
+    <name>Earl Of Roseland</name>
+    <duration>280</duration>
+            <playcount>281</playcount>
+                <listeners>184</listeners>
+    
+            <mbid>c5273f5e-8399-4ba7-981b-37183208bd53</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Earl+Of+Roseland</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="104">
+    <name>Come Sail Away (Live)</name>
+    <duration>507</duration>
+            <playcount>268</playcount>
+                <listeners>184</listeners>
+    
+            <mbid>8fb3b6ad-4d40-4c9e-b30d-3a68723c54be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Come+Sail+Away+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92817137.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92817137.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92817137.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92817137.jpg</image>
+        </track>                    <track rank="105">
+    <name>A Man Like Me</name>
+    <duration>177</duration>
+            <playcount>304</playcount>
+                <listeners>175</listeners>
+    
+            <mbid>1d70fe89-f001-4128-adab-a47fdfe52776</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/A+Man+Like+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="106">
+    <name>Lies</name>
+    <duration>169</duration>
+            <playcount>295</playcount>
+                <listeners>170</listeners>
+    
+            <mbid>3d9f5cd9-52d5-4698-8d9b-4b230bb0a75d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lies</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074513.jpg</image>
+        </track>                    <track rank="107">
+    <name>Back To Chicago</name>
+    <duration>259</duration>
+            <playcount>288</playcount>
+                <listeners>165</listeners>
+    
+            <mbid>20ff0e45-8d64-4746-b54d-4c1133b4c0d5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Back+To+Chicago</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="108">
+    <name>Carrie Ann</name>
+    <duration>269</duration>
+            <playcount>259</playcount>
+                <listeners>164</listeners>
+    
+            <mbid>540d03f3-e96d-4f60-a0b2-afcc02c9abfb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Carrie+Ann</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="109">
+    <name>Dear John</name>
+    <duration>183</duration>
+            <playcount>345</playcount>
+                <listeners>163</listeners>
+    
+            <mbid>56113f9c-8f26-4b92-aab9-9291e2aca871</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Dear+John</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91411575.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91411575.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91411575.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91411575.jpg</image>
+        </track>                    <track rank="110">
+    <name>Locomotive Breath</name>
+    <duration>213</duration>
+            <playcount>262</playcount>
+                <listeners>163</listeners>
+    
+            <mbid>9f38c29a-0e86-4d80-9d29-4aa6430a2f6c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Locomotive+Breath</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="111">
+    <name>Little Suzie</name>
+    <duration>288</duration>
+            <playcount>219</playcount>
+                <listeners>160</listeners>
+    
+            <mbid>15d286e0-b666-45c6-a5b8-e1f38ce26656</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Little+Suzie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90800765.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90800765.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90800765.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90800765.jpg</image>
+        </track>                    <track rank="112">
+    <name>Haven't We Been Here Before?</name>
+    <duration>247</duration>
+            <playcount>254</playcount>
+                <listeners>160</listeners>
+    
+            <mbid>2332f92f-e873-45ec-9553-7ee7106ed3b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Haven%27t+We+Been+Here+Before%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074191.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074191.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074191.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074191.jpg</image>
+        </track>                    <track rank="113">
+    <name>Blue Collar Man @ 2120</name>
+    <duration>390</duration>
+            <playcount>365</playcount>
+                <listeners>159</listeners>
+    
+            <mbid>65b10378-2d5b-4ebd-b80b-9076a0a9c9ac</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Blue+Collar+Man+@+2120</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="114">
+    <name>All In A Day's Work</name>
+    <duration>253</duration>
+            <playcount>279</playcount>
+                <listeners>158</listeners>
+    
+            <mbid>485a3a09-ebc7-4231-a1f8-824e61e8ce41</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/All+In+A+Day%27s+Work</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="115">
+    <name>Homewrecker</name>
+    <duration>314</duration>
+            <playcount>253</playcount>
+                <listeners>154</listeners>
+    
+            <mbid>50f8a164-1d36-45ba-a050-153ec88ff47d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Homewrecker</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="116">
+    <name>Jonas Psalter</name>
+    <duration>279</duration>
+            <playcount>232</playcount>
+                <listeners>153</listeners>
+    
+            <mbid>044313f4-3fa5-4b16-af3d-2fac3596b7af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Jonas+Psalter</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="117">
+    <name>Hallelujah Chorus</name>
+    <duration>90</duration>
+            <playcount>281</playcount>
+                <listeners>153</listeners>
+    
+            <mbid>5b61d32c-5579-4725-838b-a70b45c10a66</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Hallelujah+Chorus</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="118">
+    <name>Brave New World</name>
+    <duration>292</duration>
+            <playcount>364</playcount>
+                <listeners>153</listeners>
+    
+            <mbid>1fbaca40-b382-4f60-942f-a557d3d4696f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Brave+New+World</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="119">
+    <name>World Tonite</name>
+    <duration>220</duration>
+            <playcount>249</playcount>
+                <listeners>152</listeners>
+    
+            <mbid>fb4bc7eb-252a-472e-9e69-76acd6e57fab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/World+Tonite</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074569.jpg</image>
+        </track>                    <track rank="120">
+    <name>Father O.S.A.</name>
+    <duration>428</duration>
+            <playcount>251</playcount>
+                <listeners>152</listeners>
+    
+            <mbid>959d98b9-98de-4a55-9ece-0ac637b5ddb1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Father+O.S.A.</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="121">
+    <name>Krakatoa</name>
+    <duration>95</duration>
+            <playcount>229</playcount>
+                <listeners>152</listeners>
+    
+            <mbid>63a9ec49-3a7d-49f0-9770-dbcbb1fac8b2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Krakatoa</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="122">
+    <name>Clair De Lune / Ballerina</name>
+    <duration>430</duration>
+            <playcount>242</playcount>
+                <listeners>148</listeners>
+    
+            <mbid>7fe4436c-04b9-41be-bb56-10243fe55105</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Clair+De+Lune+%2F+Ballerina</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52680059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52680059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52680059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52680059.jpg</image>
+        </track>                    <track rank="123">
+    <name>It Takes Love</name>
+    <duration>206</duration>
+            <playcount>206</playcount>
+                <listeners>144</listeners>
+    
+            <mbid>752b1353-4e27-486d-b93a-be9a4268bfcd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/It+Takes+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90800765.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90800765.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90800765.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90800765.jpg</image>
+        </track>                    <track rank="124">
+    <name>Can't Find My Way Home</name>
+    <duration>205</duration>
+            <playcount>256</playcount>
+                <listeners>137</listeners>
+    
+            <mbid>79ab187c-bbd8-40df-894f-823f5b7c4053</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Can%27t+Find+My+Way+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="125">
+    <name>Half Penny Two Penny</name>
+    <duration>359</duration>
+            <playcount>222</playcount>
+                <listeners>135</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Half+Penny+Two+Penny</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91074313.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91074313.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91074313.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91074313.jpg</image>
+        </track>                    <track rank="126">
+    <name>Little Fugue In &quot;G&quot;</name>
+    <duration>77</duration>
+            <playcount>191</playcount>
+                <listeners>134</listeners>
+    
+            <mbid>3671dbae-d4c4-42f5-9533-96cc387fe098</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Little+Fugue+In+%22G%22</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="127">
+    <name>I Don't Need No Doctor</name>
+    <duration>264</duration>
+            <playcount>212</playcount>
+                <listeners>132</listeners>
+    
+            <mbid>c7b67f0f-fe58-48e2-bdb2-ca5b540739a3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I+Don%27t+Need+No+Doctor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="128">
+    <name>Captain America</name>
+    <duration>233</duration>
+            <playcount>263</playcount>
+                <listeners>131</listeners>
+    
+            <mbid>0f3b5ef6-a3ad-4956-9183-ae800818839f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Captain+America</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="129">
+    <name>Heavy Water</name>
+    <duration>354</duration>
+            <playcount>255</playcount>
+                <listeners>129</listeners>
+    
+            <mbid>0544b44d-64a5-4bdb-992f-ae5c687c8e86</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Heavy+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="130">
+    <name>I Can See For Miles</name>
+    <duration>269</duration>
+            <playcount>214</playcount>
+                <listeners>125</listeners>
+    
+            <mbid>448bd64b-acc3-4fbd-b72e-4446ec9d6ea4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I+Can+See+For+Miles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="131">
+    <name>Everything Is Cool</name>
+    <duration>342</duration>
+            <playcount>230</playcount>
+                <listeners>123</listeners>
+    
+            <mbid>2a3b77f9-b03a-4e80-91d0-c478391256b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Everything+Is+Cool</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="132">
+    <name>Come Sail Away (Edit)</name>
+    <duration></duration>
+            <playcount>281</playcount>
+                <listeners>123</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Come+Sail+Away+(Edit)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="133">
+    <name>Manic Depression</name>
+    <duration>240</duration>
+            <playcount>200</playcount>
+                <listeners>118</listeners>
+    
+            <mbid>a9010842-ae06-4f19-9bc3-45ecdfd4e057</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Manic+Depression</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="134">
+    <name>Fallen Angel</name>
+    <duration>290</duration>
+            <playcount>234</playcount>
+                <listeners>114</listeners>
+    
+            <mbid>5dab6245-45d4-4f87-8e6f-e3312f77df71</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fallen+Angel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="135">
+    <name>I Will Be Your Witness</name>
+    <duration>271</duration>
+            <playcount>252</playcount>
+                <listeners>112</listeners>
+    
+            <mbid>a46a5a22-8dcb-44f6-8325-efc4e09c41ae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I+Will+Be+Your+Witness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="136">
+    <name>Fields Of The Brave</name>
+    <duration>202</duration>
+            <playcount>198</playcount>
+                <listeners>111</listeners>
+    
+            <mbid>db6c5cb3-a6b6-4027-9ddd-1d22a65889c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fields+Of+The+Brave</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="137">
+    <name>Best New Face</name>
+    <duration>216</duration>
+            <playcount>206</playcount>
+                <listeners>111</listeners>
+    
+            <mbid>68a69a0d-5415-4cc5-84ac-3f7a54c09aae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Best+New+Face</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="138">
+    <name>The Grand Illusion (Live)</name>
+    <duration>325</duration>
+            <playcount>139</playcount>
+                <listeners>111</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Grand+Illusion+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908217.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908217.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908217.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908217.jpg</image>
+        </track>                    <track rank="139">
+    <name>Number One</name>
+    <duration>273</duration>
+            <playcount>220</playcount>
+                <listeners>110</listeners>
+    
+            <mbid>dac67a24-4865-4693-8ecc-5a03896901dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Number+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="140">
+    <name>Waiting For Our Time</name>
+    <duration>252</duration>
+            <playcount>193</playcount>
+                <listeners>109</listeners>
+    
+            <mbid>dd20b681-0329-4579-a163-7de7a2a09c2d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Waiting+For+Our+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="141">
+    <name>Wishing Well</name>
+    <duration>219</duration>
+            <playcount>184</playcount>
+                <listeners>108</listeners>
+    
+            <mbid>57773fe0-5406-4c6f-905a-162ea990298e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Wishing+Well</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="142">
+    <name>I'm Okay</name>
+    <duration>344</duration>
+            <playcount>177</playcount>
+                <listeners>107</listeners>
+    
+            <mbid>062551b6-21ac-45a7-ab98-a716cd3a4e63</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I%27m+Okay</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="143">
+    <name>Find The Cost Of Freedom</name>
+    <duration>64</duration>
+            <playcount>165</playcount>
+                <listeners>107</listeners>
+    
+            <mbid>532bcc67-968c-4c21-9f10-285f1f1016dd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Find+The+Cost+Of+Freedom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="144">
+    <name>A Salty Dog</name>
+    <duration>242</duration>
+            <playcount>168</playcount>
+                <listeners>107</listeners>
+    
+            <mbid>7ddbfb10-bd06-43d6-982c-99a865b4acbe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/A+Salty+Dog</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="145">
+    <name>Lady - 1973 Album Version</name>
+    <duration>178</duration>
+            <playcount>193</playcount>
+                <listeners>105</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lady+-+1973+Album+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Lady (Live)</name>
+    <duration>253</duration>
+            <playcount>140</playcount>
+                <listeners>104</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Lady+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908217.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908217.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908217.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908217.jpg</image>
+        </track>                    <track rank="147">
+    <name>Just Fell In</name>
+    <duration>205</duration>
+            <playcount>228</playcount>
+                <listeners>103</listeners>
+    
+            <mbid>9ae75ff6-1ed3-48b1-b2f9-569885541c2d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Just+Fell+In</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="148">
+    <name>Kiss Your Ass Goodbye</name>
+    <duration>193</duration>
+            <playcount>181</playcount>
+                <listeners>103</listeners>
+    
+            <mbid>54801c01-46e6-4d19-826f-49e9c54da214</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Kiss+Your+Ass+Goodbye</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="149">
+    <name>High Enough</name>
+    <duration>290</duration>
+            <playcount>150</playcount>
+                <listeners>103</listeners>
+    
+            <mbid>0099f360-6d43-46d3-9fb7-ff05b0b9e88d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/High+Enough</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/69552258.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/69552258.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/69552258.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/69552258.jpg</image>
+        </track>                    <track rank="150">
+    <name>These Are The Times</name>
+    <duration>405</duration>
+            <playcount>236</playcount>
+                <listeners>103</listeners>
+    
+            <mbid>ba3f92f3-9fc1-4a80-8e64-24308d815add</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/These+Are+The+Times</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="151">
+    <name>I'm OK</name>
+    <duration></duration>
+            <playcount>203</playcount>
+                <listeners>102</listeners>
+    
+            <mbid>daa51d43-249c-4c54-b6bd-e27129fe5111</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/I%27m+OK</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="152">
+    <name>Yes I Can</name>
+    <duration>231</duration>
+            <playcount>214</playcount>
+                <listeners>102</listeners>
+    
+            <mbid>2635658b-f8ca-45dd-95f1-6e2f1e1c1a03</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Yes+I+Can</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="153">
+    <name>One Way Out</name>
+    <duration>282</duration>
+            <playcount>155</playcount>
+                <listeners>101</listeners>
+    
+            <mbid>d6f47aa5-f0ea-4ff2-a969-e571a0c9c9f0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/One+Way+Out</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="154">
+    <name>Great Expectations</name>
+    <duration>284</duration>
+            <playcount>205</playcount>
+                <listeners>100</listeners>
+    
+            <mbid>93b17b5a-a8f4-40e2-8fca-4aa4a83daf68</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Great+Expectations</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="155">
+    <name>Man In The Wilderness - Expanded Version</name>
+    <duration>417</duration>
+            <playcount>162</playcount>
+                <listeners>99</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Man+In+The+Wilderness+-+Expanded+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="156">
+    <name>While There's Still Time</name>
+    <duration>231</duration>
+            <playcount>211</playcount>
+                <listeners>99</listeners>
+    
+            <mbid>cd8fbe32-d16a-4b8c-830a-060029f6175a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/While+There%27s+Still+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="157">
+    <name>Talkin' About The Good Times</name>
+    <duration>237</duration>
+            <playcount>139</playcount>
+                <listeners>98</listeners>
+    
+            <mbid>a9377e47-8e10-4bb0-a741-0f26a8cb67b7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Talkin%27+About+The+Good+Times</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="158">
+    <name>Do Things My Way</name>
+    <duration>297</duration>
+            <playcount>174</playcount>
+                <listeners>98</listeners>
+    
+            <mbid>ac98527f-2603-4fdb-802b-a03a9d35bc88</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Do+Things+My+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="159">
+    <name>Goodbye Roseland</name>
+    <duration>227</duration>
+            <playcount>185</playcount>
+                <listeners>97</listeners>
+    
+            <mbid>493f1277-a3af-45c9-888a-701567525260</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Goodbye+Roseland</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="160">
+    <name>What Have They Done To You</name>
+    <duration>273</duration>
+            <playcount>191</playcount>
+                <listeners>96</listeners>
+    
+            <mbid>b23a3ce7-e723-4799-b752-edfa21b50efc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/What+Have+They+Done+To+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="161">
+    <name>Mr. Roboto [April 1983]</name>
+    <duration>331</duration>
+            <playcount>246</playcount>
+                <listeners>95</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mr.+Roboto+%5BApril+1983%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="162">
+    <name>Killing The Thing That You Love</name>
+    <duration>337</duration>
+            <playcount>153</playcount>
+                <listeners>95</listeners>
+    
+            <mbid>e4009055-cc48-44b0-875a-c3c59c25e187</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Killing+The+Thing+That+You+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="163">
+    <name>Bourgeois Pig</name>
+    <duration>49</duration>
+            <playcount>168</playcount>
+                <listeners>93</listeners>
+    
+            <mbid>ab4fe88c-bf30-4687-9e14-505cbc11e611</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Bourgeois+Pig</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="164">
+    <name>It Don't Make Sense (You Can't Make Peace)</name>
+    <duration>251</duration>
+            <playcount>162</playcount>
+                <listeners>93</listeners>
+    
+            <mbid>1a9a25fb-7887-4fc9-812f-9ffb8f34653a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/It+Don%27t+Make+Sense+(You+Can%27t+Make+Peace)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90039907.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90039907.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90039907.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90039907.jpg</image>
+        </track>                    <track rank="165">
+    <name>Together</name>
+    <duration>286</duration>
+            <playcount>185</playcount>
+                <listeners>90</listeners>
+    
+            <mbid>e1346bc1-3ac4-4ef8-a736-efbeb204950c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Together</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="166">
+    <name>Suite Madam Blue</name>
+    <duration>585</duration>
+            <playcount>218</playcount>
+                <listeners>88</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Suite+Madam+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="167">
+    <name>More Love For The Money</name>
+    <duration>228</duration>
+            <playcount>156</playcount>
+                <listeners>86</listeners>
+    
+            <mbid>233bd9ee-7692-4590-9fdd-da8772dfc402</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/More+Love+For+The+Money</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="168">
+    <name>Mr.Roboto</name>
+    <duration></duration>
+            <playcount>186</playcount>
+                <listeners>86</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mr.Roboto</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="169">
+    <name>Difference In The World</name>
+    <duration>219</duration>
+            <playcount>157</playcount>
+                <listeners>85</listeners>
+    
+            <mbid>56906d76-1c0f-42e2-b290-a81b60f90d52</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Difference+In+The+World</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/69552258.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/69552258.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/69552258.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/69552258.jpg</image>
+        </track>                    <track rank="170">
+    <name>Fooling Yourself (Angry Young Man) [Live]</name>
+    <duration>343</duration>
+            <playcount>104</playcount>
+                <listeners>83</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fooling+Yourself+(Angry+Young+Man)+%5BLive%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Winner Takes All</name>
+    <duration>186</duration>
+            <playcount>127</playcount>
+                <listeners>80</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Winner+Takes+All</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234423.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234423.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234423.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234423.jpg</image>
+        </track>                    <track rank="172">
+    <name>State Street Sadie</name>
+    <duration>26</duration>
+            <playcount>137</playcount>
+                <listeners>79</listeners>
+    
+            <mbid>1fb82e86-59b8-46ad-984f-e0cf554bfc74</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/State+Street+Sadie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002GBW.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="173">
+    <name>Rockin The Paradise</name>
+    <duration>284</duration>
+            <playcount>170</playcount>
+                <listeners>75</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Rockin+The+Paradise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Suite Madame Blue (Live)</name>
+    <duration>586</duration>
+            <playcount>92</playcount>
+                <listeners>75</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Suite+Madame+Blue+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908217.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908217.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908217.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908217.jpg</image>
+        </track>                    <track rank="175">
+    <name>Coming Of Age</name>
+    <duration>255</duration>
+            <playcount>113</playcount>
+                <listeners>75</listeners>
+    
+            <mbid>6f918cdd-3ec3-4b40-8b73-a61d5d214bfc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Coming+Of+Age</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/69552258.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/69552258.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/69552258.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/69552258.jpg</image>
+        </track>                    <track rank="176">
+    <name>Mr. Roboto (Techno Remix)</name>
+    <duration></duration>
+            <playcount>129</playcount>
+                <listeners>71</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Mr.+Roboto+(Techno+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="177">
+    <name>Fooling Yourself (Palm Of Your Hands)</name>
+    <duration>39</duration>
+            <playcount>133</playcount>
+                <listeners>70</listeners>
+    
+            <mbid>ce0fc30b-2d1a-4fac-93a0-ed42a7205496</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fooling+Yourself+(Palm+Of+Your+Hands)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="178">
+    <name>Aku Aku</name>
+    <duration></duration>
+            <playcount>150</playcount>
+                <listeners>70</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Aku+Aku</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="179">
+    <name>Brave New World (Reprise)</name>
+    <duration>212</duration>
+            <playcount>105</playcount>
+                <listeners>67</listeners>
+    
+            <mbid>d4dcc140-6e09-4628-a996-2c59513cc373</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Brave+New+World+(Reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="180">
+    <name>mr roboto (kids on drugs dubstep remix)</name>
+    <duration>250</duration>
+            <playcount>123</playcount>
+                <listeners>66</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/mr+roboto+(kids+on+drugs+dubstep+remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>Renegade Lyrics</name>
+    <duration></duration>
+            <playcount>122</playcount>
+                <listeners>66</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Renegade+Lyrics</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>Genki Desu Ka</name>
+    <duration>374</duration>
+            <playcount>102</playcount>
+                <listeners>63</listeners>
+    
+            <mbid>6ec169dd-8a46-401a-9232-3aa445831480</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Genki+Desu+Ka</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87088349.jpg</image>
+        </track>                    <track rank="183">
+    <name>Unfinished Song</name>
+    <duration>180</duration>
+            <playcount>108</playcount>
+                <listeners>63</listeners>
+    
+            <mbid>aa0026ff-9175-434f-b510-83e2861ebad2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Unfinished+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85398977.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85398977.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85398977.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85398977.jpg</image>
+        </track>                    <track rank="184">
+    <name>Miss America (Live)</name>
+    <duration>419</duration>
+            <playcount>102</playcount>
+                <listeners>59</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Miss+America+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92817137.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92817137.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92817137.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92817137.jpg</image>
+        </track>                    <track rank="185">
+    <name>Music Time</name>
+    <duration>287</duration>
+            <playcount>104</playcount>
+                <listeners>57</listeners>
+    
+            <mbid>df46cb95-1f6b-4455-91bc-fa6d225b9f4a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Music+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38234735.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38234735.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38234735.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38234735.jpg</image>
+        </track>                    <track rank="186">
+    <name>Clair de Lune/Ballerina</name>
+    <duration></duration>
+            <playcount>132</playcount>
+                <listeners>55</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Clair+de+Lune%2FBallerina</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000E0VL2M.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000E0VL2M.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000E0VL2M.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000E0VL2M.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="187">
+    <name>Little Fugue In ''G''</name>
+    <duration>77</duration>
+            <playcount>80</playcount>
+                <listeners>55</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Little+Fugue+In+%27%27G%27%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="188">
+    <name>Paradise</name>
+    <duration>269</duration>
+            <playcount>79</playcount>
+                <listeners>53</listeners>
+    
+            <mbid>f916f568-1dd8-403b-a2ff-42c66d88cb2f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Paradise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90609535.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90609535.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90609535.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90609535.jpg</image>
+        </track>                    <track rank="189">
+    <name>Come Sail Away - Styx - Classic Rock - Styx - Greatest Hits</name>
+    <duration>365</duration>
+            <playcount>102</playcount>
+                <listeners>52</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Come+Sail+Away+-+Styx+-+Classic+Rock+-+Styx+-+Greatest+Hits</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="190">
+    <name>The Grand Illusion - Live From Orpheum Theater In Memphis, TN / 2011</name>
+    <duration>338</duration>
+            <playcount>58</playcount>
+                <listeners>51</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/The+Grand+Illusion+-+Live+From+Orpheum+Theater+In+Memphis,+TN+%2F+2011</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="191">
+    <name>On My Way</name>
+    <duration>303</duration>
+            <playcount>81</playcount>
+                <listeners>49</listeners>
+    
+            <mbid>e517b7c8-1d1b-4f02-ac0b-eee4d3b8213c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/On+My+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90609535.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90609535.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90609535.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90609535.jpg</image>
+        </track>                    <track rank="192">
+    <name>Fooling Yourself (Angry Young Man)</name>
+    <duration>343</duration>
+            <playcount>71</playcount>
+                <listeners>48</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fooling+Yourself+(Angry+Young+Man)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91022703.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91022703.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91022703.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91022703.jpg</image>
+        </track>                    <track rank="193">
+    <name>Midnight Ride (Live)</name>
+    <duration>577</duration>
+            <playcount>56</playcount>
+                <listeners>48</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Midnight+Ride+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908217.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908217.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908217.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908217.jpg</image>
+        </track>                    <track rank="194">
+    <name>High Crimes &amp; Misdemeanors (Hip Hop-Crazy)</name>
+    <duration>206</duration>
+            <playcount>90</playcount>
+                <listeners>48</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/High+Crimes+&amp;+Misdemeanors+(Hip+Hop-Crazy)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="195">
+    <name>Best Of Times</name>
+    <duration>256</duration>
+            <playcount>147</playcount>
+                <listeners>47</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Best+Of+Times</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002G3Y.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="196">
+    <name>Fooling Yourself (The Angry Young Man) - Live From Orpheum Theater In Memphis, TN / 2011</name>
+    <duration>381</duration>
+            <playcount>55</playcount>
+                <listeners>46</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Fooling+Yourself+(The+Angry+Young+Man)+-+Live+From+Orpheum+Theater+In+Memphis,+TN+%2F+2011</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Come Sail Away - Live From Orpheum Theater In Memphis, TN / 2011</name>
+    <duration>536</duration>
+            <playcount>61</playcount>
+                <listeners>44</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/Come+Sail+Away+-+Live+From+Orpheum+Theater+In+Memphis,+TN+%2F+2011</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="198">
+    <name>High Crimes &amp; Misdemeanors (Hip Hop-Cracy)</name>
+    <duration>206</duration>
+            <playcount>87</playcount>
+                <listeners>43</listeners>
+    
+            <mbid>61bbb1ff-7d5f-4223-93fa-b795216052b0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Styx/_/High+Crimes+&amp;+Misdemeanors+(Hip+Hop-Cracy)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88875057.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88875057.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88875057.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88875057.jpg</image>
+        </track>                    <track rank="199">
+    <name>Grand Finale</name>
+    <duration></duration>
+            <playcount>71</playcount>
+                <listeners>42</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Grand+Finale</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Don't Let It End [Reprise]</name>
+    <duration>142</duration>
+            <playcount>146</playcount>
+                <listeners>41</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Styx/_/Don%27t+Let+It+End+%5BReprise%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Styx</name>
+                <mbid>835a6d9c-fea0-4a71-ae52-9c4da946433a</mbid>
+     
+        <url>http://www.last.fm/music/Styx</url>
+    </artist>
+                </track></toptracks></lfm>

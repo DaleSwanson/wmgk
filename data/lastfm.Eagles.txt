@@ -1,0 +1,3941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Eagles" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Hotel California</name>
+    <duration>390</duration>
+            <playcount>220597</playcount>
+                <listeners>70702</listeners>
+    
+            <mbid>5cfef0f9-5909-46b3-b1bb-e9501c1738aa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="2">
+    <name>Take It Easy</name>
+    <duration>211</duration>
+            <playcount>71847</playcount>
+                <listeners>28629</listeners>
+    
+            <mbid>022c0340-bb1b-4c3b-9f29-bf7ee8ee1951</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+Easy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="3">
+    <name>Desperado</name>
+    <duration>215</duration>
+            <playcount>44896</playcount>
+                <listeners>18045</listeners>
+    
+            <mbid>1c9279d4-75d4-42cb-b82e-519422df6595</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Desperado</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="4">
+    <name>Life In The Fast Lane</name>
+    <duration>286</duration>
+            <playcount>32286</playcount>
+                <listeners>13840</listeners>
+    
+            <mbid>7bd11104-af20-4cf0-9c72-0099f2a386e7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life+In+The+Fast+Lane</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="5">
+    <name>Tequila Sunrise</name>
+    <duration>175</duration>
+            <playcount>32167</playcount>
+                <listeners>13493</listeners>
+    
+            <mbid>1bef5dc1-ff3e-41a3-b772-3bbe403b40ae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Tequila+Sunrise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="6">
+    <name>New Kid in Town</name>
+    <duration>304</duration>
+            <playcount>31465</playcount>
+                <listeners>13433</listeners>
+    
+            <mbid>d26f71b6-beec-4feb-94ed-99be25aaab6a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/New+Kid+in+Town</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="7">
+    <name>One of These Nights</name>
+    <duration>292</duration>
+            <playcount>33140</playcount>
+                <listeners>12494</listeners>
+    
+            <mbid>2ebce3d3-4b77-4124-b610-b43f3c7cc3c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/One+of+These+Nights</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="8">
+    <name>Peaceful Easy Feeling</name>
+    <duration>260</duration>
+            <playcount>28760</playcount>
+                <listeners>11940</listeners>
+    
+            <mbid>d24cc0c4-2ea2-4321-bb0b-5704eba7968d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Peaceful+Easy+Feeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="9">
+    <name>Witchy Woman</name>
+    <duration>255</duration>
+            <playcount>22995</playcount>
+                <listeners>10598</listeners>
+    
+            <mbid>a4a35129-339e-4ef8-b824-befcfdfdcc0c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Witchy+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="10">
+    <name>Lyin' Eyes</name>
+    <duration>383</duration>
+            <playcount>27240</playcount>
+                <listeners>10408</listeners>
+    
+            <mbid>80120f9f-efa2-423c-8fb2-9ef2521c3bc5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Lyin%27+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="11">
+    <name>Take It to the Limit</name>
+    <duration>288</duration>
+            <playcount>23665</playcount>
+                <listeners>9480</listeners>
+    
+            <mbid>23c13144-2ba6-4f61-b54a-05f4ea5fb288</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+to+the+Limit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="12">
+    <name>I Can't Tell You Why</name>
+    <duration>295</duration>
+            <playcount>23805</playcount>
+                <listeners>9105</listeners>
+    
+            <mbid>cbbd943e-a353-45d7-8a8e-85a12c238df7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Can%27t+Tell+You+Why</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="13">
+    <name>Already Gone</name>
+    <duration>251</duration>
+            <playcount>18627</playcount>
+                <listeners>8491</listeners>
+    
+            <mbid>0e1277dc-0e24-4b37-b557-36dc97a547fe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Already+Gone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="14">
+    <name>Heartache Tonight</name>
+    <duration>266</duration>
+            <playcount>19700</playcount>
+                <listeners>8189</listeners>
+    
+            <mbid>2b1b7355-a0ae-444f-9e79-f2dd73ebc747</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Heartache+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="15">
+    <name>Wasted Time</name>
+    <duration>319</duration>
+            <playcount>15857</playcount>
+                <listeners>7330</listeners>
+    
+            <mbid>cf3a19ae-2dea-4bdb-85c7-e27727e89ed8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Wasted+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="16">
+    <name>Victim of Love</name>
+    <duration>249</duration>
+            <playcount>13860</playcount>
+                <listeners>6865</listeners>
+    
+            <mbid>058650cc-1da6-441c-82a1-f07c475e111a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Victim+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96016707.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96016707.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96016707.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96016707.png</image>
+        </track>                    <track rank="17">
+    <name>The Best of My Love</name>
+    <duration>306</duration>
+            <playcount>14570</playcount>
+                <listeners>6259</listeners>
+    
+            <mbid>9829fb90-c714-4d71-abbf-65590900f232</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Best+of+My+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="18">
+    <name>The Last Resort</name>
+    <duration>444</duration>
+            <playcount>13360</playcount>
+                <listeners>6102</listeners>
+    
+            <mbid>59b4e8da-6f60-4af8-bdb4-d9dc6970533a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Last+Resort</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="19">
+    <name>The Long Run</name>
+    <duration>221</duration>
+            <playcount>13161</playcount>
+                <listeners>5854</listeners>
+    
+            <mbid>127ffb96-8916-4acb-9248-4ecca071cb33</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Long+Run</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25582251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25582251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25582251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25582251.jpg</image>
+        </track>                    <track rank="20">
+    <name>In The City</name>
+    <duration>247</duration>
+            <playcount>10371</playcount>
+                <listeners>5079</listeners>
+    
+            <mbid>30389727-e9da-46e8-be3c-f809cba28a1f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/In+The+City</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="21">
+    <name>Doolin-Dalton</name>
+    <duration>209</duration>
+            <playcount>9538</playcount>
+                <listeners>4861</listeners>
+    
+            <mbid>81c2f389-19a7-4607-9d1d-6d7927f10c44</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="22">
+    <name>James Dean</name>
+    <duration>220</duration>
+            <playcount>8314</playcount>
+                <listeners>4599</listeners>
+    
+            <mbid>e57c5757-f2b9-4eeb-a955-920e6c9e8c3c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/James+Dean</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="23">
+    <name>After the Thrill Is Gone</name>
+    <duration>287</duration>
+            <playcount>8313</playcount>
+                <listeners>4321</listeners>
+    
+            <mbid>61efbdaa-47f2-4210-bf09-6d0bc67cbe9b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/After+the+Thrill+Is+Gone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="24">
+    <name>Pretty Maids All In A Row</name>
+    <duration>267</duration>
+            <playcount>8833</playcount>
+                <listeners>4087</listeners>
+    
+            <mbid>d250c1d9-a7e6-40be-a9ed-25adf2d6ab90</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Pretty+Maids+All+In+A+Row</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="25">
+    <name>Love Will Keep Us Alive</name>
+    <duration>243</duration>
+            <playcount>8072</playcount>
+                <listeners>3604</listeners>
+    
+            <mbid>2abe65f2-4639-4d80-82e1-ce1f40eb63e4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Love+Will+Keep+Us+Alive</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="26">
+    <name>On the Border</name>
+    <duration>262</duration>
+            <playcount>6131</playcount>
+                <listeners>3355</listeners>
+    
+            <mbid>a9efc66b-2f80-4b67-aa31-ab4186b2ed26</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/On+the+Border</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="27">
+    <name>Midnight Flyer</name>
+    <duration>302</duration>
+            <playcount>5755</playcount>
+                <listeners>3301</listeners>
+    
+            <mbid>8ccfef8d-81e3-41e8-a725-449b73f712d9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Midnight+Flyer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="28">
+    <name>Try and Love Again</name>
+    <duration>311</duration>
+            <playcount>6441</playcount>
+                <listeners>3208</listeners>
+    
+            <mbid>63724e32-d0b1-4f93-bb4f-30a2bb183eb0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Try+and+Love+Again</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="29">
+    <name>Ol' 55</name>
+    <duration>320</duration>
+            <playcount>5671</playcount>
+                <listeners>3054</listeners>
+    
+            <mbid>035494d9-f1ed-4013-b851-15d3512a774c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Ol%27+55</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="30">
+    <name>Those Shoes</name>
+    <duration>372</duration>
+            <playcount>6140</playcount>
+                <listeners>3022</listeners>
+    
+            <mbid>16a14368-eae1-4a6f-9f19-8d230f552f95</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Those+Shoes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25582251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25582251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25582251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25582251.jpg</image>
+        </track>                    <track rank="31">
+    <name>Hotel California (Live Acoustic)</name>
+    <duration>431</duration>
+            <playcount>8390</playcount>
+                <listeners>2887</listeners>
+    
+            <mbid>2b69f978-e80a-42aa-bb83-33c7ad927f88</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(Live+Acoustic)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="32">
+    <name>Get Over It</name>
+    <duration>211</duration>
+            <playcount>6003</playcount>
+                <listeners>2853</listeners>
+    
+            <mbid>836040ee-cbd1-4777-9d35-86a6241e0d44</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Get+Over+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="33">
+    <name>How Long</name>
+    <duration>194</duration>
+            <playcount>5645</playcount>
+                <listeners>2718</listeners>
+    
+            <mbid>1155d4a1-a410-4563-892f-0bba1ddbddf0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/How+Long</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="34">
+    <name>The Sad Cafe</name>
+    <duration>334</duration>
+            <playcount>5127</playcount>
+                <listeners>2594</listeners>
+    
+            <mbid>61fdad88-d4e3-449a-a5e1-cad9e016cc8a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Sad+Cafe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25582251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25582251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25582251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25582251.jpg</image>
+        </track>                    <track rank="35">
+    <name>Best of My Love</name>
+    <duration>276</duration>
+            <playcount>5449</playcount>
+                <listeners>2332</listeners>
+    
+            <mbid>7e2d96de-e9cc-4a03-93e0-7b68b30ab48f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Best+of+My+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="36">
+    <name>Please Come Home for Christmas</name>
+    <duration>178</duration>
+            <playcount>3769</playcount>
+                <listeners>2272</listeners>
+    
+            <mbid>d9632cde-1775-49c6-9b04-83c378f4cbd7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Please+Come+Home+for+Christmas</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25582251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25582251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25582251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25582251.jpg</image>
+        </track>                    <track rank="37">
+    <name>Journey of the Sorcerer</name>
+    <duration>397</duration>
+            <playcount>5121</playcount>
+                <listeners>2202</listeners>
+    
+            <mbid>6aae7f2e-b636-4ab4-bcb9-e6ffc33489db</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Journey+of+the+Sorcerer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="38">
+    <name>Hotel California (live)</name>
+    <duration>393</duration>
+            <playcount>5335</playcount>
+                <listeners>2125</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="39">
+    <name>Hotel California - Live Version</name>
+    <duration>430</duration>
+            <playcount>3295</playcount>
+                <listeners>1942</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="40">
+    <name>Busy Being Fabulous</name>
+    <duration>260</duration>
+            <playcount>3721</playcount>
+                <listeners>1924</listeners>
+    
+            <mbid>4a8749bc-a5b3-4c51-945c-e0eb4725812d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Busy+Being+Fabulous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="41">
+    <name>Hole in the World</name>
+    <duration>238</duration>
+            <playcount>3358</playcount>
+                <listeners>1831</listeners>
+    
+            <mbid>386d2163-f8ca-4471-a721-915e7721948b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hole+in+the+World</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25582251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25582251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25582251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25582251.jpg</image>
+        </track>                    <track rank="42">
+    <name>Wasted Time (reprise)</name>
+    <duration>83</duration>
+            <playcount>5866</playcount>
+                <listeners>1776</listeners>
+    
+            <mbid>6849460d-450b-447b-884f-8c2f5c581083</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Wasted+Time+(reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="43">
+    <name>Seven Bridges Road - Live Version</name>
+    <duration>185</duration>
+            <playcount>3308</playcount>
+                <listeners>1686</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Seven+Bridges+Road+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="44">
+    <name>No More Walks In The Wood</name>
+    <duration>120</duration>
+            <playcount>2799</playcount>
+                <listeners>1583</listeners>
+    
+            <mbid>5e47e3c6-c80f-42ac-899c-0613e652cfa5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/No+More+Walks+In+The+Wood</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="45">
+    <name>Hotel California (Lyrics)</name>
+    <duration>30</duration>
+            <playcount>2890</playcount>
+                <listeners>1572</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(Lyrics)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="46">
+    <name>Saturday Night</name>
+    <duration>234</duration>
+            <playcount>3211</playcount>
+                <listeners>1454</listeners>
+    
+            <mbid>e9be5d9e-079d-4a1c-9092-ca8946df8fbd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Saturday+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="47">
+    <name>Waiting In The Weeds</name>
+    <duration>466</duration>
+            <playcount>3178</playcount>
+                <listeners>1453</listeners>
+    
+            <mbid>40ec026e-23bf-4fa7-a993-ce066da503fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Waiting+In+The+Weeds</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="48">
+    <name>Outlaw Man</name>
+    <duration>213</duration>
+            <playcount>3027</playcount>
+                <listeners>1450</listeners>
+    
+            <mbid>16fab53e-c23d-4907-a633-af70e45bf2b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Outlaw+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="49">
+    <name>What Do I Do With My Heart</name>
+    <duration>234</duration>
+            <playcount>2468</playcount>
+                <listeners>1346</listeners>
+    
+            <mbid>6ad52d2d-b719-476a-a384-b8a3cee706e0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/What+Do+I+Do+With+My+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="50">
+    <name>Take It Easy (Live)</name>
+    <duration>226</duration>
+            <playcount>3444</playcount>
+                <listeners>1345</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+Easy+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="51">
+    <name>Train Leaves Here This Morning</name>
+    <duration>247</duration>
+            <playcount>2671</playcount>
+                <listeners>1337</listeners>
+    
+            <mbid>c5022c92-3e6f-4efd-b6ae-ec07e2abaaf7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Train+Leaves+Here+This+Morning</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="52">
+    <name>Life's Been Good - Live Version</name>
+    <duration>537</duration>
+            <playcount>1752</playcount>
+                <listeners>1273</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life%27s+Been+Good+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="53">
+    <name>Learn To Be Still</name>
+    <duration>268</duration>
+            <playcount>2378</playcount>
+                <listeners>1253</listeners>
+    
+            <mbid>8678ea57-32ad-4748-a97d-695631753aa3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Learn+To+Be+Still</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="54">
+    <name>Chug All Night</name>
+    <duration>194</duration>
+            <playcount>2248</playcount>
+                <listeners>1250</listeners>
+    
+            <mbid>afab0a71-2789-45db-a7f3-90b367709c32</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Chug+All+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="55">
+    <name>No More Cloudy Days</name>
+    <duration>243</duration>
+            <playcount>2263</playcount>
+                <listeners>1220</listeners>
+    
+            <mbid>44705252-514d-41d3-a119-2ec246442a16</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/No+More+Cloudy+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="56">
+    <name>Long Road Out Of Eden</name>
+    <duration>617</duration>
+            <playcount>2556</playcount>
+                <listeners>1193</listeners>
+    
+            <mbid>12fd14c3-3ca4-4954-bda7-3200ba953b21</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Long+Road+Out+Of+Eden</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="57">
+    <name>Most of Us Are Sad</name>
+    <duration>214</duration>
+            <playcount>2127</playcount>
+                <listeners>1191</listeners>
+    
+            <mbid>c4f91d10-ca47-4a87-9cca-6cdcb5cabff2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Most+of+Us+Are+Sad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="58">
+    <name>Too Many Hands</name>
+    <duration>281</duration>
+            <playcount>2204</playcount>
+                <listeners>1171</listeners>
+    
+            <mbid>ac66e2c3-7870-4bd3-addd-28d9438f1db7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Too+Many+Hands</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="59">
+    <name>Hollywood Waltz</name>
+    <duration>241</duration>
+            <playcount>1996</playcount>
+                <listeners>1169</listeners>
+    
+            <mbid>9765393b-525b-4f03-a443-f0bcc783e933</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hollywood+Waltz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="60">
+    <name>Certain Kind of Fool</name>
+    <duration>181</duration>
+            <playcount>2291</playcount>
+                <listeners>1152</listeners>
+    
+            <mbid>ddc55fe8-2b0a-43ad-8d09-0a2c76e345d3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Certain+Kind+of+Fool</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="61">
+    <name>Wasted Time [Reprise]</name>
+    <duration>83</duration>
+            <playcount>1921</playcount>
+                <listeners>1138</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Wasted+Time+%5BReprise%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="62">
+    <name>Nightingale</name>
+    <duration>246</duration>
+            <playcount>2013</playcount>
+                <listeners>1122</listeners>
+    
+            <mbid>d3316d52-4a8f-4bbe-81e0-c3ffdcc67df5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Nightingale</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="63">
+    <name>I Don't Want To Hear Any More</name>
+    <duration>261</duration>
+            <playcount>2122</playcount>
+                <listeners>1094</listeners>
+    
+            <mbid>5418c724-2284-4f2a-8d86-90b64d364b6a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Don%27t+Want+To+Hear+Any+More</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="64">
+    <name>The Girl From Yesterday</name>
+    <duration>204</duration>
+            <playcount>2150</playcount>
+                <listeners>1082</listeners>
+    
+            <mbid>73b6d319-772a-479b-88de-ef34774270ef</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Girl+From+Yesterday</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="65">
+    <name>Out of Control</name>
+    <duration>185</duration>
+            <playcount>2000</playcount>
+                <listeners>1080</listeners>
+    
+            <mbid>5266663f-f0f8-4d11-9dd6-b53d3d6e87d6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Out+of+Control</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="66">
+    <name>New York Minute</name>
+    <duration>397</duration>
+            <playcount>2174</playcount>
+                <listeners>1075</listeners>
+    
+            <mbid>c0be6979-79d5-4c2a-86e0-8dc61a05bb1d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/New+York+Minute</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37522839.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37522839.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37522839.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37522839.png</image>
+        </track>                    <track rank="67">
+    <name>Twenty-One</name>
+    <duration>130</duration>
+            <playcount>2042</playcount>
+                <listeners>1072</listeners>
+    
+            <mbid>baaf3098-52ee-48d8-9f17-4b078bd43edd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Twenty-One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="68">
+    <name>Guilty Of The Crime</name>
+    <duration>223</duration>
+            <playcount>1919</playcount>
+                <listeners>1067</listeners>
+    
+            <mbid>3d88c49b-4eed-4ea2-82ff-eae503b5afbd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Guilty+Of+The+Crime</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="69">
+    <name>Take the Devil</name>
+    <duration>242</duration>
+            <playcount>1972</playcount>
+                <listeners>1062</listeners>
+    
+            <mbid>9f75a043-1275-4c5a-a726-2ff2566ba607</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+the+Devil</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="70">
+    <name>Bitter Creek</name>
+    <duration>303</duration>
+            <playcount>2626</playcount>
+                <listeners>1022</listeners>
+    
+            <mbid>c3c19fef-7410-4bae-abb3-06cbf234950b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Bitter+Creek</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="71">
+    <name>You Are Not Alone</name>
+    <duration>144</duration>
+            <playcount>2184</playcount>
+                <listeners>1021</listeners>
+    
+            <mbid>6a2f0f28-94fc-4ed2-beb2-6f0a3430e4e7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/You+Are+Not+Alone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="72">
+    <name>Fast Company</name>
+    <duration>240</duration>
+            <playcount>1870</playcount>
+                <listeners>997</listeners>
+    
+            <mbid>d452614f-5413-4f3f-a37d-7a8b13484ec6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Fast+Company</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="73">
+    <name>Earlybird</name>
+    <duration>180</duration>
+            <playcount>1790</playcount>
+                <listeners>994</listeners>
+    
+            <mbid>509c36e1-faf7-4cea-a054-15d107b4fe7a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Earlybird</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="74">
+    <name>Tryin'</name>
+    <duration>366</duration>
+            <playcount>1724</playcount>
+                <listeners>976</listeners>
+    
+            <mbid>d02a1674-075a-46ac-9c07-8acdd204c1e2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Tryin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="75">
+    <name>King of Hollywood</name>
+    <duration>385</duration>
+            <playcount>1966</playcount>
+                <listeners>975</listeners>
+    
+            <mbid>b78a525c-6315-4520-80b7-9dbc1ad6f84a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/King+of+Hollywood</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="76">
+    <name>Do Something</name>
+    <duration>312</duration>
+            <playcount>1753</playcount>
+                <listeners>973</listeners>
+    
+            <mbid>53129d0a-feb7-4696-b9ef-711db5161d88</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Do+Something</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="77">
+    <name>Somebody</name>
+    <duration>249</duration>
+            <playcount>1899</playcount>
+                <listeners>971</listeners>
+    
+            <mbid>2550795b-ca85-4c5b-827d-7883be59882b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Somebody</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="78">
+    <name>I Wish You Peace</name>
+    <duration>227</duration>
+            <playcount>1770</playcount>
+                <listeners>939</listeners>
+    
+            <mbid>8a585cef-a43b-46fa-9ccf-0455a1837a02</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Wish+You+Peace</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="79">
+    <name>I Dreamed There Was No War</name>
+    <duration>98</duration>
+            <playcount>1701</playcount>
+                <listeners>908</listeners>
+    
+            <mbid>0930b695-2600-425c-8d49-7c2710e953b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Dreamed+There+Was+No+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="80">
+    <name>Seven Bridges Road</name>
+    <duration>206</duration>
+            <playcount>2080</playcount>
+                <listeners>894</listeners>
+    
+            <mbid>33c30ac6-efa6-4a4f-ba4b-d9da552fbb0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Seven+Bridges+Road</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93403541.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93403541.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93403541.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93403541.jpg</image>
+        </track>                    <track rank="81">
+    <name>Visions</name>
+    <duration>236</duration>
+            <playcount>1480</playcount>
+                <listeners>883</listeners>
+    
+            <mbid>e4d1793b-c15c-41e4-bc4a-3b0f4f61430d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Visions</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="82">
+    <name>I can't tell you why (live)</name>
+    <duration>311</duration>
+            <playcount>2261</playcount>
+                <listeners>832</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+can%27t+tell+you+why+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="83">
+    <name>Desperado (live)</name>
+    <duration></duration>
+            <playcount>1808</playcount>
+                <listeners>831</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Desperado+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="84">
+    <name>The Disco Strangler</name>
+    <duration>434</duration>
+            <playcount>1305</playcount>
+                <listeners>828</listeners>
+    
+            <mbid>e906d0ed-a725-4374-bf73-df8e9ee94990</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Disco+Strangler</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90472961.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90472961.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90472961.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90472961.jpg</image>
+        </track>                    <track rank="85">
+    <name>Frail Grasp On The Big Picture</name>
+    <duration>346</duration>
+            <playcount>1595</playcount>
+                <listeners>813</listeners>
+    
+            <mbid>07e18499-7704-43c6-9102-500b16ef949e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Frail+Grasp+On+The+Big+Picture</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="86">
+    <name>Last Good Time In Town</name>
+    <duration>427</duration>
+            <playcount>1575</playcount>
+                <listeners>808</listeners>
+    
+            <mbid>5b92dbc9-d566-46a0-b01a-715f74e11180</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Last+Good+Time+In+Town</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="87">
+    <name>I Love To Watch A Woman Dance</name>
+    <duration>196</duration>
+            <playcount>1474</playcount>
+                <listeners>791</listeners>
+    
+            <mbid>29337595-1c29-4809-a5f2-de8a840c496f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Love+To+Watch+A+Woman+Dance</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="88">
+    <name>Business As Usual</name>
+    <duration>331</duration>
+            <playcount>1582</playcount>
+                <listeners>789</listeners>
+    
+            <mbid>26747682-5661-4a6b-ac34-78c01b71a7fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Business+As+Usual</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="89">
+    <name>Center Of The Universe</name>
+    <duration>222</duration>
+            <playcount>1518</playcount>
+                <listeners>789</listeners>
+    
+            <mbid>2bc77175-1e10-48d2-b385-bd0774c71f70</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Center+Of+The+Universe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="90">
+    <name>Seven Bridges Road (live)</name>
+    <duration>183</duration>
+            <playcount>1605</playcount>
+                <listeners>768</listeners>
+    
+            <mbid>6d436abf-1da0-435f-8885-3d9c76b06d1c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Seven+Bridges+Road+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25582251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25582251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25582251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25582251.jpg</image>
+        </track>                    <track rank="91">
+    <name>My Man</name>
+    <duration>209</duration>
+            <playcount>1432</playcount>
+                <listeners>759</listeners>
+    
+            <mbid>18ec0671-4fe4-40b4-ae37-651dc62b556a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/My+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="92">
+    <name>You Never Cry Like a Lover</name>
+    <duration>240</duration>
+            <playcount>1313</playcount>
+                <listeners>746</listeners>
+    
+            <mbid>9e7f22c5-1df8-4850-9b42-e28609bfe5e1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/You+Never+Cry+Like+a+Lover</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="93">
+    <name>It's Your World Now</name>
+    <duration>260</duration>
+            <playcount>1357</playcount>
+                <listeners>721</listeners>
+    
+            <mbid>81c852bb-4118-48be-b0a4-f8aef7bcb078</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/It%27s+Your+World+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843503.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843503.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843503.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843503.png</image>
+        </track>                    <track rank="94">
+    <name>Take It To The Limit (Live)</name>
+    <duration></duration>
+            <playcount>1682</playcount>
+                <listeners>716</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+To+The+Limit+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="95">
+    <name>The Greeks Don't Want No Freaks</name>
+    <duration>142</duration>
+            <playcount>1158</playcount>
+                <listeners>700</listeners>
+    
+            <mbid>456aca8d-a8e3-4811-9cec-59176618de45</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Greeks+Don%27t+Want+No+Freaks</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90472961.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90472961.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90472961.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90472961.jpg</image>
+        </track>                    <track rank="96">
+    <name>Teenage Jail</name>
+    <duration>226</duration>
+            <playcount>1158</playcount>
+                <listeners>692</listeners>
+    
+            <mbid>211cbc60-3087-4978-ad42-90a2a30519fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Teenage+Jail</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="97">
+    <name>Good Day in Hell</name>
+    <duration>266</duration>
+            <playcount>1177</playcount>
+                <listeners>673</listeners>
+    
+            <mbid>fc7f0b50-5470-4a7a-a562-a5fe5a4ddc0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Good+Day+in+Hell</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="98">
+    <name>Life's Been Good (Live)</name>
+    <duration>576</duration>
+            <playcount>1516</playcount>
+                <listeners>667</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life%27s+Been+Good+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="99">
+    <name>Heartache Tonight (Live)</name>
+    <duration>274</duration>
+            <playcount>1396</playcount>
+                <listeners>634</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Heartache+Tonight+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="100">
+    <name>Doolin Dalton</name>
+    <duration>210</duration>
+            <playcount>1218</playcount>
+                <listeners>577</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin+Dalton</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/8682671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8682671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8682671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/8682671.jpg</image>
+        </track>                    <track rank="101">
+    <name>Peaceful, Easy Feeling</name>
+    <duration>259</duration>
+            <playcount>1175</playcount>
+                <listeners>559</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Peaceful,+Easy+Feeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="102">
+    <name>Tequila Sunrise (Live)</name>
+    <duration>175</duration>
+            <playcount>1238</playcount>
+                <listeners>553</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Tequila+Sunrise+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="103">
+    <name>Is It True?</name>
+    <duration>193</duration>
+            <playcount>825</playcount>
+                <listeners>495</listeners>
+    
+            <mbid>cdf28013-5460-4130-a78a-1fec32605762</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Is+It+True%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90472961.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90472961.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90472961.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90472961.jpg</image>
+        </track>                    <track rank="104">
+    <name>Heartache Tonight - Live Version</name>
+    <duration>274</duration>
+            <playcount>466</playcount>
+                <listeners>345</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Heartache+Tonight+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="105">
+    <name>Lyin Eyes</name>
+    <duration>381</duration>
+            <playcount>909</playcount>
+                <listeners>344</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Eagles/_/Lyin+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="106">
+    <name>I Can't Tell You Why - Live Version</name>
+    <duration>318</duration>
+            <playcount>477</playcount>
+                <listeners>335</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Can%27t+Tell+You+Why+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="107">
+    <name>Life In The Fast Lane (Live)</name>
+    <duration>308</duration>
+            <playcount>579</playcount>
+                <listeners>327</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life+In+The+Fast+Lane+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="108">
+    <name>Desperado - Live Version</name>
+    <duration>238</duration>
+            <playcount>453</playcount>
+                <listeners>317</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Desperado+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="109">
+    <name>New Kid In Town - Live Version</name>
+    <duration>354</duration>
+            <playcount>434</playcount>
+                <listeners>316</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/New+Kid+In+Town+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="110">
+    <name>HOTEL CALIFORNIA (LUXXURY EDIT)</name>
+    <duration>343</duration>
+            <playcount>1089</playcount>
+                <listeners>313</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/HOTEL+CALIFORNIA+(LUXXURY+EDIT)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="111">
+    <name>Seven Bridges Road (Live Version)</name>
+    <duration></duration>
+            <playcount>633</playcount>
+                <listeners>311</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Seven+Bridges+Road+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="112">
+    <name>Doolin-Dalton - Instrumental Version</name>
+    <duration>48</duration>
+            <playcount>555</playcount>
+                <listeners>309</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+-+Instrumental+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="113">
+    <name>The Long Run - Live Version</name>
+    <duration>352</duration>
+            <playcount>404</playcount>
+                <listeners>296</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Long+Run+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="114">
+    <name>The Sad Café</name>
+    <duration>361</duration>
+            <playcount>670</playcount>
+                <listeners>295</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Sad+Caf%C3%A9</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44564043.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44564043.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44564043.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44564043.png</image>
+        </track>                    <track rank="115">
+    <name>Wasted Time - Live Version</name>
+    <duration>321</duration>
+            <playcount>391</playcount>
+                <listeners>290</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Wasted+Time+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="116">
+    <name>Take It To The Limit - Live Version</name>
+    <duration>314</duration>
+            <playcount>412</playcount>
+                <listeners>290</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+To+The+Limit+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="117">
+    <name>Doolin-Dalton/Desperado - Reprise</name>
+    <duration>295</duration>
+            <playcount>632</playcount>
+                <listeners>289</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton%2FDesperado+-+Reprise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="118">
+    <name>Take It Easy - Live Version</name>
+    <duration>317</duration>
+            <playcount>437</playcount>
+                <listeners>278</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+Easy+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="119">
+    <name>The Long Run (Live)</name>
+    <duration>335</duration>
+            <playcount>533</playcount>
+                <listeners>267</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Long+Run+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="120">
+    <name>Doolin-Dalton (instrumental)</name>
+    <duration>47</duration>
+            <playcount>619</playcount>
+                <listeners>259</listeners>
+    
+            <mbid>e777c1c6-b78f-44c9-b344-f6099854da06</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+(instrumental)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="121">
+    <name>Doolin-Dalton - Reprise II Live Version</name>
+    <duration>42</duration>
+            <playcount>321</playcount>
+                <listeners>253</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+-+Reprise+II+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="122">
+    <name>Life In The Fast Lane - Live Version</name>
+    <duration>310</duration>
+            <playcount>345</playcount>
+                <listeners>247</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life+In+The+Fast+Lane+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="123">
+    <name>New Kid in Town (Live)</name>
+    <duration>345</duration>
+            <playcount>502</playcount>
+                <listeners>245</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/New+Kid+in+Town+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="124">
+    <name>Life's Been Good</name>
+    <duration>577</duration>
+            <playcount>485</playcount>
+                <listeners>239</listeners>
+    
+            <mbid>951c26d1-2f52-4b0c-be4e-f581bc3fd0e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life%27s+Been+Good</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38139357.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38139357.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38139357.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38139357.jpg</image>
+        </track>                    <track rank="125">
+    <name>Saturday Night - Live Version</name>
+    <duration>228</duration>
+            <playcount>306</playcount>
+                <listeners>237</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Saturday+Night+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="126">
+    <name>Doolin-Dalton/Desperado (reprise)</name>
+    <duration>289</duration>
+            <playcount>610</playcount>
+                <listeners>236</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton%2FDesperado+(reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843399.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843399.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843399.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843399.png</image>
+        </track>                    <track rank="127">
+    <name>Hole In The World - Bonus Track</name>
+    <duration>259</duration>
+            <playcount>347</playcount>
+                <listeners>231</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hole+In+The+World+-+Bonus+Track</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="128">
+    <name>All Night Long - Live Version</name>
+    <duration>335</duration>
+            <playcount>305</playcount>
+                <listeners>228</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/All+Night+Long+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="129">
+    <name>Doolin' Dalton</name>
+    <duration>206</duration>
+            <playcount>497</playcount>
+                <listeners>227</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin%27+Dalton</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="130">
+    <name>Ol 55</name>
+    <duration></duration>
+            <playcount>478</playcount>
+                <listeners>210</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Ol+55</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="131">
+    <name>Wasted Time (Live)</name>
+    <duration></duration>
+            <playcount>353</playcount>
+                <listeners>182</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Wasted+Time+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="132">
+    <name>Please Come Home For Christmas - Bonus Track</name>
+    <duration>180</duration>
+            <playcount>242</playcount>
+                <listeners>180</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Please+Come+Home+For+Christmas+-+Bonus+Track</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="133">
+    <name>Hotel California (Live Version)</name>
+    <duration>418</duration>
+            <playcount>404</playcount>
+                <listeners>174</listeners>
+    
+            <mbid>c2df9027-6b3a-4e41-adc9-dc774c57e751</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94319767.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94319767.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94319767.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94319767.jpg</image>
+        </track>                    <track rank="134">
+    <name>Say Tonight</name>
+    <duration>238</duration>
+            <playcount>652</playcount>
+                <listeners>173</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Say+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="135">
+    <name>All Night Long</name>
+    <duration>96</duration>
+            <playcount>346</playcount>
+                <listeners>170</listeners>
+    
+            <mbid>10a01bd3-deee-4bc7-b3a6-0e87d355cc89</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/All+Night+Long</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38139361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38139361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38139361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38139361.jpg</image>
+        </track>                    <track rank="136">
+    <name>In the city (live)</name>
+    <duration>247</duration>
+            <playcount>321</playcount>
+                <listeners>169</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/In+the+city+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="137">
+    <name>Doolin Dalton [instrumental]</name>
+    <duration></duration>
+            <playcount>300</playcount>
+                <listeners>166</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin+Dalton+%5Binstrumental%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="138">
+    <name>Funky New Year</name>
+    <duration>225</duration>
+            <playcount>259</playcount>
+                <listeners>166</listeners>
+    
+            <mbid>4332b7ab-d696-43ea-854f-336bd8164876</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Funky+New+Year</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="139">
+    <name>Doolin-Dalton / Desperado (reprise)</name>
+    <duration>289</duration>
+            <playcount>644</playcount>
+                <listeners>161</listeners>
+    
+            <mbid>34bded61-ae03-4fce-8dd3-44969bf90ce7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+%2F+Desperado+(reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90472961.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90472961.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90472961.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90472961.jpg</image>
+        </track>                    <track rank="140">
+    <name>Is It True</name>
+    <duration>194</duration>
+            <playcount>278</playcount>
+                <listeners>150</listeners>
+    
+            <mbid>57690160-6098-4442-acf6-8971ba1ed4d2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Is+It+True</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="141">
+    <name>Doolin-Dalton (Reprise II)</name>
+    <duration>42</duration>
+            <playcount>228</playcount>
+                <listeners>143</listeners>
+    
+            <mbid>08d6b98f-4724-404a-8871-9878ccac5182</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+(Reprise+II)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/38139361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/38139361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38139361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/38139361.jpg</image>
+        </track>                    <track rank="142">
+    <name>journey of a sorcerer</name>
+    <duration></duration>
+            <playcount>275</playcount>
+                <listeners>137</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Eagles/_/journey+of+a+sorcerer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="143">
+    <name>Long Run Leftovers</name>
+    <duration>180</duration>
+            <playcount>205</playcount>
+                <listeners>135</listeners>
+    
+            <mbid>fafaa2fe-5704-4e77-8579-3131c6fc7bc0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Long+Run+Leftovers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85640287.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85640287.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85640287.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85640287.jpg</image>
+        </track>                    <track rank="144">
+    <name>Born To Boogie</name>
+    <duration>136</duration>
+            <playcount>199</playcount>
+                <listeners>134</listeners>
+    
+            <mbid>db6ec3cd-19cc-49fc-8aad-9af1a5a1a247</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Born+To+Boogie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85640287.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85640287.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85640287.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85640287.jpg</image>
+        </track>                    <track rank="145">
+    <name>Hotel Califonia</name>
+    <duration></duration>
+            <playcount>283</playcount>
+                <listeners>131</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+Califonia</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Seven Bridges Road [Live]</name>
+    <duration></duration>
+            <playcount>209</playcount>
+                <listeners>126</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Seven+Bridges+Road+%5BLive%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="147">
+    <name>Dust In The Wind</name>
+    <duration>241</duration>
+            <playcount>252</playcount>
+                <listeners>120</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Dust+In+The+Wind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="148">
+    <name>Disco Strangler</name>
+    <duration>165</duration>
+            <playcount>224</playcount>
+                <listeners>119</listeners>
+    
+            <mbid>2b72c400-f751-4a9c-b2ce-8a66fe0e359a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Disco+Strangler</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="149">
+    <name>New York Minute (Live)</name>
+    <duration></duration>
+            <playcount>232</playcount>
+                <listeners>111</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/New+York+Minute+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="150">
+    <name>Doolin' Dalton/Desperado (Reprise)</name>
+    <duration></duration>
+            <playcount>208</playcount>
+                <listeners>105</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin%27+Dalton%2FDesperado+(Reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="151">
+    <name>Dirty Laundry</name>
+    <duration>372</duration>
+            <playcount>294</playcount>
+                <listeners>102</listeners>
+    
+            <mbid>5c6ad071-410f-4eac-a32f-accb9daca6fc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Dirty+Laundry</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="152">
+    <name>Lying Eyes</name>
+    <duration>386</duration>
+            <playcount>270</playcount>
+                <listeners>99</listeners>
+    
+            <mbid>1136b894-7c91-4eea-afa3-fcda659ad588</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Lying+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="153">
+    <name>One Of These Nights Intro</name>
+    <duration>119</duration>
+            <playcount>147</playcount>
+                <listeners>95</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Eagles/_/One+Of+These+Nights+Intro</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85640287.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85640287.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85640287.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85640287.jpg</image>
+        </track>                    <track rank="154">
+    <name>How Long - Single Version</name>
+    <duration>195</duration>
+            <playcount>174</playcount>
+                <listeners>92</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/How+Long+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="155">
+    <name>Ol' '55</name>
+    <duration></duration>
+            <playcount>203</playcount>
+                <listeners>92</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Ol%27+%2755</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0000CD5FR.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0000CD5FR.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0000CD5FR.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0000CD5FR.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="156">
+    <name>Eagles</name>
+    <duration>213</duration>
+            <playcount>178</playcount>
+                <listeners>92</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Eagles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="157">
+    <name>Doolin-Dalton (Instrumental Version)</name>
+    <duration>47</duration>
+            <playcount>187</playcount>
+                <listeners>91</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+(Instrumental+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88843399.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88843399.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88843399.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88843399.png</image>
+        </track>                    <track rank="158">
+    <name>Peacful Easy Feeling</name>
+    <duration></duration>
+            <playcount>197</playcount>
+                <listeners>90</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Peacful+Easy+Feeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="159">
+    <name>I Cant Tell You Why</name>
+    <duration></duration>
+            <playcount>225</playcount>
+                <listeners>89</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Cant+Tell+You+Why</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="160">
+    <name>Hotel California (unplugged)</name>
+    <duration>419</duration>
+            <playcount>210</playcount>
+                <listeners>82</listeners>
+    
+            <mbid>98754a2c-32b7-4dd6-baee-d9242218f0fe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(unplugged)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/8682671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8682671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8682671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/8682671.jpg</image>
+        </track>                    <track rank="161">
+    <name>Doolin Dalton/Desperado ( Reprise )</name>
+    <duration>290</duration>
+            <playcount>135</playcount>
+                <listeners>78</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin+Dalton%2FDesperado+(+Reprise+)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="162">
+    <name>The Last Resort (Live)</name>
+    <duration></duration>
+            <playcount>181</playcount>
+                <listeners>77</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Last+Resort+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="163">
+    <name>Seven Bridges Road&quot; (live)</name>
+    <duration>184</duration>
+            <playcount>107</playcount>
+                <listeners>75</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Seven+Bridges+Road%22+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="164">
+    <name>Hotel California [Live]</name>
+    <duration></duration>
+            <playcount>175</playcount>
+                <listeners>74</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+%5BLive%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="165">
+    <name>Life's Been Good (Live Version)</name>
+    <duration>534</duration>
+            <playcount>114</playcount>
+                <listeners>73</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life%27s+Been+Good+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94319767.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94319767.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94319767.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94319767.jpg</image>
+        </track>                    <track rank="166">
+    <name>Eagles - Hotel California</name>
+    <duration>431</duration>
+            <playcount>165</playcount>
+                <listeners>72</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Eagles+-+Hotel+California</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="167">
+    <name>I Don't Want To Hear Anymore</name>
+    <duration>278</duration>
+            <playcount>157</playcount>
+                <listeners>72</listeners>
+    
+            <mbid>369316a2-6dc2-48ad-b63e-321fe099fc83</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Don%27t+Want+To+Hear+Anymore</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="168">
+    <name>Hotel California (Acoustic)</name>
+    <duration>424</duration>
+            <playcount>277</playcount>
+                <listeners>71</listeners>
+    
+            <mbid>d3a26a5b-8ec9-4f7a-adbe-c8f89e4d5bc7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(Acoustic)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="169">
+    <name>Last Resort</name>
+    <duration>508</duration>
+            <playcount>142</playcount>
+                <listeners>69</listeners>
+    
+            <mbid>26bbc427-0172-44b3-8ce8-7a88e134fb14</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Last+Resort</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="170">
+    <name>Doolin-Dalton [Instrumental]</name>
+    <duration></duration>
+            <playcount>109</playcount>
+                <listeners>68</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+%5BInstrumental%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007PAMLU.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="171">
+    <name>Random Victims Part 3</name>
+    <duration>582</duration>
+            <playcount>90</playcount>
+                <listeners>67</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Eagles/_/Random+Victims+Part+3</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85640287.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85640287.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85640287.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85640287.jpg</image>
+        </track>                    <track rank="172">
+    <name>Doolin-Dalton - Desperado (reprise)</name>
+    <duration></duration>
+            <playcount>223</playcount>
+                <listeners>67</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin-Dalton+-+Desperado+(reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>The Boys of Summer</name>
+    <duration>334</duration>
+            <playcount>192</playcount>
+                <listeners>66</listeners>
+    
+            <mbid>e09528ec-4dcb-433d-94c7-f6f11aa2ecd0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Boys+of+Summer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46152829.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46152829.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46152829.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46152829.jpg</image>
+        </track>                    <track rank="174">
+    <name>Wasted Time Reprise</name>
+    <duration>90</duration>
+            <playcount>94</playcount>
+                <listeners>66</listeners>
+    
+            <mbid>3c307d56-8123-45d5-a0e4-c1b2236e26bc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Wasted+Time+Reprise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81220547.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81220547.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81220547.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81220547.jpg</image>
+        </track>                    <track rank="175">
+    <name>he Sad Café</name>
+    <duration>333</duration>
+            <playcount>85</playcount>
+                <listeners>66</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/he+Sad+Caf%C3%A9</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="176">
+    <name>All She Wants to Do Is Dance</name>
+    <duration>298</duration>
+            <playcount>143</playcount>
+                <listeners>65</listeners>
+    
+            <mbid>25d0fb81-7c63-4404-8729-65608d791144</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/All+She+Wants+to+Do+Is+Dance</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="177">
+    <name>Pretty Maids All In A Row (Live)</name>
+    <duration></duration>
+            <playcount>175</playcount>
+                <listeners>65</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Pretty+Maids+All+In+A+Row+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>Sad Cafe</name>
+    <duration>336</duration>
+            <playcount>117</playcount>
+                <listeners>63</listeners>
+    
+            <mbid>31d896a8-86e9-4222-b54b-20f54e7bd56f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Sad+Cafe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81220547.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81220547.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81220547.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81220547.jpg</image>
+        </track>                    <track rank="179">
+    <name>doolin' dalton (instrumental)</name>
+    <duration></duration>
+            <playcount>102</playcount>
+                <listeners>62</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/doolin%27+dalton+(instrumental)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="180">
+    <name>Take It Easy (45 Version)</name>
+    <duration>208</duration>
+            <playcount>73</playcount>
+                <listeners>60</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Take+It+Easy+(45+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>I Can't Tell You Why (Live Version)</name>
+    <duration>316</duration>
+            <playcount>107</playcount>
+                <listeners>56</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Can%27t+Tell+You+Why+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94319767.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94319767.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94319767.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94319767.jpg</image>
+        </track>                    <track rank="182">
+    <name>Life In The Fast Lane (LP Version)</name>
+    <duration>286</duration>
+            <playcount>117</playcount>
+                <listeners>55</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Life+In+The+Fast+Lane+(LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="183">
+    <name>I Dreamed There Was No War [Instrumental]</name>
+    <duration>97</duration>
+            <playcount>145</playcount>
+                <listeners>55</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/I+Dreamed+There+Was+No+War+%5BInstrumental%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="184">
+    <name>wasted time (live version)</name>
+    <duration>319</duration>
+            <playcount>99</playcount>
+                <listeners>54</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/wasted+time+(live+version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94319767.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94319767.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94319767.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94319767.jpg</image>
+        </track>                    <track rank="185">
+    <name>One of Those Nights</name>
+    <duration>293</duration>
+            <playcount>110</playcount>
+                <listeners>54</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/One+of+Those+Nights</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/44271823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44271823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44271823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44271823.jpg</image>
+        </track>                    <track rank="186">
+    <name>Doolin - Dalton</name>
+    <duration>209</duration>
+            <playcount>88</playcount>
+                <listeners>52</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Doolin+-+Dalton</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93274917.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93274917.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93274917.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93274917.png</image>
+        </track>                    <track rank="187">
+    <name>Tequilla Sunrise</name>
+    <duration>172</duration>
+            <playcount>80</playcount>
+                <listeners>52</listeners>
+    
+            <mbid>63d1eb7e-a854-4ee8-a8f6-373aa841a87b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Tequilla+Sunrise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80745111.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80745111.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80745111.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80745111.jpg</image>
+        </track>                    <track rank="188">
+    <name>Get You In The Mood (45 Version)</name>
+    <duration>235</duration>
+            <playcount>68</playcount>
+                <listeners>50</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Get+You+In+The+Mood+(45+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>Funk 49</name>
+    <duration>340</duration>
+            <playcount>85</playcount>
+                <listeners>49</listeners>
+    
+            <mbid>34a18c8c-2dca-47e6-ba0d-5eafa16f35b9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Funk+49</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="190">
+    <name>Help Me Through the Night</name>
+    <duration>287</duration>
+            <playcount>83</playcount>
+                <listeners>49</listeners>
+    
+            <mbid>df1d8fef-81fd-4069-a269-0d37fb0460ad</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Help+Me+Through+the+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="191">
+    <name>Spirit in the Sky</name>
+    <duration>241</duration>
+            <playcount>126</playcount>
+                <listeners>48</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Spirit+in+the+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="192">
+    <name>Hotel California - Live Millennium Concert Version</name>
+    <duration>417</duration>
+            <playcount>82</playcount>
+                <listeners>48</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+-+Live+Millennium+Concert+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>The Heart Of The Matter</name>
+    <duration>397</duration>
+            <playcount>94</playcount>
+                <listeners>47</listeners>
+    
+            <mbid>75846adc-02fa-4891-9fcf-09a77c08d990</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/The+Heart+Of+The+Matter</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000000OU0.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="194">
+    <name>Hotel California (Live Millennium Concert Version)</name>
+    <duration>415</duration>
+            <playcount>121</playcount>
+                <listeners>47</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Eagles/_/Hotel+California+(Live+Millennium+Concert+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99803289.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99803289.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99803289.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99803289.png</image>
+        </track>                    <track rank="195">
+    <name>One Of These Night</name>
+    <duration></duration>
+            <playcount>70</playcount>
+                <listeners>46</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/One+Of+These+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="196">
+    <name>All Night Long (Live Version)</name>
+    <duration>333</duration>
+            <playcount>62</playcount>
+                <listeners>46</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/All+Night+Long+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94319767.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94319767.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94319767.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94319767.jpg</image>
+        </track>                    <track rank="197">
+    <name>Life In The Fast Lane (Live Version)</name>
+    <duration>308</duration>
+            <playcount>66</playcount>
+                <listeners>46</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Eagles/_/Life+In+The+Fast+Lane+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94319767.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94319767.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94319767.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94319767.jpg</image>
+        </track>                    <track rank="198">
+    <name>Funk #49</name>
+    <duration>256</duration>
+            <playcount>78</playcount>
+                <listeners>46</listeners>
+    
+            <mbid>a6515d4c-936b-417b-90ee-58185a8a2697</mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Funk+%2349</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                <image size="small">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://ec1.images-amazon.com/images/P/B0000507FL.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="199">
+    <name>Desperado (Live Version)</name>
+    <duration>253</duration>
+            <playcount>67</playcount>
+                <listeners>45</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Desperado+(Live+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Hotel California (LP Version)</name>
+    <duration>388</duration>
+            <playcount>74</playcount>
+                <listeners>42</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Eagles/_/Hotel+California+(LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Eagles</name>
+                <mbid>a4852e21-7f09-470b-b5ae-9740d939d183</mbid>
+     
+        <url>http://www.last.fm/music/Eagles</url>
+    </artist>
+                </track></toptracks></lfm>

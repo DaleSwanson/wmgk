@@ -18,8 +18,8 @@ my ($secnow,$minnow,$hrnow,$daynow,$monnow,$yearnow,$wday,$yday,$isdst)=localtim
 my $date = sprintf("%4d-%02d-%02d", $yearnow+1900, $monnow+1, $daynow);
 print "\nDate: $date";
 my $debug = 0; # set to 1 to avoid downloading, give extra output
-my $linxdump = $dir."wmgk.$date.txt";
-my $outputfile = $dir."allsongs.txt"; #main file with a record of each play
+my $linxdump = $dir."data/wmgk.$date.txt";
+my $outputfile = $dir."data/allsongs.txt"; #main file with a record of each play
 my $url = "http://www.wmgk.com/broadcasthistory.aspx";
 
 my @filearray; #stores lines of input files

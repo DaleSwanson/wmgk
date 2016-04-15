@@ -1,0 +1,4045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Queen" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Bohemian Rhapsody</name>
+    <duration>355</duration>
+            <playcount>310172</playcount>
+                <listeners>105198</listeners>
+    
+            <mbid>405c09b9-ebb7-4442-a086-d4d0b10ccecd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Bohemian+Rhapsody</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="2">
+    <name>Don't Stop Me Now</name>
+    <duration>210</duration>
+            <playcount>262511</playcount>
+                <listeners>86491</listeners>
+    
+            <mbid>021fc6e5-1ee9-49ac-ad40-709b3fd949c6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="3">
+    <name>Another One Bites the Dust</name>
+    <duration>216</duration>
+            <playcount>206145</playcount>
+                <listeners>75522</listeners>
+    
+            <mbid>2fd00070-c0ce-4828-945d-806444652428</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Another+One+Bites+the+Dust</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="4">
+    <name>We Will Rock You</name>
+    <duration>122</duration>
+            <playcount>187181</playcount>
+                <listeners>69791</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/We+Will+Rock+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="5">
+    <name>We Are the Champions</name>
+    <duration>180</duration>
+            <playcount>150893</playcount>
+                <listeners>58534</listeners>
+    
+            <mbid>88cec068-e43d-476c-8a77-51577b08bbbb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/We+Are+the+Champions</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="6">
+    <name>Killer Queen</name>
+    <duration>180</duration>
+            <playcount>142721</playcount>
+                <listeners>52898</listeners>
+    
+            <mbid>4e723455-916a-4ce2-be7d-36d9c3e7d3af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Killer+Queen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="7">
+    <name>Somebody to Love</name>
+    <duration>297</duration>
+            <playcount>135739</playcount>
+                <listeners>50995</listeners>
+    
+            <mbid>1da08e60-4ea8-41e8-9bb1-d36efcc497b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Somebody+to+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="8">
+    <name>Under Pressure</name>
+    <duration>237</duration>
+            <playcount>138454</playcount>
+                <listeners>49133</listeners>
+    
+            <mbid>2bad727b-b7bc-4bae-a2cf-6ad50a218d88</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Under+Pressure</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="9">
+    <name>Crazy Little Thing Called Love</name>
+    <duration>163</duration>
+            <playcount>123916</playcount>
+                <listeners>46959</listeners>
+    
+            <mbid>1b924c35-9f32-4b87-b5d1-6e52759f89c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Crazy+Little+Thing+Called+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="10">
+    <name>You're My Best Friend</name>
+    <duration>171</duration>
+            <playcount>104178</playcount>
+                <listeners>46415</listeners>
+    
+            <mbid>0f954a2d-3336-4960-8e11-e0cae690a906</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/You%27re+My+Best+Friend</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="11">
+    <name>The Show Must Go On</name>
+    <duration>272</duration>
+            <playcount>136484</playcount>
+                <listeners>44932</listeners>
+    
+            <mbid>3c54101a-8904-4bce-8fc7-05762b720325</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Show+Must+Go+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="12">
+    <name>I Want to Break Free</name>
+    <duration>258</duration>
+            <playcount>128424</playcount>
+                <listeners>43935</listeners>
+    
+            <mbid>12869b53-e7a8-4e8a-8ee0-06dc1c639d45</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I+Want+to+Break+Free</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="13">
+    <name>Fat Bottomed Girls</name>
+    <duration>255</duration>
+            <playcount>92123</playcount>
+                <listeners>38129</listeners>
+    
+            <mbid>0c825a6f-d937-488e-9947-5dd0b3c219da</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Fat+Bottomed+Girls</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="14">
+    <name>Radio Ga Ga</name>
+    <duration>344</duration>
+            <playcount>99656</playcount>
+                <listeners>36486</listeners>
+    
+            <mbid>00194df0-2294-405e-b2e7-ae35f3d5b543</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Radio+Ga+Ga</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="15">
+    <name>Bohemian Rhapsody - 2011 Remaster</name>
+    <duration>355</duration>
+            <playcount>79603</playcount>
+                <listeners>32834</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Bohemian+Rhapsody+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="16">
+    <name>A Kind of Magic</name>
+    <duration>262</duration>
+            <playcount>83124</playcount>
+                <listeners>31578</listeners>
+    
+            <mbid>9f606178-f21b-473f-9d43-85780363d585</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/A+Kind+of+Magic</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="17">
+    <name>Bicycle Race</name>
+    <duration>182</duration>
+            <playcount>70262</playcount>
+                <listeners>30920</listeners>
+    
+            <mbid>0f3a3c3f-03f8-43a6-8c58-3d1f21eed7f4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Bicycle+Race</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="18">
+    <name>I Want It All</name>
+    <duration>281</duration>
+            <playcount>86303</playcount>
+                <listeners>30604</listeners>
+    
+            <mbid>ceb3933e-a3e5-4bbf-af57-abfd20891fcc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I+Want+It+All</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="19">
+    <name>Who Wants to Live Forever</name>
+    <duration>316</duration>
+            <playcount>65595</playcount>
+                <listeners>25611</listeners>
+    
+            <mbid>2cb8055d-67fd-428b-80a8-a99fcc143bb9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Who+Wants+to+Live+Forever</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="20">
+    <name>Seven Seas of Rhye</name>
+    <duration>169</duration>
+            <playcount>55183</playcount>
+                <listeners>23528</listeners>
+    
+            <mbid>ad1c510f-ab53-4f93-8d24-f63388eb2e54</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Seven+Seas+of+Rhye</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="21">
+    <name>Another One Bites The Dust - 2011 Remaster</name>
+    <duration>215</duration>
+            <playcount>50309</playcount>
+                <listeners>22559</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Another+One+Bites+The+Dust+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="22">
+    <name>Save Me</name>
+    <duration>228</duration>
+            <playcount>51767</playcount>
+                <listeners>22271</listeners>
+    
+            <mbid>2598125a-27f6-4bbb-91ba-ef6ad5eb34e1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Save+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="23">
+    <name>I Want To Break Free - 2011 Remaster</name>
+    <duration>258</duration>
+            <playcount>47653</playcount>
+                <listeners>20869</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I+Want+To+Break+Free+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="24">
+    <name>One Vision</name>
+    <duration>311</duration>
+            <playcount>50411</playcount>
+                <listeners>20800</listeners>
+    
+            <mbid>3c5bdebf-67db-4d2d-97bf-8f7a22e83d76</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/One+Vision</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="25">
+    <name>Play the Game</name>
+    <duration>211</duration>
+            <playcount>45908</playcount>
+                <listeners>20784</listeners>
+    
+            <mbid>d9bd6b39-6bbe-4b7d-ac23-b3b9707f5514</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Play+the+Game</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="26">
+    <name>Now I'm Here</name>
+    <duration>253</duration>
+            <playcount>43183</playcount>
+                <listeners>20232</listeners>
+    
+            <mbid>eb507089-642e-40bd-af41-ec38d981ace3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Now+I%27m+Here</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="27">
+    <name>Innuendo</name>
+    <duration>391</duration>
+            <playcount>49638</playcount>
+                <listeners>20080</listeners>
+    
+            <mbid>020303af-17b9-42b6-9447-7c41debb851f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Innuendo</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="28">
+    <name>Love of My Life</name>
+    <duration>217</duration>
+            <playcount>54232</playcount>
+                <listeners>19575</listeners>
+    
+            <mbid>9c1023ce-da96-4721-b774-e5339e73d428</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Love+of+My+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="29">
+    <name>Friends Will Be Friends</name>
+    <duration>243</duration>
+            <playcount>45549</playcount>
+                <listeners>18971</listeners>
+    
+            <mbid>6173c122-1c8b-4be1-9cb9-c78de12db394</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Friends+Will+Be+Friends</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="30">
+    <name>Don't Stop Me Now - 2011 Remaster</name>
+    <duration>210</duration>
+            <playcount>45649</playcount>
+                <listeners>18740</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Don%27t+Stop+Me+Now+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="31">
+    <name>Hammer to Fall</name>
+    <duration>266</duration>
+            <playcount>39590</playcount>
+                <listeners>16642</listeners>
+    
+            <mbid>b5085157-78b2-414a-88b2-f68f26a5ffbd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Hammer+to+Fall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="32">
+    <name>It's a Hard Life</name>
+    <duration>248</duration>
+            <playcount>36470</playcount>
+                <listeners>15832</listeners>
+    
+            <mbid>84d14fdd-2541-47cc-94d7-4c467ef2ca8b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/It%27s+a+Hard+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="33">
+    <name>Flash</name>
+    <duration>168</duration>
+            <playcount>32085</playcount>
+                <listeners>15410</listeners>
+    
+            <mbid>3f7b912c-5b3c-48a9-bc21-2c5bef826277</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Flash</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93226807.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93226807.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93226807.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93226807.png</image>
+        </track>                    <track rank="34">
+    <name>Headlong</name>
+    <duration>271</duration>
+            <playcount>35831</playcount>
+                <listeners>15400</listeners>
+    
+            <mbid>399f804f-c033-4875-a8d6-425a77ed861f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Headlong</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="35">
+    <name>Breakthru</name>
+    <duration>249</duration>
+            <playcount>37150</playcount>
+                <listeners>15189</listeners>
+    
+            <mbid>5eb80e9f-f2b4-45df-8920-5e7644cd391e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Breakthru</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="36">
+    <name>Good Old-Fashioned Lover Boy</name>
+    <duration>173</duration>
+            <playcount>35489</playcount>
+                <listeners>14748</listeners>
+    
+            <mbid>11e4049a-e2ba-4216-90e2-629e6e93b4e7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Good+Old-Fashioned+Lover+Boy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="37">
+    <name>I'm Going Slightly Mad</name>
+    <duration>263</duration>
+            <playcount>33211</playcount>
+                <listeners>14374</listeners>
+    
+            <mbid>bdf31478-b454-4acf-bdab-bcb59b41ada8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I%27m+Going+Slightly+Mad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="38">
+    <name>The Miracle</name>
+    <duration>295</duration>
+            <playcount>30554</playcount>
+                <listeners>13903</listeners>
+    
+            <mbid>03a7b4b4-2811-4d86-8afc-4f106ec41989</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Miracle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="39">
+    <name>Too Much Love Will Kill You</name>
+    <duration>258</duration>
+            <playcount>37184</playcount>
+                <listeners>13715</listeners>
+    
+            <mbid>0f9ac8fa-88a5-4c47-a791-4ad2a119c4f6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Too+Much+Love+Will+Kill+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="40">
+    <name>Princes of the Universe</name>
+    <duration>211</duration>
+            <playcount>32595</playcount>
+                <listeners>13063</listeners>
+    
+            <mbid>56c07c21-0480-44df-b058-0b6540a2853f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Princes+of+the+Universe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="41">
+    <name>Tie Your Mother Down</name>
+    <duration>224</duration>
+            <playcount>29610</playcount>
+                <listeners>12834</listeners>
+    
+            <mbid>699451af-aee7-4963-85b7-54f1f72edd35</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Tie+Your+Mother+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="42">
+    <name>The Invisible Man</name>
+    <duration>238</duration>
+            <playcount>27520</playcount>
+                <listeners>12560</listeners>
+    
+            <mbid>7994c943-acd5-47d0-a005-f54610b3477b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Invisible+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92633831.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92633831.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92633831.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92633831.png</image>
+        </track>                    <track rank="43">
+    <name>'39</name>
+    <duration>210</duration>
+            <playcount>32448</playcount>
+                <listeners>12477</listeners>
+    
+            <mbid>57abf009-19d5-4313-b5ba-8238d88104c9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/%2739</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="44">
+    <name>Under Pressure - 2011 Remaster</name>
+    <duration>237</duration>
+            <playcount>26029</playcount>
+                <listeners>12071</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Under+Pressure+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="45">
+    <name>I Want It All - 2011 Remaster</name>
+    <duration>241</duration>
+            <playcount>25822</playcount>
+                <listeners>11820</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I+Want+It+All+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="46">
+    <name>These Are the Days of Our Lives</name>
+    <duration>262</duration>
+            <playcount>28894</playcount>
+                <listeners>11777</listeners>
+    
+            <mbid>5003d1bd-0a87-4891-a78a-43b5db1bbf55</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/These+Are+the+Days+of+Our+Lives</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="47">
+    <name>We Will Rock You - 2011 Remaster</name>
+    <duration>122</duration>
+            <playcount>23279</playcount>
+                <listeners>11529</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/We+Will+Rock+You+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="48">
+    <name>I'm in Love With My Car</name>
+    <duration>184</duration>
+            <playcount>24450</playcount>
+                <listeners>11241</listeners>
+    
+            <mbid>2f668e84-f4b6-46e5-9757-bfe4a9d4aa41</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I%27m+in+Love+With+My+Car</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="49">
+    <name>Lazing on a Sunday Afternoon</name>
+    <duration>67</duration>
+            <playcount>22944</playcount>
+                <listeners>10616</listeners>
+    
+            <mbid>4d5048ca-1b3e-449f-bd0c-76cf52241780</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Lazing+on+a+Sunday+Afternoon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="50">
+    <name>We Are The Champions - 2011 Remaster</name>
+    <duration>187</duration>
+            <playcount>20346</playcount>
+                <listeners>10606</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/We+Are+The+Champions+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="51">
+    <name>You Don't Fool Me</name>
+    <duration>322</duration>
+            <playcount>27668</playcount>
+                <listeners>10576</listeners>
+    
+            <mbid>13b60a56-dccc-49f9-b351-bd6d883209d8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/You+Don%27t+Fool+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="52">
+    <name>God Save the Queen</name>
+    <duration>75</duration>
+            <playcount>21381</playcount>
+                <listeners>10436</listeners>
+    
+            <mbid>b71642d4-0aca-4738-94b1-0d04befd3447</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/God+Save+the+Queen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="53">
+    <name>Keep Yourself Alive</name>
+    <duration>228</duration>
+            <playcount>23776</playcount>
+                <listeners>10359</listeners>
+    
+            <mbid>8fe066fc-dc5a-41f8-bdc5-93d9dcb1bba2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Keep+Yourself+Alive</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89169621.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89169621.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89169621.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89169621.png</image>
+        </track>                    <track rank="54">
+    <name>The Show Must Go On - 2011 Remaster</name>
+    <duration>264</duration>
+            <playcount>21526</playcount>
+                <listeners>9899</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Show+Must+Go+On+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="55">
+    <name>Stone Cold Crazy</name>
+    <duration>133</duration>
+            <playcount>22197</playcount>
+                <listeners>9723</listeners>
+    
+            <mbid>08bbe85d-753b-4fc5-a710-8111e57818db</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Stone+Cold+Crazy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="56">
+    <name>You're My Best Friend - 2011 Remaster</name>
+    <duration>171</duration>
+            <playcount>17341</playcount>
+                <listeners>9445</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/You%27re+My+Best+Friend+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="57">
+    <name>Heaven for Everyone</name>
+    <duration>277</duration>
+            <playcount>20316</playcount>
+                <listeners>9336</listeners>
+    
+            <mbid>3e25c367-86d0-485b-acdd-419ec32c877e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Heaven+for+Everyone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="58">
+    <name>Seaside Rendezvous</name>
+    <duration>134</duration>
+            <playcount>19963</playcount>
+                <listeners>9124</listeners>
+    
+            <mbid>e28eb229-da28-4a00-9509-2ad00053fa9e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Seaside+Rendezvous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="59">
+    <name>Sweet Lady</name>
+    <duration>242</duration>
+            <playcount>15845</playcount>
+                <listeners>8485</listeners>
+    
+            <mbid>920cc7ca-cf86-4e1c-95a4-baeb553561b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Sweet+Lady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="60">
+    <name>The Prophet's Song</name>
+    <duration>501</duration>
+            <playcount>17372</playcount>
+                <listeners>8340</listeners>
+    
+            <mbid>00660f26-7295-4786-962f-afa1af0a6d65</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Prophet%27s+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="61">
+    <name>I Was Born to Love You</name>
+    <duration>290</duration>
+            <playcount>21508</playcount>
+                <listeners>8004</listeners>
+    
+            <mbid>6de7a5aa-bd1b-463a-ae24-aac0e9680884</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I+Was+Born+to+Love+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="62">
+    <name>Good Company</name>
+    <duration>203</duration>
+            <playcount>15598</playcount>
+                <listeners>7950</listeners>
+    
+            <mbid>35f74767-1b58-4211-9934-16f8c2e8925a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Good+Company</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="63">
+    <name>Let Me Live</name>
+    <duration>285</duration>
+            <playcount>17793</playcount>
+                <listeners>7846</listeners>
+    
+            <mbid>05f18fe2-3c3f-4088-9ffd-e4a59fa8aced</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Let+Me+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="64">
+    <name>Spread Your Wings</name>
+    <duration>274</duration>
+            <playcount>17929</playcount>
+                <listeners>7450</listeners>
+    
+            <mbid>0ac5d020-4540-497d-8bc4-ad52973dfe8e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Spread+Your+Wings</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="65">
+    <name>Killer Queen - 2011 Remaster</name>
+    <duration>180</duration>
+            <playcount>15911</playcount>
+                <listeners>7355</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Killer+Queen+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="66">
+    <name>Good Old Fashioned Lover Boy</name>
+    <duration>175</duration>
+            <playcount>17614</playcount>
+                <listeners>7159</listeners>
+    
+            <mbid>62e885e5-ca53-4ca0-a220-342aba711cd5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Good+Old+Fashioned+Lover+Boy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="67">
+    <name>Radio Ga Ga - 2011 Remaster</name>
+    <duration>343</duration>
+            <playcount>14339</playcount>
+                <listeners>6840</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Radio+Ga+Ga+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="68">
+    <name>Somebody To Love - 2011 Remaster</name>
+    <duration>296</duration>
+            <playcount>14217</playcount>
+                <listeners>6765</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Somebody+To+Love+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="69">
+    <name>Brighton Rock</name>
+    <duration>308</duration>
+            <playcount>13733</playcount>
+                <listeners>6738</listeners>
+    
+            <mbid>16b1431e-1b85-4e16-a1a0-cd8cc224f7e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Brighton+Rock</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="70">
+    <name>Made in Heaven</name>
+    <duration>326</duration>
+            <playcount>16493</playcount>
+                <listeners>6713</listeners>
+    
+            <mbid>94362a70-8b31-4eeb-9e82-3a822a9cbced</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Made+in+Heaven</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="71">
+    <name>Fat Bottomed Girls - 2011 Remaster</name>
+    <duration>202</duration>
+            <playcount>14538</playcount>
+                <listeners>6707</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Fat+Bottomed+Girls+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="72">
+    <name>Sheer Heart Attack</name>
+    <duration>204</duration>
+            <playcount>14610</playcount>
+                <listeners>6656</listeners>
+    
+            <mbid>928f90e1-439a-4bda-8973-95d5d0067cfa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Sheer+Heart+Attack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="73">
+    <name>Crazy Little Thing Called Love - 2011 Remaster</name>
+    <duration>163</duration>
+            <playcount>13972</playcount>
+                <listeners>6507</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Crazy+Little+Thing+Called+Love+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="74">
+    <name>Bicycle Race - 2011 Remaster</name>
+    <duration>181</duration>
+            <playcount>12150</playcount>
+                <listeners>6177</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Bicycle+Race+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="75">
+    <name>One Year of Love</name>
+    <duration>268</duration>
+            <playcount>13623</playcount>
+                <listeners>6163</listeners>
+    
+            <mbid>93fe582f-b941-4e7a-8da7-e11175cd5148</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/One+Year+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92712005.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92712005.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92712005.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92712005.png</image>
+        </track>                    <track rank="76">
+    <name>Mustapha</name>
+    <duration>181</duration>
+            <playcount>13325</playcount>
+                <listeners>6109</listeners>
+    
+            <mbid>84ef59a1-2758-4b6e-b024-61f78035b4f4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Mustapha</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="77">
+    <name>A Kind Of Magic - 2011 Remaster</name>
+    <duration>262</duration>
+            <playcount>12153</playcount>
+                <listeners>6067</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/A+Kind+Of+Magic+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="78">
+    <name>Dragon Attack</name>
+    <duration>259</duration>
+            <playcount>13182</playcount>
+                <listeners>5911</listeners>
+    
+            <mbid>5ae97422-73f0-4580-8780-2be012ec49b4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Dragon+Attack</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91488903.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91488903.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91488903.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91488903.png</image>
+        </track>                    <track rank="79">
+    <name>Let Me Entertain You</name>
+    <duration>181</duration>
+            <playcount>11756</playcount>
+                <listeners>5704</listeners>
+    
+            <mbid>66d90878-3b16-4e84-baa4-fd2a53c1e32f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Let+Me+Entertain+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="80">
+    <name>Tear It Up</name>
+    <duration>205</duration>
+            <playcount>13920</playcount>
+                <listeners>5693</listeners>
+    
+            <mbid>d846bd00-730a-41a3-bf47-c0173aa3b990</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Tear+It+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044569.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044569.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044569.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044569.png</image>
+        </track>                    <track rank="81">
+    <name>Death on Two Legs (Dedicated to...)</name>
+    <duration>223</duration>
+            <playcount>12148</playcount>
+                <listeners>5691</listeners>
+    
+            <mbid>f94fb27a-5909-402f-9852-f0faa4034f7e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Death+on+Two+Legs+(Dedicated+to...)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044381.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044381.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044381.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044381.png</image>
+        </track>                    <track rank="82">
+    <name>You Take My Breath Away</name>
+    <duration>307</duration>
+            <playcount>12471</playcount>
+                <listeners>5636</listeners>
+    
+            <mbid>48fe466e-e0a8-4632-8caf-288650fc0d1f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/You+Take+My+Breath+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="83">
+    <name>Innuendo - 2011 Remaster</name>
+    <duration>388</duration>
+            <playcount>11984</playcount>
+                <listeners>5564</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Innuendo+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="84">
+    <name>Jealousy</name>
+    <duration>194</duration>
+            <playcount>12452</playcount>
+                <listeners>5554</listeners>
+    
+            <mbid>1cf4e132-9bde-4047-bd63-c5b8e5c47f91</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Jealousy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="85">
+    <name>In the Lap of the Gods</name>
+    <duration>203</duration>
+            <playcount>11316</playcount>
+                <listeners>5437</listeners>
+    
+            <mbid>a38632b2-2928-4a43-8574-ba5808c891e5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/In+the+Lap+of+the+Gods</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="86">
+    <name>Flick of the Wrist</name>
+    <duration>196</duration>
+            <playcount>11350</playcount>
+                <listeners>5386</listeners>
+    
+            <mbid>08538816-d1a2-4329-9ef9-79c1061c6192</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Flick+of+the+Wrist</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="87">
+    <name>Tenement Funster</name>
+    <duration>166</duration>
+            <playcount>10657</playcount>
+                <listeners>5303</listeners>
+    
+            <mbid>0d9566c8-27c8-49bd-9a69-702a8d4f439c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Tenement+Funster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="88">
+    <name>Ogre Battle</name>
+    <duration>237</duration>
+            <playcount>10699</playcount>
+                <listeners>5295</listeners>
+    
+            <mbid>5d1b337d-e04d-4464-b826-bb94e6ea943e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Ogre+Battle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="89">
+    <name>Get Down, Make Love</name>
+    <duration>230</duration>
+            <playcount>10582</playcount>
+                <listeners>5239</listeners>
+    
+            <mbid>b29dae6a-49bf-4bc3-93e3-54c92c144247</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Get+Down,+Make+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="90">
+    <name>All Dead, All Dead</name>
+    <duration>190</duration>
+            <playcount>11371</playcount>
+                <listeners>5208</listeners>
+    
+            <mbid>27aebecc-8e87-4857-8d3c-413096b3d0a6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/All+Dead,+All+Dead</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="91">
+    <name>Lily of the Valley</name>
+    <duration>104</duration>
+            <playcount>10968</playcount>
+                <listeners>5151</listeners>
+    
+            <mbid>44ad0129-1dd2-4ef9-a01f-422fc7e841ba</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Lily+of+the+Valley</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="92">
+    <name>It's Late</name>
+    <duration>387</duration>
+            <playcount>10795</playcount>
+                <listeners>5128</listeners>
+    
+            <mbid>dfd50593-8a62-4e5e-ac39-1d89845d930f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/It%27s+Late</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="93">
+    <name>Great King Rat</name>
+    <duration>356</duration>
+            <playcount>10384</playcount>
+                <listeners>5116</listeners>
+    
+            <mbid>7a5332e4-1305-4923-8391-b66aa2b669dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Great+King+Rat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044331.png</image>
+        </track>                    <track rank="94">
+    <name>Long Away</name>
+    <duration>213</duration>
+            <playcount>9778</playcount>
+                <listeners>5106</listeners>
+    
+            <mbid>0486e069-89ab-45c9-984d-f0ff09e53a2a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Long+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="95">
+    <name>Nevermore</name>
+    <duration>86</duration>
+            <playcount>11768</playcount>
+                <listeners>5085</listeners>
+    
+            <mbid>fc44dac0-1788-4052-9d2a-ea73869452c8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Nevermore</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="96">
+    <name>Bohemian Rapsody</name>
+    <duration>356</duration>
+            <playcount>14241</playcount>
+                <listeners>5059</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Queen/_/Bohemian+Rapsody</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="97">
+    <name>Liar</name>
+    <duration>386</duration>
+            <playcount>10413</playcount>
+                <listeners>5043</listeners>
+    
+            <mbid>36ab79d1-01f3-47d2-bf3d-a5f6461804e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Liar</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044331.png</image>
+        </track>                    <track rank="98">
+    <name>My Fairy King</name>
+    <duration>247</duration>
+            <playcount>10069</playcount>
+                <listeners>4958</listeners>
+    
+            <mbid>2da6b6f9-719a-49e1-b577-ace894a1a2f8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/My+Fairy+King</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044331.png</image>
+        </track>                    <track rank="99">
+    <name>You And I</name>
+    <duration>206</duration>
+            <playcount>9962</playcount>
+                <listeners>4950</listeners>
+    
+            <mbid>b2effeb5-e228-423c-aa7a-af05f4a289a1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/You+And+I</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="100">
+    <name>Don't Try So Hard</name>
+    <duration>218</duration>
+            <playcount>10560</playcount>
+                <listeners>4874</listeners>
+    
+            <mbid>dde18afd-1a65-4f9c-8dce-96002c6529d5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Don%27t+Try+So+Hard</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="101">
+    <name>Who Wants To Live Forever - 2011 Remaster</name>
+    <duration>295</duration>
+            <playcount>10637</playcount>
+                <listeners>4871</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Who+Wants+To+Live+Forever+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="102">
+    <name>My Melancholy Blues</name>
+    <duration>209</duration>
+            <playcount>10245</playcount>
+                <listeners>4718</listeners>
+    
+            <mbid>0d24618c-723b-48cc-8520-c2456eaeeb31</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/My+Melancholy+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="103">
+    <name>The Millionaire Waltz</name>
+    <duration>293</duration>
+            <playcount>9773</playcount>
+                <listeners>4708</listeners>
+    
+            <mbid>47df6b5f-41e8-48c8-8faa-44b6cae83051</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Millionaire+Waltz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="104">
+    <name>I Can't Live With You</name>
+    <duration>274</duration>
+            <playcount>9568</playcount>
+                <listeners>4700</listeners>
+    
+            <mbid>0da5ae59-c650-466e-91fc-0f95c65f9d57</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I+Can%27t+Live+With+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="105">
+    <name>Father to Son</name>
+    <duration>372</duration>
+            <playcount>8986</playcount>
+                <listeners>4683</listeners>
+    
+            <mbid>dbde3e7c-48cb-42f1-9376-fe4a3d08a670</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Father+to+Son</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="106">
+    <name>If You Can't Beat Them</name>
+    <duration>254</duration>
+            <playcount>8611</playcount>
+                <listeners>4677</listeners>
+    
+            <mbid>085c26e0-678a-4d40-9dc7-4a66e86093ab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/If+You+Can%27t+Beat+Them</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="107">
+    <name>Dear Friends</name>
+    <duration>67</duration>
+            <playcount>8912</playcount>
+                <listeners>4674</listeners>
+    
+            <mbid>d8bd967a-55c7-4fb8-a6fc-d50064f379e5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Dear+Friends</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="108">
+    <name>The March of the Black Queen</name>
+    <duration>391</duration>
+            <playcount>10684</playcount>
+                <listeners>4670</listeners>
+    
+            <mbid>048d306d-36a0-41e2-9b27-343cf7a8e4cd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+March+of+the+Black+Queen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="109">
+    <name>Procession</name>
+    <duration>72</duration>
+            <playcount>8289</playcount>
+                <listeners>4641</listeners>
+    
+            <mbid>31fe4a01-a980-483f-9f50-844cfd374c07</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Procession</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="110">
+    <name>Need Your Loving Tonight</name>
+    <duration>169</duration>
+            <playcount>9703</playcount>
+                <listeners>4631</listeners>
+    
+            <mbid>4750bb03-99f6-4425-89f1-07295a0694be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Need+Your+Loving+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91488903.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91488903.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91488903.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91488903.png</image>
+        </track>                    <track rank="111">
+    <name>Dead On Time</name>
+    <duration>202</duration>
+            <playcount>8662</playcount>
+                <listeners>4631</listeners>
+    
+            <mbid>11f62dc2-b4ae-45f4-8eb6-605b86cbfbd9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Dead+On+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="112">
+    <name>Dont Stop Me Now</name>
+    <duration>211</duration>
+            <playcount>16003</playcount>
+                <listeners>4625</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Queen/_/Dont+Stop+Me+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0006G8KQO.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0006G8KQO.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0006G8KQO.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0006G8KQO.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="113">
+    <name>Fight From The Inside</name>
+    <duration>183</duration>
+            <playcount>8374</playcount>
+                <listeners>4564</listeners>
+    
+            <mbid>0222cffb-90d8-470d-a111-273105b3af92</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Fight+From+The+Inside</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="114">
+    <name>Mother Love</name>
+    <duration>286</duration>
+            <playcount>11193</playcount>
+                <listeners>4534</listeners>
+    
+            <mbid>0c73fd6c-46c7-4e08-a82d-ca146da953fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Mother+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="115">
+    <name>White Queen (As It Began)</name>
+    <duration>272</duration>
+            <playcount>9136</playcount>
+                <listeners>4529</listeners>
+    
+            <mbid>82fa8b5b-7b44-4f87-a1e0-708fae9ac740</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/White+Queen+(As+It+Began)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="116">
+    <name>Body Language</name>
+    <duration>272</duration>
+            <playcount>8459</playcount>
+                <listeners>4504</listeners>
+    
+            <mbid>302b9c2b-6cb1-470e-88e7-3e0353f8b4b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Body+Language</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/95148003.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/95148003.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/95148003.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/95148003.png</image>
+        </track>                    <track rank="117">
+    <name>Bring Back That Leroy Brown</name>
+    <duration>135</duration>
+            <playcount>8907</playcount>
+                <listeners>4497</listeners>
+    
+            <mbid>287355c0-7683-437e-a3e5-54877421bf4c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Bring+Back+That+Leroy+Brown</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="118">
+    <name>White Man</name>
+    <duration>298</duration>
+            <playcount>8417</playcount>
+                <listeners>4493</listeners>
+    
+            <mbid>721d48c8-20f4-4b4e-9461-bde408bac9ff</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/White+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="119">
+    <name>Misfire</name>
+    <duration>110</duration>
+            <playcount>8518</playcount>
+                <listeners>4480</listeners>
+    
+            <mbid>04bd6c46-fc95-4c67-8251-bed8baa7e3a6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Misfire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044367.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044367.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044367.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044367.png</image>
+        </track>                    <track rank="120">
+    <name>In Only Seven Days</name>
+    <duration>148</duration>
+            <playcount>8490</playcount>
+                <listeners>4440</listeners>
+    
+            <mbid>04f30ee3-0ff7-486b-95b9-083425c11334</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/In+Only+Seven+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="121">
+    <name>Bijou</name>
+    <duration>216</duration>
+            <playcount>9345</playcount>
+                <listeners>4436</listeners>
+    
+            <mbid>d8620ae8-82b7-46af-a72b-fbf3d277660f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Bijou</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="122">
+    <name>Death On Two Legs</name>
+    <duration>223</duration>
+            <playcount>9847</playcount>
+                <listeners>4422</listeners>
+    
+            <mbid>610f386f-18d3-470d-9ec4-9ae42b11df36</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Death+On+Two+Legs</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/40522351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/40522351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/40522351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/40522351.png</image>
+        </track>                    <track rank="123">
+    <name>Who Needs You</name>
+    <duration>185</duration>
+            <playcount>8509</playcount>
+                <listeners>4411</listeners>
+    
+            <mbid>02dec6e1-fa49-4812-bf24-906fc68eee47</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Who+Needs+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="124">
+    <name>Sail Away Sweet Sister</name>
+    <duration>213</duration>
+            <playcount>9347</playcount>
+                <listeners>4385</listeners>
+    
+            <mbid>23fbb6ed-f956-4dbb-88e2-27ed26efd264</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Sail+Away+Sweet+Sister</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91488903.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91488903.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91488903.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91488903.png</image>
+        </track>                    <track rank="125">
+    <name>Doing All Right</name>
+    <duration>251</duration>
+            <playcount>8267</playcount>
+                <listeners>4336</listeners>
+    
+            <mbid>7da62ec1-3578-457f-ba11-87a4e622d51f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Doing+All+Right</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77717910.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77717910.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77717910.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77717910.png</image>
+        </track>                    <track rank="126">
+    <name>Flash's Theme</name>
+    <duration>149</duration>
+            <playcount>7673</playcount>
+                <listeners>4335</listeners>
+    
+            <mbid>0849c2a8-9ffc-4282-8707-538f781f1b2f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Flash%27s+Theme</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93226807.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93226807.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93226807.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93226807.png</image>
+        </track>                    <track rank="127">
+    <name>Drowse</name>
+    <duration>223</duration>
+            <playcount>8054</playcount>
+                <listeners>4329</listeners>
+    
+            <mbid>a47051d7-c021-47d4-9b65-c1f4e5b58084</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Drowse</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="128">
+    <name>Some Day One Day</name>
+    <duration>261</duration>
+            <playcount>7889</playcount>
+                <listeners>4317</listeners>
+    
+            <mbid>e26f2d8e-a865-4c79-8350-6c2b0b86836c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Some+Day+One+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="129">
+    <name>Pain Is So Close To Pleasure</name>
+    <duration>262</duration>
+            <playcount>8711</playcount>
+                <listeners>4274</listeners>
+    
+            <mbid>41e71069-6b9e-4cc7-a3e3-7002475f79c5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Pain+Is+So+Close+To+Pleasure</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92712005.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92712005.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92712005.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92712005.png</image>
+        </track>                    <track rank="130">
+    <name>It's a Beautiful Day</name>
+    <duration>153</duration>
+            <playcount>8290</playcount>
+                <listeners>4232</listeners>
+    
+            <mbid>30233e6d-3c14-447e-88ae-b8d670a34de5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/It%27s+a+Beautiful+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="131">
+    <name>Scandal</name>
+    <duration>283</duration>
+            <playcount>11212</playcount>
+                <listeners>4220</listeners>
+    
+            <mbid>3eb497d6-379f-4f94-92ad-2ad36b300e51</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Scandal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044603.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044603.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044603.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044603.png</image>
+        </track>                    <track rank="132">
+    <name>Delilah</name>
+    <duration>213</duration>
+            <playcount>8461</playcount>
+                <listeners>4166</listeners>
+    
+            <mbid>2a3953fe-eaf3-4bdb-882a-9a540a0e4be1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Delilah</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="133">
+    <name>Funny How Love Is</name>
+    <duration>170</duration>
+            <playcount>7950</playcount>
+                <listeners>4132</listeners>
+    
+            <mbid>0ec4201e-5efd-4398-9a21-c37c3cf92e29</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Funny+How+Love+Is</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="134">
+    <name>Don't Try Suicide</name>
+    <duration>233</duration>
+            <playcount>8098</playcount>
+                <listeners>4131</listeners>
+    
+            <mbid>26a46570-ace7-40d8-b565-48098ccbef70</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Don%27t+Try+Suicide</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91488903.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91488903.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91488903.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91488903.png</image>
+        </track>                    <track rank="135">
+    <name>Teo Torriatte (Let Us Cling Together)</name>
+    <duration>356</duration>
+            <playcount>8397</playcount>
+                <listeners>4103</listeners>
+    
+            <mbid>8317a338-cfb4-46e6-956b-4e6495feebbf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Teo+Torriatte+(Let+Us+Cling+Together)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044401.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044401.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044401.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044401.png</image>
+        </track>                    <track rank="136">
+    <name>More Of That Jazz</name>
+    <duration>253</duration>
+            <playcount>7230</playcount>
+                <listeners>4054</listeners>
+    
+            <mbid>30f83cea-c28b-41fa-a8d7-4598fd2cd887</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/More+Of+That+Jazz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="137">
+    <name>The Loser in the End</name>
+    <duration>242</duration>
+            <playcount>7336</playcount>
+                <listeners>4050</listeners>
+    
+            <mbid>f384e3a1-fd38-41e4-bfcb-4e5a7c3e8118</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Loser+in+the+End</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="138">
+    <name>Fun It</name>
+    <duration>208</duration>
+            <playcount>7197</playcount>
+                <listeners>4034</listeners>
+    
+            <mbid>703873bf-d8ac-4946-9a64-31a89092012d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Fun+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="139">
+    <name>Ride the Wild Wind</name>
+    <duration>281</duration>
+            <playcount>8380</playcount>
+                <listeners>3986</listeners>
+    
+            <mbid>535bd4aa-0a55-43ef-a5a5-ec1634d28aae</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Ride+the+Wild+Wind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="140">
+    <name>Dreamer's Ball</name>
+    <duration>210</duration>
+            <playcount>8063</playcount>
+                <listeners>3980</listeners>
+    
+            <mbid>08e3d967-b11f-4d6c-850a-baf3b73b1de9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Dreamer%27s+Ball</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="141">
+    <name>Jesus</name>
+    <duration>224</duration>
+            <playcount>7281</playcount>
+                <listeners>3968</listeners>
+    
+            <mbid>22b7ae00-2b39-42f6-ae37-f066be3dd86c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Jesus</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044331.png</image>
+        </track>                    <track rank="142">
+    <name>Don't Lose Your Head</name>
+    <duration>278</duration>
+            <playcount>7660</playcount>
+                <listeners>3958</listeners>
+    
+            <mbid>c88eeb59-597e-4334-8c4a-57653ea72b6a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Don%27t+Lose+Your+Head</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92712005.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92712005.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92712005.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92712005.png</image>
+        </track>                    <track rank="143">
+    <name>Sleeping On The Sidewalk</name>
+    <duration>186</duration>
+            <playcount>7469</playcount>
+                <listeners>3929</listeners>
+    
+            <mbid>8ba81f77-bf70-4dca-ab47-059f681df110</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Sleeping+On+The+Sidewalk</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/92711985.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/92711985.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/92711985.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/92711985.png</image>
+        </track>                    <track rank="144">
+    <name>Las Palabras De Amor (The Words Of Love)</name>
+    <duration>269</duration>
+            <playcount>7797</playcount>
+                <listeners>3905</listeners>
+    
+            <mbid>130847cf-0d06-400f-a4b2-46a437bf7fcc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Las+Palabras+De+Amor+(The+Words+Of+Love)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="145">
+    <name>Save Me - 2011 Remaster</name>
+    <duration>228</duration>
+            <playcount>7406</playcount>
+                <listeners>3898</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Save+Me+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>The Night Comes Down</name>
+    <duration>263</duration>
+            <playcount>6979</playcount>
+                <listeners>3898</listeners>
+    
+            <mbid>cc8c169c-b62f-4825-86df-d707e090473a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Night+Comes+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044331.png</image>
+        </track>                    <track rank="147">
+    <name>Leaving Home Ain't Easy</name>
+    <duration>193</duration>
+            <playcount>6941</playcount>
+                <listeners>3895</listeners>
+    
+            <mbid>06ace930-49e4-4e0e-a679-faf948e77aa4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Leaving+Home+Ain%27t+Easy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044479.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044479.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044479.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044479.png</image>
+        </track>                    <track rank="148">
+    <name>The Hitman</name>
+    <duration>296</duration>
+            <playcount>7699</playcount>
+                <listeners>3892</listeners>
+    
+            <mbid>65222ec0-0e07-46b4-b416-f4d3ab79ca81</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Hitman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="149">
+    <name>A Winter's Tale</name>
+    <duration>230</duration>
+            <playcount>8638</playcount>
+                <listeners>3870</listeners>
+    
+            <mbid>08de9f25-8e83-414a-8358-b46e170fe87b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/A+Winter%27s+Tale</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="150">
+    <name>Good Old-Fashioned Lover Boy - 2011 Remaster</name>
+    <duration>173</duration>
+            <playcount>8410</playcount>
+                <listeners>3861</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Good+Old-Fashioned+Lover+Boy+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="151">
+    <name>One Vision - 2011 Remaster</name>
+    <duration>245</duration>
+            <playcount>7434</playcount>
+                <listeners>3848</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/One+Vision+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="152">
+    <name>All God's People</name>
+    <duration>261</duration>
+            <playcount>7103</playcount>
+                <listeners>3846</listeners>
+    
+            <mbid>20a287e8-3f3a-4618-95d1-0de46f609957</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/All+God%27s+People</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044639.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044639.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044639.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044639.png</image>
+        </track>                    <track rank="153">
+    <name>Thank God It's Christmas</name>
+    <duration>259</duration>
+            <playcount>6690</playcount>
+                <listeners>3816</listeners>
+    
+            <mbid>0b01915b-5059-4590-a1bc-03798c7d02de</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Thank+God+It%27s+Christmas</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="154">
+    <name>Rock It (Prime Jive)</name>
+    <duration>273</duration>
+            <playcount>7859</playcount>
+                <listeners>3775</listeners>
+    
+            <mbid>8996457b-c945-4711-8e90-f9225a72c315</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Rock+It+(Prime+Jive)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91488903.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91488903.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91488903.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91488903.png</image>
+        </track>                    <track rank="155">
+    <name>The Fairy Feller's Master-Stroke</name>
+    <duration>152</duration>
+            <playcount>7582</playcount>
+                <listeners>3709</listeners>
+    
+            <mbid>80e37b4c-b582-489e-befa-0db8401a8035</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Fairy+Feller%27s+Master-Stroke</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044351.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044351.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044351.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044351.png</image>
+        </track>                    <track rank="156">
+    <name>Breakthru - 2011 Remaster</name>
+    <duration>249</duration>
+            <playcount>8051</playcount>
+                <listeners>3707</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Breakthru+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="157">
+    <name>Coming Soon</name>
+    <duration>171</duration>
+            <playcount>6900</playcount>
+                <listeners>3679</listeners>
+    
+            <mbid>1d97272d-45dd-478d-b318-03fa2d539d70</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Coming+Soon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91488903.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91488903.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91488903.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91488903.png</image>
+        </track>                    <track rank="158">
+    <name>Modern Times Rock 'N' Roll</name>
+    <duration>108</duration>
+            <playcount>6796</playcount>
+                <listeners>3676</listeners>
+    
+            <mbid>12fc4602-8b8f-4a8d-b321-98015eeae7f5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Modern+Times+Rock+%27N%27+Roll</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77717910.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77717910.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77717910.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77717910.png</image>
+        </track>                    <track rank="159">
+    <name>One Vision - Live From Budapest /1986</name>
+    <duration>337</duration>
+            <playcount>5086</playcount>
+                <listeners>3659</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/One+Vision+-+Live+From+Budapest+%2F1986</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="160">
+    <name>I'm Going Slightly Mad - 2011 Remaster</name>
+    <duration>249</duration>
+            <playcount>6836</playcount>
+                <listeners>3595</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/I%27m+Going+Slightly+Mad+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="161">
+    <name>My Life Has Been Saved</name>
+    <duration>195</duration>
+            <playcount>7074</playcount>
+                <listeners>3555</listeners>
+    
+            <mbid>0c8115bb-6227-413b-bd2d-32f5c6f1b6f9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/My+Life+Has+Been+Saved</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="162">
+    <name>Flash - 2011 Remaster</name>
+    <duration>167</duration>
+            <playcount>6199</playcount>
+                <listeners>3515</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Flash+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="163">
+    <name>Man On The Prowl</name>
+    <duration>206</duration>
+            <playcount>6590</playcount>
+                <listeners>3482</listeners>
+    
+            <mbid>445e5e47-694b-4127-b8b4-8c8ddd4ca6da</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Man+On+The+Prowl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044569.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044569.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044569.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044569.png</image>
+        </track>                    <track rank="164">
+    <name>It's A Hard Life - 2011 Remaster</name>
+    <duration>249</duration>
+            <playcount>6709</playcount>
+                <listeners>3482</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/It%27s+A+Hard+Life+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="165">
+    <name>Headlong - 2011 Remaster</name>
+    <duration>271</duration>
+            <playcount>6723</playcount>
+                <listeners>3477</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Headlong+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="166">
+    <name>Back Chat</name>
+    <duration>275</duration>
+            <playcount>7374</playcount>
+                <listeners>3472</listeners>
+    
+            <mbid>4ffd962b-0e40-42ab-9e3a-ab109f5e97ea</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Back+Chat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="167">
+    <name>Keep Passing The Open Windows</name>
+    <duration>321</duration>
+            <playcount>6713</playcount>
+                <listeners>3453</listeners>
+    
+            <mbid>6f92ba12-a3ca-4653-8f5d-3481f2699286</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Keep+Passing+The+Open+Windows</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044569.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044569.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044569.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044569.png</image>
+        </track>                    <track rank="168">
+    <name>Play The Game - 2011 Remaster</name>
+    <duration>212</duration>
+            <playcount>6048</playcount>
+                <listeners>3380</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Play+The+Game+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="169">
+    <name>Put Out The Fire</name>
+    <duration>198</duration>
+            <playcount>6325</playcount>
+                <listeners>3308</listeners>
+    
+            <mbid>1ff24017-994c-4cd6-81b1-a3b321c3c393</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Put+Out+The+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="170">
+    <name>Friends Will Be Friends - 2011 Remaster</name>
+    <duration>249</duration>
+            <playcount>6529</playcount>
+                <listeners>3303</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Friends+Will+Be+Friends+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Staying Power</name>
+    <duration>252</duration>
+            <playcount>6656</playcount>
+                <listeners>3293</listeners>
+    
+            <mbid>51efa266-c958-4935-b833-f9021fba1252</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Staying+Power</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="172">
+    <name>Now I'm Here - 2011 Remaster</name>
+    <duration>253</duration>
+            <playcount>5691</playcount>
+                <listeners>3266</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Now+I%27m+Here+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>Seven Seas Of Rhye - 2011 Remaster</name>
+    <duration>167</duration>
+            <playcount>6026</playcount>
+                <listeners>3244</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Seven+Seas+Of+Rhye+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Hammer To Fall - 2011 Remaster</name>
+    <duration>218</duration>
+            <playcount>7886</playcount>
+                <listeners>3229</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Hammer+To+Fall+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>Son And Daughter</name>
+    <duration>429</duration>
+            <playcount>5946</playcount>
+                <listeners>3181</listeners>
+    
+            <mbid>9e718af8-fa8d-4a09-a130-8e03fdcc50bc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Son+And+Daughter</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044331.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044331.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044331.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044331.png</image>
+        </track>                    <track rank="176">
+    <name>Action This Day</name>
+    <duration>215</duration>
+            <playcount>6599</playcount>
+                <listeners>3157</listeners>
+    
+            <mbid>0155e520-5b1b-43a5-8afd-8cff9532b148</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Action+This+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="177">
+    <name>Cool Cat</name>
+    <duration>209</duration>
+            <playcount>6737</playcount>
+                <listeners>3136</listeners>
+    
+            <mbid>25783259-3a17-489d-9a86-d4da42cf8179</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Cool+Cat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="178">
+    <name>Tie Your Mother Down - Live From Budapest /1986</name>
+    <duration>282</duration>
+            <playcount>4238</playcount>
+                <listeners>3130</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Tie+Your+Mother+Down+-+Live+From+Budapest+%2F1986</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="179">
+    <name>Gimme the Prize</name>
+    <duration>275</duration>
+            <playcount>6196</playcount>
+                <listeners>3101</listeners>
+    
+            <mbid>8df6e6d0-f1d3-4df0-a1a0-47b0280de66d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Gimme+the+Prize</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37816693.gif</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37816693.gif</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37816693.gif</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37816693.gif</image>
+        </track>                    <track rank="180">
+    <name>Was It All Worth It</name>
+    <duration>346</duration>
+            <playcount>6344</playcount>
+                <listeners>3090</listeners>
+    
+            <mbid>1142a991-e661-452a-a3e3-b608f6d9243e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Was+It+All+Worth+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044603.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044603.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044603.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044603.png</image>
+        </track>                    <track rank="181">
+    <name>Living on My Own</name>
+    <duration>218</duration>
+            <playcount>8248</playcount>
+                <listeners>3089</listeners>
+    
+            <mbid>62d000aa-63dd-4c83-8ab7-9d1e897d177b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Living+on+My+Own</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96680721.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96680721.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96680721.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96680721.jpg</image>
+        </track>                    <track rank="182">
+    <name>Khashoggi's Ship</name>
+    <duration>167</duration>
+            <playcount>5820</playcount>
+                <listeners>3075</listeners>
+    
+            <mbid>0e269ea2-ef89-4a96-83cd-a4c03c3e4d9a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Khashoggi%27s+Ship</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044603.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044603.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044603.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044603.png</image>
+        </track>                    <track rank="183">
+    <name>Dancer</name>
+    <duration>230</duration>
+            <playcount>5769</playcount>
+                <listeners>3065</listeners>
+    
+            <mbid>1519381e-f7ec-4134-b1ee-7d57dffa09f7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Dancer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="184">
+    <name>Rain Must Fall</name>
+    <duration>263</duration>
+            <playcount>5736</playcount>
+                <listeners>3063</listeners>
+    
+            <mbid>1cddfc0f-3568-4e28-8639-e5f43e022d5a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Rain+Must+Fall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044603.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044603.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044603.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044603.png</image>
+        </track>                    <track rank="185">
+    <name>Party</name>
+    <duration>143</duration>
+            <playcount>5499</playcount>
+                <listeners>2999</listeners>
+    
+            <mbid>44410743-1e1f-4afc-9f4d-2500a7706df3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Party</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044603.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044603.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044603.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044603.png</image>
+        </track>                    <track rank="186">
+    <name>My Baby Does Me</name>
+    <duration>201</duration>
+            <playcount>5615</playcount>
+                <listeners>2912</listeners>
+    
+            <mbid>06b9958f-7488-43dd-9937-3b30b91ddb79</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/My+Baby+Does+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044603.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044603.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044603.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044603.png</image>
+        </track>                    <track rank="187">
+    <name>Life Is Real (Song For Lennon)</name>
+    <duration>211</duration>
+            <playcount>5166</playcount>
+                <listeners>2742</listeners>
+    
+            <mbid>097dd4c9-c472-43cc-b399-1a869d8f9fe9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Life+Is+Real+(Song+For+Lennon)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="188">
+    <name>The Invisible Man - 2011 Remaster</name>
+    <duration>238</duration>
+            <playcount>5359</playcount>
+                <listeners>2735</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Invisible+Man+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>Calling All Girls</name>
+    <duration>232</duration>
+            <playcount>5441</playcount>
+                <listeners>2734</listeners>
+    
+            <mbid>2de6f93b-1482-42b5-9d41-e592f4a86d20</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Calling+All+Girls</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044557.png</image>
+        </track>                    <track rank="190">
+    <name>The Miracle - 2011 Remaster</name>
+    <duration>295</duration>
+            <playcount>5017</playcount>
+                <listeners>2726</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Miracle+-+2011+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="191">
+    <name>It's a Beautiful Day (reprise)</name>
+    <duration>180</duration>
+            <playcount>4816</playcount>
+                <listeners>2696</listeners>
+    
+            <mbid>bccea241-9342-4969-b8e4-62db51b13882</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/It%27s+a+Beautiful+Day+(reprise)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88044665.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88044665.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88044665.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88044665.png</image>
+        </track>                    <track rank="192">
+    <name>Seven Seas Of Rhye - Live From Budapest /1986</name>
+    <duration>101</duration>
+            <playcount>3669</playcount>
+                <listeners>2632</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Seven+Seas+Of+Rhye+-+Live+From+Budapest+%2F1986</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>In The Lap Of The Gods... Revisited - Live From Budapest /1986</name>
+    <duration>137</duration>
+            <playcount>3580</playcount>
+                <listeners>2626</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/In+The+Lap+Of+The+Gods...+Revisited+-+Live+From+Budapest+%2F1986</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="194">
+    <name>Forever</name>
+    <duration>202</duration>
+            <playcount>4873</playcount>
+                <listeners>2596</listeners>
+    
+            <mbid>58f7d7e7-6501-4cdb-9c97-de2619a92729</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Forever</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98003901.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98003901.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98003901.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98003901.jpg</image>
+        </track>                    <track rank="195">
+    <name>Las Palabras De Amor</name>
+    <duration>268</duration>
+            <playcount>4876</playcount>
+                <listeners>2590</listeners>
+    
+            <mbid>a6805e0e-925f-4a19-863a-246909efcae3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Las+Palabras+De+Amor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track>                    <track rank="196">
+    <name>Radio Gaga</name>
+    <duration>344</duration>
+            <playcount>6619</playcount>
+                <listeners>2510</listeners>
+    
+            <mbid>40401938-0aff-43eb-8e2f-b9710a1b37a4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Radio+Gaga</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39734765.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39734765.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39734765.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39734765.jpg</image>
+        </track>                    <track rank="197">
+    <name>A Kind Of Magic - Live From Budapest /1986</name>
+    <duration>501</duration>
+            <playcount>3482</playcount>
+                <listeners>2503</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/A+Kind+Of+Magic+-+Live+From+Budapest+%2F1986</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="198">
+    <name>The Hero</name>
+    <duration>211</duration>
+            <playcount>4927</playcount>
+                <listeners>2502</listeners>
+    
+            <mbid>60a15747-bb42-4ba7-8b31-f435538d610d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Hero</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93226807.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93226807.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93226807.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93226807.png</image>
+        </track>                    <track rank="199">
+    <name>Tear It Up - Live From Budapest /1986</name>
+    <duration>107</duration>
+            <playcount>3370</playcount>
+                <listeners>2463</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/Tear+It+Up+-+Live+From+Budapest+%2F1986</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>The Great Pretender</name>
+    <duration>205</duration>
+            <playcount>5142</playcount>
+                <listeners>2455</listeners>
+    
+            <mbid>2bdb3998-05e6-4ca7-82a2-b78c219f5a5e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Queen/_/The+Great+Pretender</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Queen</name>
+                <mbid>0383dadf-2a4e-4d10-a46a-e9e041da8eb3</mbid>
+     
+        <url>http://www.last.fm/music/Queen</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89168281.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89168281.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89168281.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89168281.png</image>
+        </track></toptracks></lfm>

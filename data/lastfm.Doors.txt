@@ -1,0 +1,3937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="The Doors" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Light My Fire</name>
+    <duration>429</duration>
+            <playcount>191568</playcount>
+                <listeners>71413</listeners>
+    
+            <mbid>e19d7a17-3a8a-4767-b8dc-a47ed70d3c1e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Light+My+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87574361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87574361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87574361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87574361.png</image>
+        </track>                    <track rank="2">
+    <name>People Are Strange</name>
+    <duration>131</duration>
+            <playcount>205171</playcount>
+                <listeners>66238</listeners>
+    
+            <mbid>335bbdf2-1a2a-434a-ad26-0465e640b07b</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/People+Are+Strange</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="3">
+    <name>Riders on the Storm</name>
+    <duration>415</duration>
+            <playcount>165788</playcount>
+                <listeners>57790</listeners>
+    
+            <mbid>b6bf6ac9-920c-4647-bc1d-f6854bdd389c</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Riders+on+the+Storm</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="4">
+    <name>The End</name>
+    <duration>1049</duration>
+            <playcount>141651</playcount>
+                <listeners>54514</listeners>
+    
+            <mbid>2995a3ec-17c4-433f-bb55-07e26bd27d0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+End</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52489949.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52489949.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52489949.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52489949.png</image>
+        </track>                    <track rank="5">
+    <name>Break on Through (to the Other Side)</name>
+    <duration>279</duration>
+            <playcount>126875</playcount>
+                <listeners>49360</listeners>
+    
+            <mbid>f3d8ed7c-2daf-4125-9ba1-737513864874</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Break+on+Through+(to+the+Other+Side)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87574361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87574361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87574361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87574361.png</image>
+        </track>                    <track rank="6">
+    <name>Love Me Two Times</name>
+    <duration>414</duration>
+            <playcount>117059</playcount>
+                <listeners>44021</listeners>
+    
+            <mbid>4f2de778-3839-4f8b-b2df-963ea15b1940</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Me+Two+Times</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="7">
+    <name>L.A. Woman</name>
+    <duration>475</duration>
+            <playcount>100852</playcount>
+                <listeners>43169</listeners>
+    
+            <mbid>dc07d643-030b-4325-812a-cf2826a0d5fc</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/L.A.+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="8">
+    <name>The Crystal Ship</name>
+    <duration>200</duration>
+            <playcount>117343</playcount>
+                <listeners>43136</listeners>
+    
+            <mbid>d080207d-9d43-4267-8846-a9ede07dbade</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Crystal+Ship</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87574361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87574361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87574361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87574361.png</image>
+        </track>                    <track rank="9">
+    <name>Soul Kitchen</name>
+    <duration>473</duration>
+            <playcount>106112</playcount>
+                <listeners>42504</listeners>
+    
+            <mbid>f3e8ea8a-8cb3-47a2-b363-9571870976e2</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Soul+Kitchen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87574361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87574361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87574361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87574361.png</image>
+        </track>                    <track rank="10">
+    <name>Roadhouse Blues</name>
+    <duration>398</duration>
+            <playcount>109261</playcount>
+                <listeners>41621</listeners>
+    
+            <mbid>0fecb031-4844-4698-ad4e-46601750eef2</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Roadhouse+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="11">
+    <name>Love Her Madly</name>
+    <duration>196</duration>
+            <playcount>100468</playcount>
+                <listeners>41405</listeners>
+    
+            <mbid>3bedfa8d-f6e8-4f5c-ba2c-a6121d38c52e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Her+Madly</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="12">
+    <name>Hello, I Love You</name>
+    <duration>150</duration>
+            <playcount>92832</playcount>
+                <listeners>36925</listeners>
+    
+            <mbid>910856b4-68fa-4deb-839e-a3f95f554dca</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hello,+I+Love+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="13">
+    <name>Touch Me</name>
+    <duration>192</duration>
+            <playcount>90692</playcount>
+                <listeners>34521</listeners>
+    
+            <mbid>68bcfa1b-e3d2-4497-b990-d48665ad661f</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Touch+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="14">
+    <name>Back Door Man</name>
+    <duration>142</duration>
+            <playcount>79756</playcount>
+                <listeners>33387</listeners>
+    
+            <mbid>16aa7274-c82d-4a13-a347-0605e0deb8d0</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Back+Door+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87574361.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87574361.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87574361.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87574361.png</image>
+        </track>                    <track rank="15">
+    <name>Strange Days</name>
+    <duration>185</duration>
+            <playcount>80838</playcount>
+                <listeners>33009</listeners>
+    
+            <mbid>1b1b675c-35fe-435a-89cb-28feae3fc0b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Strange+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/67188018.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/67188018.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/67188018.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/67188018.png</image>
+        </track>                    <track rank="16">
+    <name>Alabama Song (Whisky Bar)</name>
+    <duration>197</duration>
+            <playcount>67293</playcount>
+                <listeners>26934</listeners>
+    
+            <mbid>d144369b-bd97-492c-8043-1c9faacc0db2</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Alabama+Song+(Whisky+Bar)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/67188018.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/67188018.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/67188018.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/67188018.png</image>
+        </track>                    <track rank="17">
+    <name>Twentieth Century Fox</name>
+    <duration>153</duration>
+            <playcount>59299</playcount>
+                <listeners>26346</listeners>
+    
+            <mbid>c84fed2e-b49e-4603-8e06-d378d9c5b2d2</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Twentieth+Century+Fox</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/49088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/49088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/49088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/49088349.jpg</image>
+        </track>                    <track rank="18">
+    <name>Take It as It Comes</name>
+    <duration>137</duration>
+            <playcount>62551</playcount>
+                <listeners>26240</listeners>
+    
+            <mbid>e4236f0f-5ac1-49dc-96e9-5aa1bcb0785f</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Take+It+as+It+Comes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/82752519.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/82752519.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/82752519.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/82752519.jpg</image>
+        </track>                    <track rank="19">
+    <name>Love Street</name>
+    <duration>177</duration>
+            <playcount>68342</playcount>
+                <listeners>26226</listeners>
+    
+            <mbid>2fe7a228-8f33-486e-b8fb-731bb171bde1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="20">
+    <name>Break on Through</name>
+    <duration>295</duration>
+            <playcount>73579</playcount>
+                <listeners>25783</listeners>
+    
+            <mbid>77976268-56db-405a-9152-6484813c9398</mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/Break+on+Through</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="21">
+    <name>End of the Night</name>
+    <duration>182</duration>
+            <playcount>59465</playcount>
+                <listeners>25483</listeners>
+    
+            <mbid>b496048c-574d-4b88-a758-d360e6b6cafb</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/End+of+the+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/49088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/49088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/49088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/49088349.jpg</image>
+        </track>                    <track rank="22">
+    <name>I Looked at You</name>
+    <duration>142</duration>
+            <playcount>56079</playcount>
+                <listeners>25156</listeners>
+    
+            <mbid>65075c2b-4b45-4247-bfda-3c6441438cbe</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/I+Looked+at+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/82752519.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/82752519.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/82752519.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/82752519.jpg</image>
+        </track>                    <track rank="23">
+    <name>When the Music's Over</name>
+    <duration>891</duration>
+            <playcount>62794</playcount>
+                <listeners>24808</listeners>
+    
+            <mbid>46750cf7-ec36-46f7-b8be-bae273224d40</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/When+the+Music%27s+Over</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="24">
+    <name>Peace Frog</name>
+    <duration>180</duration>
+            <playcount>61837</playcount>
+                <listeners>24567</listeners>
+    
+            <mbid>f14f7b2c-7b4c-4053-85ad-b1372476bf6a</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Peace+Frog</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="25">
+    <name>Moonlight Drive</name>
+    <duration>355</duration>
+            <playcount>58716</playcount>
+                <listeners>24554</listeners>
+    
+            <mbid>8cbe45a7-dc1d-42f0-81c8-ef0cf0ffd388</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/67188018.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/67188018.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/67188018.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/67188018.png</image>
+        </track>                    <track rank="26">
+    <name>Five to One</name>
+    <duration>270</duration>
+            <playcount>54985</playcount>
+                <listeners>23118</listeners>
+    
+            <mbid>d450f887-d992-4eac-9546-9e6a9e2e82c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Five+to+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="27">
+    <name>Waiting for the Sun</name>
+    <duration>238</duration>
+            <playcount>55165</playcount>
+                <listeners>22065</listeners>
+    
+            <mbid>279856e2-e0da-4c1c-84fd-db05af49d094</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Waiting+for+the+Sun</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="28">
+    <name>Spanish Caravan</name>
+    <duration>79</duration>
+            <playcount>54091</playcount>
+                <listeners>21782</listeners>
+    
+            <mbid>1139cdde-168f-4b3d-b352-781ecd4027d6</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Spanish+Caravan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="29">
+    <name>You're Lost Little Girl</name>
+    <duration>183</duration>
+            <playcount>48722</playcount>
+                <listeners>20521</listeners>
+    
+            <mbid>c809aa06-6535-4d5c-8690-218f106bc125</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/You%27re+Lost+Little+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39616007.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39616007.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39616007.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39616007.png</image>
+        </track>                    <track rank="30">
+    <name>My Eyes Have Seen You</name>
+    <duration>124</duration>
+            <playcount>47265</playcount>
+                <listeners>20040</listeners>
+    
+            <mbid>793ba9c7-0154-4748-a1de-1fbf5c08a4da</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/My+Eyes+Have+Seen+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="31">
+    <name>The Unknown Soldier</name>
+    <duration>202</duration>
+            <playcount>43561</playcount>
+                <listeners>19651</listeners>
+    
+            <mbid>4afa9286-56ea-4e7b-b14a-9ee58dc5d6f9</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Unknown+Soldier</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="32">
+    <name>Unhappy Girl</name>
+    <duration>120</duration>
+            <playcount>44358</playcount>
+                <listeners>18513</listeners>
+    
+            <mbid>85560d47-a411-4fcf-85d2-e19c656f464e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Unhappy+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="33">
+    <name>Riders On The Storm - New Stereo Mix Advanced Resolution</name>
+    <duration>427</duration>
+            <playcount>37451</playcount>
+                <listeners>17512</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Riders+On+The+Storm+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="34">
+    <name>Alabama Song</name>
+    <duration>200</duration>
+            <playcount>43361</playcount>
+                <listeners>16609</listeners>
+    
+            <mbid>09c5602e-820b-4517-94fd-817d2b0cd294</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Alabama+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="35">
+    <name>Been Down So Long</name>
+    <duration>275</duration>
+            <playcount>38006</playcount>
+                <listeners>16418</listeners>
+    
+            <mbid>707cf9a9-9b5d-4601-bbb7-7b0dd95bc9e7</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Been+Down+So+Long</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="36">
+    <name>The Changeling</name>
+    <duration>259</duration>
+            <playcount>36806</playcount>
+                <listeners>16392</listeners>
+    
+            <mbid>0597e75f-4633-4e14-b609-3e53e710e868</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Changeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="37">
+    <name>Not to Touch the Earth</name>
+    <duration>235</duration>
+            <playcount>37275</playcount>
+                <listeners>16130</listeners>
+    
+            <mbid>d0568e3a-cf4d-4ce9-8b47-2bb332b05e29</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Not+to+Touch+the+Earth</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="38">
+    <name>Cars Hiss by My Window</name>
+    <duration>249</duration>
+            <playcount>35854</playcount>
+                <listeners>15784</listeners>
+    
+            <mbid>973c330d-24c2-450f-945a-3d0ef9b44df2</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Cars+Hiss+by+My+Window</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="39">
+    <name>Queen of the Highway</name>
+    <duration>212</duration>
+            <playcount>37857</playcount>
+                <listeners>15622</listeners>
+    
+            <mbid>a119e7a3-a964-477b-85b5-124566cad56e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Queen+of+the+Highway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="40">
+    <name>I Can't See Your Face in My Mind</name>
+    <duration>198</duration>
+            <playcount>32797</playcount>
+                <listeners>15192</listeners>
+    
+            <mbid>7e8d2ab9-be8a-46bf-a7d6-34a22abe3043</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/I+Can%27t+See+Your+Face+in+My+Mind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="41">
+    <name>The Spy</name>
+    <duration>254</duration>
+            <playcount>35869</playcount>
+                <listeners>14853</listeners>
+    
+            <mbid>c9314a64-b8db-4973-8369-c6c681f74f1d</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Spy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="42">
+    <name>You Make Me Real</name>
+    <duration>173</duration>
+            <playcount>33630</playcount>
+                <listeners>14804</listeners>
+    
+            <mbid>1f6c10de-08c6-426d-9903-11e8486888b0</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/You+Make+Me+Real</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="43">
+    <name>Summer's Almost Gone</name>
+    <duration>202</duration>
+            <playcount>33976</playcount>
+                <listeners>14757</listeners>
+    
+            <mbid>a0ce779b-7a6e-4513-9901-905d93171513</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Summer%27s+Almost+Gone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="44">
+    <name>Blue Sunday</name>
+    <duration>133</duration>
+            <playcount>35853</playcount>
+                <listeners>14752</listeners>
+    
+            <mbid>61b6039c-1c56-4394-98c7-aeadd9bb084c</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Blue+Sunday</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="45">
+    <name>Wintertime Love</name>
+    <duration>118</duration>
+            <playcount>33255</playcount>
+                <listeners>14685</listeners>
+    
+            <mbid>fe42c64c-0f86-4fc9-abb2-c455fe92a93b</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Wintertime+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="46">
+    <name>Hyacinth House</name>
+    <duration>162</duration>
+            <playcount>32238</playcount>
+                <listeners>14277</listeners>
+    
+            <mbid>a3493363-1f7e-410d-bb3f-aab487fec38d</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hyacinth+House</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="47">
+    <name>Indian Summer</name>
+    <duration>156</duration>
+            <playcount>35710</playcount>
+                <listeners>13856</listeners>
+    
+            <mbid>12e627dc-7496-4d8f-96f7-2a75fe9aa020</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Indian+Summer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="48">
+    <name>Yes, the River Knows</name>
+    <duration>157</duration>
+            <playcount>33091</playcount>
+                <listeners>13308</listeners>
+    
+            <mbid>a166ea56-9789-4b66-b57d-db36e9516960</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Yes,+the+River+Knows</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="49">
+    <name>My Wild Love</name>
+    <duration>181</duration>
+            <playcount>32220</playcount>
+                <listeners>13268</listeners>
+    
+            <mbid>3671e21a-1f78-4fb7-9baf-4149af77f5fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/My+Wild+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="50">
+    <name>Crawling King Snake</name>
+    <duration>372</duration>
+            <playcount>27782</playcount>
+                <listeners>13140</listeners>
+    
+            <mbid>2e608a81-0d14-4874-befb-26ea99577077</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Crawling+King+Snake</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="51">
+    <name>Ship of Fools</name>
+    <duration>321</duration>
+            <playcount>27859</playcount>
+                <listeners>12942</listeners>
+    
+            <mbid>155e8689-4fdb-4fb7-99a5-d6afbcf66fce</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Ship+of+Fools</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="52">
+    <name>Horse Latitudes</name>
+    <duration>95</duration>
+            <playcount>25536</playcount>
+                <listeners>12369</listeners>
+    
+            <mbid>0ddb6b3e-c79e-4509-b3d0-c31b1ba51c8a</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Horse+Latitudes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="53">
+    <name>Break On Through [To The Other Side] - New Stereo Mix Advanced Resolution</name>
+    <duration>146</duration>
+            <playcount>22984</playcount>
+                <listeners>12167</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Break+On+Through+%5BTo+The+Other+Side%5D+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="54">
+    <name>We Could Be So Good Together</name>
+    <duration>129</duration>
+            <playcount>25674</playcount>
+                <listeners>11902</listeners>
+    
+            <mbid>ee91a6a1-0511-490c-ae4c-aa83ad9fa819</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/We+Could+Be+So+Good+Together</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90993217.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90993217.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90993217.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90993217.png</image>
+        </track>                    <track rank="55">
+    <name>Wild Child</name>
+    <duration>158</duration>
+            <playcount>26167</playcount>
+                <listeners>11900</listeners>
+    
+            <mbid>285b975c-355b-4bbc-ad8f-524310af67f5</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Wild+Child</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="56">
+    <name>Shaman's Blues</name>
+    <duration>290</duration>
+            <playcount>25785</playcount>
+                <listeners>11760</listeners>
+    
+            <mbid>1d20dd34-d747-4205-bf95-7166f75e0db7</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Shaman%27s+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="57">
+    <name>Land Ho!</name>
+    <duration>248</duration>
+            <playcount>24864</playcount>
+                <listeners>11459</listeners>
+    
+            <mbid>6891b12b-0c6c-499b-a8f3-1398cec9e386</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Land+Ho!</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="58">
+    <name>People Are Strange - New Stereo Mix Advanced Resolution</name>
+    <duration>130</duration>
+            <playcount>22160</playcount>
+                <listeners>11301</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/People+Are+Strange+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="59">
+    <name>L'America</name>
+    <duration>272</duration>
+            <playcount>22969</playcount>
+                <listeners>11261</listeners>
+    
+            <mbid>47a00394-973c-4370-b3d4-a138340c97e6</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/L%27America</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="60">
+    <name>Tell All the People</name>
+    <duration>201</duration>
+            <playcount>23124</playcount>
+                <listeners>10593</listeners>
+    
+            <mbid>be35b1ba-4967-489f-b1dc-a37a35f825bf</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Tell+All+the+People</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="61">
+    <name>Maggie M'Gill</name>
+    <duration>263</duration>
+            <playcount>22846</playcount>
+                <listeners>10397</listeners>
+    
+            <mbid>175980ce-eea5-462b-8a7f-d10ccfb90e21</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Maggie+M%27Gill</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488033.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488033.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488033.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488033.png</image>
+        </track>                    <track rank="62">
+    <name>Easy Ride</name>
+    <duration>161</duration>
+            <playcount>19300</playcount>
+                <listeners>9367</listeners>
+    
+            <mbid>e1a11c27-b712-4e14-99af-5fd42c2f6f7a</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Easy+Ride</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="63">
+    <name>Runnin' Blue</name>
+    <duration>148</duration>
+            <playcount>20458</playcount>
+                <listeners>9330</listeners>
+    
+            <mbid>26450638-c575-4b81-8054-1c4aa1a21191</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Runnin%27+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="64">
+    <name>The Soft Parade</name>
+    <duration>608</duration>
+            <playcount>22089</playcount>
+                <listeners>9293</listeners>
+    
+            <mbid>5d73afb9-5b46-49f9-a418-5bff3a949471</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Soft+Parade</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/4119843.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/4119843.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/4119843.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/4119843.jpg</image>
+        </track>                    <track rank="65">
+    <name>The Wasp (Texas Radio and the Big Beat)</name>
+    <duration>256</duration>
+            <playcount>18836</playcount>
+                <listeners>8960</listeners>
+    
+            <mbid>e17502ef-0a27-4922-a4e2-c23d85f65618</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Wasp+(Texas+Radio+and+the+Big+Beat)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="66">
+    <name>Wishful Sinful</name>
+    <duration>178</duration>
+            <playcount>18783</playcount>
+                <listeners>8921</listeners>
+    
+            <mbid>421cd3cf-b780-4481-afef-03639d3b7c60</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Wishful+Sinful</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="67">
+    <name>Do It</name>
+    <duration>188</duration>
+            <playcount>17193</playcount>
+                <listeners>8544</listeners>
+    
+            <mbid>f47d04fb-d0fe-4530-955a-eb45b09179c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Do+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="68">
+    <name>Light My Fire - New Stereo Mix Advanced Resolution</name>
+    <duration>418</duration>
+            <playcount>11749</playcount>
+                <listeners>6539</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Light+My+Fire+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="69">
+    <name>Alabama Song (Whiskey Bar)</name>
+    <duration>200</duration>
+            <playcount>12165</playcount>
+                <listeners>5257</listeners>
+    
+            <mbid>fa353e62-7c0e-4a65-a76f-78f2c14693ce</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Alabama+Song+(Whiskey+Bar)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="70">
+    <name>Roadhouse Blues - New Stereo Mix Advanced Resolution</name>
+    <duration>245</duration>
+            <playcount>9314</playcount>
+                <listeners>5164</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Roadhouse+Blues+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="71">
+    <name>Love Me Two Times - New Stereo Mix Advanced Resolution</name>
+    <duration>195</duration>
+            <playcount>9332</playcount>
+                <listeners>5122</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Me+Two+Times+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="72">
+    <name>Hello, I Love You - New Stereo Mix Advanced Resolution</name>
+    <duration>159</duration>
+            <playcount>7325</playcount>
+                <listeners>4206</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hello,+I+Love+You+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="73">
+    <name>Ghost Song</name>
+    <duration>249</duration>
+            <playcount>9937</playcount>
+                <listeners>4128</listeners>
+    
+            <mbid>4d039091-1fda-4fc3-a4bb-98ee74af2007</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Ghost+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46451429.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46451429.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46451429.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46451429.jpg</image>
+        </track>                    <track rank="74">
+    <name>Hello I Love You</name>
+    <duration>137</duration>
+            <playcount>9565</playcount>
+                <listeners>3794</listeners>
+    
+            <mbid>101da7c0-b865-49ea-ad1c-d90ef2d0162b</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hello+I+Love+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55618309.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55618309.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55618309.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55618309.jpg</image>
+        </track>                    <track rank="75">
+    <name>Touch Me - New Stereo Mix Advanced Resolution</name>
+    <duration>192</duration>
+            <playcount>7027</playcount>
+                <listeners>3770</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Touch+Me+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="76">
+    <name>Alabama Song [Whisky Bar] - New Stereo Mix Advanced Resolution</name>
+    <duration>195</duration>
+            <playcount>6432</playcount>
+                <listeners>3484</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Alabama+Song+%5BWhisky+Bar%5D+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="77">
+    <name>L.A. Woman - New Stereo Mix Advanced Resolution</name>
+    <duration>478</duration>
+            <playcount>6154</playcount>
+                <listeners>3482</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/L.A.+Woman+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="78">
+    <name>Strange Days - New Stereo Mix Advanced Resolution</name>
+    <duration>188</duration>
+            <playcount>5425</playcount>
+                <listeners>3260</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Strange+Days+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="79">
+    <name>Gloria</name>
+    <duration>434</duration>
+            <playcount>7339</playcount>
+                <listeners>3246</listeners>
+    
+            <mbid>e7560ea8-2499-4882-9387-84a01ad05fb3</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Gloria</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/8590731.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8590731.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8590731.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/8590731.jpg</image>
+        </track>                    <track rank="80">
+    <name>Love Her Madly - New Stereo Mix Advanced Resolution</name>
+    <duration>218</duration>
+            <playcount>5813</playcount>
+                <listeners>3230</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Her+Madly+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="81">
+    <name>Orange County Suite</name>
+    <duration>343</duration>
+            <playcount>6661</playcount>
+                <listeners>3065</listeners>
+    
+            <mbid>0ec73d1c-1d7b-4163-b7d4-b3a9fc2cd206</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Orange+County+Suite</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/41151361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/41151361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/41151361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/41151361.jpg</image>
+        </track>                    <track rank="82">
+    <name>The Crystal Ship - New Stereo Mix Advanced Resolution</name>
+    <duration>153</duration>
+            <playcount>5396</playcount>
+                <listeners>3040</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Crystal+Ship+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="83">
+    <name>Get Up and Dance</name>
+    <duration>152</duration>
+            <playcount>5247</playcount>
+                <listeners>2950</listeners>
+    
+            <mbid>6439cdcf-44b6-44e0-b237-ceb1d9ecbe23</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Get+Up+and+Dance</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="84">
+    <name>In the Eye of the Sun</name>
+    <duration>292</duration>
+            <playcount>4983</playcount>
+                <listeners>2931</listeners>
+    
+            <mbid>16a4ab03-fea9-4e53-a155-3efd3ba85bc6</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/In+the+Eye+of+the+Sun</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488347.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488347.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488347.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488347.png</image>
+        </track>                    <track rank="85">
+    <name>Break On Through [To The Other Side] - 1</name>
+    <duration>149</duration>
+            <playcount>4500</playcount>
+                <listeners>2797</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Break+On+Through+%5BTo+The+Other+Side%5D+-+1</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="86">
+    <name>Peace Frog - New Stereo Mix Advanced Resolution GH Edit</name>
+    <duration>177</duration>
+            <playcount>4791</playcount>
+                <listeners>2775</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Peace+Frog+-+New+Stereo+Mix+Advanced+Resolution+GH+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="87">
+    <name>Tightrope Ride</name>
+    <duration>259</duration>
+            <playcount>4753</playcount>
+                <listeners>2760</listeners>
+    
+            <mbid>f432d151-391b-44a4-a4b1-4f37a2daa33c</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Tightrope+Ride</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488347.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488347.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488347.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488347.png</image>
+        </track>                    <track rank="88">
+    <name>Light My Fire (45 version)</name>
+    <duration>171</duration>
+            <playcount>4567</playcount>
+                <listeners>2736</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Light+My+Fire+(45+version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="89">
+    <name>The Ghost Song</name>
+    <duration>170</duration>
+            <playcount>6334</playcount>
+                <listeners>2649</listeners>
+    
+            <mbid>7bdcf54f-4a5e-4767-997a-8904b959794d</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Ghost+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/49088349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/49088349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/49088349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/49088349.jpg</image>
+        </track>                    <track rank="90">
+    <name>Variety Is the Spice of Life</name>
+    <duration>170</duration>
+            <playcount>4376</playcount>
+                <listeners>2604</listeners>
+    
+            <mbid>1af8f6f3-1415-416f-bf91-fc06fb852dd6</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Variety+Is+the+Spice+of+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488347.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488347.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488347.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488347.png</image>
+        </track>                    <track rank="91">
+    <name>The End - Greatest Hits Version</name>
+    <duration>390</duration>
+            <playcount>4423</playcount>
+                <listeners>2562</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+End+-+Greatest+Hits+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="92">
+    <name>Twentienth Century Fox</name>
+    <duration>153</duration>
+            <playcount>6161</playcount>
+                <listeners>2525</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/Twentienth+Century+Fox</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="93">
+    <name>Albinoni's Adagio In G Minor</name>
+    <duration>270</duration>
+            <playcount>4134</playcount>
+                <listeners>2511</listeners>
+    
+            <mbid>943470cb-7743-4041-a17b-1d5b61f1fd35</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Albinoni%27s+Adagio+In+G+Minor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/41151361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/41151361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/41151361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/41151361.jpg</image>
+        </track>                    <track rank="94">
+    <name>4 Billion Souls</name>
+    <duration>196</duration>
+            <playcount>4444</playcount>
+                <listeners>2498</listeners>
+    
+            <mbid>2eab8b18-418a-41a2-9d20-044b1fce7e23</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/4+Billion+Souls</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="95">
+    <name>Soul Kitchen - New Stereo Mix Advanced Resolution</name>
+    <duration>211</duration>
+            <playcount>4252</playcount>
+                <listeners>2487</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Soul+Kitchen+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="96">
+    <name>Who Scared You</name>
+    <duration>199</duration>
+            <playcount>5452</playcount>
+                <listeners>2481</listeners>
+    
+            <mbid>a41916b6-3199-4ff8-a616-be084f2eee51</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Who+Scared+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="97">
+    <name>Love Street - New Stereo Mix Advanced Resolution</name>
+    <duration>175</duration>
+            <playcount>4298</playcount>
+                <listeners>2471</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Street+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="98">
+    <name>The Mosquito</name>
+    <duration>318</duration>
+            <playcount>4631</playcount>
+                <listeners>2467</listeners>
+    
+            <mbid>bbc1813b-4bbc-4ca6-8647-cb1fe7e579a1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Mosquito</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="99">
+    <name>I'm Horny, I'm Stoned</name>
+    <duration>239</duration>
+            <playcount>4372</playcount>
+                <listeners>2467</listeners>
+    
+            <mbid>d0ef747f-4f13-4244-8881-b660c346a2ac</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/I%27m+Horny,+I%27m+Stoned</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488347.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488347.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488347.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488347.png</image>
+        </track>                    <track rank="100">
+    <name>Verdilac</name>
+    <duration>348</duration>
+            <playcount>4412</playcount>
+                <listeners>2442</listeners>
+    
+            <mbid>8cc3bb3e-5d16-4f67-9047-f06172758777</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Verdilac</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="101">
+    <name>Back Door Man - New Stereo Mix Advanced Resolution</name>
+    <duration>211</duration>
+            <playcount>4099</playcount>
+                <listeners>2401</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Back+Door+Man+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="102">
+    <name>Stoned Immaculate</name>
+    <duration>93</duration>
+            <playcount>4713</playcount>
+                <listeners>2264</listeners>
+    
+            <mbid>a45e4062-ee14-42d6-bb3d-36e30c10d267</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Stoned+Immaculate</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37026763.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37026763.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37026763.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37026763.jpg</image>
+        </track>                    <track rank="103">
+    <name>Hardwood Floor</name>
+    <duration>207</duration>
+            <playcount>3849</playcount>
+                <listeners>2254</listeners>
+    
+            <mbid>5e1f01f5-ef32-4d79-bc19-c901e545c006</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hardwood+Floor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="104">
+    <name>Down on the Farm</name>
+    <duration>288</duration>
+            <playcount>3762</playcount>
+                <listeners>2209</listeners>
+    
+            <mbid>e6086514-5e90-420c-a9cb-73e54b1ad7ba</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Down+on+the+Farm</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488347.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488347.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488347.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488347.png</image>
+        </track>                    <track rank="105">
+    <name>Maggie McGill</name>
+    <duration>288</duration>
+            <playcount>3750</playcount>
+                <listeners>2202</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Maggie+McGill</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="106">
+    <name>It Slipped My Mind</name>
+    <duration>189</duration>
+            <playcount>3890</playcount>
+                <listeners>2194</listeners>
+    
+            <mbid>3c13c414-c358-471a-a579-844f30100c18</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/It+Slipped+My+Mind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="107">
+    <name>The End - New Stereo Mix Advanced Resolution</name>
+    <duration>700</duration>
+            <playcount>3721</playcount>
+                <listeners>2185</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+End+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="108">
+    <name>The Piano Bird</name>
+    <duration>340</duration>
+            <playcount>3949</playcount>
+                <listeners>2170</listeners>
+    
+            <mbid>95869154-87bc-4b39-bcfe-57c5e1452dba</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Piano+Bird</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="109">
+    <name>Hang on to Your Life</name>
+    <duration>343</duration>
+            <playcount>3394</playcount>
+                <listeners>2037</listeners>
+    
+            <mbid>0ec10a46-f375-4b7a-963c-72bf6200e551</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hang+on+to+Your+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488347.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488347.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488347.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488347.png</image>
+        </track>                    <track rank="110">
+    <name>Moonlight Drive - New Stereo Mix Advanced Resolution</name>
+    <duration>183</duration>
+            <playcount>3416</playcount>
+                <listeners>2033</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="111">
+    <name>Wandering Musician</name>
+    <duration>380</duration>
+            <playcount>3366</playcount>
+                <listeners>2030</listeners>
+    
+            <mbid>18d04f16-ee41-41c0-8e46-c1315908fe33</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Wandering+Musician</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/7581869.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/7581869.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/7581869.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/7581869.jpg</image>
+        </track>                    <track rank="112">
+    <name>The Unknown Soldier - New Stereo Mix Advanced Resolution</name>
+    <duration>388</duration>
+            <playcount>3295</playcount>
+                <listeners>1993</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Unknown+Soldier+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="113">
+    <name>Awake</name>
+    <duration>35</duration>
+            <playcount>4208</playcount>
+                <listeners>1972</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Awake</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="114">
+    <name>Universal Mind</name>
+    <duration>294</duration>
+            <playcount>4249</playcount>
+                <listeners>1962</listeners>
+    
+            <mbid>e4d0e443-54f2-4dc5-9d53-3c72098d0f28</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Universal+Mind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58224211.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58224211.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58224211.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58224211.png</image>
+        </track>                    <track rank="115">
+    <name>The wasp ( Texas radio and the big beat )</name>
+    <duration>255</duration>
+            <playcount>3028</playcount>
+                <listeners>1912</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+wasp+(+Texas+radio+and+the+big+beat+)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="116">
+    <name>Horse latitude</name>
+    <duration></duration>
+            <playcount>2626</playcount>
+                <listeners>1890</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/Horse+latitude</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="117">
+    <name>Whiskey, Mystics and Men</name>
+    <duration>142</duration>
+            <playcount>5185</playcount>
+                <listeners>1880</listeners>
+    
+            <mbid>36cbdd1d-5829-47fa-bed8-f35345c30137</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Whiskey,+Mystics+and+Men</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002H22.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="118">
+    <name>Good Rockin'</name>
+    <duration>279</duration>
+            <playcount>3257</playcount>
+                <listeners>1871</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Good+Rockin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="119">
+    <name>Black Polished Chrome</name>
+    <duration>67</duration>
+            <playcount>4052</playcount>
+                <listeners>1869</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Black+Polished+Chrome</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="120">
+    <name>Who Do You Love</name>
+    <duration>522</duration>
+            <playcount>3806</playcount>
+                <listeners>1856</listeners>
+    
+            <mbid>09e81cfe-44f3-42dc-bdf9-857f6a7784f5</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Who+Do+You+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52489949.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52489949.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52489949.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52489949.png</image>
+        </track>                    <track rank="121">
+    <name>Love Hides</name>
+    <duration>32</duration>
+            <playcount>3458</playcount>
+                <listeners>1833</listeners>
+    
+            <mbid>9b132d52-1fd2-43c8-a55f-fcceb7539630</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Hides</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58224211.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58224211.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58224211.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58224211.png</image>
+        </track>                    <track rank="122">
+    <name>A Feast Of Friends</name>
+    <duration>130</duration>
+            <playcount>4495</playcount>
+                <listeners>1802</listeners>
+    
+            <mbid>965242fd-1c3e-4c45-8391-0c724f6f0a98</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/A+Feast+Of+Friends</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/30230081.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/30230081.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/30230081.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/30230081.jpg</image>
+        </track>                    <track rank="123">
+    <name>The Peking King and the New York Queen</name>
+    <duration>390</duration>
+            <playcount>2989</playcount>
+                <listeners>1779</listeners>
+    
+            <mbid>223bdf4a-458d-46df-843c-e232b31e8357</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Peking+King+and+the+New+York+Queen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88488465.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88488465.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88488465.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88488465.png</image>
+        </track>                    <track rank="124">
+    <name>Latino Chrome</name>
+    <duration>134</duration>
+            <playcount>3761</playcount>
+                <listeners>1772</listeners>
+    
+            <mbid>d7c35eda-e1de-4424-b387-09174d9b2aee</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Latino+Chrome</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="125">
+    <name>Newborn Awakening</name>
+    <duration>63</duration>
+            <playcount>3956</playcount>
+                <listeners>1760</listeners>
+    
+            <mbid>0422d842-3b59-49ae-999b-6703fc4a3aac</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Newborn+Awakening</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46451429.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46451429.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46451429.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46451429.jpg</image>
+        </track>                    <track rank="126">
+    <name>Close to You</name>
+    <duration>243</duration>
+            <playcount>3594</playcount>
+                <listeners>1755</listeners>
+    
+            <mbid>20fd48c6-53fb-4ec0-b732-f3ef3769a2b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Close+to+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52489949.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52489949.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52489949.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52489949.png</image>
+        </track>                    <track rank="127">
+    <name>Dawn's Highway</name>
+    <duration>81</duration>
+            <playcount>3622</playcount>
+                <listeners>1723</listeners>
+    
+            <mbid>a6deb072-c663-46b4-9d4b-6062d16280c7</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Dawn%27s+Highway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="128">
+    <name>To Come Of Age</name>
+    <duration>61</duration>
+            <playcount>3603</playcount>
+                <listeners>1714</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/To+Come+Of+Age</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="129">
+    <name>The Movie</name>
+    <duration>95</duration>
+            <playcount>3649</playcount>
+                <listeners>1707</listeners>
+    
+            <mbid>f50e67fa-7bb4-43c3-bdca-b3985566f15b</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Movie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="130">
+    <name>An American Prayer</name>
+    <duration>184</duration>
+            <playcount>4028</playcount>
+                <listeners>1691</listeners>
+    
+            <mbid>6511b8de-afe7-4c7d-b785-9e627b12a93e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/An+American+Prayer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="131">
+    <name>Celebration Of The Lizard</name>
+    <duration>1038</duration>
+            <playcount>2436</playcount>
+                <listeners>1651</listeners>
+    
+            <mbid>2c05c727-02dd-4acb-958b-570f36bad84d</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Celebration+Of+The+Lizard</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/41151361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/41151361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/41151361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/41151361.jpg</image>
+        </track>                    <track rank="132">
+    <name>Angels and Sailors</name>
+    <duration>166</duration>
+            <playcount>3814</playcount>
+                <listeners>1646</listeners>
+    
+            <mbid>69318039-1b48-4dcd-820b-ca9cbdbe835e</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Angels+and+Sailors</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="133">
+    <name>Backdoor Man</name>
+    <duration>213</duration>
+            <playcount>3109</playcount>
+                <listeners>1640</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Backdoor+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="134">
+    <name>The Wasp</name>
+    <duration>252</duration>
+            <playcount>3229</playcount>
+                <listeners>1630</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Wasp</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="135">
+    <name>Build Me A Woman</name>
+    <duration>246</duration>
+            <playcount>3264</playcount>
+                <listeners>1604</listeners>
+    
+            <mbid>001d5fa2-9ee2-433e-b969-5b86f0dcb3c1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Build+Me+A+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58224211.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58224211.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58224211.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58224211.png</image>
+        </track>                    <track rank="136">
+    <name>Bird of Prey</name>
+    <duration>66</duration>
+            <playcount>3615</playcount>
+                <listeners>1555</listeners>
+    
+            <mbid>27831b99-cad7-46d7-aec3-238b3040b7ed</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Bird+of+Prey</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/75562680.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/75562680.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/75562680.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/75562680.jpg</image>
+        </track>                    <track rank="137">
+    <name>I Can't See Your Face In My Mi</name>
+    <duration>204</duration>
+            <playcount>3111</playcount>
+                <listeners>1488</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/I+Can%27t+See+Your+Face+In+My+Mi</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/16311467.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/16311467.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/16311467.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/16311467.jpg</image>
+        </track>                    <track rank="138">
+    <name>Lament</name>
+    <duration>138</duration>
+            <playcount>3101</playcount>
+                <listeners>1488</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Lament</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="139">
+    <name>Moonlight Drive - Version 1</name>
+    <duration>161</duration>
+            <playcount>1786</playcount>
+                <listeners>1449</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive+-+Version+1</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="140">
+    <name>Curses, Invocations</name>
+    <duration>117</duration>
+            <playcount>3164</playcount>
+                <listeners>1415</listeners>
+    
+            <mbid>4e59ef22-265b-4e21-99b9-91d8b5fed3dd</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Curses,+Invocations</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="141">
+    <name>Hour for magic</name>
+    <duration>77</duration>
+            <playcount>2975</playcount>
+                <listeners>1409</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Hour+for+magic</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="142">
+    <name>The Hitchhiker</name>
+    <duration>136</duration>
+            <playcount>2838</playcount>
+                <listeners>1342</listeners>
+    
+            <mbid>d08b01b8-68f3-43cb-acfb-ddc7e1853e55</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Hitchhiker</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="143">
+    <name>Moonlight Drive (Version 1)</name>
+    <duration>162</duration>
+            <playcount>2489</playcount>
+                <listeners>1314</listeners>
+    
+            <mbid>b33c9cd4-ee64-4498-b312-7c5df9b2321c</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive+(Version+1)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85634657.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85634657.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85634657.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85634657.png</image>
+        </track>                    <track rank="144">
+    <name>The World On Fire</name>
+    <duration>66</duration>
+            <playcount>2571</playcount>
+                <listeners>1276</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+World+On+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="145">
+    <name>Spanish Caravan - New Stereo Mix Advanced Resolution</name>
+    <duration>180</duration>
+            <playcount>1947</playcount>
+                <listeners>1263</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Spanish+Caravan+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Roadhouse Blues (live)</name>
+    <duration>373</duration>
+            <playcount>2568</playcount>
+                <listeners>1253</listeners>
+    
+            <mbid>0e95e771-9c7e-4cea-8b08-676b2af16b02</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Roadhouse+Blues+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/34977411.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/34977411.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/34977411.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/34977411.png</image>
+        </track>                    <track rank="147">
+    <name>LA Woman</name>
+    <duration>466</duration>
+            <playcount>3041</playcount>
+                <listeners>1244</listeners>
+    
+            <mbid>405ae152-08dd-48ac-9188-f6be52ecc940</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/LA+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39618253.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39618253.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39618253.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39618253.png</image>
+        </track>                    <track rank="148">
+    <name>(You Need Meat) Don't Go No Further</name>
+    <duration>221</duration>
+            <playcount>2391</playcount>
+                <listeners>1230</listeners>
+    
+            <mbid>86364340-e7db-4351-8af9-885bc18c13f3</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/(You+Need+Meat)+Don%27t+Go+No+Further</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/41151361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/41151361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/41151361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/41151361.jpg</image>
+        </track>                    <track rank="149">
+    <name>Dead Cats, Dead Rats</name>
+    <duration>114</duration>
+            <playcount>2195</playcount>
+                <listeners>1218</listeners>
+    
+            <mbid>bf7c0375-8179-4cbf-90a3-7ef81bf60ce6</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Dead+Cats,+Dead+Rats</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58224211.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58224211.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58224211.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58224211.png</image>
+        </track>                    <track rank="150">
+    <name>Wishful, Sinful</name>
+    <duration></duration>
+            <playcount>2838</playcount>
+                <listeners>1199</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Wishful,+Sinful</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="151">
+    <name>House Announcer</name>
+    <duration>160</duration>
+            <playcount>1958</playcount>
+                <listeners>1169</listeners>
+    
+            <mbid>0c728a8d-d696-4781-bb58-c0d0f2f24693</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/House+Announcer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58224211.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58224211.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58224211.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58224211.png</image>
+        </track>                    <track rank="152">
+    <name>Indian Summer - 8/19/66 Vocal</name>
+    <duration>157</duration>
+            <playcount>1537</playcount>
+                <listeners>1166</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Indian+Summer+-+8%2F19%2F66+Vocal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="153">
+    <name>Love Me Two Times - Take 3</name>
+    <duration>200</duration>
+            <playcount>1546</playcount>
+                <listeners>1163</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Me+Two+Times+-+Take+3</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="154">
+    <name>Horse Lattitudes</name>
+    <duration></duration>
+            <playcount>3399</playcount>
+                <listeners>1148</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/Horse+Lattitudes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="155">
+    <name>L' America</name>
+    <duration></duration>
+            <playcount>2627</playcount>
+                <listeners>1140</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/L%27+America</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="156">
+    <name>Moonlight Drive - Version 2</name>
+    <duration>149</duration>
+            <playcount>1383</playcount>
+                <listeners>1132</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive+-+Version+2</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="157">
+    <name>Rock Me</name>
+    <duration>395</duration>
+            <playcount>1830</playcount>
+                <listeners>1118</listeners>
+    
+            <mbid>d1ab386c-f80b-4545-ba0e-2665c3f073fb</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Rock+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52489949.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52489949.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52489949.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52489949.png</image>
+        </track>                    <track rank="158">
+    <name>Little Red Rooster</name>
+    <duration>425</duration>
+            <playcount>2006</playcount>
+                <listeners>1111</listeners>
+    
+            <mbid>624abd2d-db10-4c46-8d50-49433a69f1ec</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Little+Red+Rooster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77714386.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77714386.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77714386.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77714386.png</image>
+        </track>                    <track rank="159">
+    <name>People Are Strange - False Starts &amp; Dialogue</name>
+    <duration>118</duration>
+            <playcount>1320</playcount>
+                <listeners>1109</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/People+Are+Strange+-+False+Starts+&amp;+Dialogue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="160">
+    <name>L.A. Woman - Remaster</name>
+    <duration>472</duration>
+            <playcount>2079</playcount>
+                <listeners>1104</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/L.A.+Woman+-+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="161">
+    <name>A Little Game</name>
+    <duration>80</duration>
+            <playcount>2125</playcount>
+                <listeners>1081</listeners>
+    
+            <mbid>2c80f1a2-2cee-4a3b-8310-9a432e4b3749</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/A+Little+Game</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85935371.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85935371.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85935371.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85935371.png</image>
+        </track>                    <track rank="162">
+    <name>Push Push</name>
+    <duration>365</duration>
+            <playcount>1675</playcount>
+                <listeners>1079</listeners>
+    
+            <mbid>f91d4869-347d-47b0-9a60-b228d8827565</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Push+Push</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85634657.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85634657.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85634657.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85634657.png</image>
+        </track>                    <track rank="163">
+    <name>Petition the Lord With Prayer</name>
+    <duration>47</duration>
+            <playcount>1861</playcount>
+                <listeners>1064</listeners>
+    
+            <mbid>51930717-5ef1-4931-aeeb-51b1ad24b4fe</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Petition+the+Lord+With+Prayer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/58224211.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58224211.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58224211.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58224211.png</image>
+        </track>                    <track rank="164">
+    <name>Wake Up</name>
+    <duration>99</duration>
+            <playcount>2044</playcount>
+                <listeners>1059</listeners>
+    
+            <mbid>f687b31a-db7f-4ee4-b90c-ef0345831410</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Wake+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89582437.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89582437.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89582437.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89582437.jpg</image>
+        </track>                    <track rank="165">
+    <name>When The Music's Over - New Stereo Mix Advanced Resolution</name>
+    <duration>666</duration>
+            <playcount>1595</playcount>
+                <listeners>1057</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/When+The+Music%27s+Over+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="166">
+    <name>I Will Never Be Untrue</name>
+    <duration>230</duration>
+            <playcount>2613</playcount>
+                <listeners>1052</listeners>
+    
+            <mbid>459de0f9-3917-404c-ae5c-09f2f28ef617</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/I+Will+Never+Be+Untrue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/15575039.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/15575039.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/15575039.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/15575039.jpg</image>
+        </track>                    <track rank="167">
+    <name>Alabama Song [Whisky Bar]</name>
+    <duration>200</duration>
+            <playcount>2480</playcount>
+                <listeners>1046</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Alabama+Song+%5BWhisky+Bar%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="168">
+    <name>Love Me Two Times (Take 3)</name>
+    <duration>199</duration>
+            <playcount>1868</playcount>
+                <listeners>1038</listeners>
+    
+            <mbid>36330dc1-20ae-4add-a83f-3cddd79b63fc</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Me+Two+Times+(Take+3)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85634657.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85634657.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85634657.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85634657.png</image>
+        </track>                    <track rank="169">
+    <name>Light My Fire ( LP Version )</name>
+    <duration>426</duration>
+            <playcount>2164</playcount>
+                <listeners>1035</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/Light+My+Fire+(+LP+Version+)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81870557.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81870557.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81870557.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81870557.png</image>
+        </track>                    <track rank="170">
+    <name>Ships W/sails</name>
+    <duration>458</duration>
+            <playcount>1440</playcount>
+                <listeners>1016</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/The+Doors/_/Ships+W%2Fsails</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Waiting For The Sun - New Stereo Mix Advanced Resolution</name>
+    <duration>242</duration>
+            <playcount>1596</playcount>
+                <listeners>987</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Waiting+For+The+Sun+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="172">
+    <name>Money</name>
+    <duration>179</duration>
+            <playcount>1942</playcount>
+                <listeners>975</listeners>
+    
+            <mbid>daff4ef7-1b00-46b9-b8ed-dc06fd4b9d21</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Money</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/8590731.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/8590731.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8590731.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/8590731.jpg</image>
+        </track>                    <track rank="173">
+    <name>Five To One - New Stereo Mix Advanced Resolution</name>
+    <duration>273</duration>
+            <playcount>1502</playcount>
+                <listeners>968</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Five+To+One+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Jac Holzman Commentary: Alabama Song</name>
+    <duration>48</duration>
+            <playcount>1094</playcount>
+                <listeners>957</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Jac+Holzman+Commentary:+Alabama+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>The Hill Dwellers</name>
+    <duration>140</duration>
+            <playcount>1731</playcount>
+                <listeners>939</listeners>
+    
+            <mbid>b5698846-a4c8-42cd-bb3d-ad10f295fe0d</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Hill+Dwellers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85935371.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85935371.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85935371.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85935371.png</image>
+        </track>                    <track rank="176">
+    <name>End Of The Night - New Stereo Mix Advanced Resolution</name>
+    <duration>170</duration>
+            <playcount>1386</playcount>
+                <listeners>935</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/End+Of+The+Night+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="177">
+    <name>L.A. Woman (Paul Oakenfold Remix)</name>
+    <duration>255</duration>
+            <playcount>1928</playcount>
+                <listeners>934</listeners>
+    
+            <mbid>59968159-6918-4e62-a53b-ee49c6d332c1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/L.A.+Woman+(Paul+Oakenfold+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78344174.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78344174.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78344174.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78344174.jpg</image>
+        </track>                    <track rank="178">
+    <name>The End (Original)</name>
+    <duration>702</duration>
+            <playcount>1485</playcount>
+                <listeners>892</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+End+(Original)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="179">
+    <name>Unknown Soldier</name>
+    <duration>269</duration>
+            <playcount>1562</playcount>
+                <listeners>881</listeners>
+    
+            <mbid>23f877c1-3dce-4320-87e2-581bdef116a5</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Unknown+Soldier</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37863319.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37863319.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37863319.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37863319.jpg</image>
+        </track>                    <track rank="180">
+    <name>Love Her Madly - Remaster</name>
+    <duration>199</duration>
+            <playcount>1563</playcount>
+                <listeners>850</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Her+Madly+-+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>Not to touch the Earth - Dialogue</name>
+    <duration>43</duration>
+            <playcount>975</playcount>
+                <listeners>843</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Not+to+touch+the+Earth+-+Dialogue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>Moonlight Drive (Version 2)</name>
+    <duration>149</duration>
+            <playcount>1525</playcount>
+                <listeners>825</listeners>
+    
+            <mbid>55d9a51e-54d3-4744-8e4f-38471601eb2f</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive+(Version+2)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85634657.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85634657.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85634657.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85634657.png</image>
+        </track>                    <track rank="183">
+    <name>Twentieth Century Fox - New Stereo Mix Advanced Resolution</name>
+    <duration>153</duration>
+            <playcount>1214</playcount>
+                <listeners>815</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Twentieth+Century+Fox+-+New+Stereo+Mix+Advanced+Resolution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="184">
+    <name>Not To Touch The Earth - Take 1</name>
+    <duration>237</duration>
+            <playcount>1025</playcount>
+                <listeners>814</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Not+To+Touch+The+Earth+-+Take+1</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="185">
+    <name>The Wasp (Texas Radio and The</name>
+    <duration></duration>
+            <playcount>1708</playcount>
+                <listeners>795</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/The+Wasp+(Texas+Radio+and+The</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="186">
+    <name>Lions in the Street</name>
+    <duration>73</duration>
+            <playcount>1397</playcount>
+                <listeners>789</listeners>
+    
+            <mbid>192f3bff-1b80-4247-ab1c-7a2edca52b57</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Lions+in+the+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/82254493.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/82254493.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/82254493.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/82254493.jpg</image>
+        </track>                    <track rank="187">
+    <name>Break On Through (Radio Edit)</name>
+    <duration>63</duration>
+            <playcount>1544</playcount>
+                <listeners>788</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Break+On+Through+(Radio+Edit)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="188">
+    <name>Love Me Two Times (Infected Mushroom Remix)</name>
+    <duration>238</duration>
+            <playcount>1821</playcount>
+                <listeners>781</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Love+Me+Two+Times+(Infected+Mushroom+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>L.A. Woman - Paul Oakenfold remix</name>
+    <duration></duration>
+            <playcount>1225</playcount>
+                <listeners>775</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/L.A.+Woman+-+Paul+Oakenfold+remix</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="190">
+    <name>Who Scared You - Recorded At Elektra Studios, 1969</name>
+    <duration>235</duration>
+            <playcount>1054</playcount>
+                <listeners>773</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Who+Scared+You+-+Recorded+At+Elektra+Studios,+1969</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="191">
+    <name>Someday Soon</name>
+    <duration>221</duration>
+            <playcount>1488</playcount>
+                <listeners>768</listeners>
+    
+            <mbid>ae789b31-d03f-47e4-aa1c-aa4dd014c34f</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Someday+Soon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/4119843.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/4119843.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/4119843.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/4119843.jpg</image>
+        </track>                    <track rank="192">
+    <name>Jac Holzman Commentary: Hello, I Love You</name>
+    <duration>46</duration>
+            <playcount>875</playcount>
+                <listeners>766</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Jac+Holzman+Commentary:+Hello,+I+Love+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>She Smells So Nice</name>
+    <duration>41</duration>
+            <playcount>1156</playcount>
+                <listeners>766</listeners>
+    
+            <mbid>b3ceba16-2ed0-4aa0-b6c1-d588193eddb1</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/She+Smells+So+Nice</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="194">
+    <name>Roadhouse Talking Blues</name>
+    <duration>300</duration>
+            <playcount>1142</playcount>
+                <listeners>762</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Roadhouse+Talking+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="195">
+    <name>Not To Touch The Earth - Take 2</name>
+    <duration>258</duration>
+            <playcount>939</playcount>
+                <listeners>759</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Not+To+Touch+The+Earth+-+Take+2</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="196">
+    <name>Babylon Fading</name>
+    <duration>100</duration>
+            <playcount>1622</playcount>
+                <listeners>749</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Babylon+Fading</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Names of the Kingdom</name>
+    <duration>84</duration>
+            <playcount>1447</playcount>
+                <listeners>746</listeners>
+    
+            <mbid>c76d12c3-63a7-4e90-a600-38bb0568527b</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Names+of+the+Kingdom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/82254493.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/82254493.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/82254493.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/82254493.jpg</image>
+        </track>                    <track rank="198">
+    <name>When the Music’s Over</name>
+    <duration>573</duration>
+            <playcount>1279</playcount>
+                <listeners>738</listeners>
+    
+            <mbid>59583600-a1d4-448d-89dd-b032a1c1a08b</mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/When+the+Music%E2%80%99s+Over</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97836353.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97836353.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97836353.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97836353.jpg</image>
+        </track>                    <track rank="199">
+    <name>Whiskey, Mystics and Men - Version #1 - Recorded At Elektra Studios, 1970</name>
+    <duration>149</duration>
+            <playcount>1128</playcount>
+                <listeners>735</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Whiskey,+Mystics+and+Men+-+Version+%231+-+Recorded+At+Elektra+Studios,+1970</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Moonlight Drive (Version 1) (bonus)</name>
+    <duration>163</duration>
+            <playcount>1571</playcount>
+                <listeners>726</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/The+Doors/_/Moonlight+Drive+(Version+1)+(bonus)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>The Doors</name>
+                <mbid>9efff43b-3b29-4082-824e-bc82f646f93d</mbid>
+     
+        <url>http://www.last.fm/music/The+Doors</url>
+    </artist>
+                </track></toptracks></lfm>

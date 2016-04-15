@@ -1,0 +1,4053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="ZZ Top" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>La Grange</name>
+    <duration>461</duration>
+            <playcount>126036</playcount>
+                <listeners>46456</listeners>
+    
+            <mbid>062eb913-6147-4932-bafd-8cf9236ac846</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/La+Grange</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="2">
+    <name>Gimme All Your Lovin'</name>
+    <duration>271</duration>
+            <playcount>60987</playcount>
+                <listeners>26635</listeners>
+    
+            <mbid>096cd090-bc6e-41ab-a223-afe712fe3c3c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Gimme+All+Your+Lovin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="3">
+    <name>Sharp Dressed Man</name>
+    <duration>278</duration>
+            <playcount>68420</playcount>
+                <listeners>24866</listeners>
+    
+            <mbid>0ab9836c-2e76-4a17-a41c-1471becfb80c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sharp+Dressed+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="4">
+    <name>Tush</name>
+    <duration>220</duration>
+            <playcount>51845</playcount>
+                <listeners>23163</listeners>
+    
+            <mbid>913d94a3-3234-4bfd-8aae-c43e01e635ab</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Tush</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="5">
+    <name>Sharp Dressed Man (2008 Remastered LP Version)</name>
+    <duration>258</duration>
+            <playcount>26592</playcount>
+                <listeners>12971</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sharp+Dressed+Man+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="6">
+    <name>Rough Boy</name>
+    <duration>363</duration>
+            <playcount>21993</playcount>
+                <listeners>9629</listeners>
+    
+            <mbid>03db0b9d-7532-432d-8fce-a75b56b03399</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Rough+Boy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="7">
+    <name>Legs</name>
+    <duration>300</duration>
+            <playcount>23004</playcount>
+                <listeners>9382</listeners>
+    
+            <mbid>00acab6f-9dae-491a-ab39-97b27ef89d24</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Legs</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="8">
+    <name>I'm Bad, I'm Nationwide</name>
+    <duration>312</duration>
+            <playcount>15160</playcount>
+                <listeners>8430</listeners>
+    
+            <mbid>156f7fe1-5731-4673-8c0c-8cdfacf7e918</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I%27m+Bad,+I%27m+Nationwide</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="9">
+    <name>Cheap Sunglasses</name>
+    <duration>286</duration>
+            <playcount>16286</playcount>
+                <listeners>8029</listeners>
+    
+            <mbid>1431d99e-ce89-4c9b-b8d7-e43a4a24fd59</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Cheap+Sunglasses</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="10">
+    <name>Jesus Just Left Chicago</name>
+    <duration>210</duration>
+            <playcount>14215</playcount>
+                <listeners>7190</listeners>
+    
+            <mbid>0af63e9b-19c9-47f8-9e3c-a150b2b0d8c5</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Jesus+Just+Left+Chicago</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="11">
+    <name>Got Me Under Pressure</name>
+    <duration>265</duration>
+            <playcount>16654</playcount>
+                <listeners>7115</listeners>
+    
+            <mbid>024f26e2-c9b6-4755-9bac-464130556925</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Got+Me+Under+Pressure</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="12">
+    <name>I Gotsta Get Paid</name>
+    <duration>243</duration>
+            <playcount>17461</playcount>
+                <listeners>6863</listeners>
+    
+            <mbid>3e874600-002f-42e5-ad98-2d10d919f34a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Gotsta+Get+Paid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="13">
+    <name>Just Got Paid</name>
+    <duration>399</duration>
+            <playcount>12807</playcount>
+                <listeners>6406</listeners>
+    
+            <mbid>0fcc2615-900d-4751-bc1f-8b560ff9e708</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Just+Got+Paid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="14">
+    <name>Waitin' For The Bus</name>
+    <duration>174</duration>
+            <playcount>11595</playcount>
+                <listeners>5958</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Waitin%27+For+The+Bus</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="15">
+    <name>Sleeping Bag</name>
+    <duration>242</duration>
+            <playcount>11148</playcount>
+                <listeners>5493</listeners>
+    
+            <mbid>0bb0a4c2-517a-4f6e-971f-9812a7f279c6</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sleeping+Bag</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="16">
+    <name>Tube Snake Boogie</name>
+    <duration>180</duration>
+            <playcount>10696</playcount>
+                <listeners>5385</listeners>
+    
+            <mbid>1c7a8e7d-353f-4b29-ac64-39080d91436d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Tube+Snake+Boogie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="17">
+    <name>Brown Sugar</name>
+    <duration>323</duration>
+            <playcount>10027</playcount>
+                <listeners>5180</listeners>
+    
+            <mbid>17329ed4-8e14-4e3c-9858-8faeb7115cba</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Brown+Sugar</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="18">
+    <name>My Head's In Mississippi</name>
+    <duration>264</duration>
+            <playcount>10565</playcount>
+                <listeners>5153</listeners>
+    
+            <mbid>122c3541-0745-4ebe-a3d1-8fe03003ecdf</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/My+Head%27s+In+Mississippi</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="19">
+    <name>Viva Las Vegas</name>
+    <duration>287</duration>
+            <playcount>11275</playcount>
+                <listeners>5152</listeners>
+    
+            <mbid>4a08fb6f-d2a5-4d39-b25c-2fe531b6050f</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Viva+Las+Vegas</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="20">
+    <name>Blue Jean Blues</name>
+    <duration>249</duration>
+            <playcount>11076</playcount>
+                <listeners>5061</listeners>
+    
+            <mbid>134d84ef-676e-49c6-b36a-bfc21189fa30</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Blue+Jean+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636430.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636430.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636430.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636430.jpg</image>
+        </track>                    <track rank="21">
+    <name>Doubleback</name>
+    <duration>236</duration>
+            <playcount>10513</playcount>
+                <listeners>4971</listeners>
+    
+            <mbid>03eb1860-f9d6-4aa3-9f92-a1d91822932b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Doubleback</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="22">
+    <name>Beer Drinkers &amp; Hell Raisers</name>
+    <duration>184</duration>
+            <playcount>9527</playcount>
+                <listeners>4750</listeners>
+    
+            <mbid>146bed43-fe90-4cd9-bf98-b192a38b0f7c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Beer+Drinkers+&amp;+Hell+Raisers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="23">
+    <name>Pearl Necklace</name>
+    <duration>313</duration>
+            <playcount>9477</playcount>
+                <listeners>4646</listeners>
+    
+            <mbid>0bf50e88-4034-40d5-a73e-0d0f4b127d14</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Pearl+Necklace</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="24">
+    <name>Sharp Dressed Man - Remastered</name>
+    <duration>253</duration>
+            <playcount>8248</playcount>
+                <listeners>4532</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sharp+Dressed+Man+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="25">
+    <name>I Thank You</name>
+    <duration>191</duration>
+            <playcount>8247</playcount>
+                <listeners>4368</listeners>
+    
+            <mbid>4e80e945-11bd-434c-85e7-8f9171eff497</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Thank+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="26">
+    <name>Give It Up</name>
+    <duration>213</duration>
+            <playcount>8834</playcount>
+                <listeners>4218</listeners>
+    
+            <mbid>13d551dd-683b-4f88-b3a1-2e8d38195444</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Give+It+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="27">
+    <name>I Need You Tonight</name>
+    <duration>376</duration>
+            <playcount>8541</playcount>
+                <listeners>3953</listeners>
+    
+            <mbid>139fcb91-7554-44a9-bfab-0a5239c7208a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Need+You+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="28">
+    <name>Planet Of Women</name>
+    <duration>244</duration>
+            <playcount>7867</playcount>
+                <listeners>3626</listeners>
+    
+            <mbid>0c12445f-cee6-4798-a1e6-9f659390b04c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Planet+Of+Women</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="29">
+    <name>Just Got Back From Baby's</name>
+    <duration>252</duration>
+            <playcount>6347</playcount>
+                <listeners>3584</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Just+Got+Back+From+Baby%27s</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="30">
+    <name>Arrested For Driving While Blind</name>
+    <duration>282</duration>
+            <playcount>6240</playcount>
+                <listeners>3514</listeners>
+    
+            <mbid>c5a41b8a-77c4-4909-9651-1a7b253666d5</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Arrested+For+Driving+While+Blind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="31">
+    <name>Goin' Down To Mexico</name>
+    <duration>203</duration>
+            <playcount>6006</playcount>
+                <listeners>3408</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Goin%27+Down+To+Mexico</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="32">
+    <name>Legs (2008 Remastered Album Edit Version)</name>
+    <duration>274</duration>
+            <playcount>5932</playcount>
+                <listeners>3297</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Legs+(2008+Remastered+Album+Edit+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="33">
+    <name>Gimme All Your Lovin</name>
+    <duration>240</duration>
+            <playcount>6842</playcount>
+                <listeners>3294</listeners>
+    
+            <mbid>92b0daa7-3b4e-4dde-bfcb-1d669c1a66dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Gimme+All+Your+Lovin</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/12625445.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/12625445.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/12625445.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/12625445.jpg</image>
+        </track>                    <track rank="34">
+    <name>Heard It On The X</name>
+    <duration>148</duration>
+            <playcount>6008</playcount>
+                <listeners>3200</listeners>
+    
+            <mbid>0ee6965a-b632-43f6-8b00-968eb54e0a94</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Heard+It+On+The+X</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="35">
+    <name>She's Just Killing Me</name>
+    <duration>295</duration>
+            <playcount>6261</playcount>
+                <listeners>3196</listeners>
+    
+            <mbid>2c1f7456-68fa-4ab5-822d-eac192e3dd63</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/She%27s+Just+Killing+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="36">
+    <name>A Fool For Your Stockings</name>
+    <duration>255</duration>
+            <playcount>6378</playcount>
+                <listeners>3123</listeners>
+    
+            <mbid>7cc4ae6e-f879-4142-be80-79e05e31080d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/A+Fool+For+Your+Stockings</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="37">
+    <name>Bar-B-Q</name>
+    <duration>202</duration>
+            <playcount>5639</playcount>
+                <listeners>3118</listeners>
+    
+            <mbid>1a227e1b-0c5b-4959-b762-dd533ba6b383</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Bar-B-Q</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="38">
+    <name>Mexican Blackbird</name>
+    <duration>185</duration>
+            <playcount>5560</playcount>
+                <listeners>3063</listeners>
+    
+            <mbid>00eb7d3f-4199-4b39-98a0-2d69d185e87c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Mexican+Blackbird</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="39">
+    <name>Chartreuse</name>
+    <duration>177</duration>
+            <playcount>6245</playcount>
+                <listeners>3022</listeners>
+    
+            <mbid>9130207f-ab1d-4723-af77-249a6bc35ac0</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Chartreuse</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="40">
+    <name>It's Only Love</name>
+    <duration>263</duration>
+            <playcount>4930</playcount>
+                <listeners>2980</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/It%27s+Only+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="41">
+    <name>Velcro Fly</name>
+    <duration>210</duration>
+            <playcount>5973</playcount>
+                <listeners>2871</listeners>
+    
+            <mbid>0b24d56c-9cf8-4f3e-995f-f69715f8d3df</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Velcro+Fly</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94490417.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94490417.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94490417.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94490417.png</image>
+        </track>                    <track rank="42">
+    <name>I Got The Six</name>
+    <duration>173</duration>
+            <playcount>5755</playcount>
+                <listeners>2840</listeners>
+    
+            <mbid>45636829-8544-47c3-a72d-4b213bbb86c5</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Got+The+Six</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="43">
+    <name>Gun Love</name>
+    <duration>219</duration>
+            <playcount>5081</playcount>
+                <listeners>2652</listeners>
+    
+            <mbid>03b07ac0-18b7-44b8-b7a8-d4d247c51f18</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Gun+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61498981.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61498981.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61498981.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61498981.png</image>
+        </track>                    <track rank="44">
+    <name>TV Dinners</name>
+    <duration>229</duration>
+            <playcount>5056</playcount>
+                <listeners>2587</listeners>
+    
+            <mbid>14b88212-9030-441b-ba17-70b2e08c8511</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/TV+Dinners</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="45">
+    <name>Francine</name>
+    <duration>211</duration>
+            <playcount>4391</playcount>
+                <listeners>2523</listeners>
+    
+            <mbid>00f8978c-3fd2-4414-a96f-56327e1d035a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Francine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79104967.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79104967.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79104967.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79104967.png</image>
+        </track>                    <track rank="46">
+    <name>Thug</name>
+    <duration>258</duration>
+            <playcount>4999</playcount>
+                <listeners>2498</listeners>
+    
+            <mbid>12b93d60-6d15-49ca-9e2a-012e3beeb1ae</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Thug</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="47">
+    <name>La Grange - 2005 Remastered Version</name>
+    <duration>234</duration>
+            <playcount>4308</playcount>
+                <listeners>2492</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/La+Grange+-+2005+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="48">
+    <name>Consumption</name>
+    <duration>228</duration>
+            <playcount>4920</playcount>
+                <listeners>2472</listeners>
+    
+            <mbid>97db1afe-352b-48e3-8886-5d9449e5308a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Consumption</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="49">
+    <name>If I Could Only Flag Her Down</name>
+    <duration>219</duration>
+            <playcount>4734</playcount>
+                <listeners>2471</listeners>
+    
+            <mbid>0a5d1b2b-621c-4385-b954-405509bccca8</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/If+I+Could+Only+Flag+Her+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="50">
+    <name>Over You</name>
+    <duration>270</duration>
+            <playcount>4898</playcount>
+                <listeners>2383</listeners>
+    
+            <mbid>0b0e9e2c-8a4c-47b6-a7ea-b7782b98e9be</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Over+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="51">
+    <name>She Loves My Automobile</name>
+    <duration>142</duration>
+            <playcount>4485</playcount>
+                <listeners>2373</listeners>
+    
+            <mbid>28fe07a1-1c16-45e6-a740-5be81a4ba51b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/She+Loves+My+Automobile</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="52">
+    <name>Bad Girl</name>
+    <duration>195</duration>
+            <playcount>4463</playcount>
+                <listeners>2372</listeners>
+    
+            <mbid>8c36847a-2831-4625-9c1b-4e5beb378334</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Bad+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="53">
+    <name>Can't Stop Rockin'</name>
+    <duration>185</duration>
+            <playcount>5035</playcount>
+                <listeners>2367</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Can%27t+Stop+Rockin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00006OYL5.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00006OYL5.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00006OYL5.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00006OYL5.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="54">
+    <name>Stages</name>
+    <duration>213</duration>
+            <playcount>5278</playcount>
+                <listeners>2313</listeners>
+    
+            <mbid>2153c694-d351-43c0-b85c-5b272a16bc40</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Stages</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94490417.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94490417.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94490417.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94490417.png</image>
+        </track>                    <track rank="55">
+    <name>Master of Sparks</name>
+    <duration>210</duration>
+            <playcount>4120</playcount>
+                <listeners>2298</listeners>
+    
+            <mbid>31a59029-cb42-4822-9fbd-5a0fcaef6f17</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Master+of+Sparks</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="56">
+    <name>Dirty Dog</name>
+    <duration>245</duration>
+            <playcount>4303</playcount>
+                <listeners>2294</listeners>
+    
+            <mbid>6d01f59e-2fa0-4edf-9a65-635b1b0194b5</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Dirty+Dog</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/77068658.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77068658.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77068658.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77068658.png</image>
+        </track>                    <track rank="57">
+    <name>Woke Up with Wood</name>
+    <duration>226</duration>
+            <playcount>4310</playcount>
+                <listeners>2268</listeners>
+    
+            <mbid>41904c4f-b910-4e39-8071-8157d73c4728</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Woke+Up+with+Wood</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94490417.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94490417.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94490417.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94490417.png</image>
+        </track>                    <track rank="58">
+    <name>Precious and Grace</name>
+    <duration>155</duration>
+            <playcount>3985</playcount>
+                <listeners>2196</listeners>
+    
+            <mbid>9a407f35-bebf-4b05-a58c-e5b870d0acf1</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Precious+and+Grace</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="59">
+    <name>El Diablo</name>
+    <duration>262</duration>
+            <playcount>4209</playcount>
+                <listeners>2158</listeners>
+    
+            <mbid>1788b0f1-b3a3-4a84-beba-3c7ffd64154c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/El+Diablo</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="60">
+    <name>Dust My Broom</name>
+    <duration>203</duration>
+            <playcount>3446</playcount>
+                <listeners>2076</listeners>
+    
+            <mbid>77a8ca0a-b760-4e63-81e7-8f4bdee73340</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Dust+My+Broom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="61">
+    <name>Old Man</name>
+    <duration>212</duration>
+            <playcount>3539</playcount>
+                <listeners>2072</listeners>
+    
+            <mbid>46b6df30-e6df-45ea-ac08-dc4b6aaba3da</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Old+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583609.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583609.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583609.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583609.jpg</image>
+        </track>                    <track rank="62">
+    <name>Hot, Blue And Righteous</name>
+    <duration>196</duration>
+            <playcount>4065</playcount>
+                <listeners>2057</listeners>
+    
+            <mbid>98328ce5-5297-47d9-9bfd-40f7f95244ca</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Hot,+Blue+And+Righteous</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="63">
+    <name>Move Me On Down The Line</name>
+    <duration>155</duration>
+            <playcount>3624</playcount>
+                <listeners>1995</listeners>
+    
+            <mbid>cf91df09-e976-4f68-8cc7-33fd69bb5007</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Move+Me+On+Down+The+Line</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="64">
+    <name>Heartache in Blue</name>
+    <duration>249</duration>
+            <playcount>3804</playcount>
+                <listeners>1992</listeners>
+    
+            <mbid>8b089aa9-986c-43ca-a8b1-3d51f8644b35</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Heartache+in+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="65">
+    <name>Certified Blues</name>
+    <duration>208</duration>
+            <playcount>3402</playcount>
+                <listeners>1969</listeners>
+    
+            <mbid>71e43a94-086a-47cf-b710-3412ee775e3d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Certified+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583609.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583609.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583609.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583609.jpg</image>
+        </track>                    <track rank="66">
+    <name>Thunderbird</name>
+    <duration>249</duration>
+            <playcount>3277</playcount>
+                <listeners>1947</listeners>
+    
+            <mbid>1ccb8f32-5ad0-4d87-9bf8-8fd9215708dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Thunderbird</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="67">
+    <name>Manic Mechanic</name>
+    <duration>200</duration>
+            <playcount>3152</playcount>
+                <listeners>1926</listeners>
+    
+            <mbid>6151cd7d-02d9-4a28-bf47-0c3bf184b7b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Manic+Mechanic</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="68">
+    <name>Squank</name>
+    <duration>169</duration>
+            <playcount>3009</playcount>
+                <listeners>1906</listeners>
+    
+            <mbid>1ddee81c-6bca-4de7-8cec-f2d795dd8366</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Squank</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90582569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90582569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90582569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90582569.jpg</image>
+        </track>                    <track rank="69">
+    <name>Backdoor Love Affair</name>
+    <duration>162</duration>
+            <playcount>3278</playcount>
+                <listeners>1905</listeners>
+    
+            <mbid>d33c1d62-4eb1-467b-85d1-a0f3fff5248d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Backdoor+Love+Affair</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79104967.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79104967.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79104967.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79104967.png</image>
+        </track>                    <track rank="70">
+    <name>Flyin' High</name>
+    <duration>258</duration>
+            <playcount>4091</playcount>
+                <listeners>1862</listeners>
+    
+            <mbid>8fe0bed1-b41c-41d0-8a05-8fe76a7c5775</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Flyin%27+High</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="71">
+    <name>Sure Got Cold After The Rain Fell</name>
+    <duration>409</duration>
+            <playcount>3409</playcount>
+                <listeners>1861</listeners>
+    
+            <mbid>2887bab2-5f1d-4a3a-864c-f2e3f54cdb05</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sure+Got+Cold+After+The+Rain+Fell</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583609.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583609.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583609.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583609.jpg</image>
+        </track>                    <track rank="72">
+    <name>Chevrolet</name>
+    <duration>199</duration>
+            <playcount>3034</playcount>
+                <listeners>1834</listeners>
+    
+            <mbid>09f29c14-d6d4-4e77-b576-9ab40d723074</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Chevrolet</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353321.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353321.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353321.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353321.jpg</image>
+        </track>                    <track rank="73">
+    <name>Big Shiny Nine</name>
+    <duration>191</duration>
+            <playcount>3235</playcount>
+                <listeners>1755</listeners>
+    
+            <mbid>c645c26a-07eb-4d4a-b694-eea9274d2a06</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Big+Shiny+Nine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="74">
+    <name>Apologies To Pearly</name>
+    <duration>167</duration>
+            <playcount>3072</playcount>
+                <listeners>1751</listeners>
+    
+            <mbid>3822bed9-c3db-4439-9a75-79350baf7bdf</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Apologies+To+Pearly</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583609.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583609.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583609.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583609.jpg</image>
+        </track>                    <track rank="75">
+    <name>Neighbor, Neighbor</name>
+    <duration>139</duration>
+            <playcount>2950</playcount>
+                <listeners>1738</listeners>
+    
+            <mbid>2f429126-7c50-47e4-9f44-6b07880c2937</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Neighbor,+Neighbor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90582569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90582569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90582569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90582569.jpg</image>
+        </track>                    <track rank="76">
+    <name>Ko Ko Blue</name>
+    <duration>263</duration>
+            <playcount>2824</playcount>
+                <listeners>1727</listeners>
+    
+            <mbid>277ac765-abae-4223-9932-74ced473c817</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Ko+Ko+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353321.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353321.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353321.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353321.jpg</image>
+        </track>                    <track rank="77">
+    <name>Have a Little Mercy</name>
+    <duration>199</duration>
+            <playcount>3194</playcount>
+                <listeners>1722</listeners>
+    
+            <mbid>0274b1dc-ff01-491a-a383-5cf1e2925f55</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Have+a+Little+Mercy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="78">
+    <name>Lowdown In The Street</name>
+    <duration>169</duration>
+            <playcount>3007</playcount>
+                <listeners>1714</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Lowdown+In+The+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583609.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583609.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583609.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583609.jpg</image>
+        </track>                    <track rank="79">
+    <name>Francene</name>
+    <duration>214</duration>
+            <playcount>2857</playcount>
+                <listeners>1695</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Francene</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="80">
+    <name>I Don't Wanna Lose, Lose, You</name>
+    <duration>261</duration>
+            <playcount>3174</playcount>
+                <listeners>1660</listeners>
+    
+            <mbid>fa02b9c8-12f5-4940-aa6a-6334ce06c72b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Don%27t+Wanna+Lose,+Lose,+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="81">
+    <name>Bedroom Thang</name>
+    <duration>233</duration>
+            <playcount>2686</playcount>
+                <listeners>1623</listeners>
+    
+            <mbid>1fbcd66a-c6e7-4f6d-9d14-5c37c5629ea8</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Bedroom+Thang</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90582569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90582569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90582569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90582569.jpg</image>
+        </track>                    <track rank="82">
+    <name>Jailhouse Rock</name>
+    <duration>108</duration>
+            <playcount>2686</playcount>
+                <listeners>1593</listeners>
+    
+            <mbid>28e156ce-f924-4982-a966-fd6cfe277f30</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Jailhouse+Rock</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636430.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636430.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636430.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636430.jpg</image>
+        </track>                    <track rank="83">
+    <name>Hi Fi Mama</name>
+    <duration>144</duration>
+            <playcount>3193</playcount>
+                <listeners>1553</listeners>
+    
+            <mbid>4f1c987d-cbed-4623-b35b-bdd6c4087f7c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Hi+Fi+Mama</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="84">
+    <name>Pincushion</name>
+    <duration>273</duration>
+            <playcount>3215</playcount>
+                <listeners>1527</listeners>
+    
+            <mbid>972babbd-b59d-4d78-bc69-0c43cede32c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Pincushion</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="85">
+    <name>Delirious</name>
+    <duration>221</duration>
+            <playcount>2965</playcount>
+                <listeners>1522</listeners>
+    
+            <mbid>a86c2c6d-7856-45e5-a8fc-9c26f34c6a9c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Delirious</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94490417.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94490417.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94490417.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94490417.png</image>
+        </track>                    <track rank="86">
+    <name>Have You Heard?</name>
+    <duration>201</duration>
+            <playcount>2722</playcount>
+                <listeners>1487</listeners>
+    
+            <mbid>53e69189-5e3e-406d-81e9-c015dbcd00bf</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Have+You+Heard%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="87">
+    <name>Mushmouth Shoutin'</name>
+    <duration>227</duration>
+            <playcount>2371</playcount>
+                <listeners>1479</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Mushmouth+Shoutin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353321.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353321.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353321.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353321.jpg</image>
+        </track>                    <track rank="88">
+    <name>Mescalero</name>
+    <duration>228</duration>
+            <playcount>3202</playcount>
+                <listeners>1476</listeners>
+    
+            <mbid>1403b1b4-ad4a-4d82-ac76-d0d336f427bb</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Mescalero</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="89">
+    <name>Whiskey'n Mama</name>
+    <duration>201</duration>
+            <playcount>2451</playcount>
+                <listeners>1446</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Whiskey%27n+Mama</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353321.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353321.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353321.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353321.jpg</image>
+        </track>                    <track rank="90">
+    <name>Enjoy And Get It On</name>
+    <duration>206</duration>
+            <playcount>2449</playcount>
+                <listeners>1441</listeners>
+    
+            <mbid>0e9f366b-472b-46a2-8f27-9ceac89396c1</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Enjoy+And+Get+It+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="91">
+    <name>Rhythmeen</name>
+    <duration>231</duration>
+            <playcount>2802</playcount>
+                <listeners>1439</listeners>
+    
+            <mbid>1a0abec2-4fba-4de1-8212-4d880d39b9d4</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Rhythmeen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="92">
+    <name>Concrete and Steel</name>
+    <duration>230</duration>
+            <playcount>2861</playcount>
+                <listeners>1438</listeners>
+    
+            <mbid>3ee2c45e-1985-4167-ae55-878659ab7f23</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Concrete+and+Steel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="93">
+    <name>2000 Blues</name>
+    <duration>282</duration>
+            <playcount>2965</playcount>
+                <listeners>1422</listeners>
+    
+            <mbid>16772264-da53-47ae-88be-db450836a0a0</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/2000+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="94">
+    <name>Esther Be The One</name>
+    <duration>210</duration>
+            <playcount>2276</playcount>
+                <listeners>1350</listeners>
+    
+            <mbid>2b9153cd-81a2-445e-891c-bd7e017e51a5</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Esther+Be+The+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636538.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636538.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636538.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636538.jpg</image>
+        </track>                    <track rank="95">
+    <name>Balinese</name>
+    <duration>158</duration>
+            <playcount>2429</playcount>
+                <listeners>1344</listeners>
+    
+            <mbid>15ef963f-022c-44e7-85fc-ae0e0da2dc44</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Balinese</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636430.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636430.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636430.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636430.jpg</image>
+        </track>                    <track rank="96">
+    <name>I Got The Message</name>
+    <duration>209</duration>
+            <playcount>2332</playcount>
+                <listeners>1341</listeners>
+    
+            <mbid>3431ee28-e992-4d7e-8372-c7ba48c3f23a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Got+The+Message</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94490417.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94490417.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94490417.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94490417.png</image>
+        </track>                    <track rank="97">
+    <name>It's Too Easy Mañana</name>
+    <duration>288</duration>
+            <playcount>2679</playcount>
+                <listeners>1341</listeners>
+    
+            <mbid>c2061339-9ebf-4285-a4a0-8c091b4bba88</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/It%27s+Too+Easy+Ma%C3%B1ana</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83350009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83350009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83350009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83350009.jpg</image>
+        </track>                    <track rank="98">
+    <name>Down Brownie</name>
+    <duration>146</duration>
+            <playcount>2287</playcount>
+                <listeners>1330</listeners>
+    
+            <mbid>1e3ad216-8748-4a59-a203-045bae3211b7</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Down+Brownie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88353321.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88353321.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88353321.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88353321.jpg</image>
+        </track>                    <track rank="99">
+    <name>Jesus Just Left Chicago (Remastered Album Version)</name>
+    <duration>211</duration>
+            <playcount>1981</playcount>
+                <listeners>1266</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Jesus+Just+Left+Chicago+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="100">
+    <name>Ten Dollar Man</name>
+    <duration>221</duration>
+            <playcount>2121</playcount>
+                <listeners>1246</listeners>
+    
+            <mbid>411fdcc9-a34c-414f-927e-57cf020d57a0</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Ten+Dollar+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="101">
+    <name>She's A Heartbreaker</name>
+    <duration>181</duration>
+            <playcount>2030</playcount>
+                <listeners>1220</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/She%27s+A+Heartbreaker</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="102">
+    <name>Beer Drinkers &amp; Hell Raisers - Remastered Version</name>
+    <duration>206</duration>
+            <playcount>1891</playcount>
+                <listeners>1219</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Beer+Drinkers+&amp;+Hell+Raisers+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="103">
+    <name>Lowrider</name>
+    <duration>193</duration>
+            <playcount>3154</playcount>
+                <listeners>1214</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Lowrider</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="104">
+    <name>Nasty Dogs And Funky Kings</name>
+    <duration>170</duration>
+            <playcount>2110</playcount>
+                <listeners>1214</listeners>
+    
+            <mbid>035ab175-1913-4cc3-a69e-ad213ef80317</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Nasty+Dogs+And+Funky+Kings</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78636430.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78636430.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78636430.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78636430.jpg</image>
+        </track>                    <track rank="105">
+    <name>Party on the Patio</name>
+    <duration>169</duration>
+            <playcount>1846</playcount>
+                <listeners>1213</listeners>
+    
+            <mbid>020b2c64-7ddc-49b2-b1ab-e2f9e7e47082</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Party+on+the+Patio</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="106">
+    <name>(Somebody Else Been) Shaking Your Tree</name>
+    <duration>149</duration>
+            <playcount>2125</playcount>
+                <listeners>1212</listeners>
+    
+            <mbid>9148e70b-66bc-4a89-95c3-ef36c4dafb09</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/(Somebody+Else+Been)+Shaking+Your+Tree</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90582569.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90582569.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90582569.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90582569.jpg</image>
+        </track>                    <track rank="107">
+    <name>Bad To The Bone</name>
+    <duration></duration>
+            <playcount>3228</playcount>
+                <listeners>1199</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Bad+To+The+Bone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="108">
+    <name>Shiek</name>
+    <duration>246</duration>
+            <playcount>2147</playcount>
+                <listeners>1189</listeners>
+    
+            <mbid>6bf1c26f-66e4-44a2-bc53-fd2c1e035596</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Shiek</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="109">
+    <name>Got Me Under Pressure (2008 Remastered LP Version)</name>
+    <duration>243</duration>
+            <playcount>1972</playcount>
+                <listeners>1185</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Got+Me+Under+Pressure+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="110">
+    <name>I Wanna Drive You Home</name>
+    <duration>288</duration>
+            <playcount>1882</playcount>
+                <listeners>1153</listeners>
+    
+            <mbid>20f46a91-02d2-4ad3-ac06-5428ea3240b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Wanna+Drive+You+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="111">
+    <name>Snappy Kakkie</name>
+    <duration>179</duration>
+            <playcount>1917</playcount>
+                <listeners>1150</listeners>
+    
+            <mbid>d67d8c88-728c-41b0-9909-ded684fb40da</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Snappy+Kakkie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="112">
+    <name>Pan Am Highway Blues</name>
+    <duration>194</duration>
+            <playcount>1830</playcount>
+                <listeners>1146</listeners>
+    
+            <mbid>3cf7e4d8-08f8-4229-b545-4a8b9e9dbe41</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Pan+Am+Highway+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="113">
+    <name>Leila</name>
+    <duration>197</duration>
+            <playcount>1883</playcount>
+                <listeners>1144</listeners>
+    
+            <mbid>28ce58bc-7bf8-4c0b-b78a-e9f47fd740b3</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Leila</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="114">
+    <name>Viva Las Vegas - Remastered Version</name>
+    <duration>284</duration>
+            <playcount>1810</playcount>
+                <listeners>1129</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Viva+Las+Vegas+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="115">
+    <name>Lovething</name>
+    <duration>205</duration>
+            <playcount>1984</playcount>
+                <listeners>1125</listeners>
+    
+            <mbid>1db0a06c-b84a-4694-83dd-bb243e062509</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Lovething</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="116">
+    <name>[Somebody Else Been] Shaking Your Tree</name>
+    <duration>146</duration>
+            <playcount>1601</playcount>
+                <listeners>1122</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/ZZ+Top/_/%5BSomebody+Else+Been%5D+Shaking+Your+Tree</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="117">
+    <name>Heaven, Hell Or Houston</name>
+    <duration>153</duration>
+            <playcount>1918</playcount>
+                <listeners>1109</listeners>
+    
+            <mbid>9c81f5c6-1c3a-452c-acb0-2ab2053c3d60</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Heaven,+Hell+Or+Houston</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583609.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583609.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583609.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583609.jpg</image>
+        </track>                    <track rank="118">
+    <name>Bang Bang</name>
+    <duration>267</duration>
+            <playcount>1968</playcount>
+                <listeners>1105</listeners>
+    
+            <mbid>5f1114b1-9a50-4b0b-a7a0-1c925f16d862</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Bang+Bang</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="119">
+    <name>Breakaway</name>
+    <duration>297</duration>
+            <playcount>2299</playcount>
+                <listeners>1104</listeners>
+    
+            <mbid>193fa2e1-6a3a-4c6b-b34b-211eba03fec6</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Breakaway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="120">
+    <name>Fuzzbox Voodoo</name>
+    <duration>282</duration>
+            <playcount>2235</playcount>
+                <listeners>1077</listeners>
+    
+            <mbid>2e249582-ee62-42c3-ae1a-7a53f65c018f</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Fuzzbox+Voodoo</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="121">
+    <name>Avalon Hideaway</name>
+    <duration>187</duration>
+            <playcount>1754</playcount>
+                <listeners>1066</listeners>
+    
+            <mbid>24e7f0ae-70eb-4dec-b406-008145b5433d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Avalon+Hideaway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="122">
+    <name>Burger Man</name>
+    <duration>200</duration>
+            <playcount>1860</playcount>
+                <listeners>1057</listeners>
+    
+            <mbid>3d458f5b-4ec5-4417-9c7f-3afaff116733</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Burger+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="123">
+    <name>Gimme All Your Lovin' - Remastered</name>
+    <duration>240</duration>
+            <playcount>1694</playcount>
+                <listeners>1054</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Gimme+All+Your+Lovin%27+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="124">
+    <name>Penthouse Eyes</name>
+    <duration>230</duration>
+            <playcount>1889</playcount>
+                <listeners>1033</listeners>
+    
+            <mbid>2cf5ad1d-cfb7-491f-9e03-d734b7c02d54</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Penthouse+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="125">
+    <name>Sheik</name>
+    <duration>244</duration>
+            <playcount>1709</playcount>
+                <listeners>1015</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sheik</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350896.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350896.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350896.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350896.jpg</image>
+        </track>                    <track rank="126">
+    <name>Ten Foot Pole</name>
+    <duration>209</duration>
+            <playcount>1596</playcount>
+                <listeners>1011</listeners>
+    
+            <mbid>23c1e285-4e41-4fda-b798-8ad076aceffd</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Ten+Foot+Pole</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="127">
+    <name>Buck Nekkid</name>
+    <duration>181</duration>
+            <playcount>1814</playcount>
+                <listeners>1002</listeners>
+    
+            <mbid>dce67882-ac0d-4aa8-b687-078ab7ff6f25</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Buck+Nekkid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="128">
+    <name>It's So Hard</name>
+    <duration>311</duration>
+            <playcount>1644</playcount>
+                <listeners>987</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/It%27s+So+Hard</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="129">
+    <name>Fearless Boogie</name>
+    <duration>242</duration>
+            <playcount>1614</playcount>
+                <listeners>951</listeners>
+    
+            <mbid>1fa52173-5f66-4591-89a0-b7c25f917663</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Fearless+Boogie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="130">
+    <name>Waitin' For The Bus (Remastered Album Version)</name>
+    <duration>173</duration>
+            <playcount>1522</playcount>
+                <listeners>947</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Waitin%27+For+The+Bus+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="131">
+    <name>Tell It</name>
+    <duration>289</duration>
+            <playcount>1630</playcount>
+                <listeners>929</listeners>
+    
+            <mbid>e6801d9a-0035-42a6-bb36-4f4b94012781</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Tell+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="132">
+    <name>Girl In A T-Shirt</name>
+    <duration>250</duration>
+            <playcount>1785</playcount>
+                <listeners>925</listeners>
+    
+            <mbid>4a062818-96bc-4d39-b453-b696ebea7a80</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Girl+In+A+T-Shirt</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="133">
+    <name>36-22-36</name>
+    <duration>155</duration>
+            <playcount>1650</playcount>
+                <listeners>921</listeners>
+    
+            <mbid>0266d4f4-12f7-4c20-a6a1-f0db5bcb285d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/36-22-36</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="134">
+    <name>Cover Your Rig</name>
+    <duration>349</duration>
+            <playcount>1745</playcount>
+                <listeners>916</listeners>
+    
+            <mbid>8149fff9-3d0b-439c-b166-96da50c0d36a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Cover+Your+Rig</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="135">
+    <name>World of Swirl</name>
+    <duration>248</duration>
+            <playcount>1718</playcount>
+                <listeners>899</listeners>
+    
+            <mbid>d405f5d6-f6c1-4715-a30b-bfa3d8592b1b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/World+of+Swirl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="136">
+    <name>Tush (Remastered Album Version)</name>
+    <duration>137</duration>
+            <playcount>1401</playcount>
+                <listeners>889</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Tush+(Remastered+Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="137">
+    <name>Don't Tease Me</name>
+    <duration>264</duration>
+            <playcount>1466</playcount>
+                <listeners>889</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Don%27t+Tease+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="138">
+    <name>Poke Chop Sandwich</name>
+    <duration>290</duration>
+            <playcount>1513</playcount>
+                <listeners>869</listeners>
+    
+            <mbid>0b2b20a3-4252-4a06-b667-3f2f7dd0c651</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Poke+Chop+Sandwich</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="139">
+    <name>Decision or Collision</name>
+    <duration>243</duration>
+            <playcount>1467</playcount>
+                <listeners>866</listeners>
+    
+            <mbid>78666ba1-bebe-48e8-9caa-25fd4c1595cf</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Decision+or+Collision</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90581031.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90581031.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90581031.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90581031.jpg</image>
+        </track>                    <track rank="140">
+    <name>Black Fly</name>
+    <duration>211</duration>
+            <playcount>1666</playcount>
+                <listeners>858</listeners>
+    
+            <mbid>0720feb6-5be9-4efb-8272-7538fd82513e</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Black+Fly</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="141">
+    <name>Groovy Little Hippie Pad</name>
+    <duration>164</duration>
+            <playcount>1314</playcount>
+                <listeners>858</listeners>
+    
+            <mbid>187be878-59d4-4cc4-865e-8b722ef7bd40</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Groovy+Little+Hippie+Pad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78200464.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78200464.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78200464.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78200464.jpg</image>
+        </track>                    <track rank="142">
+    <name>What's Up With That</name>
+    <duration>320</duration>
+            <playcount>1516</playcount>
+                <listeners>836</listeners>
+    
+            <mbid>2e84d03f-f6dd-4a8a-9c05-73db8a27bb9c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/What%27s+Up+With+That</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="143">
+    <name>Blue Jeans Blues</name>
+    <duration>284</duration>
+            <playcount>2057</playcount>
+                <listeners>835</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Blue+Jeans+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46659415.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46659415.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46659415.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46659415.jpg</image>
+        </track>                    <track rank="144">
+    <name>Dipping Low (In The Lap Of Luxury)</name>
+    <duration>191</duration>
+            <playcount>1529</playcount>
+                <listeners>831</listeners>
+    
+            <mbid>cbeb5fc0-5c80-4de7-be0e-26b4fb1210df</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Dipping+Low+(In+The+Lap+Of+Luxury)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90331969.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90331969.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90331969.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90331969.jpg</image>
+        </track>                    <track rank="145">
+    <name>BLACK BETTY</name>
+    <duration>148</duration>
+            <playcount>2082</playcount>
+                <listeners>808</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/BLACK+BETTY</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Asleep in the Desert</name>
+    <duration>209</duration>
+            <playcount>1475</playcount>
+                <listeners>806</listeners>
+    
+            <mbid>618cc829-5040-49df-ae82-df36d20eeeb0</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Asleep+in+the+Desert</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/48189117.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/48189117.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/48189117.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/48189117.jpg</image>
+        </track>                    <track rank="147">
+    <name>Sharp Dressed Man - Remastered LP Version</name>
+    <duration>253</duration>
+            <playcount>1729</playcount>
+                <listeners>790</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sharp+Dressed+Man+-+Remastered+LP+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="148">
+    <name>I Need You Tonight (2008 Remastered LP Version)</name>
+    <duration>378</duration>
+            <playcount>1357</playcount>
+                <listeners>789</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Need+You+Tonight+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="149">
+    <name>Vincent Price Blues</name>
+    <duration>363</duration>
+            <playcount>1419</playcount>
+                <listeners>765</listeners>
+    
+            <mbid>94075182-4ba7-4af6-a109-e5f00b36cceb</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Vincent+Price+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="150">
+    <name>Two Ways To Play</name>
+    <duration>254</duration>
+            <playcount>1253</playcount>
+                <listeners>756</listeners>
+    
+            <mbid>432cef92-1dbb-4bb6-9d3c-ef8a6718bd2d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Two+Ways+To+Play</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="151">
+    <name>Cherry Red</name>
+    <duration>278</duration>
+            <playcount>1422</playcount>
+                <listeners>747</listeners>
+    
+            <mbid>37b9a4be-9442-40e8-b5a3-91c9521e386a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Cherry+Red</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="152">
+    <name>Loaded</name>
+    <duration>226</duration>
+            <playcount>1199</playcount>
+                <listeners>745</listeners>
+    
+            <mbid>a4e3b73c-0a09-4f9b-a908-e6812084a1a9</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Loaded</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="153">
+    <name>Antenna Head</name>
+    <duration>283</duration>
+            <playcount>1389</playcount>
+                <listeners>739</listeners>
+    
+            <mbid>72909198-5ad7-460e-988d-a48cc87f1d42</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Antenna+Head</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="154">
+    <name>Alley-Gator</name>
+    <duration>208</duration>
+            <playcount>1456</playcount>
+                <listeners>720</listeners>
+    
+            <mbid>3f7b9a43-9010-4a87-af68-4f737ec9ec7d</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Alley-Gator</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="155">
+    <name>Waiting for the Bus</name>
+    <duration>179</duration>
+            <playcount>1073</playcount>
+                <listeners>711</listeners>
+    
+            <mbid>5134c036-0bde-4bb9-a38c-f1f6ca7aaa86</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Waiting+for+the+Bus</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583105.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583105.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583105.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583105.png</image>
+        </track>                    <track rank="156">
+    <name>PCH</name>
+    <duration>237</duration>
+            <playcount>1322</playcount>
+                <listeners>698</listeners>
+    
+            <mbid>22012200-513f-41f0-b4a5-2c9991252679</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/PCH</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="157">
+    <name>I Got The Six (2008 Remastered LP Version)</name>
+    <duration>174</duration>
+            <playcount>1103</playcount>
+                <listeners>690</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/I+Got+The+Six+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="158">
+    <name>Master Of Sparks - Remastered Version</name>
+    <duration>212</duration>
+            <playcount>988</playcount>
+                <listeners>683</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Master+Of+Sparks+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="159">
+    <name>Me So Stupid</name>
+    <duration>212</duration>
+            <playcount>1084</playcount>
+                <listeners>678</listeners>
+    
+            <mbid>285be896-f827-471b-9c1c-7cc1c1d4f580</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Me+So+Stupid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="160">
+    <name>Lizard Life</name>
+    <duration>309</duration>
+            <playcount>1264</playcount>
+                <listeners>667</listeners>
+    
+            <mbid>2d381744-9f56-40e9-ba7d-840f6d572471</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Lizard+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="161">
+    <name>My Mind Is Gone</name>
+    <duration>247</duration>
+            <playcount>1243</playcount>
+                <listeners>667</listeners>
+    
+            <mbid>2804e77b-be13-432a-8eb8-5c226a045e41</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/My+Mind+Is+Gone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="162">
+    <name>Piece</name>
+    <duration>258</duration>
+            <playcount>1083</playcount>
+                <listeners>666</listeners>
+    
+            <mbid>0aadcc7b-e9c0-4782-b940-5e532f70c27e</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Piece</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="163">
+    <name>Zipper Job</name>
+    <duration>252</duration>
+            <playcount>1196</playcount>
+                <listeners>663</listeners>
+    
+            <mbid>34211ba4-74b7-47f3-a47d-4c466b34446f</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Zipper+Job</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="164">
+    <name>Hairdresser</name>
+    <duration>227</duration>
+            <playcount>1162</playcount>
+                <listeners>663</listeners>
+    
+            <mbid>28499b6a-4af7-4aa2-9d4b-c2491344a98e</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Hairdresser</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="165">
+    <name>Thug (2008 Remastered LP Version)</name>
+    <duration>259</duration>
+            <playcount>1005</playcount>
+                <listeners>659</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Thug+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="166">
+    <name>Deal Goin' Down</name>
+    <duration>246</duration>
+            <playcount>1130</playcount>
+                <listeners>650</listeners>
+    
+            <mbid>25010384-f861-4569-a331-25162dbef3cc</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Deal+Goin%27+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637322.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637322.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637322.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637322.jpg</image>
+        </track>                    <track rank="167">
+    <name>Beer Drinkers and Hell Raisers</name>
+    <duration>204</duration>
+            <playcount>1239</playcount>
+                <listeners>649</listeners>
+    
+            <mbid>6d091a4e-ec58-4675-8d69-83094c6718e7</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Beer+Drinkers+and+Hell+Raisers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79104967.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79104967.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79104967.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79104967.png</image>
+        </track>                    <track rank="168">
+    <name>Hot, Blue And Righteous - Remastered Version</name>
+    <duration>198</duration>
+            <playcount>899</playcount>
+                <listeners>648</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Hot,+Blue+And+Righteous+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="169">
+    <name>Que Lastima</name>
+    <duration>263</duration>
+            <playcount>952</playcount>
+                <listeners>635</listeners>
+    
+            <mbid>443e4a12-3d1f-4627-87e1-a829f7c2b749</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Que+Lastima</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="170">
+    <name>Goin' So Good</name>
+    <duration>333</duration>
+            <playcount>1014</playcount>
+                <listeners>632</listeners>
+    
+            <mbid>342ff37a-c83f-42bf-819f-6e080f2e5e53</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Goin%27+So+Good</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="171">
+    <name>Cheap Sunglasses - Remastered</name>
+    <duration>287</duration>
+            <playcount>949</playcount>
+                <listeners>622</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Cheap+Sunglasses+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="172">
+    <name>Precious And Grace - Remastered Version</name>
+    <duration>190</duration>
+            <playcount>864</playcount>
+                <listeners>602</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Precious+And+Grace+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>Move Me On Down The Line - Remastered Version</name>
+    <duration>152</duration>
+            <playcount>876</playcount>
+                <listeners>601</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Move+Me+On+Down+The+Line+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Legs - Remastered</name>
+    <duration>216</duration>
+            <playcount>890</playcount>
+                <listeners>592</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Legs+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>Pearl Necklace - Remastered</name>
+    <duration>246</duration>
+            <playcount>797</playcount>
+                <listeners>588</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Pearl+Necklace+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="176">
+    <name>Stackin' Paper</name>
+    <duration>177</duration>
+            <playcount>894</playcount>
+                <listeners>584</listeners>
+    
+            <mbid>3606cff5-ef07-411e-aede-fd0cd97ecf4b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Stackin%27+Paper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="177">
+    <name>Punk Ass Boyfriend</name>
+    <duration>185</duration>
+            <playcount>897</playcount>
+                <listeners>576</listeners>
+    
+            <mbid>4d6b3a30-1c95-4341-8319-12416755ada9</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Punk+Ass+Boyfriend</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="178">
+    <name>What Would You Do</name>
+    <duration>182</duration>
+            <playcount>873</playcount>
+                <listeners>575</listeners>
+    
+            <mbid>c516af98-9285-467e-91f3-5e4983d19554</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/What+Would+You+Do</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="179">
+    <name>Tramp</name>
+    <duration>311</duration>
+            <playcount>808</playcount>
+                <listeners>564</listeners>
+    
+            <mbid>558f33b6-7318-456d-be98-1243bf2affaf</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Tramp</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="180">
+    <name>Liquor</name>
+    <duration>199</duration>
+            <playcount>975</playcount>
+                <listeners>561</listeners>
+    
+            <mbid>69152337-444b-4f41-bcb9-5b857ab5c05b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Liquor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="181">
+    <name>Sheik - Remastered Version</name>
+    <duration>247</duration>
+            <playcount>777</playcount>
+                <listeners>557</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sheik+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>Gimme All Your Lovin' - Remastered LP Version</name>
+    <duration>240</duration>
+            <playcount>1251</playcount>
+                <listeners>553</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Gimme+All+Your+Lovin%27+-+Remastered+LP+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="183">
+    <name>TV Dinners (2008 Remastered LP Version)</name>
+    <duration>230</duration>
+            <playcount>803</playcount>
+                <listeners>550</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/TV+Dinners+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="184">
+    <name>Prettyhead</name>
+    <duration>277</duration>
+            <playcount>986</playcount>
+                <listeners>549</listeners>
+    
+            <mbid>0d82b01d-1262-4ab3-a5c6-f72c79506f97</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Prettyhead</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90583671.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90583671.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90583671.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90583671.jpg</image>
+        </track>                    <track rank="185">
+    <name>Dreadmonboogaloo</name>
+    <duration>156</duration>
+            <playcount>910</playcount>
+                <listeners>549</listeners>
+    
+            <mbid>69468d19-5d0a-4a23-be89-6b1c1565169b</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Dreadmonboogaloo</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="186">
+    <name>Beatbox</name>
+    <duration>168</duration>
+            <playcount>982</playcount>
+                <listeners>548</listeners>
+    
+            <mbid>1c93422c-db43-4b5c-add3-7172326a7f95</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Beatbox</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="187">
+    <name>What It Is Kid</name>
+    <duration>252</duration>
+            <playcount>879</playcount>
+                <listeners>539</listeners>
+    
+            <mbid>26989d26-71f0-498f-a318-2c09e6106f3c</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/What+It+Is+Kid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="188">
+    <name>Intro</name>
+    <duration>52</duration>
+            <playcount>673</playcount>
+                <listeners>539</listeners>
+    
+            <mbid>4f65c9ce-c4f6-47bb-81b4-b68d5ce2b425</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Intro</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96343639.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96343639.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96343639.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96343639.jpg</image>
+        </track>                    <track rank="189">
+    <name>Blue Jean Blues - Remastered Version</name>
+    <duration>280</duration>
+            <playcount>887</playcount>
+                <listeners>538</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Blue+Jean+Blues+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="190">
+    <name>Crunchy</name>
+    <duration>192</duration>
+            <playcount>793</playcount>
+                <listeners>535</listeners>
+    
+            <mbid>8e05ca98-c7e6-46d3-940c-80260c260df4</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Crunchy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637554.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637554.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637554.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637554.jpg</image>
+        </track>                    <track rank="191">
+    <name>Made Into A Movie</name>
+    <duration>313</duration>
+            <playcount>748</playcount>
+                <listeners>507</listeners>
+    
+            <mbid>01d9a906-1b51-426c-a6d4-df7912e6be7a</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Made+Into+A+Movie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="192">
+    <name>Have You Heard ? - Remastered Version</name>
+    <duration>194</duration>
+            <playcount>687</playcount>
+                <listeners>505</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Have+You+Heard+%3F+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>Heard It On The X - Remastered Version</name>
+    <duration>145</duration>
+            <playcount>739</playcount>
+                <listeners>501</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Heard+It+On+The+X+-+Remastered+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="194">
+    <name>Sharp Dressed Man (45 Version)</name>
+    <duration>179</duration>
+            <playcount>665</playcount>
+                <listeners>496</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Sharp+Dressed+Man+(45+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="195">
+    <name>Everything</name>
+    <duration>234</duration>
+            <playcount>848</playcount>
+                <listeners>495</listeners>
+    
+            <mbid>03efb5ba-2a10-43a4-9ce3-d5f699f28428</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Everything</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="196">
+    <name>Got Me Under Pressure - Remastered</name>
+    <duration>239</duration>
+            <playcount>758</playcount>
+                <listeners>493</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Got+Me+Under+Pressure+-+Remastered</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Trippin'</name>
+    <duration>235</duration>
+            <playcount>707</playcount>
+                <listeners>487</listeners>
+    
+            <mbid>49df65d8-6a70-4d01-93e9-5bbf8d84adbd</mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Trippin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78637632.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78637632.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78637632.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78637632.jpg</image>
+        </track>                    <track rank="198">
+    <name>Dirty Dog (2008 Remastered LP Version)</name>
+    <duration>246</duration>
+            <playcount>673</playcount>
+                <listeners>481</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Dirty+Dog+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="199">
+    <name>Bad Girl (2008 Remastered LP Version)</name>
+    <duration>202</duration>
+            <playcount>686</playcount>
+                <listeners>460</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/Bad+Girl+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>If I Could Only Flag Her Down (2008 Remastered LP Version)</name>
+    <duration>220</duration>
+            <playcount>643</playcount>
+                <listeners>456</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/ZZ+Top/_/If+I+Could+Only+Flag+Her+Down+(2008+Remastered+LP+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>ZZ Top</name>
+                <mbid>a81259a0-a2f5-464b-866e-71220f2739f1</mbid>
+     
+        <url>http://www.last.fm/music/ZZ+Top</url>
+    </artist>
+                </track></toptracks></lfm>

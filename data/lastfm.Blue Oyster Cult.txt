@@ -1,0 +1,4061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Blue Öyster Cult" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>(Don't Fear) The Reaper</name>
+    <duration>309</duration>
+            <playcount>48208</playcount>
+                <listeners>14427</listeners>
+    
+            <mbid>6eced103-4c6f-45b0-9c75-5d3a6c99a689</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/56513171.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/56513171.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/56513171.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/56513171.jpg</image>
+        </track>                    <track rank="2">
+    <name>Burnin' for You</name>
+    <duration>223</duration>
+            <playcount>19151</playcount>
+                <listeners>6385</listeners>
+    
+            <mbid>39433e7f-9882-4523-bffb-321e20d3a171</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Burnin%27+for+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="3">
+    <name>Godzilla</name>
+    <duration>281</duration>
+            <playcount>14598</playcount>
+                <listeners>5704</listeners>
+    
+            <mbid>883cc61b-63ee-45c6-9234-8beec1cd7cd2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Godzilla</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="4">
+    <name>Astronomy</name>
+    <duration>374</duration>
+            <playcount>11373</playcount>
+                <listeners>3961</listeners>
+    
+            <mbid>5815b47f-0bb5-48cd-8056-3e21bda310ca</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Astronomy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/3511008.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/3511008.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/3511008.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/3511008.jpg</image>
+        </track>                    <track rank="5">
+    <name>Don't Fear The Reaper</name>
+    <duration>308</duration>
+            <playcount>8721</playcount>
+                <listeners>2921</listeners>
+    
+            <mbid>7c3d0e6e-d34c-418c-839c-8f88336ee402</mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Don%27t+Fear+The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98245981.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98245981.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98245981.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98245981.jpg</image>
+        </track>                    <track rank="6">
+    <name>This Ain't the Summer of Love</name>
+    <duration>140</duration>
+            <playcount>5775</playcount>
+                <listeners>2836</listeners>
+    
+            <mbid>bcdeb673-745b-49da-875a-8c8ee10bee26</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/This+Ain%27t+the+Summer+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00002DEVN.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00002DEVN.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00002DEVN.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00002DEVN.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="7">
+    <name>Cities on Flame with Rock and Roll</name>
+    <duration>243</duration>
+            <playcount>6189</playcount>
+                <listeners>2824</listeners>
+    
+            <mbid>87ff30ee-599d-4212-85da-12f36ab57231</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cities+on+Flame+with+Rock+and+Roll</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/3511008.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/3511008.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/3511008.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/3511008.jpg</image>
+        </track>                    <track rank="8">
+    <name>Flaming Telepaths</name>
+    <duration>318</duration>
+            <playcount>5599</playcount>
+                <listeners>2519</listeners>
+    
+            <mbid>8252eeb9-2ed9-4aa0-bccd-bee45ead45ed</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Flaming+Telepaths</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/3511008.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/3511008.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/3511008.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/3511008.jpg</image>
+        </track>                    <track rank="9">
+    <name>Joan Crawford</name>
+    <duration>294</duration>
+            <playcount>5699</playcount>
+                <listeners>2273</listeners>
+    
+            <mbid>04d467a6-3b8c-4fbd-badb-d011221ac001</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Joan+Crawford</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96688085.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96688085.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96688085.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96688085.jpg</image>
+        </track>                    <track rank="10">
+    <name>Veteran of the Psychic Wars</name>
+    <duration>288</duration>
+            <playcount>6926</playcount>
+                <listeners>2242</listeners>
+    
+            <mbid>fe0086e3-f9cb-4da0-bec1-f9f7fc351432</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Veteran+of+the+Psychic+Wars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96688085.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96688085.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96688085.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96688085.jpg</image>
+        </track>                    <track rank="11">
+    <name>Fire of Unknown Origin</name>
+    <duration>248</duration>
+            <playcount>5999</playcount>
+                <listeners>2208</listeners>
+    
+            <mbid>45bc061f-5dcd-4f9b-9772-5bff9646586d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Fire+of+Unknown+Origin</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96688085.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96688085.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96688085.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96688085.jpg</image>
+        </track>                    <track rank="12">
+    <name>E.T.I. (Extra Terrestrial Intelligence)</name>
+    <duration>222</duration>
+            <playcount>4123</playcount>
+                <listeners>1975</listeners>
+    
+            <mbid>cdcae41c-67b6-4fa0-817c-d1417375262b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/E.T.I.+(Extra+Terrestrial+Intelligence)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87849163.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87849163.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87849163.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87849163.jpg</image>
+        </track>                    <track rank="13">
+    <name>I Love The Night</name>
+    <duration>264</duration>
+            <playcount>4351</playcount>
+                <listeners>1906</listeners>
+    
+            <mbid>3543fdb6-c91c-4116-b66b-98c7e09880a3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/I+Love+The+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91678111.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91678111.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91678111.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91678111.jpg</image>
+        </track>                    <track rank="14">
+    <name>Then Came the Last Days of May</name>
+    <duration>211</duration>
+            <playcount>4751</playcount>
+                <listeners>1891</listeners>
+    
+            <mbid>7a58ebff-1e61-4bf6-91e2-05fe89f76999</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Then+Came+the+Last+Days+of+May</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="15">
+    <name>Stairway to the Stars</name>
+    <duration>223</duration>
+            <playcount>3562</playcount>
+                <listeners>1774</listeners>
+    
+            <mbid>641f9c53-54cf-4576-8a71-dcf8f3cf5f20</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Stairway+to+the+Stars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/9771307.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/9771307.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/9771307.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/9771307.jpg</image>
+        </track>                    <track rank="16">
+    <name>Black Blade</name>
+    <duration>388</duration>
+            <playcount>3340</playcount>
+                <listeners>1672</listeners>
+    
+            <mbid>c157caf2-0cd2-4241-9954-902d2d01dc32</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Black+Blade</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908249.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908249.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908249.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908249.jpg</image>
+        </track>                    <track rank="17">
+    <name>In Thee</name>
+    <duration>228</duration>
+            <playcount>3493</playcount>
+                <listeners>1645</listeners>
+    
+            <mbid>0919e7a5-6273-44ab-aa71-4c680f776326</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/In+Thee</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="18">
+    <name>Goin' Through the Motions</name>
+    <duration>192</duration>
+            <playcount>3137</playcount>
+                <listeners>1609</listeners>
+    
+            <mbid>2071802a-2de2-4919-bb06-c737986ac50a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Goin%27+Through+the+Motions</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="19">
+    <name>Harvester of Eyes</name>
+    <duration>280</duration>
+            <playcount>3636</playcount>
+                <listeners>1588</listeners>
+    
+            <mbid>9ab4c06a-34cc-41cc-a18a-12e019ad2c6f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Harvester+of+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85627629.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85627629.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85627629.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85627629.jpg</image>
+        </track>                    <track rank="20">
+    <name>Transmaniacon MC</name>
+    <duration>201</duration>
+            <playcount>3199</playcount>
+                <listeners>1546</listeners>
+    
+            <mbid>637af28e-a813-48bb-817c-27b0e504f9c5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Transmaniacon+MC</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086139.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086139.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086139.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086139.jpg</image>
+        </track>                    <track rank="21">
+    <name>Career of Evil</name>
+    <duration>239</duration>
+            <playcount>3271</playcount>
+                <listeners>1526</listeners>
+    
+            <mbid>acfc9be5-a60f-4e3b-bb2b-6f5781480e60</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Career+of+Evil</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="22">
+    <name>Take Me Away</name>
+    <duration>270</duration>
+            <playcount>3422</playcount>
+                <listeners>1503</listeners>
+    
+            <mbid>44b20904-a4e7-43fc-b97e-fa388933a34c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Take+Me+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90912169.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90912169.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90912169.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90912169.jpg</image>
+        </track>                    <track rank="23">
+    <name>True Confessions</name>
+    <duration>176</duration>
+            <playcount>2732</playcount>
+                <listeners>1481</listeners>
+    
+            <mbid>1a3ce9ab-d6f8-4bda-a933-9f08c8248b87</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/True+Confessions</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="24">
+    <name>Sinful Love</name>
+    <duration>208</duration>
+            <playcount>2953</playcount>
+                <listeners>1478</listeners>
+    
+            <mbid>5278ed27-5ac9-4434-ad1a-77020622d5f3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Sinful+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="25">
+    <name>The Revenge of Vera Gemini</name>
+    <duration>231</duration>
+            <playcount>2960</playcount>
+                <listeners>1431</listeners>
+    
+            <mbid>1a89655d-c405-43a3-a0ff-aac90fb3b2f8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Revenge+of+Vera+Gemini</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="26">
+    <name>Sole Survivor</name>
+    <duration>244</duration>
+            <playcount>3696</playcount>
+                <listeners>1421</listeners>
+    
+            <mbid>6f7c1ad1-8609-4ba2-9110-a6bbd229e224</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Sole+Survivor</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="27">
+    <name>Tattoo Vampire</name>
+    <duration>160</duration>
+            <playcount>2740</playcount>
+                <listeners>1391</listeners>
+    
+            <mbid>fae1534c-a478-4621-9942-d30bf839a614</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Tattoo+Vampire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="28">
+    <name>Dominance and Submission</name>
+    <duration>322</duration>
+            <playcount>3042</playcount>
+                <listeners>1388</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dominance+and+Submission</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="29">
+    <name>ME 262</name>
+    <duration>287</duration>
+            <playcount>3136</playcount>
+                <listeners>1363</listeners>
+    
+            <mbid>ee2500f3-e47e-4d07-a4a1-5f43fdde4276</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/ME+262</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85627629.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85627629.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85627629.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85627629.jpg</image>
+        </track>                    <track rank="30">
+    <name>Before the Kiss, a Redcap</name>
+    <duration>299</duration>
+            <playcount>2517</playcount>
+                <listeners>1313</listeners>
+    
+            <mbid>5f7b6746-b008-43ae-b6e3-d4a12c159d28</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Before+the+Kiss,+a+Redcap</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="31">
+    <name>Morning Final</name>
+    <duration>254</duration>
+            <playcount>2519</playcount>
+                <listeners>1310</listeners>
+    
+            <mbid>20ef179f-e819-4922-8e7d-6ad3577e2bd3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Morning+Final</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="32">
+    <name>The Marshall Plan</name>
+    <duration>325</duration>
+            <playcount>2388</playcount>
+                <listeners>1305</listeners>
+    
+            <mbid>4bd93490-bc69-46d8-8364-2f5455a851cb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Marshall+Plan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908249.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908249.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908249.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908249.jpg</image>
+        </track>                    <track rank="33">
+    <name>The Red and the Black</name>
+    <duration>259</duration>
+            <playcount>2530</playcount>
+                <listeners>1301</listeners>
+    
+            <mbid>5cc0cbf9-4c1f-4a78-9ef8-9f8c0e442674</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Red+and+the+Black</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="34">
+    <name>Shooting Shark</name>
+    <duration>430</duration>
+            <playcount>2787</playcount>
+                <listeners>1284</listeners>
+    
+            <mbid>608d4c1f-cf24-4542-abeb-3eaa49a6d8c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Shooting+Shark</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88552789.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88552789.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88552789.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88552789.jpg</image>
+        </track>                    <track rank="35">
+    <name>Hot Rails to Hell</name>
+    <duration>332</duration>
+            <playcount>2642</playcount>
+                <listeners>1269</listeners>
+    
+            <mbid>60380c42-12c7-4bd3-841b-c3f354474a7f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Hot+Rails+to+Hell</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85627629.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85627629.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85627629.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85627629.jpg</image>
+        </track>                    <track rank="36">
+    <name>Workshop of the Telescopes</name>
+    <duration>241</duration>
+            <playcount>2303</playcount>
+                <listeners>1249</listeners>
+    
+            <mbid>f726fcc5-3dc4-4b5c-a9d8-fb1d462dcb13</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Workshop+of+the+Telescopes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="37">
+    <name>Subhuman</name>
+    <duration>276</duration>
+            <playcount>2565</playcount>
+                <listeners>1247</listeners>
+    
+            <mbid>443d8fdb-ea0f-44c6-9dbd-740f2bbc2037</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Subhuman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="38">
+    <name>After Dark</name>
+    <duration>265</duration>
+            <playcount>2869</playcount>
+                <listeners>1229</listeners>
+    
+            <mbid>783d14c5-25a6-4c61-be64-ca204896946a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/After+Dark</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="39">
+    <name>Debbie Denise</name>
+    <duration>252</duration>
+            <playcount>2264</playcount>
+                <listeners>1213</listeners>
+    
+            <mbid>7b1865cc-17dc-429e-bf02-cf4d2d12b27a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Debbie+Denise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="40">
+    <name>Screams</name>
+    <duration>190</duration>
+            <playcount>2130</playcount>
+                <listeners>1116</listeners>
+    
+            <mbid>17b8c8d3-9ab0-4ab5-8e9c-c99754175d7a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Screams</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="41">
+    <name>Vengeance (The Pact)</name>
+    <duration>279</duration>
+            <playcount>2576</playcount>
+                <listeners>1111</listeners>
+    
+            <mbid>5eedde44-74a8-404b-a618-94f8407aae34</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Vengeance+(The+Pact)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93081349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93081349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93081349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93081349.jpg</image>
+        </track>                    <track rank="42">
+    <name>She's as Beautiful as a Foot</name>
+    <duration>176</duration>
+            <playcount>2159</playcount>
+                <listeners>1109</listeners>
+    
+            <mbid>264248ce-53e8-430c-b046-0aeed82466ec</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/She%27s+as+Beautiful+as+a+Foot</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="43">
+    <name>Don't Turn Your Back</name>
+    <duration>247</duration>
+            <playcount>2235</playcount>
+                <listeners>1034</listeners>
+    
+            <mbid>e4358658-ccd3-4b28-8f03-f6874b35bf13</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Don%27t+Turn+Your+Back</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="44">
+    <name>Redeemed</name>
+    <duration>230</duration>
+            <playcount>1876</playcount>
+                <listeners>1010</listeners>
+    
+            <mbid>b74bda39-6137-4877-afb5-056ed4d71fe4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Redeemed</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="45">
+    <name>Cagey Cretins</name>
+    <duration>195</duration>
+            <playcount>1935</playcount>
+                <listeners>975</listeners>
+    
+            <mbid>5bdf226e-fe41-46a7-8c9e-13bf33d85717</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cagey+Cretins</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="46">
+    <name>The Red &amp; the Black</name>
+    <duration>260</duration>
+            <playcount>1946</playcount>
+                <listeners>969</listeners>
+    
+            <mbid>08433ac7-d64a-4846-804f-dd4699930b32</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Red+&amp;+the+Black</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="47">
+    <name>Tenderloin</name>
+    <duration>235</duration>
+            <playcount>1901</playcount>
+                <listeners>968</listeners>
+    
+            <mbid>647816f7-aeb3-47c3-913b-c492bdc5b030</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Tenderloin</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="48">
+    <name>I'm on the Lamb but I Ain't No Sheep</name>
+    <duration>190</duration>
+            <playcount>1782</playcount>
+                <listeners>953</listeners>
+    
+            <mbid>20f4070d-6639-4d0c-9ada-a90d53f553dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/I%27m+on+the+Lamb+but+I+Ain%27t+No+Sheep</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="49">
+    <name>7 Screaming Diz-Busters</name>
+    <duration>421</duration>
+            <playcount>1608</playcount>
+                <listeners>933</listeners>
+    
+            <mbid>a483ae4a-6505-4a3a-96a8-a82d73c812cb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/7+Screaming+Diz-Busters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="50">
+    <name>O.D.'d on Life Itself</name>
+    <duration>289</duration>
+            <playcount>1687</playcount>
+                <listeners>881</listeners>
+    
+            <mbid>fef514a8-7918-4114-b551-8f541016c9cb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/O.D.%27d+on+Life+Itself</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/50265493.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/50265493.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/50265493.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/50265493.jpg</image>
+        </track>                    <track rank="51">
+    <name>Golden Age of Leather</name>
+    <duration>353</duration>
+            <playcount>1652</playcount>
+                <listeners>868</listeners>
+    
+            <mbid>99d57e18-4686-4cde-9c13-d8a21348c255</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Golden+Age+of+Leather</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88552789.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88552789.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88552789.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88552789.jpg</image>
+        </track>                    <track rank="52">
+    <name>Death Valley Nights</name>
+    <duration>250</duration>
+            <playcount>1534</playcount>
+                <listeners>834</listeners>
+    
+            <mbid>7c48245f-a857-4a6a-9700-7201ad23b3fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Death+Valley+Nights</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="53">
+    <name>Heavy Metal: The Black and Silver</name>
+    <duration>197</duration>
+            <playcount>1762</playcount>
+                <listeners>770</listeners>
+    
+            <mbid>00adee97-70f1-4ad4-9fbb-ef4538830dfd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Heavy+Metal:+The+Black+and+Silver</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="54">
+    <name>Teen Archer</name>
+    <duration>237</duration>
+            <playcount>1508</playcount>
+                <listeners>745</listeners>
+    
+            <mbid>2eccfbc4-708b-4fb0-98bb-c49f6e5e946b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Teen+Archer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="55">
+    <name>Baby Ice Dog</name>
+    <duration>203</duration>
+            <playcount>1442</playcount>
+                <listeners>738</listeners>
+    
+            <mbid>73ec1847-c270-40c4-9740-a24771735391</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Baby+Ice+Dog</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="56">
+    <name>Wings Wetted Down</name>
+    <duration>255</duration>
+            <playcount>1505</playcount>
+                <listeners>737</listeners>
+    
+            <mbid>a582de83-df77-4f89-959a-214870716447</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Wings+Wetted+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="57">
+    <name>Nosferatu</name>
+    <duration>319</duration>
+            <playcount>1352</playcount>
+                <listeners>706</listeners>
+    
+            <mbid>7a7bbf4a-3d29-4171-b66c-fa11d56668d8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Nosferatu</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="58">
+    <name>Fireworks</name>
+    <duration>190</duration>
+            <playcount>1298</playcount>
+                <listeners>691</listeners>
+    
+            <mbid>b4196d8b-6703-4e60-9e32-cf168513683f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Fireworks</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="59">
+    <name>R.U. Ready 2 Rock</name>
+    <duration>222</duration>
+            <playcount>1251</playcount>
+                <listeners>649</listeners>
+    
+            <mbid>c6f40b85-1e92-485e-b4b1-268a91ff0720</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/R.U.+Ready+2+Rock</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="60">
+    <name>Searchin' for Celine</name>
+    <duration>216</duration>
+            <playcount>1106</playcount>
+                <listeners>639</listeners>
+    
+            <mbid>bce0f879-8b52-4a3f-b565-a37b81684b8c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Searchin%27+for+Celine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="61">
+    <name>Cities on Flame With Rock &amp; Roll</name>
+    <duration></duration>
+            <playcount>1432</playcount>
+                <listeners>628</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Cities+on+Flame+With+Rock+&amp;+Roll</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93626633.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93626633.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93626633.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93626633.png</image>
+        </track>                    <track rank="62">
+    <name>Celestial the Queen</name>
+    <duration>204</duration>
+            <playcount>1049</playcount>
+                <listeners>605</listeners>
+    
+            <mbid>57a8176f-7562-4e5e-9ed9-84314735f2d9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Celestial+the+Queen</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="63">
+    <name>Perfect Water</name>
+    <duration>330</duration>
+            <playcount>1302</playcount>
+                <listeners>575</listeners>
+    
+            <mbid>7835f85d-7557-471e-ba31-f3017992a8c9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Perfect+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="64">
+    <name>Burning For You</name>
+    <duration>281</duration>
+            <playcount>1332</playcount>
+                <listeners>569</listeners>
+    
+            <mbid>6e7ef319-5e8d-4ee0-82ca-de3b00cc56c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Burning+For+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="65">
+    <name>Divine Wind</name>
+    <duration>307</duration>
+            <playcount>1012</playcount>
+                <listeners>568</listeners>
+    
+            <mbid>3975198b-8311-4303-ba1f-8720e9dea56e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Divine+Wind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="66">
+    <name>Dr. Music</name>
+    <duration>194</duration>
+            <playcount>1097</playcount>
+                <listeners>566</listeners>
+    
+            <mbid>871bf4a3-d1c2-4783-9c71-bbf3d8a3a61c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dr.+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="67">
+    <name>Fallen Angel</name>
+    <duration>191</duration>
+            <playcount>928</playcount>
+                <listeners>555</listeners>
+    
+            <mbid>0d121f1e-4ea1-402f-aa94-c26e9a2747d2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Fallen+Angel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908249.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908249.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908249.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908249.jpg</image>
+        </track>                    <track rank="68">
+    <name>Unknown Tongue</name>
+    <duration>235</duration>
+            <playcount>993</playcount>
+                <listeners>553</listeners>
+    
+            <mbid>596d4afc-1789-4b94-8239-ef6627a2dbed</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Unknown+Tongue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908249.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908249.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908249.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908249.jpg</image>
+        </track>                    <track rank="69">
+    <name>Buck's Boogie</name>
+    <duration>316</duration>
+            <playcount>1077</playcount>
+                <listeners>551</listeners>
+    
+            <mbid>1a90d44e-00ca-477d-946e-e01f8ed03ec1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Buck%27s+Boogie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87619283.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87619283.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87619283.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87619283.jpg</image>
+        </track>                    <track rank="70">
+    <name>Deadline</name>
+    <duration>267</duration>
+            <playcount>1284</playcount>
+                <listeners>548</listeners>
+    
+            <mbid>bdfe09fb-181b-4eb6-99f4-b5ab11ff2939</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Deadline</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="71">
+    <name>Monsters</name>
+    <duration>311</duration>
+            <playcount>1036</playcount>
+                <listeners>547</listeners>
+    
+            <mbid>c89c7cc5-aa28-4abb-824a-cb71e7432954</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Monsters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="72">
+    <name>Harvest Moon</name>
+    <duration>282</duration>
+            <playcount>1126</playcount>
+                <listeners>527</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Harvest+Moon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="73">
+    <name>Hungry Boys</name>
+    <duration>218</duration>
+            <playcount>885</playcount>
+                <listeners>516</listeners>
+    
+            <mbid>e5c59105-364a-43ba-aead-5c9dbd1a268d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Hungry+Boys</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="74">
+    <name>Lips In The Hills</name>
+    <duration>265</duration>
+            <playcount>866</playcount>
+                <listeners>510</listeners>
+    
+            <mbid>aeb31226-7281-45a1-85e7-0c013a481952</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Lips+In+The+Hills</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="75">
+    <name>Mirrors</name>
+    <duration>224</duration>
+            <playcount>882</playcount>
+                <listeners>501</listeners>
+    
+            <mbid>402f8797-7092-4d08-9b71-cdb9e5945c24</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Mirrors</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="76">
+    <name>Moon Crazy</name>
+    <duration>241</duration>
+            <playcount>901</playcount>
+                <listeners>483</listeners>
+    
+            <mbid>a1cba4af-c25b-4ce2-9c2d-6fa9ef3bef0f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Moon+Crazy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="77">
+    <name>Dancin' in the Ruins</name>
+    <duration>240</duration>
+            <playcount>1287</playcount>
+                <listeners>477</listeners>
+    
+            <mbid>12ae0c03-b687-48af-ad64-bbde27bedad4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dancin%27+in+the+Ruins</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="78">
+    <name>The Great Sun Jester</name>
+    <duration>284</duration>
+            <playcount>928</playcount>
+                <listeners>473</listeners>
+    
+            <mbid>459bd93f-7908-4265-99b4-5109c0a1d152</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Great+Sun+Jester</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="79">
+    <name>Born to be Wild</name>
+    <duration>381</duration>
+            <playcount>862</playcount>
+                <listeners>471</listeners>
+    
+            <mbid>2fe0d357-a9a8-4455-8613-56d5fdfa085b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Born+to+be+Wild</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96688085.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96688085.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96688085.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96688085.jpg</image>
+        </track>                    <track rank="80">
+    <name>White Flags</name>
+    <duration>278</duration>
+            <playcount>1074</playcount>
+                <listeners>452</listeners>
+    
+            <mbid>e1831427-2be8-4ccb-8308-fab5b6d84491</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/White+Flags</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908387.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908387.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908387.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908387.jpg</image>
+        </track>                    <track rank="81">
+    <name>Mistress of the Salmon Salt (Quicklime Girl)</name>
+    <duration>306</duration>
+            <playcount>1005</playcount>
+                <listeners>436</listeners>
+    
+            <mbid>01d11510-2f46-488e-90a4-f19ac584418f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Mistress+of+the+Salmon+Salt+(Quicklime+Girl)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="82">
+    <name>I Am the One You Warned Me Of</name>
+    <duration>303</duration>
+            <playcount>900</playcount>
+                <listeners>427</listeners>
+    
+            <mbid>c97735c2-8547-4978-a881-826eff29f7e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/I+Am+the+One+You+Warned+Me+Of</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="83">
+    <name>Eyes on Fire</name>
+    <duration>235</duration>
+            <playcount>790</playcount>
+                <listeners>422</listeners>
+    
+            <mbid>5ceb1bc6-0968-4933-8ba1-ab657bb23ff8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Eyes+on+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90912169.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90912169.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90912169.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90912169.jpg</image>
+        </track>                    <track rank="84">
+    <name>Lonely Teardrops</name>
+    <duration>219</duration>
+            <playcount>865</playcount>
+                <listeners>419</listeners>
+    
+            <mbid>b3f0b35f-1ae8-4319-8954-5b6817e187af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Lonely+Teardrops</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="85">
+    <name>Dance On Stilts</name>
+    <duration>366</duration>
+            <playcount>834</playcount>
+                <listeners>419</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dance+On+Stilts</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="86">
+    <name>I Am the Storm</name>
+    <duration>222</duration>
+            <playcount>736</playcount>
+                <listeners>413</listeners>
+    
+            <mbid>b78ac986-5970-4e24-89b4-0148967b5395</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/I+Am+the+Storm</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="87">
+    <name>Les Invisibles</name>
+    <duration>329</duration>
+            <playcount>906</playcount>
+                <listeners>412</listeners>
+    
+            <mbid>2a5846dc-5c4c-48eb-9569-75be203c8920</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Les+Invisibles</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="88">
+    <name>See You In Black</name>
+    <duration>194</duration>
+            <playcount>847</playcount>
+                <listeners>402</listeners>
+    
+            <mbid>1b89d666-5102-4c1c-aa60-ec2ef7ed2dbd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/See+You+In+Black</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="89">
+    <name>Kick Out the Jams</name>
+    <duration>191</duration>
+            <playcount>674</playcount>
+                <listeners>400</listeners>
+    
+            <mbid>2d8100f7-8f13-473a-8667-d1a326c2e08b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Kick+Out+the+Jams</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="90">
+    <name>You're Not the One (I Was Looking For)</name>
+    <duration>193</duration>
+            <playcount>695</playcount>
+                <listeners>394</listeners>
+    
+            <mbid>86e7c5cd-56c1-4618-812a-ec58a2e6b071</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/You%27re+Not+the+One+(I+Was+Looking+For)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="91">
+    <name>In the Presence of Another World</name>
+    <duration>384</duration>
+            <playcount>863</playcount>
+                <listeners>385</listeners>
+    
+            <mbid>7382d011-936b-46fe-a0bf-9e80371a835e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/In+the+Presence+of+Another+World</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="92">
+    <name>Feel the Thunder</name>
+    <duration>347</duration>
+            <playcount>636</playcount>
+                <listeners>383</listeners>
+    
+            <mbid>2ec5fbd9-5e4d-4da5-b188-b47cd5751cc4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Feel+the+Thunder</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90912169.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90912169.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90912169.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90912169.jpg</image>
+        </track>                    <track rank="93">
+    <name>Dragon Lady</name>
+    <duration>246</duration>
+            <playcount>762</playcount>
+                <listeners>381</listeners>
+    
+            <mbid>e945d8aa-29d3-4ebe-aacd-f4132a127146</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dragon+Lady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90912169.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90912169.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90912169.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90912169.jpg</image>
+        </track>                    <track rank="94">
+    <name>We Gotta Get Out of This Place</name>
+    <duration>271</duration>
+            <playcount>666</playcount>
+                <listeners>379</listeners>
+    
+            <mbid>1b0ea772-ed4f-487c-a954-23d0682084a1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/We+Gotta+Get+Out+of+This+Place</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="95">
+    <name>Del Rio's Song</name>
+    <duration>333</duration>
+            <playcount>753</playcount>
+                <listeners>375</listeners>
+    
+            <mbid>9470a2f3-bffc-4e96-b61e-6a107fd16af6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Del+Rio%27s+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="96">
+    <name>Let Go</name>
+    <duration>205</duration>
+            <playcount>603</playcount>
+                <listeners>374</listeners>
+    
+            <mbid>a5adbc87-5a6a-471b-bdc6-9cda75944bac</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Let+Go</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="97">
+    <name>Shadow of California</name>
+    <duration>308</duration>
+            <playcount>600</playcount>
+                <listeners>371</listeners>
+    
+            <mbid>bd2e96c8-fc69-429c-96e4-b7d74753df1d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Shadow+of+California</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90912169.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90912169.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90912169.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90912169.jpg</image>
+        </track>                    <track rank="98">
+    <name>Magna of Illusion</name>
+    <duration>352</duration>
+            <playcount>779</playcount>
+                <listeners>365</listeners>
+    
+            <mbid>f46f83a0-d1b3-49bf-860f-1f1486e8d633</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Magna+of+Illusion</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="99">
+    <name>Imaginos</name>
+    <duration>344</duration>
+            <playcount>804</playcount>
+                <listeners>363</listeners>
+    
+            <mbid>887dfb61-251f-443e-ba65-181d83620a2e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Imaginos</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="100">
+    <name>Cities on Flame</name>
+    <duration>244</duration>
+            <playcount>636</playcount>
+                <listeners>358</listeners>
+    
+            <mbid>5b9c9e8c-1ad0-4894-aba0-fac8ace99799</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cities+on+Flame</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="101">
+    <name>Veins</name>
+    <duration>237</duration>
+            <playcount>580</playcount>
+                <listeners>356</listeners>
+    
+            <mbid>c3c033ff-ce1a-43a1-af86-c83403c7b972</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Veins</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="102">
+    <name>Spy In The House Of The Night</name>
+    <duration>260</duration>
+            <playcount>715</playcount>
+                <listeners>356</listeners>
+    
+            <mbid>347e9b89-88b3-463b-aecf-b472127ce2be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Spy+In+The+House+Of+The+Night</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908387.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908387.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908387.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908387.jpg</image>
+        </track>                    <track rank="103">
+    <name>Make Rock Not War</name>
+    <duration>237</duration>
+            <playcount>731</playcount>
+                <listeners>348</listeners>
+    
+            <mbid>890d2ca5-7c5b-4e6c-b040-f1d9315473fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Make+Rock+Not+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="104">
+    <name>Shadow Warrior</name>
+    <duration>340</duration>
+            <playcount>600</playcount>
+                <listeners>341</listeners>
+    
+            <mbid>638e78da-a197-4f5d-8a07-6cee8b16113e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Shadow+Warrior</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="105">
+    <name>The Vigil</name>
+    <duration>383</duration>
+            <playcount>661</playcount>
+                <listeners>331</listeners>
+    
+            <mbid>01cf71df-c611-49db-8408-65ef2e99226e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Vigil</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="106">
+    <name>Light Years of Love</name>
+    <duration>244</duration>
+            <playcount>533</playcount>
+                <listeners>322</listeners>
+    
+            <mbid>50051ccf-5ceb-4800-a293-92d618705b24</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Light+Years+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="107">
+    <name>When The War Comes</name>
+    <duration>360</duration>
+            <playcount>513</playcount>
+                <listeners>317</listeners>
+    
+            <mbid>c12b6995-e83e-4b3d-8844-ebf7ee1ff071</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/When+The+War+Comes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="108">
+    <name>Real World</name>
+    <duration>308</duration>
+            <playcount>584</playcount>
+                <listeners>315</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Real+World</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="109">
+    <name>X-Ray Eyes</name>
+    <duration>228</duration>
+            <playcount>600</playcount>
+                <listeners>303</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/X-Ray+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="110">
+    <name>Live For Me</name>
+    <duration>319</duration>
+            <playcount>554</playcount>
+                <listeners>300</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Live+For+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="111">
+    <name>Beat 'Em Up</name>
+    <duration>203</duration>
+            <playcount>556</playcount>
+                <listeners>300</listeners>
+    
+            <mbid>6c316116-afaa-484c-83d8-1582c49efcac</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Beat+%27Em+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85627629.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85627629.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85627629.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85627629.jpg</image>
+        </track>                    <track rank="112">
+    <name>Still Burnin'</name>
+    <duration>219</duration>
+            <playcount>588</playcount>
+                <listeners>297</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Still+Burnin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="113">
+    <name>Here Comes That Feeling</name>
+    <duration>202</duration>
+            <playcount>522</playcount>
+                <listeners>297</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Here+Comes+That+Feeling</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="114">
+    <name>Stone Of Love</name>
+    <duration>350</duration>
+            <playcount>509</playcount>
+                <listeners>294</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Stone+Of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="115">
+    <name>Damaged</name>
+    <duration>262</duration>
+            <playcount>589</playcount>
+                <listeners>294</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Damaged</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="116">
+    <name>I'm On The Lamb But I Ain't No</name>
+    <duration>190</duration>
+            <playcount>535</playcount>
+                <listeners>292</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/I%27m+On+The+Lamb+But+I+Ain%27t+No</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="117">
+    <name>Hammer Back</name>
+    <duration>215</duration>
+            <playcount>558</playcount>
+                <listeners>284</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Hammer+Back</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="118">
+    <name>Cold Gray Light Of Dawn</name>
+    <duration>231</duration>
+            <playcount>563</playcount>
+                <listeners>284</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cold+Gray+Light+Of+Dawn</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="119">
+    <name>R. U. Ready 2 Rock</name>
+    <duration>374</duration>
+            <playcount>424</playcount>
+                <listeners>283</listeners>
+    
+            <mbid>9d2abac2-f533-4276-9aa6-98149f175bd5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/R.+U.+Ready+2+Rock</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="120">
+    <name>I Just Like To Be Bad</name>
+    <duration>235</duration>
+            <playcount>454</playcount>
+                <listeners>282</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/I+Just+Like+To+Be+Bad</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="121">
+    <name>One Step Ahead Of The Devil</name>
+    <duration>257</duration>
+            <playcount>440</playcount>
+                <listeners>282</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/One+Step+Ahead+Of+The+Devil</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="122">
+    <name>Cities On Flame With Rock And</name>
+    <duration></duration>
+            <playcount>496</playcount>
+                <listeners>281</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Cities+On+Flame+With+Rock+And</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="123">
+    <name>Blue Oyster Cult</name>
+    <duration>435</duration>
+            <playcount>595</playcount>
+                <listeners>280</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Blue+Oyster+Cult</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="124">
+    <name>Good To Feel Hungry</name>
+    <duration>253</duration>
+            <playcount>409</playcount>
+                <listeners>271</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Good+To+Feel+Hungry</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="125">
+    <name>Showtime</name>
+    <duration>279</duration>
+            <playcount>496</playcount>
+                <listeners>270</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Showtime</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="126">
+    <name>The Old Gods Return</name>
+    <duration>277</duration>
+            <playcount>459</playcount>
+                <listeners>266</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Old+Gods+Return</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="127">
+    <name>Out Of The Darkness</name>
+    <duration>307</duration>
+            <playcount>435</playcount>
+                <listeners>266</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Out+Of+The+Darkness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="128">
+    <name>Veteran of Psychic Wars</name>
+    <duration></duration>
+            <playcount>763</playcount>
+                <listeners>265</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Veteran+of+Psychic+Wars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="129">
+    <name>Pocket</name>
+    <duration>257</duration>
+            <playcount>514</playcount>
+                <listeners>262</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Pocket</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="130">
+    <name>The Siege and Investiture of Baron Von Frankenstein's Castle at Weisseria</name>
+    <duration>403</duration>
+            <playcount>720</playcount>
+                <listeners>259</listeners>
+    
+            <mbid>041a126c-ddd8-469e-b906-db936c48cb1a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Siege+and+Investiture+of+Baron+Von+Frankenstein%27s+Castle+at+Weisseria</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="131">
+    <name>Eye Of The Hurricane</name>
+    <duration>281</duration>
+            <playcount>435</playcount>
+                <listeners>253</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Eye+Of+The+Hurricane</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90911871.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90911871.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90911871.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90911871.jpg</image>
+        </track>                    <track rank="132">
+    <name>Heavy Metal The Black And Silver</name>
+    <duration>194</duration>
+            <playcount>479</playcount>
+                <listeners>248</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Heavy+Metal+The+Black+And+Silver</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93081349.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93081349.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93081349.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93081349.jpg</image>
+        </track>                    <track rank="133">
+    <name>The Subhuman</name>
+    <duration>448</duration>
+            <playcount>337</playcount>
+                <listeners>242</listeners>
+    
+            <mbid>cb527fd9-c9a4-4455-aa9d-81bcbfb96821</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Subhuman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="134">
+    <name>The Reaper</name>
+    <duration>369</duration>
+            <playcount>569</playcount>
+                <listeners>240</listeners>
+    
+            <mbid>4dcc862e-4ef7-4de5-b8fe-6289492b4a28</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87086139.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87086139.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87086139.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87086139.jpg</image>
+        </track>                    <track rank="135">
+    <name>Blue Öyster Cult</name>
+    <duration>438</duration>
+            <playcount>564</playcount>
+                <listeners>239</listeners>
+    
+            <mbid>c25b0701-75b6-414d-8144-bcde40580140</mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Blue+%C3%96yster+Cult</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="136">
+    <name>Roadhouse Blues</name>
+    <duration>546</duration>
+            <playcount>349</playcount>
+                <listeners>233</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Roadhouse+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96688085.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96688085.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96688085.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96688085.jpg</image>
+        </track>                    <track rank="137">
+    <name>Mistress Of The Salmon Salt</name>
+    <duration>304</duration>
+            <playcount>386</playcount>
+                <listeners>232</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Mistress+Of+The+Salmon+Salt</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="138">
+    <name>E.T.I.</name>
+    <duration>223</duration>
+            <playcount>484</playcount>
+                <listeners>229</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/E.T.I.</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="139">
+    <name>Madness To The Method</name>
+    <duration>448</duration>
+            <playcount>467</playcount>
+                <listeners>219</listeners>
+    
+            <mbid>0a9f03d9-7d40-408c-a364-65b7c86e3fa7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Madness+To+The+Method</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="140">
+    <name>Dont Fear The Reaper</name>
+    <duration></duration>
+            <playcount>611</playcount>
+                <listeners>217</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dont+Fear+The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="141">
+    <name>O D 'd On Life Itself</name>
+    <duration>290</duration>
+            <playcount>318</playcount>
+                <listeners>195</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/O+D+%27d+On+Life+Itself</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="142">
+    <name>Power Underneath Dispair</name>
+    <duration>208</duration>
+            <playcount>415</playcount>
+                <listeners>193</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Power+Underneath+Dispair</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="143">
+    <name>Maserati GT (I Ain't Got You)</name>
+    <duration>528</duration>
+            <playcount>272</playcount>
+                <listeners>192</listeners>
+    
+            <mbid>85f86908-f2d6-4f5d-9a13-80b7ca16b61d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Maserati+GT+(I+Ain%27t+Got+You)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="144">
+    <name>7 Screaming Dizbusters</name>
+    <duration>419</duration>
+            <playcount>356</playcount>
+                <listeners>187</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/7+Screaming+Dizbusters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="145">
+    <name>Burnin' For You (Album Version)</name>
+    <duration>271</duration>
+            <playcount>416</playcount>
+                <listeners>184</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Burnin%27+For+You+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="146">
+    <name>Godzilla (Album Version)</name>
+    <duration>30</duration>
+            <playcount>354</playcount>
+                <listeners>180</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Godzilla+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="147">
+    <name>Last Days Of May</name>
+    <duration>285</duration>
+            <playcount>258</playcount>
+                <listeners>175</listeners>
+    
+            <mbid>8f5647d8-1fe7-47db-8455-7f612a7ea6c7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Last+Days+Of+May</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="148">
+    <name>I'm Burning For You</name>
+    <duration></duration>
+            <playcount>505</playcount>
+                <listeners>174</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/I%27m+Burning+For+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="149">
+    <name>[Don't Fear] The Reaper</name>
+    <duration></duration>
+            <playcount>674</playcount>
+                <listeners>169</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/%5BDon%27t+Fear%5D+The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="150">
+    <name>M.E. 262</name>
+    <duration>485</duration>
+            <playcount>328</playcount>
+                <listeners>167</listeners>
+    
+            <mbid>7f8e775b-3c21-45f0-bbc6-7fea1a816018</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/M.E.+262</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/46445289.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/46445289.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46445289.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/46445289.jpg</image>
+        </track>                    <track rank="151">
+    <name>Boorman the Chauffer</name>
+    <duration>191</duration>
+            <playcount>304</playcount>
+                <listeners>163</listeners>
+    
+            <mbid>afcced1b-b337-40a7-8c97-4a0e0e59cf00</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Boorman+the+Chauffer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="152">
+    <name>Seven Screaming Dizbusters</name>
+    <duration>529</duration>
+            <playcount>211</playcount>
+                <listeners>147</listeners>
+    
+            <mbid>756ee427-1ac8-4147-a714-8b37b61d0158</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Seven+Screaming+Dizbusters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="153">
+    <name>Before The Kiss (A Redcap)</name>
+    <duration>312</duration>
+            <playcount>201</playcount>
+                <listeners>141</listeners>
+    
+            <mbid>12945365-a796-4dff-b77c-cf5e53334a04</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Before+The+Kiss+(A+Redcap)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="154">
+    <name>Mommy</name>
+    <duration>211</duration>
+            <playcount>250</playcount>
+                <listeners>141</listeners>
+    
+            <mbid>da2efc74-333e-4b68-b1d0-66b0d1759fb9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Mommy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="155">
+    <name>Cities on Flame With Rock 'n' Roll</name>
+    <duration></duration>
+            <playcount>315</playcount>
+                <listeners>139</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cities+on+Flame+With+Rock+%27n%27+Roll</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="156">
+    <name>Dancing In The Ruins</name>
+    <duration></duration>
+            <playcount>256</playcount>
+                <listeners>134</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Dancing+In+The+Ruins</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="157">
+    <name>Mes Dames Sarat</name>
+    <duration>245</duration>
+            <playcount>231</playcount>
+                <listeners>134</listeners>
+    
+            <mbid>f22ab46f-69b9-4004-aefe-ccf43364eb99</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Mes+Dames+Sarat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="158">
+    <name>Cities On Flame With Rock And Roll Live</name>
+    <duration>282</duration>
+            <playcount>185</playcount>
+                <listeners>128</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Cities+On+Flame+With+Rock+And+Roll+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="159">
+    <name>Buck's Boogie Studio Version</name>
+    <duration>320</duration>
+            <playcount>171</playcount>
+                <listeners>127</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Buck%27s+Boogie+Studio+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="160">
+    <name>(Don't Fear) The Reaper (Live)</name>
+    <duration>408</duration>
+            <playcount>214</playcount>
+                <listeners>117</listeners>
+    
+            <mbid>0f238063-fff8-4dc4-ad15-6d8c85d5fbf4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="161">
+    <name>Power Underneath Despair</name>
+    <duration>210</duration>
+            <playcount>222</playcount>
+                <listeners>115</listeners>
+    
+            <mbid>8859c02a-4477-4cd8-b9c3-3df54be96917</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Power+Underneath+Despair</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/52272693.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52272693.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52272693.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52272693.jpg</image>
+        </track>                    <track rank="162">
+    <name>Donovan's Monkey (Demo)</name>
+    <duration>228</duration>
+            <playcount>152</playcount>
+                <listeners>115</listeners>
+    
+            <mbid>660ba09c-eef2-444f-a01e-ab151e17524c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Donovan%27s+Monkey+(Demo)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="163">
+    <name>Sally (Demo)</name>
+    <duration>159</duration>
+            <playcount>164</playcount>
+                <listeners>111</listeners>
+    
+            <mbid>92e2656c-4b25-4d2e-8740-3c082e701704</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Sally+(Demo)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84279363.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84279363.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84279363.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84279363.png</image>
+        </track>                    <track rank="164">
+    <name>Fire Of Unknown Origin (Unreleased Outtake)</name>
+    <duration>209</duration>
+            <playcount>168</playcount>
+                <listeners>111</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Fire+Of+Unknown+Origin+(Unreleased+Outtake)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="165">
+    <name>Dr Music</name>
+    <duration></duration>
+            <playcount>251</playcount>
+                <listeners>108</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dr+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="166">
+    <name>Busters Live</name>
+    <duration>839</duration>
+            <playcount>146</playcount>
+                <listeners>106</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Busters+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="167">
+    <name>OD'd on Life Itself</name>
+    <duration>279</duration>
+            <playcount>143</playcount>
+                <listeners>105</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/OD%27d+on+Life+Itself</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0007VF1RY.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="168">
+    <name>Quicklime Girl</name>
+    <duration>300</duration>
+            <playcount>123</playcount>
+                <listeners>103</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Quicklime+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="169">
+    <name>7 Screaming Diz-Busters (Live)</name>
+    <duration>535</duration>
+            <playcount>185</playcount>
+                <listeners>100</listeners>
+    
+            <mbid>82377c0b-27fb-4682-a5ad-c9db4adc1d4f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/7+Screaming+Diz-Busters+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="170">
+    <name>Beat' Em Up</name>
+    <duration>202</duration>
+            <playcount>201</playcount>
+                <listeners>99</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Beat%27+Em+Up</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>(Don't Fear) The Reaper (Demo)</name>
+    <duration>377</duration>
+            <playcount>235</playcount>
+                <listeners>98</listeners>
+    
+            <mbid>88c1f6b9-4015-4c9e-957a-264d1bef7f5e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper+(Demo)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="172">
+    <name>Fire of Unknown Origin (Original Version)</name>
+    <duration>209</duration>
+            <playcount>205</playcount>
+                <listeners>97</listeners>
+    
+            <mbid>f0a0d84a-7bdb-4ae6-a251-83c520a2991b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Fire+of+Unknown+Origin+(Original+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84279363.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84279363.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84279363.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84279363.png</image>
+        </track>                    <track rank="173">
+    <name>ODd On Life Itself Live</name>
+    <duration>291</duration>
+            <playcount>129</playcount>
+                <listeners>96</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/ODd+On+Life+Itself+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Heavy Metal : The Black And Silver</name>
+    <duration></duration>
+            <playcount>338</playcount>
+                <listeners>88</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Heavy+Metal+:+The+Black+And+Silver</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>Veteran Of The Psychic Wars (Live)</name>
+    <duration>482</duration>
+            <playcount>222</playcount>
+                <listeners>87</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Veteran+Of+The+Psychic+Wars+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="176">
+    <name>The Siege And Investiture Of Baron Von Frankenstein's Castle</name>
+    <duration>403</duration>
+            <playcount>160</playcount>
+                <listeners>86</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/The+Siege+And+Investiture+Of+Baron+Von+Frankenstein%27s+Castle</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90908027.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90908027.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90908027.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90908027.jpg</image>
+        </track>                    <track rank="177">
+    <name>Donovan's Monkey</name>
+    <duration>228</duration>
+            <playcount>123</playcount>
+                <listeners>85</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Donovan%27s+Monkey</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>(Dont Fear) The Reaper</name>
+    <duration>308</duration>
+            <playcount>237</playcount>
+                <listeners>85</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Dont+Fear)+The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="179">
+    <name>Godzilla (Live)</name>
+    <duration>464</duration>
+            <playcount>142</playcount>
+                <listeners>84</listeners>
+    
+            <mbid>34d39898-7984-4fbc-a59d-3346c6d9dc36</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Godzilla+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="180">
+    <name>Heavy Metal</name>
+    <duration></duration>
+            <playcount>179</playcount>
+                <listeners>83</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Heavy+Metal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>Vengeance</name>
+    <duration>279</duration>
+            <playcount>147</playcount>
+                <listeners>82</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Vengeance</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>M. E. 262</name>
+    <duration>497</duration>
+            <playcount>121</playcount>
+                <listeners>82</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/M.+E.+262</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="183">
+    <name>Dance The Night Away (Demo)</name>
+    <duration>156</duration>
+            <playcount>125</playcount>
+                <listeners>82</listeners>
+    
+            <mbid>3ebc3954-e097-4a2e-9bb1-591370362497</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dance+The+Night+Away+(Demo)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84279363.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84279363.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84279363.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84279363.png</image>
+        </track>                    <track rank="184">
+    <name>Burnin for You</name>
+    <duration></duration>
+            <playcount>133</playcount>
+                <listeners>78</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Burnin+for+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="185">
+    <name>7 Screaming Diz Busters</name>
+    <duration>420</duration>
+            <playcount>139</playcount>
+                <listeners>78</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/7+Screaming+Diz+Busters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98245981.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98245981.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98245981.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98245981.jpg</image>
+        </track>                    <track rank="186">
+    <name>( Don't Fear ) The Reaper</name>
+    <duration></duration>
+            <playcount>125</playcount>
+                <listeners>75</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/(+Don%27t+Fear+)+The+Reaper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="187">
+    <name>Burnin' For You.</name>
+    <duration>271</duration>
+            <playcount>204</playcount>
+                <listeners>75</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Burnin%27+For+You.</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="188">
+    <name>Born to Be Wild (live)</name>
+    <duration>392</duration>
+            <playcount>113</playcount>
+                <listeners>75</listeners>
+    
+            <mbid>0d8b5a91-0da6-4e39-b41b-70d6ab94cc2e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Born+to+Be+Wild+(live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="189">
+    <name>Hot Rails To Hell [Live]</name>
+    <duration>298</duration>
+            <playcount>147</playcount>
+                <listeners>75</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Hot+Rails+To+Hell+%5BLive%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5781024.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5781024.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5781024.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5781024.jpg</image>
+        </track>                    <track rank="190">
+    <name>5 Guitars</name>
+    <duration>316</duration>
+            <playcount>109</playcount>
+                <listeners>72</listeners>
+    
+            <mbid>f92937ce-c80e-4d9e-9825-074c75873080</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/5+Guitars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96688085.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96688085.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96688085.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96688085.jpg</image>
+        </track>                    <track rank="191">
+    <name>Dial M For Murder</name>
+    <duration>190</duration>
+            <playcount>141</playcount>
+                <listeners>69</listeners>
+    
+            <mbid>b41b16f2-2e1c-4102-ac82-f93b5717e802</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dial+M+For+Murder</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="192">
+    <name>Cities On Fire With Rock And Roll</name>
+    <duration>242</duration>
+            <playcount>98</playcount>
+                <listeners>69</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cities+On+Fire+With+Rock+And+Roll</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>Night Flyer</name>
+    <duration>227</duration>
+            <playcount>117</playcount>
+                <listeners>69</listeners>
+    
+            <mbid>3cbc280f-c15b-43b5-8380-8ab34ef2ad93</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Night+Flyer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="194">
+    <name>Be My Baby</name>
+    <duration>180</duration>
+            <playcount>112</playcount>
+                <listeners>66</listeners>
+    
+            <mbid>9ce7959b-5acb-4d67-be0d-dd1492c61f2c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Be+My+Baby</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="195">
+    <name>Harvester of the Eyes</name>
+    <duration>299</duration>
+            <playcount>88</playcount>
+                <listeners>66</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Blue+%C3%96yster+Cult/_/Harvester+of+the+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000002A2X.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="196">
+    <name>The Red And The Black (Live)</name>
+    <duration>278</duration>
+            <playcount>86</playcount>
+                <listeners>65</listeners>
+    
+            <mbid>93f0efcc-bad4-4039-8649-1e7eae9841a7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/The+Red+And+The+Black+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94027293.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94027293.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94027293.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94027293.jpg</image>
+        </track>                    <track rank="197">
+    <name>(Don't Fear) The Reaper 1976 [Studio Version]cowbell link in description</name>
+    <duration>30</duration>
+            <playcount>95</playcount>
+                <listeners>64</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/(Don%27t+Fear)+The+Reaper+1976+%5BStudio+Version%5Dcowbell+link+in+description</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="198">
+    <name>Cities On Flame With Rock</name>
+    <duration></duration>
+            <playcount>168</playcount>
+                <listeners>62</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Cities+On+Flame+With+Rock</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="199">
+    <name>Don't Fear The Reaper (Shellacsoul Scythedit)</name>
+    <duration>323</duration>
+            <playcount>81</playcount>
+                <listeners>62</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Don%27t+Fear+The+Reaper+(Shellacsoul+Scythedit)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Dominance And Submission (Live)</name>
+    <duration>348</duration>
+            <playcount>100</playcount>
+                <listeners>62</listeners>
+    
+            <mbid>afc0976d-da4c-45de-b420-084f720c5a20</mbid>
+         
+    
+    <url>http://www.last.fm/music/Blue+%C3%96yster+Cult/_/Dominance+And+Submission+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Blue Öyster Cult</name>
+                <mbid>c7423e0c-ab3e-4ab4-be10-cdff5a9d3062</mbid>
+     
+        <url>http://www.last.fm/music/Blue+%C3%96yster+Cult</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88552789.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88552789.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88552789.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88552789.jpg</image>
+        </track></toptracks></lfm>

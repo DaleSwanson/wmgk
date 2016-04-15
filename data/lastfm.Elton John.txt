@@ -1,0 +1,4045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Elton John" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Tiny Dancer</name>
+    <duration>375</duration>
+            <playcount>122100</playcount>
+                <listeners>48840</listeners>
+    
+            <mbid>87e49bf1-554d-468f-a9da-0b49066b8409</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Tiny+Dancer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="2">
+    <name>Your Song</name>
+    <duration>241</duration>
+            <playcount>128671</playcount>
+                <listeners>48088</listeners>
+    
+            <mbid>621fefb5-49ad-4bb3-815c-3e780859adda</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="3">
+    <name>Goodbye Yellow Brick Road</name>
+    <duration>194</duration>
+            <playcount>88621</playcount>
+                <listeners>31641</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Goodbye+Yellow+Brick+Road</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="4">
+    <name>Rocket Man (I Think It's Going to Be a Long Long Time)</name>
+    <duration>279</duration>
+            <playcount>66252</playcount>
+                <listeners>27293</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+to+Be+a+Long+Long+Time)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="5">
+    <name>Candle in the Wind</name>
+    <duration>229</duration>
+            <playcount>51412</playcount>
+                <listeners>22038</listeners>
+    
+            <mbid>88d6903a-0ef0-442e-91ff-1d3d512c3387</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Candle+in+the+Wind</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="6">
+    <name>Can You Feel the Love Tonight</name>
+    <duration>240</duration>
+            <playcount>53760</playcount>
+                <listeners>21497</listeners>
+    
+            <mbid>548d85e3-17e4-4eb0-ab0c-12b4fd1d39f3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Can+You+Feel+the+Love+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="7">
+    <name>Bennie and the Jets</name>
+    <duration>323</duration>
+            <playcount>48570</playcount>
+                <listeners>21272</listeners>
+    
+            <mbid>38a68291-64e6-42c9-af88-de00dbfa67b2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bennie+and+the+Jets</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="8">
+    <name>Crocodile Rock</name>
+    <duration>236</duration>
+            <playcount>46995</playcount>
+                <listeners>20425</listeners>
+    
+            <mbid>0372adec-395d-488e-b9eb-9faf4c0e6045</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Crocodile+Rock</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="9">
+    <name>I'm Still Standing</name>
+    <duration>183</duration>
+            <playcount>45520</playcount>
+                <listeners>19045</listeners>
+    
+            <mbid>0ce3aa12-2f50-4146-ab68-f3a057815db6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I%27m+Still+Standing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="10">
+    <name>Daniel</name>
+    <duration>234</duration>
+            <playcount>36714</playcount>
+                <listeners>15789</listeners>
+    
+            <mbid>82191c18-41d0-4f18-a3d3-3b786aadd5a3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Daniel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="11">
+    <name>Don't Go Breaking My Heart</name>
+    <duration>300</duration>
+            <playcount>29514</playcount>
+                <listeners>14361</listeners>
+    
+            <mbid>f0f732a2-8ba9-4e75-a479-9f83cff4c4b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Don%27t+Go+Breaking+My+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="12">
+    <name>Sacrifice</name>
+    <duration>304</duration>
+            <playcount>35118</playcount>
+                <listeners>13060</listeners>
+    
+            <mbid>771b75e8-7694-432a-80e1-4b97b1d6cb2b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sacrifice</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="13">
+    <name>I Guess That's Why They Call It the Blues</name>
+    <duration>279</duration>
+            <playcount>31543</playcount>
+                <listeners>12798</listeners>
+    
+            <mbid>820fcc73-6e15-4210-8dda-408a2409c0de</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Guess+That%27s+Why+They+Call+It+the+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="14">
+    <name>Sorry Seems to Be the Hardest Word</name>
+    <duration>229</duration>
+            <playcount>27326</playcount>
+                <listeners>11666</listeners>
+    
+            <mbid>e741a60c-ca35-44b5-aa76-1eacfdcf97eb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sorry+Seems+to+Be+the+Hardest+Word</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="15">
+    <name>Don't Let the Sun Go Down on Me</name>
+    <duration>337</duration>
+            <playcount>24458</playcount>
+                <listeners>11251</listeners>
+    
+            <mbid>3005cc0b-d80c-480f-afea-c00d0b738f30</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Don%27t+Let+the+Sun+Go+Down+on+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="16">
+    <name>Rocket Man</name>
+    <duration>280</duration>
+            <playcount>32641</playcount>
+                <listeners>10817</listeners>
+    
+            <mbid>dfefe739-c0e3-4883-8707-cca9b356f819</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Rocket+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/54363843.gif</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/54363843.gif</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/54363843.gif</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/54363843.gif</image>
+        </track>                    <track rank="17">
+    <name>Circle of Life</name>
+    <duration>292</duration>
+            <playcount>23550</playcount>
+                <listeners>10661</listeners>
+    
+            <mbid>876c4cfa-3590-433c-9bfc-ccd421929225</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Circle+of+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="18">
+    <name>Nikita</name>
+    <duration>343</duration>
+            <playcount>21857</playcount>
+                <listeners>8879</listeners>
+    
+            <mbid>b8a445e7-2037-44f1-9d3b-71d54a74ef90</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Nikita</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="19">
+    <name>Honky Cat</name>
+    <duration>312</duration>
+            <playcount>16552</playcount>
+                <listeners>8270</listeners>
+    
+            <mbid>1b127997-b6c6-46fd-8ac1-3045a804520d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Honky+Cat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="20">
+    <name>Philadelphia Freedom</name>
+    <duration>339</duration>
+            <playcount>16559</playcount>
+                <listeners>8166</listeners>
+    
+            <mbid>5e1fec77-0db0-4ec9-8d42-3fb6672a3a92</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Philadelphia+Freedom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="21">
+    <name>Saturday Night's Alright (For Fighting)</name>
+    <duration>295</duration>
+            <playcount>14844</playcount>
+                <listeners>8007</listeners>
+    
+            <mbid>f2d12ff7-58d7-421d-b55b-3c0d9b3f937a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Saturday+Night%27s+Alright+(For+Fighting)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="22">
+    <name>Someone Saved My Life Tonight</name>
+    <duration>404</duration>
+            <playcount>16911</playcount>
+                <listeners>7784</listeners>
+    
+            <mbid>a48f9c7b-bc73-4a7b-b096-e6d47179a617</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Someone+Saved+My+Life+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="23">
+    <name>Levon</name>
+    <duration>322</duration>
+            <playcount>14719</playcount>
+                <listeners>6731</listeners>
+    
+            <mbid>2f64684c-0c9c-4b55-8037-cc06e637e21a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Levon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="24">
+    <name>Mona Lisas And Mad Hatters</name>
+    <duration>300</duration>
+            <playcount>13728</playcount>
+                <listeners>6463</listeners>
+    
+            <mbid>7a6d0969-40ac-4fe2-96f2-e504e3616b97</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Mona+Lisas+And+Mad+Hatters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="25">
+    <name>Saturday Night's Alright For Fighting</name>
+    <duration>297</duration>
+            <playcount>13852</playcount>
+                <listeners>6262</listeners>
+    
+            <mbid>82f97d61-d3b1-44f7-8225-47c443faf1b6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Saturday+Night%27s+Alright+For+Fighting</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="26">
+    <name>The Bitch Is Back</name>
+    <duration>218</duration>
+            <playcount>12756</playcount>
+                <listeners>6231</listeners>
+    
+            <mbid>79ed1bae-a3f0-4a01-a8b9-24d1714454e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Bitch+Is+Back</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="27">
+    <name>Rocket Man (I Think It's Going To Be A Long, Long Time)</name>
+    <duration>283</duration>
+            <playcount>15056</playcount>
+                <listeners>5735</listeners>
+    
+            <mbid>73835f16-7a65-4910-83bd-d5600d79d380</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Rocket+Man+(I+Think+It%27s+Going+To+Be+A+Long,+Long+Time)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100168753.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100168753.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100168753.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100168753.png</image>
+        </track>                    <track rank="28">
+    <name>Blue Eyes</name>
+    <duration>207</duration>
+            <playcount>11971</playcount>
+                <listeners>5464</listeners>
+    
+            <mbid>0706addb-8e79-4114-96ce-b71664196439</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Blue+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="29">
+    <name>The One</name>
+    <duration>353</duration>
+            <playcount>10393</playcount>
+                <listeners>4633</listeners>
+    
+            <mbid>9ac349d2-6b04-4abc-9e28-e666e7eae198</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+One</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="30">
+    <name>I Want Love</name>
+    <duration>275</duration>
+            <playcount>10316</playcount>
+                <listeners>4377</listeners>
+    
+            <mbid>a1266c56-59cf-4e4b-901f-849f7cdf2b90</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Want+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="31">
+    <name>Island Girl</name>
+    <duration>224</duration>
+            <playcount>8741</playcount>
+                <listeners>4281</listeners>
+    
+            <mbid>6fd5ce9d-a98c-404e-b6a6-1263f8eb44f0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Island+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="32">
+    <name>Sad Songs (Say So Much)</name>
+    <duration>331</duration>
+            <playcount>9177</playcount>
+                <listeners>4276</listeners>
+    
+            <mbid>b00dda5c-02d3-46c5-ab7a-75f29fcb9336</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sad+Songs+(Say+So+Much)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79659179.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79659179.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79659179.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79659179.jpg</image>
+        </track>                    <track rank="33">
+    <name>Goodbye Yellow Brick Road - 2014 Remaster</name>
+    <duration>193</duration>
+            <playcount>7351</playcount>
+                <listeners>4083</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Goodbye+Yellow+Brick+Road+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="34">
+    <name>Grey Seal</name>
+    <duration>241</duration>
+            <playcount>7989</playcount>
+                <listeners>3951</listeners>
+    
+            <mbid>df755173-17e3-427d-a0f2-8a65acc51a73</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Grey+Seal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="35">
+    <name>Believe</name>
+    <duration>297</duration>
+            <playcount>9190</playcount>
+                <listeners>3610</listeners>
+    
+            <mbid>7200f0c1-17f0-49b2-9c4a-30cd05b74411</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Believe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63792953.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63792953.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63792953.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63792953.png</image>
+        </track>                    <track rank="36">
+    <name>This Song Has No Title</name>
+    <duration>144</duration>
+            <playcount>6560</playcount>
+                <listeners>3550</listeners>
+    
+            <mbid>22abe160-0342-49da-934a-97f963563717</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/This+Song+Has+No+Title</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="37">
+    <name>Bennie And The Jets - Live</name>
+    <duration>324</duration>
+            <playcount>6276</playcount>
+                <listeners>3530</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bennie+And+The+Jets+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="38">
+    <name>Border Song</name>
+    <duration>202</duration>
+            <playcount>6537</playcount>
+                <listeners>3343</listeners>
+    
+            <mbid>797849e7-4f6b-4b79-a557-904036b5d35d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Border+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="39">
+    <name>Bennie And The Jets - 2014 Remaster</name>
+    <duration>323</duration>
+            <playcount>4965</playcount>
+                <listeners>3341</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bennie+And+The+Jets+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="40">
+    <name>Home Again</name>
+    <duration>301</duration>
+            <playcount>7594</playcount>
+                <listeners>3260</listeners>
+    
+            <mbid>82425efb-f282-4c6c-942e-1d8c2eb9c87b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Home+Again</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="41">
+    <name>Something About The Way You Look Tonight</name>
+    <duration>241</duration>
+            <playcount>7703</playcount>
+                <listeners>3041</listeners>
+    
+            <mbid>b9fdcc99-0747-4698-b4cf-df77a7eac797</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Something+About+The+Way+You+Look+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="42">
+    <name>I've Seen That Movie Too</name>
+    <duration>360</duration>
+            <playcount>5671</playcount>
+                <listeners>3012</listeners>
+    
+            <mbid>0c3eca2b-5d39-4978-8f2c-2a3689e4060f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I%27ve+Seen+That+Movie+Too</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="43">
+    <name>Sweet Painted Lady</name>
+    <duration>236</duration>
+            <playcount>5571</playcount>
+                <listeners>2951</listeners>
+    
+            <mbid>1028e892-6d5f-4155-95c7-77adaf0f0876</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sweet+Painted+Lady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="44">
+    <name>Candle In The Wind - 2014 Remaster</name>
+    <duration>229</duration>
+            <playcount>4002</playcount>
+                <listeners>2899</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Candle+In+The+Wind+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="45">
+    <name>All The Girls Love Alice</name>
+    <duration>311</duration>
+            <playcount>5513</playcount>
+                <listeners>2862</listeners>
+    
+            <mbid>615186be-e614-4457-8ffe-77bdbdf58946</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/All+The+Girls+Love+Alice</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="46">
+    <name>Lucy In The Sky With Diamonds</name>
+    <duration>358</duration>
+            <playcount>5378</playcount>
+                <listeners>2850</listeners>
+    
+            <mbid>1c5ba2f2-8574-49d9-8193-7ac9ee1cba63</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Lucy+In+The+Sky+With+Diamonds</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="47">
+    <name>Madman Across The Water</name>
+    <duration>532</duration>
+            <playcount>5551</playcount>
+                <listeners>2815</listeners>
+    
+            <mbid>65e8750d-8678-45b1-b15e-979be2312ee7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Madman+Across+The+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="48">
+    <name>This Train Don't Stop There Anymore</name>
+    <duration>279</duration>
+            <playcount>5704</playcount>
+                <listeners>2777</listeners>
+    
+            <mbid>8dc45e13-5952-40ed-b9eb-5c8ad9c056b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/This+Train+Don%27t+Stop+There+Anymore</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="49">
+    <name>Pinball Wizard</name>
+    <duration>316</duration>
+            <playcount>5103</playcount>
+                <listeners>2751</listeners>
+    
+            <mbid>75c85f2a-6ebf-495b-8ee7-40b18e68c8ad</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Pinball+Wizard</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041315.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041315.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041315.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041315.png</image>
+        </track>                    <track rank="50">
+    <name>Harmony</name>
+    <duration>166</duration>
+            <playcount>5218</playcount>
+                <listeners>2686</listeners>
+    
+            <mbid>2208be0f-3eee-4f6d-b648-c50ebca75fd4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Harmony</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="51">
+    <name>Song For Guy</name>
+    <duration>413</duration>
+            <playcount>5258</playcount>
+                <listeners>2550</listeners>
+    
+            <mbid>0a2b28e3-9595-47bf-a9ed-6a7433848521</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Song+For+Guy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="52">
+    <name>This Song Has No Title - 2014 Remaster</name>
+    <duration>143</duration>
+            <playcount>3364</playcount>
+                <listeners>2490</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/This+Song+Has+No+Title+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="53">
+    <name>Dirty Little Girl</name>
+    <duration>302</duration>
+            <playcount>4419</playcount>
+                <listeners>2461</listeners>
+    
+            <mbid>606b415a-85ea-43dc-ad60-a6ce96299863</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Dirty+Little+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="54">
+    <name>Funeral For A Friend/ Love Lies Bleeding - 2014 Remaster</name>
+    <duration>667</duration>
+            <playcount>3526</playcount>
+                <listeners>2428</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Funeral+For+A+Friend%2F+Love+Lies+Bleeding+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="55">
+    <name>Kiss The Bride</name>
+    <duration>262</duration>
+            <playcount>4271</playcount>
+                <listeners>2384</listeners>
+    
+            <mbid>01a3dd05-a756-4419-b58b-377032a2571b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Kiss+The+Bride</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="56">
+    <name>Grey Seal - 2014 Remaster</name>
+    <duration>240</duration>
+            <playcount>3132</playcount>
+                <listeners>2244</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Grey+Seal+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="57">
+    <name>Roy Rogers</name>
+    <duration>249</duration>
+            <playcount>3748</playcount>
+                <listeners>2229</listeners>
+    
+            <mbid>666cb54d-75fa-4dd9-94f4-79950618b19f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Roy+Rogers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="58">
+    <name>Take Me To The Pilot</name>
+    <duration>227</duration>
+            <playcount>4892</playcount>
+                <listeners>2229</listeners>
+    
+            <mbid>6fa9b375-7701-46d8-86ba-eb7fa2a39baf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Take+Me+To+The+Pilot</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="59">
+    <name>My Father's Gun</name>
+    <duration>381</duration>
+            <playcount>4831</playcount>
+                <listeners>2183</listeners>
+    
+            <mbid>34d3d507-4e92-4e08-a0b6-df921b5e8b5e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/My+Father%27s+Gun</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="60">
+    <name>I Don't Wanna Go On With You Like That</name>
+    <duration>275</duration>
+            <playcount>4305</playcount>
+                <listeners>2179</listeners>
+    
+            <mbid>0bc707cf-ab12-40d5-a19a-c9a7fbcc45c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Don%27t+Wanna+Go+On+With+You+Like+That</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79659179.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79659179.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79659179.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79659179.jpg</image>
+        </track>                    <track rank="61">
+    <name>Blessed</name>
+    <duration>263</duration>
+            <playcount>6481</playcount>
+                <listeners>2158</listeners>
+    
+            <mbid>12ec29a5-f936-4cea-97d1-4502b744d540</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Blessed</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79659179.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79659179.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79659179.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79659179.jpg</image>
+        </track>                    <track rank="62">
+    <name>Oceans Away</name>
+    <duration>238</duration>
+            <playcount>4193</playcount>
+                <listeners>2152</listeners>
+    
+            <mbid>07c5a94c-da70-4657-831e-7aee7ec82b81</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Oceans+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="63">
+    <name>Social Disease</name>
+    <duration>224</duration>
+            <playcount>3383</playcount>
+                <listeners>2055</listeners>
+    
+            <mbid>082f5909-5a8a-4115-bb9d-2ebf66958cc1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Social+Disease</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="64">
+    <name>Jamaica Jerk-Off</name>
+    <duration>218</duration>
+            <playcount>3425</playcount>
+                <listeners>1957</listeners>
+    
+            <mbid>0e7213aa-c572-4091-9a15-dc8c446dc7cf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Jamaica+Jerk-Off</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="65">
+    <name>Funeral For A Friend / Love Lies Bleeding</name>
+    <duration>670</duration>
+            <playcount>3846</playcount>
+                <listeners>1949</listeners>
+    
+            <mbid>9062cdd5-7b40-439d-8226-6c85f9651812</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Funeral+For+A+Friend+%2F+Love+Lies+Bleeding</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="66">
+    <name>I Just Can't Wait To Be King</name>
+    <duration>217</duration>
+            <playcount>4025</playcount>
+                <listeners>1948</listeners>
+    
+            <mbid>712a88be-be3d-4e84-a5c3-ca6a61cd1c73</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Just+Can%27t+Wait+To+Be+King</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/51330435.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51330435.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51330435.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51330435.png</image>
+        </track>                    <track rank="67">
+    <name>Can You Feel The Love Tonight?</name>
+    <duration>241</duration>
+            <playcount>4396</playcount>
+                <listeners>1903</listeners>
+    
+            <mbid>1e318485-8e42-4815-80ba-7432098e0a86</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Can+You+Feel+The+Love+Tonight%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="68">
+    <name>Little Jeannie</name>
+    <duration>308</duration>
+            <playcount>3630</playcount>
+                <listeners>1884</listeners>
+    
+            <mbid>c83fa513-87b8-4f89-8775-aaf6a88cddbe</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Little+Jeannie</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79659179.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79659179.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79659179.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79659179.jpg</image>
+        </track>                    <track rank="69">
+    <name>Jamaica Jerk-Off - 2014 Remaster</name>
+    <duration>218</duration>
+            <playcount>2434</playcount>
+                <listeners>1856</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Jamaica+Jerk-Off+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="70">
+    <name>I've Seen That Movie Too - 2014 Remaster</name>
+    <duration>358</duration>
+            <playcount>2301</playcount>
+                <listeners>1768</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I%27ve+Seen+That+Movie+Too+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="71">
+    <name>Oscar Wilde Gets Out</name>
+    <duration>275</duration>
+            <playcount>3361</playcount>
+                <listeners>1751</listeners>
+    
+            <mbid>61f0c5ee-8fab-47cc-8f68-81a7204875be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Oscar+Wilde+Gets+Out</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="72">
+    <name>High Flying Bird</name>
+    <duration>267</duration>
+            <playcount>3897</playcount>
+                <listeners>1734</listeners>
+    
+            <mbid>53951ae0-4027-4c91-b606-c4ffb02188c7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/High+Flying+Bird</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="73">
+    <name>Made In England</name>
+    <duration>308</duration>
+            <playcount>3489</playcount>
+                <listeners>1718</listeners>
+    
+            <mbid>b0f3e296-213c-4f89-934c-047c0bf3a8d6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Made+In+England</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="74">
+    <name>Step Into Christmas</name>
+    <duration>273</duration>
+            <playcount>2784</playcount>
+                <listeners>1707</listeners>
+    
+            <mbid>086e7dac-400a-4310-9ba6-ef3de69021c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Step+Into+Christmas</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041315.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041315.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041315.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041315.png</image>
+        </track>                    <track rank="75">
+    <name>Sweet Painted Lady - 2014 Remaster</name>
+    <duration>234</duration>
+            <playcount>2187</playcount>
+                <listeners>1683</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sweet+Painted+Lady+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="76">
+    <name>Saturday Night's Alright For Fighting - 2014 Remaster</name>
+    <duration>295</duration>
+            <playcount>2415</playcount>
+                <listeners>1656</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Saturday+Night%27s+Alright+For+Fighting+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="77">
+    <name>Indian Sunset</name>
+    <duration>406</duration>
+            <playcount>3424</playcount>
+                <listeners>1648</listeners>
+    
+            <mbid>833e9f58-de66-4971-8bad-9d782f4fe192</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Indian+Sunset</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="78">
+    <name>Amoreena</name>
+    <duration>303</duration>
+            <playcount>3160</playcount>
+                <listeners>1647</listeners>
+    
+            <mbid>3277dc28-2a44-4208-a105-0b02e1b35d0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Amoreena</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="79">
+    <name>The Ballad Of Danny Bailey (1909-1934) - 2014 Remaster</name>
+    <duration>263</duration>
+            <playcount>2038</playcount>
+                <listeners>1574</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Ballad+Of+Danny+Bailey+(1909-1934)+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="80">
+    <name>Something About The Way You Look Tonight - Edit Version</name>
+    <duration>240</duration>
+            <playcount>2967</playcount>
+                <listeners>1563</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Something+About+The+Way+You+Look+Tonight+-+Edit+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="81">
+    <name>Razor Face</name>
+    <duration>282</duration>
+            <playcount>2667</playcount>
+                <listeners>1548</listeners>
+    
+            <mbid>4044d2ff-cf13-426c-91bb-49144646b302</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Razor+Face</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="82">
+    <name>I Need You To Turn To</name>
+    <duration>151</duration>
+            <playcount>3017</playcount>
+                <listeners>1519</listeners>
+    
+            <mbid>029d6f91-009f-4c4f-b24d-ccd157814948</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Need+You+To+Turn+To</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="83">
+    <name>All The Girls Love Alice - 2014 Remaster</name>
+    <duration>308</duration>
+            <playcount>2054</playcount>
+                <listeners>1519</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/All+The+Girls+Love+Alice+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="84">
+    <name>Captain Fantastic And The Brown Dirt Cowboy</name>
+    <duration>346</duration>
+            <playcount>3050</playcount>
+                <listeners>1501</listeners>
+    
+            <mbid>0462c668-2d0f-446c-b682-4282f233f2af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Captain+Fantastic+And+The+Brown+Dirt+Cowboy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="85">
+    <name>A Town Called Jubilee</name>
+    <duration>270</duration>
+            <playcount>2694</playcount>
+                <listeners>1480</listeners>
+    
+            <mbid>44871bba-f24e-40b6-9574-0d83e6deec6f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/A+Town+Called+Jubilee</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="86">
+    <name>Country Comfort</name>
+    <duration>307</duration>
+            <playcount>2617</playcount>
+                <listeners>1459</listeners>
+    
+            <mbid>e3e2a4be-e87c-451f-9142-6efdbde9a0af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Country+Comfort</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="87">
+    <name>The Ballad Of Blind Tom</name>
+    <duration>252</duration>
+            <playcount>2686</playcount>
+                <listeners>1444</listeners>
+    
+            <mbid>e92564a1-c1df-4cf7-a055-8b28712b4a41</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Ballad+Of+Blind+Tom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="88">
+    <name>Dirty Little Girl - 2014 Remaster</name>
+    <duration>300</duration>
+            <playcount>1934</playcount>
+                <listeners>1438</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Dirty+Little+Girl+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="89">
+    <name>Song For Guy - Single Version</name>
+    <duration>308</duration>
+            <playcount>2398</playcount>
+                <listeners>1435</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Song+For+Guy+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="90">
+    <name>Bennie And The Jets (Live)</name>
+    <duration>321</duration>
+            <playcount>2886</playcount>
+                <listeners>1406</listeners>
+    
+            <mbid>eb8fce0e-084b-4a2c-b2d2-dd469597c878</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bennie+And+The+Jets+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="91">
+    <name>Holiday Inn</name>
+    <duration>257</duration>
+            <playcount>2449</playcount>
+                <listeners>1392</listeners>
+    
+            <mbid>e7ef57ec-b044-4d39-8534-307739671c59</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Holiday+Inn</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="92">
+    <name>Can't Stay Alone Tonight</name>
+    <duration>289</duration>
+            <playcount>2885</playcount>
+                <listeners>1374</listeners>
+    
+            <mbid>19c853fc-f7e5-4d1c-8025-b4eef7dd6bab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Can%27t+Stay+Alone+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="93">
+    <name>Burn Down The Mission</name>
+    <duration>383</duration>
+            <playcount>2522</playcount>
+                <listeners>1371</listeners>
+    
+            <mbid>8fc34b53-1c2e-482e-9965-97963eaabb49</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Burn+Down+The+Mission</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="94">
+    <name>Come Down In Time</name>
+    <duration>205</duration>
+            <playcount>2414</playcount>
+                <listeners>1362</listeners>
+    
+            <mbid>8bfe41af-2b8e-45e9-a4e6-81be6341c45b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Come+Down+In+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="95">
+    <name>I Think I'm Going To Kill Myself</name>
+    <duration>215</duration>
+            <playcount>2411</playcount>
+                <listeners>1353</listeners>
+    
+            <mbid>8c4d9351-62a7-4d91-859f-2385d6866c36</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Think+I%27m+Going+To+Kill+Myself</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="96">
+    <name>Are You Ready For Love - '79 version radio edit</name>
+    <duration>210</duration>
+            <playcount>2796</playcount>
+                <listeners>1337</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Are+You+Ready+For+Love+-+%2779+version+radio+edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="97">
+    <name>Ballad Of A Well-Known Gun</name>
+    <duration>301</duration>
+            <playcount>2322</playcount>
+                <listeners>1323</listeners>
+    
+            <mbid>2bf84df3-4b1a-4a53-9847-8c4d8dd843f3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Ballad+Of+A+Well-Known+Gun</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="98">
+    <name>Sad Songs (Say So Much) - Single Edit</name>
+    <duration>249</duration>
+            <playcount>2303</playcount>
+                <listeners>1319</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sad+Songs+(Say+So+Much)+-+Single+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="99">
+    <name>My Quicksand</name>
+    <duration>287</duration>
+            <playcount>2453</playcount>
+                <listeners>1313</listeners>
+    
+            <mbid>1561392b-6d87-4037-b82b-2cd02aa37f96</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/My+Quicksand</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="100">
+    <name>The Ballad Of Danny Bailey (1909-34)</name>
+    <duration>263</duration>
+            <playcount>2538</playcount>
+                <listeners>1308</listeners>
+    
+            <mbid>31b234cc-a53a-49cd-95cb-7babfd414513</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Ballad+Of+Danny+Bailey+(1909-34)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041075.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041075.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041075.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041075.png</image>
+        </track>                    <track rank="101">
+    <name>Your Sister Can't Twist (But She Can Rock'n' Roll) - 2014 Remaster</name>
+    <duration>162</duration>
+            <playcount>1636</playcount>
+                <listeners>1285</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Sister+Can%27t+Twist+(But+She+Can+Rock%27n%27+Roll)+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="102">
+    <name>Candle In The Wind - Acoustic Mix</name>
+    <duration>231</duration>
+            <playcount>1879</playcount>
+                <listeners>1248</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Candle+In+The+Wind+-+Acoustic+Mix</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="103">
+    <name>Mellow</name>
+    <duration>332</duration>
+            <playcount>2254</playcount>
+                <listeners>1246</listeners>
+    
+            <mbid>226fe21d-165d-414f-8f4e-4f5acbf99ad3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Mellow</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="104">
+    <name>Love Song</name>
+    <duration>219</duration>
+            <playcount>2241</playcount>
+                <listeners>1246</listeners>
+    
+            <mbid>8a2a0681-c1c3-4ff0-85f9-3e4b31e84752</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Love+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="105">
+    <name>Tower Of Babel</name>
+    <duration>268</duration>
+            <playcount>2571</playcount>
+                <listeners>1238</listeners>
+    
+            <mbid>01abd2b4-126d-4006-948e-28bebb970570</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Tower+Of+Babel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="106">
+    <name>Tinderbox</name>
+    <duration>266</duration>
+            <playcount>2473</playcount>
+                <listeners>1226</listeners>
+    
+            <mbid>047e0413-e1c0-49ca-8198-96351964e671</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Tinderbox</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80758087.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80758087.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80758087.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80758087.png</image>
+        </track>                    <track rank="107">
+    <name>Rotten Peaches</name>
+    <duration>298</duration>
+            <playcount>1949</playcount>
+                <listeners>1220</listeners>
+    
+            <mbid>442dee97-9ff3-4dac-9827-916a9bd2b690</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Rotten+Peaches</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="108">
+    <name>Voyeur</name>
+    <duration>256</duration>
+            <playcount>2527</playcount>
+                <listeners>1190</listeners>
+    
+            <mbid>bdf3ccd4-85e0-4621-b612-9fcb97027859</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Voyeur</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="109">
+    <name>Roy Rogers - 2014 Remaster</name>
+    <duration>247</duration>
+            <playcount>1537</playcount>
+                <listeners>1182</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Roy+Rogers+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="110">
+    <name>Goodbye</name>
+    <duration>108</duration>
+            <playcount>1956</playcount>
+                <listeners>1165</listeners>
+    
+            <mbid>1a32ca2f-1e6f-424f-8876-cc5900e1b569</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Goodbye</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="111">
+    <name>Are You Ready For Love</name>
+    <duration>497</duration>
+            <playcount>3193</playcount>
+                <listeners>1162</listeners>
+    
+            <mbid>8d1e6ae1-48f6-4fe1-89dc-f3d061ffdc91</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Are+You+Ready+For+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00006RAKP.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="112">
+    <name>Salvation</name>
+    <duration>238</duration>
+            <playcount>2000</playcount>
+                <listeners>1160</listeners>
+    
+            <mbid>44935e7f-32ed-4f66-9a9d-b869dc371864</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Salvation</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="113">
+    <name>Harmony - 2014 Remaster</name>
+    <duration>165</duration>
+            <playcount>1666</playcount>
+                <listeners>1157</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Harmony+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="114">
+    <name>All The Nasties</name>
+    <duration>309</duration>
+            <playcount>1851</playcount>
+                <listeners>1153</listeners>
+    
+            <mbid>1b022e5e-3cdc-4a07-98f7-2077092de78f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/All+The+Nasties</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100139929.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100139929.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100139929.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100139929.jpg</image>
+        </track>                    <track rank="115">
+    <name>Spirit In The Sky</name>
+    <duration>213</duration>
+            <playcount>1907</playcount>
+                <listeners>1138</listeners>
+    
+            <mbid>3754224b-3a2b-4f13-99ca-5c9b58b89966</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Spirit+In+The+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/33040639.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/33040639.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/33040639.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/33040639.jpg</image>
+        </track>                    <track rank="116">
+    <name>Better Off Dead</name>
+    <duration>157</duration>
+            <playcount>2059</playcount>
+                <listeners>1130</listeners>
+    
+            <mbid>10b0a4c7-1e35-42e8-81e5-8f40192081c2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Better+Off+Dead</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="117">
+    <name>Susie (Dramas)</name>
+    <duration>205</duration>
+            <playcount>1946</playcount>
+                <listeners>1122</listeners>
+    
+            <mbid>216d37cf-a35b-4529-9594-3e6fed098d49</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Susie+(Dramas)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="118">
+    <name>Slave</name>
+    <duration>262</duration>
+            <playcount>1896</playcount>
+                <listeners>1121</listeners>
+    
+            <mbid>2c6a98db-4e04-41b6-98fe-8e669c851115</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Slave</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="119">
+    <name>Son Of Your Father</name>
+    <duration>229</duration>
+            <playcount>1970</playcount>
+                <listeners>1105</listeners>
+    
+            <mbid>179237dd-a453-4109-9bb7-629f80865209</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Son+Of+Your+Father</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="120">
+    <name>Take This Dirty Water</name>
+    <duration>265</duration>
+            <playcount>2129</playcount>
+                <listeners>1104</listeners>
+    
+            <mbid>873b5761-16a2-43e0-a9e2-2b8d42695755</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Take+This+Dirty+Water</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="121">
+    <name>Bitter Fingers</name>
+    <duration>273</duration>
+            <playcount>2029</playcount>
+                <listeners>1096</listeners>
+    
+            <mbid>375f8653-14db-45d1-a0c0-08d1448cfec5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bitter+Fingers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="122">
+    <name>Social Disease - 2014 Remaster</name>
+    <duration>223</duration>
+            <playcount>1387</playcount>
+                <listeners>1095</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Social+Disease+-+2014+Remaster</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="123">
+    <name>We All Fall In Love Sometimes</name>
+    <duration>252</duration>
+            <playcount>2129</playcount>
+                <listeners>1070</listeners>
+    
+            <mbid>25bc6dbb-8417-445c-b5aa-0d70c8459276</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/We+All+Fall+In+Love+Sometimes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="124">
+    <name>Amy</name>
+    <duration>243</duration>
+            <playcount>1769</playcount>
+                <listeners>1060</listeners>
+    
+            <mbid>5ef9fd38-850d-46e7-9819-8055cf8879c2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Amy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="125">
+    <name>The Greatest Discovery</name>
+    <duration>253</duration>
+            <playcount>1941</playcount>
+                <listeners>1060</listeners>
+    
+            <mbid>913dad9e-f58b-4446-a433-9c4c4b206728</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Greatest+Discovery</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="126">
+    <name>The New Fever Waltz</name>
+    <duration>279</duration>
+            <playcount>2006</playcount>
+                <listeners>1054</listeners>
+    
+            <mbid>3638ee95-8ff2-4bf6-91df-f8fe50c3a797</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+New+Fever+Waltz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="127">
+    <name>Hercules</name>
+    <duration>335</duration>
+            <playcount>1746</playcount>
+                <listeners>1049</listeners>
+    
+            <mbid>b7f6f420-f3da-479d-b5ae-c3b0eeb7e5b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Hercules</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100140857.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100140857.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100140857.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100140857.jpg</image>
+        </track>                    <track rank="128">
+    <name>Funeral for a Friend/Love Lies Bleeding</name>
+    <duration>668</duration>
+            <playcount>2326</playcount>
+                <listeners>1048</listeners>
+    
+            <mbid>395481c4-1d8b-4ca8-9168-69e986cb7072</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Funeral+for+a+Friend%2FLove+Lies+Bleeding</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="129">
+    <name>Sixty Years On</name>
+    <duration>297</duration>
+            <playcount>2465</playcount>
+                <listeners>1048</listeners>
+    
+            <mbid>4a677c67-c4ea-40d2-8aa0-67da30ca53ce</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sixty+Years+On</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041857.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041857.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041857.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041857.png</image>
+        </track>                    <track rank="130">
+    <name>Written In The Stars</name>
+    <duration>256</duration>
+            <playcount>1864</playcount>
+                <listeners>1034</listeners>
+    
+            <mbid>8085e6da-3fb5-475c-9db1-cbac7b5ad4a3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Written+In+The+Stars</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99573997.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99573997.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99573997.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99573997.jpg</image>
+        </track>                    <track rank="131">
+    <name>The Ballad Of Danny Bailey (1909-1934)</name>
+    <duration>265</duration>
+            <playcount>1605</playcount>
+                <listeners>1030</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Ballad+Of+Danny+Bailey+(1909-1934)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="132">
+    <name>Tell Me When The Whistle Blows</name>
+    <duration>260</duration>
+            <playcount>1683</playcount>
+                <listeners>999</listeners>
+    
+            <mbid>16274e8c-32bf-4d66-b3a0-7b1cda49cb59</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Tell+Me+When+The+Whistle+Blows</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="133">
+    <name>Where To Now St. Peter?</name>
+    <duration>251</duration>
+            <playcount>1864</playcount>
+                <listeners>996</listeners>
+    
+            <mbid>10f6d8e6-0c63-40f1-ae76-2c42466f0628</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Where+To+Now+St.+Peter%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="134">
+    <name>Funeral For A Friend (Love Lies Bleeding)</name>
+    <duration></duration>
+            <playcount>2260</playcount>
+                <listeners>984</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Funeral+For+A+Friend+(Love+Lies+Bleeding)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="135">
+    <name>First Episode At Hienton</name>
+    <duration>287</duration>
+            <playcount>1796</playcount>
+                <listeners>977</listeners>
+    
+            <mbid>3b1b0ac7-c30a-4b19-ad21-5d6dfea217e3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/First+Episode+At+Hienton</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="136">
+    <name>Dream # 1</name>
+    <duration>39</duration>
+            <playcount>1655</playcount>
+                <listeners>964</listeners>
+    
+            <mbid>2bbfa993-b7d2-40ac-90e4-e92483d7c24c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Dream+%23+1</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="137">
+    <name>The King Must Die</name>
+    <duration>321</duration>
+            <playcount>1720</playcount>
+                <listeners>958</listeners>
+    
+            <mbid>aaecaeb8-e13c-475e-a229-f189f68d0fa3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+King+Must+Die</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="138">
+    <name>Talking Old Soldiers</name>
+    <duration>244</duration>
+            <playcount>1663</playcount>
+                <listeners>957</listeners>
+    
+            <mbid>05750e22-9b2d-4b0e-9d72-7007a70a0482</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Talking+Old+Soldiers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="139">
+    <name>Jack Rabbit</name>
+    <duration>111</duration>
+            <playcount>1374</playcount>
+                <listeners>953</listeners>
+    
+            <mbid>6d4f04e1-75a6-416e-8010-20a159218365</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Jack+Rabbit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="140">
+    <name>The Diving Board</name>
+    <duration>360</duration>
+            <playcount>1892</playcount>
+                <listeners>950</listeners>
+    
+            <mbid>3dfe2181-1892-451c-950a-049626048a75</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Diving+Board</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="141">
+    <name>Screw You (Young Man's Blues)</name>
+    <duration>281</duration>
+            <playcount>1317</playcount>
+                <listeners>949</listeners>
+    
+            <mbid>8b95a88e-6497-4333-bc20-5fb5d511fa46</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Screw+You+(Young+Man%27s+Blues)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="142">
+    <name>Skyline Pigeon</name>
+    <duration>233</duration>
+            <playcount>3125</playcount>
+                <listeners>946</listeners>
+    
+            <mbid>1996dea7-b20e-4552-a236-f7ab22230c97</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Skyline+Pigeon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91402137.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91402137.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91402137.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91402137.jpg</image>
+        </track>                    <track rank="143">
+    <name>No Shoe Strings On Louise</name>
+    <duration>209</duration>
+            <playcount>1710</playcount>
+                <listeners>934</listeners>
+    
+            <mbid>004dd8c4-8f28-4de4-9e91-b4f4f6fca963</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/No+Shoe+Strings+On+Louise</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="144">
+    <name>Writing</name>
+    <duration>220</duration>
+            <playcount>1618</playcount>
+                <listeners>931</listeners>
+    
+            <mbid>0cd0096e-6a67-463c-96d9-5cf54c6c4293</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Writing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="145">
+    <name>Mexican Vacation (Kids In The Candlelight)</name>
+    <duration>214</duration>
+            <playcount>1727</playcount>
+                <listeners>928</listeners>
+    
+            <mbid>c3284e6e-e22f-4b07-962b-cc96007730e7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Mexican+Vacation+(Kids+In+The+Candlelight)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="146">
+    <name>Teacher I Need You</name>
+    <duration>249</duration>
+            <playcount>1550</playcount>
+                <listeners>899</listeners>
+    
+            <mbid>07b4a79a-017d-40f2-83ea-0f5f80e5510f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Teacher+I+Need+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="147">
+    <name>Whenever You're Ready (We'll Go Steady Again)</name>
+    <duration>171</duration>
+            <playcount>1232</playcount>
+                <listeners>884</listeners>
+    
+            <mbid>21917fc7-1650-4961-a52f-3e4980dd356c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Whenever+You%27re+Ready+(We%27ll+Go+Steady+Again)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="148">
+    <name>The Cage</name>
+    <duration>208</duration>
+            <playcount>1627</playcount>
+                <listeners>884</listeners>
+    
+            <mbid>3f3c33af-3237-4879-9f19-9d4d5d4e1328</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Cage</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="149">
+    <name>Curtains</name>
+    <duration>394</duration>
+            <playcount>1611</playcount>
+                <listeners>868</listeners>
+    
+            <mbid>2445332f-6865-4d6c-8aef-75d5b40d17af</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Curtains</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="150">
+    <name>Elderberry Wine</name>
+    <duration>213</duration>
+            <playcount>1513</playcount>
+                <listeners>868</listeners>
+    
+            <mbid>27dc69f6-d353-494a-89c6-b3f09e5c0833</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Elderberry+Wine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="151">
+    <name>Original Sin</name>
+    <duration>290</duration>
+            <playcount>2290</playcount>
+                <listeners>815</listeners>
+    
+            <mbid>f7a5e0dd-570a-4c6b-a7fa-716cafff7e06</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Original+Sin</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/74844618.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/74844618.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/74844618.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/74844618.png</image>
+        </track>                    <track rank="152">
+    <name>Saturdays Night's Alright For Fighting</name>
+    <duration></duration>
+            <playcount>1821</playcount>
+                <listeners>810</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Saturdays+Night%27s+Alright+For+Fighting</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="153">
+    <name>Have Mercy On The Criminal</name>
+    <duration>357</duration>
+            <playcount>1392</playcount>
+                <listeners>790</listeners>
+    
+            <mbid>11e01cbc-ae29-403f-9e3b-13fa16b2ddbc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Have+Mercy+On+The+Criminal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="154">
+    <name>(Gotta Get A) Meal Ticket</name>
+    <duration>241</duration>
+            <playcount>1173</playcount>
+                <listeners>753</listeners>
+    
+            <mbid>0549d177-8879-45c1-a9e3-1ea1a6622bfc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/(Gotta+Get+A)+Meal+Ticket</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="155">
+    <name>Dream # 2</name>
+    <duration>43</duration>
+            <playcount>1193</playcount>
+                <listeners>742</listeners>
+    
+            <mbid>8497c0d2-9580-4dba-92c9-4339ea62c0f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Dream+%23+2</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="156">
+    <name>Your Sister Can't Twist (But She Can Rock 'n Roll)</name>
+    <duration>162</duration>
+            <playcount>1312</playcount>
+                <listeners>740</listeners>
+    
+            <mbid>0885e15d-3211-470c-82fa-756696adf6ec</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Sister+Can%27t+Twist+(But+She+Can+Rock+%27n+Roll)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97907433.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97907433.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97907433.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97907433.jpg</image>
+        </track>                    <track rank="157">
+    <name>Street Kids</name>
+    <duration>385</duration>
+            <playcount>1623</playcount>
+                <listeners>721</listeners>
+    
+            <mbid>802a6497-8e9c-4bfc-a2fd-9bd3265db911</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Street+Kids</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041539.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041539.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041539.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041539.png</image>
+        </track>                    <track rank="158">
+    <name>Jamaica Jerk Off</name>
+    <duration>219</duration>
+            <playcount>1090</playcount>
+                <listeners>719</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Jamaica+Jerk+Off</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="159">
+    <name>Don't Go Breaking My Heart (feat. Kiki Dee)</name>
+    <duration>260</duration>
+            <playcount>1842</playcount>
+                <listeners>705</listeners>
+    
+            <mbid>1c4665f9-beef-4f69-a2dc-9b484a1742c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Don%27t+Go+Breaking+My+Heart+(feat.+Kiki+Dee)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39386979.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39386979.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39386979.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39386979.jpg</image>
+        </track>                    <track rank="160">
+    <name>Please</name>
+    <duration>234</duration>
+            <playcount>1433</playcount>
+                <listeners>695</listeners>
+    
+            <mbid>08b8cafc-cce1-4a6c-a4d8-94de59135f3a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Please</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/66105572.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/66105572.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/66105572.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/66105572.png</image>
+        </track>                    <track rank="161">
+    <name>That's What Friends Are For</name>
+    <duration>254</duration>
+            <playcount>979</playcount>
+                <listeners>691</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/That%27s+What+Friends+Are+For</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99695819.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99695819.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99695819.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99695819.jpg</image>
+        </track>                    <track rank="162">
+    <name>Empty Garden (Hey Hey Johnny)</name>
+    <duration>308</duration>
+            <playcount>1460</playcount>
+                <listeners>682</listeners>
+    
+            <mbid>d64b2356-9092-4bfa-b2a6-be47eeb4a4e9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Empty+Garden+(Hey+Hey+Johnny)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53666775.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53666775.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53666775.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53666775.jpg</image>
+        </track>                    <track rank="163">
+    <name>Passengers</name>
+    <duration>203</duration>
+            <playcount>1225</playcount>
+                <listeners>681</listeners>
+    
+            <mbid>4f98af4a-1e58-466a-ae0d-5c19998fd778</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Passengers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041739.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041739.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041739.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041739.png</image>
+        </track>                    <track rank="164">
+    <name>Rocket Man - Live At Hammersmith Odeon, London/ 1973</name>
+    <duration>302</duration>
+            <playcount>840</playcount>
+                <listeners>674</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Rocket+Man+-+Live+At+Hammersmith+Odeon,+London%2F+1973</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="165">
+    <name>Bad Side Of The Moon</name>
+    <duration>191</duration>
+            <playcount>1240</playcount>
+                <listeners>671</listeners>
+    
+            <mbid>4b490b1f-12e5-45db-afcf-69867a5e70bf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bad+Side+Of+The+Moon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040799.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040799.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040799.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040799.png</image>
+        </track>                    <track rank="166">
+    <name>Cry To Heaven</name>
+    <duration>256</duration>
+            <playcount>1063</playcount>
+                <listeners>670</listeners>
+    
+            <mbid>449223c7-563a-46e2-8da8-2a96d0aa1baf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Cry+To+Heaven</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80758087.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80758087.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80758087.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80758087.png</image>
+        </track>                    <track rank="167">
+    <name>Dream # 3</name>
+    <duration>97</duration>
+            <playcount>1060</playcount>
+                <listeners>668</listeners>
+    
+            <mbid>fc23504d-947d-49bf-8ac9-11701bd83a60</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Dream+%23+3</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="168">
+    <name>Benny and the Jets</name>
+    <duration>313</duration>
+            <playcount>1581</playcount>
+                <listeners>667</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Benny+and+the+Jets</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/35468777.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/35468777.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/35468777.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/35468777.jpg</image>
+        </track>                    <track rank="169">
+    <name>Midnight Creeper</name>
+    <duration>233</duration>
+            <playcount>1057</playcount>
+                <listeners>656</listeners>
+    
+            <mbid>0503492a-0e1e-4c6c-b22b-e20a1e818b0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Midnight+Creeper</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="170">
+    <name>Can You Feel the Love Tonight - Remix</name>
+    <duration>248</duration>
+            <playcount>1103</playcount>
+                <listeners>653</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Can+You+Feel+the+Love+Tonight+-+Remix</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Into The Old Man's Shoes</name>
+    <duration>243</duration>
+            <playcount>1070</playcount>
+                <listeners>649</listeners>
+    
+            <mbid>235209e1-1be3-4872-9d83-e91ed6f57ceb</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Into+The+Old+Man%27s+Shoes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/100141121.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/100141121.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/100141121.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/100141121.jpg</image>
+        </track>                    <track rank="172">
+    <name>I Want Love - radio edit</name>
+    <duration>274</duration>
+            <playcount>1052</playcount>
+                <listeners>646</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Want+Love+-+radio+edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>Believe - Radio Edit</name>
+    <duration>288</duration>
+            <playcount>1122</playcount>
+                <listeners>642</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Believe+-+Radio+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="174">
+    <name>Goodbye Yellow Brick Road (2014 Remaster)</name>
+    <duration>193</duration>
+            <playcount>1215</playcount>
+                <listeners>631</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Goodbye+Yellow+Brick+Road+(2014+Remaster)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>Blues For My Baby And Me</name>
+    <duration>342</duration>
+            <playcount>1068</playcount>
+                <listeners>630</listeners>
+    
+            <mbid>14664321-2e12-4d29-9bf4-422d4ad262fa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Blues+For+My+Baby+And+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="176">
+    <name>Texan Love Song</name>
+    <duration>213</duration>
+            <playcount>1027</playcount>
+                <listeners>625</listeners>
+    
+            <mbid>5c7e2297-b32b-4534-8e21-8a59488d3c83</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Texan+Love+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89040957.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89040957.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89040957.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89040957.png</image>
+        </track>                    <track rank="177">
+    <name>Can You Feel The Love Tonight - End Title</name>
+    <duration>239</duration>
+            <playcount>1342</playcount>
+                <listeners>613</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Can+You+Feel+The+Love+Tonight+-+End+Title</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>Healing Hands</name>
+    <duration>270</duration>
+            <playcount>1580</playcount>
+                <listeners>612</listeners>
+    
+            <mbid>1343bb8a-b6e9-4f52-96c4-027fbe869f66</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Healing+Hands</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041975.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041975.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041975.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041975.png</image>
+        </track>                    <track rank="179">
+    <name>I Believe In Love</name>
+    <duration></duration>
+            <playcount>2320</playcount>
+                <listeners>585</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Believe+In+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="180">
+    <name>Sad Songs</name>
+    <duration>247</duration>
+            <playcount>1695</playcount>
+                <listeners>583</listeners>
+    
+            <mbid>5e1ed959-ce1d-445f-a55e-75e59da89fb5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Sad+Songs</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39386979.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39386979.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39386979.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39386979.jpg</image>
+        </track>                    <track rank="181">
+    <name>Written In The Stars (with LeAnn Rimes)</name>
+    <duration>200</duration>
+            <playcount>1136</playcount>
+                <listeners>581</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Written+In+The+Stars+(with+LeAnn+Rimes)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>Your Song - BBC Session</name>
+    <duration>241</duration>
+            <playcount>869</playcount>
+                <listeners>578</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Song+-+BBC+Session</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="183">
+    <name>You Gotta Love Someone</name>
+    <duration>298</duration>
+            <playcount>1142</playcount>
+                <listeners>578</listeners>
+    
+            <mbid>154d7698-c025-4d29-8d43-ad22c7384b7f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/You+Gotta+Love+Someone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041857.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041857.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041857.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041857.png</image>
+        </track>                    <track rank="184">
+    <name>Candle In The Wind 1997</name>
+    <duration>250</duration>
+            <playcount>2043</playcount>
+                <listeners>576</listeners>
+    
+            <mbid>44fbf39c-9b35-45ed-b0f6-bc1270f5c8a8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Candle+In+The+Wind+1997</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89042023.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89042023.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89042023.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89042023.png</image>
+        </track>                    <track rank="185">
+    <name>Tonight</name>
+    <duration>472</duration>
+            <playcount>1580</playcount>
+                <listeners>553</listeners>
+    
+            <mbid>55ed0c6b-85f6-4f05-aad9-1f806e9200d4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041469.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041469.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041469.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041469.png</image>
+        </track>                    <track rank="186">
+    <name>Goodbye Yellow Brick Road - Live At Hammersmith Odeon, London/ 1973</name>
+    <duration>202</duration>
+            <playcount>702</playcount>
+                <listeners>552</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Goodbye+Yellow+Brick+Road+-+Live+At+Hammersmith+Odeon,+London%2F+1973</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="187">
+    <name>Bennie And The Jets (2014 Remaster)</name>
+    <duration>323</duration>
+            <playcount>963</playcount>
+                <listeners>547</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Bennie+And+The+Jets+(2014+Remaster)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="188">
+    <name>Club At The End Of The Street</name>
+    <duration>292</duration>
+            <playcount>1250</playcount>
+                <listeners>544</listeners>
+    
+            <mbid>1df469bc-0344-415a-92cb-af2740d56c2e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Club+At+The+End+Of+The+Street</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041975.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041975.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041975.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041975.png</image>
+        </track>                    <track rank="189">
+    <name>Just Like Belgium</name>
+    <duration>250</duration>
+            <playcount>887</playcount>
+                <listeners>537</listeners>
+    
+            <mbid>0b6b7bc0-6d80-4391-97f0-1f1f48fd98aa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Just+Like+Belgium</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80758087.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80758087.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80758087.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80758087.png</image>
+        </track>                    <track rank="190">
+    <name>I Feel Like A Bullet (In The Gun Of Robert Ford)</name>
+    <duration>329</duration>
+            <playcount>941</playcount>
+                <listeners>528</listeners>
+    
+            <mbid>79838640-4646-4946-a173-51e3fd120c49</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/I+Feel+Like+A+Bullet+(In+The+Gun+Of+Robert+Ford)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041857.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041857.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041857.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041857.png</image>
+        </track>                    <track rank="191">
+    <name>Candle In The Wind (2014 Remaster)</name>
+    <duration>229</duration>
+            <playcount>860</playcount>
+                <listeners>524</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Candle+In+The+Wind+(2014+Remaster)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="192">
+    <name>Your Sister Can't Twist (But She Can Rock &amp; Roll)</name>
+    <duration></duration>
+            <playcount>990</playcount>
+                <listeners>522</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Sister+Can%27t+Twist+(But+She+Can+Rock+&amp;+Roll)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>The Bridge</name>
+    <duration>219</duration>
+            <playcount>1038</playcount>
+                <listeners>521</listeners>
+    
+            <mbid>203e79c7-b9a2-4048-949d-e2250e738fbd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/The+Bridge</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87087157.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87087157.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87087157.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87087157.jpg</image>
+        </track>                    <track rank="194">
+    <name>One Day At A Time</name>
+    <duration>227</duration>
+            <playcount>1186</playcount>
+                <listeners>520</listeners>
+    
+            <mbid>0af8696f-86b3-4971-9033-3d857a2f384b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/One+Day+At+A+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89041359.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89041359.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89041359.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89041359.png</image>
+        </track>                    <track rank="195">
+    <name>Candlelit Bedroom</name>
+    <duration>254</duration>
+            <playcount>873</playcount>
+                <listeners>515</listeners>
+    
+            <mbid>e984081a-4407-4da9-b1e0-47013eeddd2e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Candlelit+Bedroom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/93432749.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/93432749.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/93432749.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/93432749.png</image>
+        </track>                    <track rank="196">
+    <name>Your Sister Can't Twist (But She Can Rock'n Roll)</name>
+    <duration>162</duration>
+            <playcount>703</playcount>
+                <listeners>504</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Sister+Can%27t+Twist+(But+She+Can+Rock%27n+Roll)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98608459.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98608459.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98608459.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98608459.png</image>
+        </track>                    <track rank="197">
+    <name>True Love</name>
+    <duration>213</duration>
+            <playcount>855</playcount>
+                <listeners>504</listeners>
+    
+            <mbid>76666474-ef30-4659-9ef6-229ea57bfe9c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/True+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98724547.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98724547.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98724547.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98724547.jpg</image>
+        </track>                    <track rank="198">
+    <name>Empty Sky</name>
+    <duration>509</duration>
+            <playcount>950</playcount>
+                <listeners>501</listeners>
+    
+            <mbid>0eeb0a5b-307e-4ca0-8b0c-8609e472710e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Empty+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99716419.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99716419.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99716419.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99716419.png</image>
+        </track>                    <track rank="199">
+    <name>Grow Some Funk Of Your Own</name>
+    <duration>287</duration>
+            <playcount>830</playcount>
+                <listeners>494</listeners>
+    
+            <mbid>9cdd5ce3-4324-42cd-882f-31ec70b43b8b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Grow+Some+Funk+Of+Your+Own</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80759039.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80759039.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80759039.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80759039.png</image>
+        </track>                    <track rank="200">
+    <name>Your Song (with Alessandro Safina)</name>
+    <duration>264</duration>
+            <playcount>1501</playcount>
+                <listeners>486</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Elton+John/_/Your+Song+(with+Alessandro+Safina)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Elton John</name>
+                <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+     
+        <url>http://www.last.fm/music/Elton+John</url>
+    </artist>
+                </track></toptracks></lfm>

@@ -1,0 +1,3893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="War" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Low Rider</name>
+    <duration>195</duration>
+            <playcount>43864</playcount>
+                <listeners>17928</listeners>
+    
+            <mbid>b519868c-f141-4dcd-b5de-767de8e0c106</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="2">
+    <name>The Cisco Kid</name>
+    <duration>228</duration>
+            <playcount>6628</playcount>
+                <listeners>3097</listeners>
+    
+            <mbid>e9370ecc-16ba-4066-ae14-1f149635d3af</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+Cisco+Kid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="3">
+    <name>Why Can't We Be Friends?</name>
+    <duration>229</duration>
+            <playcount>7332</playcount>
+                <listeners>2937</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Why+Can%27t+We+Be+Friends%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96883403.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96883403.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96883403.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96883403.jpg</image>
+        </track>                    <track rank="4">
+    <name>Why Can't We Be Friends</name>
+    <duration>228</duration>
+            <playcount>5413</playcount>
+                <listeners>2556</listeners>
+    
+            <mbid>05d5b1ed-e849-4f27-bc36-dd71672ea524</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Why+Can%27t+We+Be+Friends</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="5">
+    <name>The World Is A Ghetto</name>
+    <duration>617</duration>
+            <playcount>3279</playcount>
+                <listeners>1629</listeners>
+    
+            <mbid>3970bd64-9e32-409a-9a03-52b8e0cc54d0</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+World+Is+A+Ghetto</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98779457.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98779457.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98779457.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98779457.png</image>
+        </track>                    <track rank="6">
+    <name>Low Rider (Lookas Remix)</name>
+    <duration></duration>
+            <playcount>3624</playcount>
+                <listeners>1344</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(Lookas+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="7">
+    <name>Me And Baby Brother</name>
+    <duration>210</duration>
+            <playcount>2162</playcount>
+                <listeners>1308</listeners>
+    
+            <mbid>054cc740-f199-4296-b5c4-3e4129ed050e</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Me+And+Baby+Brother</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="8">
+    <name>Slippin' Into Darkness</name>
+    <duration>418</duration>
+            <playcount>2538</playcount>
+                <listeners>1269</listeners>
+    
+            <mbid>8e5bc6a5-efc4-4df5-a02f-dfd410582b79</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Slippin%27+Into+Darkness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="9">
+    <name>All Day Music</name>
+    <duration>239</duration>
+            <playcount>2141</playcount>
+                <listeners>1065</listeners>
+    
+            <mbid>0289c089-22ed-4aef-a55b-d22cf937630d</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/All+Day+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="10">
+    <name>Summer</name>
+    <duration>400</duration>
+            <playcount>2086</playcount>
+                <listeners>1029</listeners>
+    
+            <mbid>bb52c832-a73c-4106-92f1-08e8fbc309b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Summer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="11">
+    <name>Outlaw</name>
+    <duration>240</duration>
+            <playcount>2196</playcount>
+                <listeners>943</listeners>
+    
+            <mbid>636fcf1e-0128-4620-a76b-8dc62622a154</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Outlaw</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="12">
+    <name>Spill the Wine</name>
+    <duration>245</duration>
+            <playcount>1806</playcount>
+                <listeners>871</listeners>
+    
+            <mbid>099ee7c9-5081-445d-bda0-968b59b7da1c</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Spill+the+Wine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="13">
+    <name>Lowrider</name>
+    <duration>194</duration>
+            <playcount>2136</playcount>
+                <listeners>794</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Lowrider</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="14">
+    <name>Galaxy</name>
+    <duration>492</duration>
+            <playcount>1222</playcount>
+                <listeners>668</listeners>
+    
+            <mbid>0cc85368-8b39-4fd6-b90a-17474a9e1323</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Galaxy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="15">
+    <name>City, Country, City</name>
+    <duration>442</duration>
+            <playcount>1217</playcount>
+                <listeners>650</listeners>
+    
+            <mbid>196150dc-2e06-4571-bfaf-1a1d1daa7b4f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/City,+Country,+City</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98779457.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98779457.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98779457.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98779457.png</image>
+        </track>                    <track rank="16">
+    <name>Don't Let No One Get You Down</name>
+    <duration>241</duration>
+            <playcount>1368</playcount>
+                <listeners>591</listeners>
+    
+            <mbid>0805ffaa-35c0-44ce-b7ec-6f11f25095ff</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Don%27t+Let+No+One+Get+You+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="17">
+    <name>Where Was You At</name>
+    <duration>205</duration>
+            <playcount>935</playcount>
+                <listeners>577</listeners>
+    
+            <mbid>371ae204-a2c3-49cb-991b-bce6d0e28e87</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Where+Was+You+At</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98779457.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98779457.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98779457.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98779457.png</image>
+        </track>                    <track rank="18">
+    <name>Four Cornered Room</name>
+    <duration>436</duration>
+            <playcount>920</playcount>
+                <listeners>552</listeners>
+    
+            <mbid>51737bfa-0e96-462c-a405-342b68de1422</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Four+Cornered+Room</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98779457.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98779457.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98779457.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98779457.png</image>
+        </track>                    <track rank="19">
+    <name>Beetles In The Bog</name>
+    <duration>232</duration>
+            <playcount>673</playcount>
+                <listeners>414</listeners>
+    
+            <mbid>9832b5a4-1a32-4899-8f14-95aeeb640d8b</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Beetles+In+The+Bog</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98779457.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98779457.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98779457.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98779457.png</image>
+        </track>                    <track rank="20">
+    <name>In Your Arms (Final Fantasy)</name>
+    <duration>291</duration>
+            <playcount>1089</playcount>
+                <listeners>375</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/In+Your+Arms+(Final+Fantasy)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="21">
+    <name>Gypsy Man</name>
+    <duration>322</duration>
+            <playcount>625</playcount>
+                <listeners>372</listeners>
+    
+            <mbid>730a24a4-8e25-47cf-8015-8e3be37bb016</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Gypsy+Man</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="22">
+    <name>Brodermordet</name>
+    <duration>302</duration>
+            <playcount>1003</playcount>
+                <listeners>336</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Brodermordet</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="23">
+    <name>Heartbeat</name>
+    <duration>445</duration>
+            <playcount>451</playcount>
+                <listeners>298</listeners>
+    
+            <mbid>4a279849-05d0-40d1-8000-ca58d0b2ad04</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Heartbeat</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="24">
+    <name>Get Down</name>
+    <duration>268</duration>
+            <playcount>489</playcount>
+                <listeners>289</listeners>
+    
+            <mbid>8278b44a-b3b6-42c4-9f1f-5e17596e6371</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Get+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="25">
+    <name>War Is Coming! War Is Coming!</name>
+    <duration>426</duration>
+            <playcount>489</playcount>
+                <listeners>288</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War+Is+Coming!+War+Is+Coming!</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/59474885.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/59474885.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/59474885.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/59474885.jpg</image>
+        </track>                    <track rank="26">
+    <name>Smile Happy</name>
+    <duration>239</duration>
+            <playcount>469</playcount>
+                <listeners>276</listeners>
+    
+            <mbid>2d1bb4b7-6d4c-409c-95a4-bfc51bfa0428</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Smile+Happy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="27">
+    <name>So</name>
+    <duration>299</duration>
+            <playcount>447</playcount>
+                <listeners>255</listeners>
+    
+            <mbid>5a8613de-5d05-47bd-b3ba-fda305a20a30</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/So</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="28">
+    <name>War - Low Rider</name>
+    <duration>193</duration>
+            <playcount>774</playcount>
+                <listeners>247</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War+-+Low+Rider</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="29">
+    <name>Lotus Blossom</name>
+    <duration>242</duration>
+            <playcount>376</playcount>
+                <listeners>225</listeners>
+    
+            <mbid>a69715cb-e53e-4425-83e9-0d25ceba1c5e</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Lotus+Blossom</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="30">
+    <name>War</name>
+    <duration>134</duration>
+            <playcount>332</playcount>
+                <listeners>214</listeners>
+    
+            <mbid>227ef300-d903-4c98-a5bf-395ea12d53d1</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="31">
+    <name>In Mazatlan</name>
+    <duration>169</duration>
+            <playcount>290</playcount>
+                <listeners>203</listeners>
+    
+            <mbid>af077def-4ce2-4870-919b-12503b181c6a</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/In+Mazatlan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53034253.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53034253.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53034253.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53034253.jpg</image>
+        </track>                    <track rank="32">
+    <name>Deliver The Word</name>
+    <duration>353</duration>
+            <playcount>328</playcount>
+                <listeners>200</listeners>
+    
+            <mbid>27968226-2228-4a8d-8633-b966900d3cb5</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Deliver+The+Word</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="33">
+    <name>You Got The Power</name>
+    <duration>243</duration>
+            <playcount>497</playcount>
+                <listeners>194</listeners>
+    
+            <mbid>357f5f9e-b50f-4703-81a9-f83c4be81b76</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/You+Got+The+Power</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="34">
+    <name>Tobacco Road</name>
+    <duration>391</duration>
+            <playcount>348</playcount>
+                <listeners>191</listeners>
+    
+            <mbid>93795749-f693-47cd-88ed-d47123207c44</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Tobacco+Road</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/24931639.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/24931639.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/24931639.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/24931639.jpg</image>
+        </track>                    <track rank="35">
+    <name>Southern Part Of Texas</name>
+    <duration>232</duration>
+            <playcount>286</playcount>
+                <listeners>184</listeners>
+    
+            <mbid>509eb5ca-4089-4de5-9116-b3333d50f154</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Southern+Part+Of+Texas</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/53850597.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/53850597.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/53850597.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/53850597.jpg</image>
+        </track>                    <track rank="36">
+    <name>Cisco Kid</name>
+    <duration>227</duration>
+            <playcount>332</playcount>
+                <listeners>177</listeners>
+    
+            <mbid>be967fb8-6350-4c68-af86-f63a2b1ddd90</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Cisco+Kid</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0000A0DVB.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0000A0DVB.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0000A0DVB.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0000A0DVB.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="37">
+    <name>Cinco De Mayo</name>
+    <duration>249</duration>
+            <playcount>282</playcount>
+                <listeners>165</listeners>
+    
+            <mbid>2cd9f6fc-50f3-4da9-8da2-9f3b4f3acdd6</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Cinco+De+Mayo</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79147447.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79147447.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79147447.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79147447.jpg</image>
+        </track>                    <track rank="38">
+    <name>Spill the Wine (Dig That Girl)</name>
+    <duration></duration>
+            <playcount>230</playcount>
+                <listeners>159</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Spill+the+Wine+(Dig+That+Girl)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="39">
+    <name>At War for Youth</name>
+    <duration>164</duration>
+            <playcount>422</playcount>
+                <listeners>153</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/At+War+for+Youth</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="40">
+    <name>Nappy Head (Theme From Ghetto Man)</name>
+    <duration>248</duration>
+            <playcount>203</playcount>
+                <listeners>138</listeners>
+    
+            <mbid>da08c242-f305-4fec-8ade-a883658eea28</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Nappy+Head+(Theme+From+Ghetto+Man)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="41">
+    <name>Sun Oh Son</name>
+    <duration>237</duration>
+            <playcount>240</playcount>
+                <listeners>133</listeners>
+    
+            <mbid>be56a41e-a65d-4ad4-ab54-7b0916571aa9</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Sun+Oh+Son</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97832359.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97832359.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97832359.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97832359.jpg</image>
+        </track>                    <track rank="42">
+    <name>That's What Love Will Do</name>
+    <duration>437</duration>
+            <playcount>186</playcount>
+                <listeners>127</listeners>
+    
+            <mbid>63db3e34-be2f-49f8-9510-3ffa8e0aca65</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/That%27s+What+Love+Will+Do</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55744875.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55744875.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55744875.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55744875.jpg</image>
+        </track>                    <track rank="43">
+    <name>City Country City</name>
+    <duration>804</duration>
+            <playcount>214</playcount>
+                <listeners>123</listeners>
+    
+            <mbid>0843eb77-cad0-4a4e-a16c-e4ff49d71b9b</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/City+Country+City</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="44">
+    <name>Lonely Feelin'</name>
+    <duration>240</duration>
+            <playcount>218</playcount>
+                <listeners>121</listeners>
+    
+            <mbid>4cdf6cae-7175-4566-9b53-c458927e5b9f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Lonely+Feelin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97832359.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97832359.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97832359.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97832359.jpg</image>
+        </track>                    <track rank="45">
+    <name>L.A. Sunshine</name>
+    <duration>594</duration>
+            <playcount>182</playcount>
+                <listeners>116</listeners>
+    
+            <mbid>105b63ba-bcee-403c-abfd-7017329b8c69</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/L.A.+Sunshine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="46">
+    <name>Slippin' Into Darkness - John Morales Remix</name>
+    <duration>553</duration>
+            <playcount>179</playcount>
+                <listeners>111</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Slippin%27+Into+Darkness+-+John+Morales+Remix</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="47">
+    <name>There Must Be A Reason</name>
+    <duration>191</duration>
+            <playcount>165</playcount>
+                <listeners>110</listeners>
+    
+            <mbid>7602b8c9-2c73-497c-af95-ea2b0c34a77a</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/There+Must+Be+A+Reason</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55744875.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55744875.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55744875.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55744875.jpg</image>
+        </track>                    <track rank="48">
+    <name>East L.A.</name>
+    <duration>342</duration>
+            <playcount>194</playcount>
+                <listeners>107</listeners>
+    
+            <mbid>1a5640e0-1636-445e-a584-4a04fade1295</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/East+L.A.</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="49">
+    <name>Baby Brother</name>
+    <duration>461</duration>
+            <playcount>142</playcount>
+                <listeners>106</listeners>
+    
+            <mbid>4efb769a-0888-42ae-b497-a3232c46bb94</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Baby+Brother</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55744875.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55744875.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55744875.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55744875.jpg</image>
+        </track>                    <track rank="50">
+    <name>Ballero</name>
+    <duration>203</duration>
+            <playcount>201</playcount>
+                <listeners>106</listeners>
+    
+            <mbid>2d1651e8-cfe5-40a1-a6a5-f493ded98c1c</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Ballero</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/62448899.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/62448899.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/62448899.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/62448899.jpg</image>
+        </track>                    <track rank="51">
+    <name>River Niger</name>
+    <duration>513</duration>
+            <playcount>193</playcount>
+                <listeners>105</listeners>
+    
+            <mbid>55701869-4f29-474d-914a-c864b9eeee27</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/River+Niger</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79147631.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79147631.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79147631.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79147631.jpg</image>
+        </track>                    <track rank="52">
+    <name>Somme, Maggio</name>
+    <duration>310</duration>
+            <playcount>273</playcount>
+                <listeners>99</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Somme,+Maggio</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="53">
+    <name>Why Cant We Be Friends</name>
+    <duration></duration>
+            <playcount>212</playcount>
+                <listeners>95</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Why+Cant+We+Be+Friends</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="54">
+    <name>Total War</name>
+    <duration>171</duration>
+            <playcount>157</playcount>
+                <listeners>92</listeners>
+    
+            <mbid>6e1aaa3c-c25d-4540-ac63-3bb2afd7bd81</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Total+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="55">
+    <name>Satan</name>
+    <duration>118</duration>
+            <playcount>143</playcount>
+                <listeners>90</listeners>
+    
+            <mbid>21390532-31a7-48d5-a66d-20340f0e7a95</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Satan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="56">
+    <name>A Day in the Life</name>
+    <duration>155</duration>
+            <playcount>147</playcount>
+                <listeners>90</listeners>
+    
+            <mbid>3653f055-3b53-43cc-b19e-366239975db8</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/A+Day+in+the+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/4928361.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/4928361.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/4928361.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/4928361.jpg</image>
+        </track>                    <track rank="57">
+    <name>Low Rider (LooKas Remix) [Free Download]</name>
+    <duration></duration>
+            <playcount>126</playcount>
+                <listeners>90</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(LooKas+Remix)+%5BFree+Download%5D</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="58">
+    <name>I Am Elite</name>
+    <duration>152</duration>
+            <playcount>159</playcount>
+                <listeners>89</listeners>
+    
+            <mbid>08b4d7e7-9682-46b8-9925-ac6e9e0e2f9f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/I+Am+Elite</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="59">
+    <name>Nappy Head</name>
+    <duration></duration>
+            <playcount>136</playcount>
+                <listeners>87</listeners>
+    
+            <mbid>dfffbddf-c689-46ac-a4fc-90b0d6d8c35f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Nappy+Head</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="60">
+    <name>Livin' in the Red</name>
+    <duration>222</duration>
+            <playcount>133</playcount>
+                <listeners>78</listeners>
+    
+            <mbid>b89600d5-cc70-4c0e-a8a6-38754e05688f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Livin%27+in+the+Red</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="61">
+    <name>That L.A. Sunshine</name>
+    <duration>330</duration>
+            <playcount>120</playcount>
+                <listeners>78</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/That+L.A.+Sunshine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="62">
+    <name>Youngblood (Livin' In The Streets)</name>
+    <duration>241</duration>
+            <playcount>120</playcount>
+                <listeners>77</listeners>
+    
+            <mbid>16c94681-8c13-46d3-abaa-86f813f8eca1</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Youngblood+(Livin%27+In+The+Streets)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55465941.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55465941.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55465941.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55465941.jpg</image>
+        </track>                    <track rank="63">
+    <name>Reapers Of Satan</name>
+    <duration>185</duration>
+            <playcount>121</playcount>
+                <listeners>73</listeners>
+    
+            <mbid>7455557d-90de-4c60-85af-81d91c5447d5</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Reapers+Of+Satan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="64">
+    <name>Ave Satan</name>
+    <duration>121</duration>
+            <playcount>114</playcount>
+                <listeners>71</listeners>
+    
+            <mbid>8668ef3e-f797-46b1-b0ee-bf95ce4829ec</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Ave+Satan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="65">
+    <name>Freight Train Jam</name>
+    <duration>342</duration>
+            <playcount>113</playcount>
+                <listeners>70</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Freight+Train+Jam</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85038701.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85038701.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85038701.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85038701.jpg</image>
+        </track>                    <track rank="66">
+    <name>58 Blues</name>
+    <duration>330</duration>
+            <playcount>117</playcount>
+                <listeners>70</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/58+Blues</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85038701.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85038701.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85038701.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85038701.jpg</image>
+        </track>                    <track rank="67">
+    <name>The Sons Of War</name>
+    <duration>72</duration>
+            <playcount>124</playcount>
+                <listeners>70</listeners>
+    
+            <mbid>7bde9ab7-40a7-40d9-95e8-027d4e3e94a2</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+Sons+Of+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="68">
+    <name>We Are War</name>
+    <duration>156</duration>
+            <playcount>113</playcount>
+                <listeners>68</listeners>
+    
+            <mbid>1aa7736c-ae77-4075-9ada-a1c61d5dfeca</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/We+Are+War</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="69">
+    <name>Back Home</name>
+    <duration>404</duration>
+            <playcount>119</playcount>
+                <listeners>68</listeners>
+    
+            <mbid>9c9a4173-088b-4904-b40c-3a9f318d4c82</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Back+Home</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97832359.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97832359.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97832359.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97832359.jpg</image>
+        </track>                    <track rank="70">
+    <name>Kains Mærke</name>
+    <duration>194</duration>
+            <playcount>207</playcount>
+                <listeners>67</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Kains+M%C3%A6rke</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="71">
+    <name>Mamacita</name>
+    <duration>270</duration>
+            <playcount>94</playcount>
+                <listeners>66</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Mamacita</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="72">
+    <name>War Drums</name>
+    <duration>233</duration>
+            <playcount>127</playcount>
+                <listeners>66</listeners>
+    
+            <mbid>8521e0f4-a184-4b62-b1cf-b4284f63d662</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War+Drums</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97832359.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97832359.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97832359.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97832359.jpg</image>
+        </track>                    <track rank="73">
+    <name>Sister Mask</name>
+    <duration>312</duration>
+            <playcount>201</playcount>
+                <listeners>66</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Sister+Mask</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="74">
+    <name>Peace Sign</name>
+    <duration>268</duration>
+            <playcount>111</playcount>
+                <listeners>65</listeners>
+    
+            <mbid>0adf509a-057f-42b9-a11b-dbf1dec1693f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Peace+Sign</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55465761.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55465761.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55465761.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55465761.jpg</image>
+        </track>                    <track rank="75">
+    <name>Revenge</name>
+    <duration>127</duration>
+            <playcount>114</playcount>
+                <listeners>65</listeners>
+    
+            <mbid>a81874c6-59b0-408d-9c5f-2799d3994737</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Revenge</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="76">
+    <name>Baby It's Cold Outside</name>
+    <duration>356</duration>
+            <playcount>119</playcount>
+                <listeners>65</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Baby+It%27s+Cold+Outside</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350802.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350802.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350802.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350802.jpg</image>
+        </track>                    <track rank="77">
+    <name>Galaxy 2000</name>
+    <duration>245</duration>
+            <playcount>89</playcount>
+                <listeners>63</listeners>
+    
+            <mbid>97d7542c-171f-4ea0-b4b4-0b307f393a69</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Galaxy+2000</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/24931639.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/24931639.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/24931639.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/24931639.jpg</image>
+        </track>                    <track rank="78">
+    <name>Lampinn I</name>
+    <duration>242</duration>
+            <playcount>178</playcount>
+                <listeners>62</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Lampinn+I</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="79">
+    <name>Bombenhagel</name>
+    <duration>260</duration>
+            <playcount>102</playcount>
+                <listeners>60</listeners>
+    
+            <mbid>838c6861-5c33-4678-be42-3491546e08b9</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Bombenhagel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="80">
+    <name>Low Rider (Remix)</name>
+    <duration>232</duration>
+            <playcount>123</playcount>
+                <listeners>60</listeners>
+    
+            <mbid>d8cb43c3-2044-4c94-bfc6-74a374c554b8</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="81">
+    <name>In Your Eyes</name>
+    <duration>263</duration>
+            <playcount>80</playcount>
+                <listeners>59</listeners>
+    
+            <mbid>aa2ab729-7c40-4120-acb1-7aa6cafda0f3</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/In+Your+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350614.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350614.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350614.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350614.jpg</image>
+        </track>                    <track rank="82">
+    <name>Sweet Fighting Lady</name>
+    <duration>431</duration>
+            <playcount>108</playcount>
+                <listeners>59</listeners>
+    
+            <mbid>5bb0d622-cc06-49da-a749-a889a5d11ce8</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Sweet+Fighting+Lady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97797729.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97797729.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97797729.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97797729.jpg</image>
+        </track>                    <track rank="83">
+    <name>Sing A Happy Song</name>
+    <duration>245</duration>
+            <playcount>84</playcount>
+                <listeners>59</listeners>
+    
+            <mbid>95fe6062-592b-4354-a456-5dcbe0143708</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Sing+A+Happy+Song</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/59474885.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/59474885.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/59474885.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/59474885.jpg</image>
+        </track>                    <track rank="84">
+    <name>Glass Ribbon</name>
+    <duration>269</duration>
+            <playcount>150</playcount>
+                <listeners>56</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Glass+Ribbon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="85">
+    <name>The Seven Tin Soldiers</name>
+    <duration>856</duration>
+            <playcount>90</playcount>
+                <listeners>56</listeners>
+    
+            <mbid>64c8fc75-2cc2-46ab-8363-b1a4c954360d</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+Seven+Tin+Soldiers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97797729.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97797729.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97797729.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97797729.jpg</image>
+        </track>                    <track rank="86">
+    <name>13 Years (Epilogue)</name>
+    <duration>130</duration>
+            <playcount>111</playcount>
+                <listeners>56</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/13+Years+(Epilogue)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="87">
+    <name>Low Rider (Lookas Trap Remix)</name>
+    <duration></duration>
+            <playcount>132</playcount>
+                <listeners>56</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(Lookas+Trap+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="88">
+    <name>Vibeka</name>
+    <duration>482</duration>
+            <playcount>115</playcount>
+                <listeners>55</listeners>
+    
+            <mbid>76937c89-aa0c-455e-9682-f0b1b27f2b0e</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Vibeka</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97832359.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97832359.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97832359.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97832359.jpg</image>
+        </track>                    <track rank="89">
+    <name>Flying Machine</name>
+    <duration>455</duration>
+            <playcount>89</playcount>
+                <listeners>55</listeners>
+    
+            <mbid>579850d9-0c2f-421d-8ff7-f7ed62c04ac6</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Flying+Machine</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="90">
+    <name>Soldiers Of Satan</name>
+    <duration>129</duration>
+            <playcount>86</playcount>
+                <listeners>55</listeners>
+    
+            <mbid>6fc662e9-4c35-4b80-aad2-6cba60c262c9</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Soldiers+Of+Satan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="91">
+    <name>Flesh Hierarchy</name>
+    <duration>267</duration>
+            <playcount>132</playcount>
+                <listeners>53</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Flesh+Hierarchy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="92">
+    <name>ivory strap</name>
+    <duration>135</duration>
+            <playcount>155</playcount>
+                <listeners>53</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/ivory+strap</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="93">
+    <name>666</name>
+    <duration>122</duration>
+            <playcount>90</playcount>
+                <listeners>53</listeners>
+    
+            <mbid>0a85c806-a5ea-46f7-aab7-1a4b4275fc6e</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/666</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="94">
+    <name>Baby Face</name>
+    <duration>304</duration>
+            <playcount>83</playcount>
+                <listeners>53</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Baby+Face</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97797729.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97797729.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97797729.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97797729.jpg</image>
+        </track>                    <track rank="95">
+    <name>Fidel's Fantasy</name>
+    <duration>674</duration>
+            <playcount>94</playcount>
+                <listeners>53</listeners>
+    
+            <mbid>c82c924c-102d-4b35-af4a-50fbfeecca8e</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Fidel%27s+Fantasy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97832359.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97832359.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97832359.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97832359.jpg</image>
+        </track>                    <track rank="96">
+    <name>Blisters</name>
+    <duration>142</duration>
+            <playcount>73</playcount>
+                <listeners>52</listeners>
+    
+            <mbid>0e0f6546-3cdb-4085-acf3-fe48e8dd7b3f</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Blisters</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/78350614.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78350614.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78350614.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78350614.jpg</image>
+        </track>                    <track rank="97">
+    <name>Leroy's Latin Lament</name>
+    <duration>404</duration>
+            <playcount>106</playcount>
+                <listeners>52</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Leroy%27s+Latin+Lament</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="98">
+    <name>This Funky Music Makes You Feel Good</name>
+    <duration>380</duration>
+            <playcount>126</playcount>
+                <listeners>51</listeners>
+    
+            <mbid>6c6e08ee-0c37-4529-a848-1c0c2863d414</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/This+Funky+Music+Makes+You+Feel+Good</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55465941.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55465941.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55465941.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55465941.jpg</image>
+        </track>                    <track rank="99">
+    <name>Inspiration</name>
+    <duration>255</duration>
+            <playcount>67</playcount>
+                <listeners>51</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Inspiration</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="100">
+    <name>Just Like Us</name>
+    <duration>392</duration>
+            <playcount>72</playcount>
+                <listeners>51</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Just+Like+Us</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="101">
+    <name>Marble Hall Pigs</name>
+    <duration>119</duration>
+            <playcount>150</playcount>
+                <listeners>51</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Marble+Hall+Pigs</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="102">
+    <name>Platinum Jazz</name>
+    <duration>433</duration>
+            <playcount>234</playcount>
+                <listeners>50</listeners>
+    
+            <mbid>b1ad7acb-4f9f-4aea-9c03-ab28d880970a</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Platinum+Jazz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79147631.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79147631.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79147631.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79147631.jpg</image>
+        </track>                    <track rank="103">
+    <name>Hey Señorita</name>
+    <duration>347</duration>
+            <playcount>84</playcount>
+                <listeners>50</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Hey+Se%C3%B1orita</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97797729.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97797729.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97797729.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97797729.jpg</image>
+        </track>                    <track rank="104">
+    <name>Lampinn II</name>
+    <duration>184</duration>
+            <playcount>116</playcount>
+                <listeners>49</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Lampinn+II</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="105">
+    <name>Scream Stream</name>
+    <duration>325</duration>
+            <playcount>64</playcount>
+                <listeners>48</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Scream+Stream</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="106">
+    <name>War Is Coming - Blues Version</name>
+    <duration>375</duration>
+            <playcount>70</playcount>
+                <listeners>47</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War+Is+Coming+-+Blues+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="107">
+    <name>More Days</name>
+    <duration>92</duration>
+            <playcount>96</playcount>
+                <listeners>46</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/More+Days</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="108">
+    <name>This Funky Music</name>
+    <duration>204</duration>
+            <playcount>60</playcount>
+                <listeners>46</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/This+Funky+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="109">
+    <name>EDWIN STARR</name>
+    <duration>204</duration>
+            <playcount>73</playcount>
+                <listeners>45</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/EDWIN+STARR</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="110">
+    <name>The World Is A Ghetto - Rehearsal Take</name>
+    <duration>486</duration>
+            <playcount>58</playcount>
+                <listeners>44</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+World+Is+A+Ghetto+-+Rehearsal+Take</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="111">
+    <name>Life (Is So Strange)</name>
+    <duration>360</duration>
+            <playcount>67</playcount>
+                <listeners>44</listeners>
+    
+            <mbid>393f96ba-d360-4b43-ac9b-114caefce9d6</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Life+(Is+So+Strange)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79147587.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79147587.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79147587.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79147587.jpg</image>
+        </track>                    <track rank="112">
+    <name>Low Rider (On the Boulevard)</name>
+    <duration>189</duration>
+            <playcount>71</playcount>
+                <listeners>44</listeners>
+    
+            <mbid>44982590-1c1a-4c2c-bfd8-f3eb3a436851</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(On+the+Boulevard)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/49651869.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/49651869.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/49651869.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/49651869.jpg</image>
+        </track>                    <track rank="113">
+    <name>They Can't Take Away Our Music</name>
+    <duration>410</duration>
+            <playcount>87</playcount>
+                <listeners>43</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/They+Can%27t+Take+Away+Our+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0000033D4.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0000033D4.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0000033D4.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0000033D4.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="114">
+    <name>Field of soldiers</name>
+    <duration>259</duration>
+            <playcount>81</playcount>
+                <listeners>43</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Field+of+soldiers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="115">
+    <name>H2 Overture</name>
+    <duration>239</duration>
+            <playcount>58</playcount>
+                <listeners>43</listeners>
+    
+            <mbid>2535a8dc-2c99-4973-bd7d-8be7503251b6</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/H2+Overture</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="116">
+    <name>Everything</name>
+    <duration>211</duration>
+            <playcount>52</playcount>
+                <listeners>42</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Everything</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="117">
+    <name>Whose Cadillac Is That?</name>
+    <duration>300</duration>
+            <playcount>101</playcount>
+                <listeners>41</listeners>
+    
+            <mbid>337cd442-87c3-4bdc-bbed-5198cf21c783</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Whose+Cadillac+Is+That%3F</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/39112837.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39112837.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39112837.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39112837.jpg</image>
+        </track>                    <track rank="118">
+    <name>Slowly We Walk Together</name>
+    <duration>354</duration>
+            <playcount>50</playcount>
+                <listeners>41</listeners>
+    
+            <mbid>e52bc21b-53c3-4a6d-918e-49b4d5829392</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Slowly+We+Walk+Together</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79147631.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79147631.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79147631.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79147631.jpg</image>
+        </track>                    <track rank="119">
+    <name>H2Overture</name>
+    <duration>239</duration>
+            <playcount>69</playcount>
+                <listeners>40</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/War/_/H2Overture</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="120">
+    <name>Gypsy Man - Single Version</name>
+    <duration>324</duration>
+            <playcount>45</playcount>
+                <listeners>40</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Gypsy+Man+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="121">
+    <name>Outer Space</name>
+    <duration>257</duration>
+            <playcount>52</playcount>
+                <listeners>40</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Outer+Space</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="122">
+    <name>It's My Life</name>
+    <duration>478</duration>
+            <playcount>54</playcount>
+                <listeners>40</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/It%27s+My+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="123">
+    <name>god made flesh</name>
+    <duration>175</duration>
+            <playcount>69</playcount>
+                <listeners>39</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/god+made+flesh</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="124">
+    <name>Flying Machine (The Chase)</name>
+    <duration>454</duration>
+            <playcount>72</playcount>
+                <listeners>38</listeners>
+    
+            <mbid>1b517c0d-65f4-46f0-a113-cbf478dade58</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Flying+Machine+(The+Chase)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55465941.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55465941.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55465941.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55465941.jpg</image>
+        </track>                    <track rank="125">
+    <name>Bounce</name>
+    <duration>262</duration>
+            <playcount>51</playcount>
+                <listeners>38</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Bounce</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="126">
+    <name>Hands of relief</name>
+    <duration>305</duration>
+            <playcount>60</playcount>
+                <listeners>38</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Hands+of+relief</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="127">
+    <name>Hey Senorita</name>
+    <duration>214</duration>
+            <playcount>81</playcount>
+                <listeners>38</listeners>
+    
+            <mbid>24843276-ba03-4cab-8ab6-84d4a869c0e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Hey+Senorita</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/62448899.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/62448899.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/62448899.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/62448899.jpg</image>
+        </track>                    <track rank="128">
+    <name>Victory of rape</name>
+    <duration>108</duration>
+            <playcount>75</playcount>
+                <listeners>38</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Victory+of+rape</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="129">
+    <name>Galaxy - Edit Version</name>
+    <duration>287</duration>
+            <playcount>48</playcount>
+                <listeners>37</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Galaxy+-+Edit+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="130">
+    <name>Satan's Millenium</name>
+    <duration></duration>
+            <playcount>54</playcount>
+                <listeners>37</listeners>
+    
+            <mbid>72c76289-aadf-4840-bd05-af9f4275a485</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Satan%27s+Millenium</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00002488K.03.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00002488K.03.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00002488K.03.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00002488K.03.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="131">
+    <name>Low Rider (ost отбросы)</name>
+    <duration>196</duration>
+            <playcount>59</playcount>
+                <listeners>37</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(ost+%D0%BE%D1%82%D0%B1%D1%80%D0%BE%D1%81%D1%8B)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="132">
+    <name>Rapture</name>
+    <duration>94</duration>
+            <playcount>58</playcount>
+                <listeners>36</listeners>
+    
+            <mbid>104ca3e1-57e0-49b2-b564-701b16dae3af</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Rapture</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/81884045.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/81884045.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81884045.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/81884045.jpg</image>
+        </track>                    <track rank="133">
+    <name>Slippin` Into Darkness</name>
+    <duration>417</duration>
+            <playcount>47</playcount>
+                <listeners>36</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/War/_/Slippin%60+Into+Darkness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="134">
+    <name>Leroy's Latin Lament Medley: A) Lonnie Dreams; B) The Way We Feel; C) La Fiesta; D) Lament</name>
+    <duration>403</duration>
+            <playcount>46</playcount>
+                <listeners>36</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Leroy%27s+Latin+Lament+Medley:+A)+Lonnie+Dreams;+B)+The+Way+We+Feel;+C)+La+Fiesta;+D)+Lament</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96883403.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96883403.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96883403.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96883403.jpg</image>
+        </track>                    <track rank="135">
+    <name>Junk Yard</name>
+    <duration>152</duration>
+            <playcount>54</playcount>
+                <listeners>35</listeners>
+    
+            <mbid>ede89186-9540-4524-a56e-28c4f75162df</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Junk+Yard</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/55465941.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55465941.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55465941.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55465941.jpg</image>
+        </track>                    <track rank="136">
+    <name>It's Our Right/Funky Tonk</name>
+    <duration>560</duration>
+            <playcount>55</playcount>
+                <listeners>35</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/It%27s+Our+Right%2FFunky+Tonk</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="137">
+    <name>Paint It Black Medley</name>
+    <duration>610</duration>
+            <playcount>86</playcount>
+                <listeners>35</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Paint+It+Black+Medley</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="138">
+    <name>07. Low Rider</name>
+    <duration>193</duration>
+            <playcount>90</playcount>
+                <listeners>33</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/07.+Low+Rider</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="139">
+    <name>That L.A. Sunshine (Featuring Cheech &amp; Chong)</name>
+    <duration>330</duration>
+            <playcount>51</playcount>
+                <listeners>33</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/That+L.A.+Sunshine+(Featuring+Cheech+&amp;+Chong)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="140">
+    <name>Without reason</name>
+    <duration>137</duration>
+            <playcount>57</playcount>
+                <listeners>33</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Without+reason</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="141">
+    <name>Low Rider (Ganja Kru Remix)</name>
+    <duration>463</duration>
+            <playcount>45</playcount>
+                <listeners>32</listeners>
+    
+            <mbid>ec7f61de-5d53-4d45-9e65-3a5c6b2e5c91</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(Ganja+Kru+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="142">
+    <name>I'm The One Who Understands</name>
+    <duration>289</duration>
+            <playcount>58</playcount>
+                <listeners>32</listeners>
+    
+            <mbid>c19be9b5-657e-4d86-a3ab-07523862715e</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/I%27m+The+One+Who+Understands</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0000A0DVB.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0000A0DVB.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0000A0DVB.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0000A0DVB.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="143">
+    <name>Bare Back Ride</name>
+    <duration>430</duration>
+            <playcount>45</playcount>
+                <listeners>31</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Bare+Back+Ride</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="144">
+    <name>Burned down faith</name>
+    <duration>170</duration>
+            <playcount>65</playcount>
+                <listeners>31</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Burned+down+faith</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="145">
+    <name>I Got You</name>
+    <duration>366</duration>
+            <playcount>46</playcount>
+                <listeners>30</listeners>
+    
+            <mbid>e8c023a1-ea3d-4991-a39b-3a3a88c5428d</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/I+Got+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/79147631.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79147631.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79147631.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79147631.jpg</image>
+        </track>                    <track rank="146">
+    <name>Slipping Into Darkness</name>
+    <duration>420</duration>
+            <playcount>57</playcount>
+                <listeners>30</listeners>
+    
+            <mbid>d237db88-8747-4a24-9c45-966fa8abbec3</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Slipping+Into+Darkness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98496545.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98496545.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98496545.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98496545.jpg</image>
+        </track>                    <track rank="147">
+    <name>It's Our Right / Funky Tonk</name>
+    <duration>562</duration>
+            <playcount>35</playcount>
+                <listeners>30</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/It%27s+Our+Right+%2F+Funky+Tonk</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/98974593.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/98974593.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/98974593.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/98974593.jpg</image>
+        </track>                    <track rank="148">
+    <name>Why Can't We Be Friends (320 kpbs)</name>
+    <duration>229</duration>
+            <playcount>117</playcount>
+                <listeners>30</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Why+Can%27t+We+Be+Friends+(320+kpbs)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="149">
+    <name>magic mountain</name>
+    <duration></duration>
+            <playcount>48</playcount>
+                <listeners>29</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/magic+mountain</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="150">
+    <name>Whose Cadillac Is That</name>
+    <duration>300</duration>
+            <playcount>42</playcount>
+                <listeners>29</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/War/_/Whose+Cadillac+Is+That</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/61163925.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/61163925.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61163925.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/61163925.jpg</image>
+        </track>                    <track rank="151">
+    <name>Kains MÊrke</name>
+    <duration>194</duration>
+            <playcount>50</playcount>
+                <listeners>29</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Kains+M%C3%8Arke</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="152">
+    <name>Leroy's Latin Lament (Medley)</name>
+    <duration>404</duration>
+            <playcount>56</playcount>
+                <listeners>28</listeners>
+    
+            <mbid>3c4f2723-524b-438b-b05b-9027578c36bf</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Leroy%27s+Latin+Lament+(Medley)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="153">
+    <name>Slippin into Darkness</name>
+    <duration></duration>
+            <playcount>45</playcount>
+                <listeners>27</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Slippin+into+Darkness</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="154">
+    <name>Execution</name>
+    <duration>157</duration>
+            <playcount>36</playcount>
+                <listeners>26</listeners>
+    
+            <mbid>11b862e4-6ead-4f9f-a074-aa97e4383337</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Execution</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/26540953.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/26540953.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/26540953.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/26540953.jpg</image>
+        </track>                    <track rank="155">
+    <name>Why Can't We Be Friends? (Live)</name>
+    <duration>279</duration>
+            <playcount>45</playcount>
+                <listeners>26</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Why+Can%27t+We+Be+Friends%3F+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/56876511.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/56876511.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/56876511.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/56876511.jpg</image>
+        </track>                    <track rank="156">
+    <name>The Music Band</name>
+    <duration>243</duration>
+            <playcount>54</playcount>
+                <listeners>26</listeners>
+    
+            <mbid>67d976d5-7d3a-4efc-9152-616ad1bc9e5b</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+Music+Band</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/4677987.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/4677987.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/4677987.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/4677987.jpg</image>
+        </track>                    <track rank="157">
+    <name>War Is Coming, War Is Coming</name>
+    <duration>301</duration>
+            <playcount>49</playcount>
+                <listeners>26</listeners>
+    
+            <mbid>d7c4fc3f-61da-4983-be28-cee5ff8c8ffa</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War+Is+Coming,+War+Is+Coming</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/99094739.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/99094739.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/99094739.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/99094739.jpg</image>
+        </track>                    <track rank="158">
+    <name>The Bird &amp; the Squirrel</name>
+    <duration>163</duration>
+            <playcount>52</playcount>
+                <listeners>26</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+Bird+&amp;+the+Squirrel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="159">
+    <name>Gun</name>
+    <duration>374</duration>
+            <playcount>62</playcount>
+                <listeners>26</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Gun</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="160">
+    <name>The World Is A Ghetto (Special US Disco Mix)</name>
+    <duration>341</duration>
+            <playcount>104</playcount>
+                <listeners>26</listeners>
+    
+            <mbid>6f029530-317e-4bb3-8b39-a2a3c289902c</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+World+Is+A+Ghetto+(Special+US+Disco+Mix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/68824630.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/68824630.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/68824630.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/68824630.jpg</image>
+        </track>                    <track rank="161">
+    <name>Makashi</name>
+    <duration>126</duration>
+            <playcount>38</playcount>
+                <listeners>26</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Makashi</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="162">
+    <name>Rapture 2</name>
+    <duration>101</duration>
+            <playcount>34</playcount>
+                <listeners>25</listeners>
+    
+            <mbid>196fc890-2692-4832-8704-cbc66a1817d0</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Rapture+2</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/26540953.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/26540953.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/26540953.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/26540953.jpg</image>
+        </track>                    <track rank="163">
+    <name>Low rider 1975</name>
+    <duration>30</duration>
+            <playcount>27</playcount>
+                <listeners>25</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+rider+1975</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="164">
+    <name>Infernal</name>
+    <duration>170</duration>
+            <playcount>33</playcount>
+                <listeners>25</listeners>
+    
+            <mbid>de8107f2-4fd9-42fe-a62b-75aa886c52ab</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Infernal</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/26540953.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/26540953.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/26540953.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/26540953.jpg</image>
+        </track>                    <track rank="165">
+    <name>Southern Part Of Texas - Edit Version</name>
+    <duration>234</duration>
+            <playcount>29</playcount>
+                <listeners>25</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Southern+Part+Of+Texas+-+Edit+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="166">
+    <name>Kill God</name>
+    <duration>165</duration>
+            <playcount>31</playcount>
+                <listeners>25</listeners>
+    
+            <mbid>21496f81-1d82-43bf-a5f4-a08b4c6ccef3</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Kill+God</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/26540953.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/26540953.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/26540953.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/26540953.jpg</image>
+        </track>                    <track rank="167">
+    <name>Pretty Colours</name>
+    <duration>406</duration>
+            <playcount>45</playcount>
+                <listeners>25</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Pretty+Colours</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="168">
+    <name>Hell</name>
+    <duration>151</duration>
+            <playcount>34</playcount>
+                <listeners>25</listeners>
+    
+            <mbid>4f92d220-9635-46ea-a68e-e57b77be3aa2</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Hell</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/26540953.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/26540953.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/26540953.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/26540953.jpg</image>
+        </track>                    <track rank="169">
+    <name>Spirit</name>
+    <duration>518</duration>
+            <playcount>66</playcount>
+                <listeners>25</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Spirit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="170">
+    <name>The flying machine (The chase)</name>
+    <duration></duration>
+            <playcount>28</playcount>
+                <listeners>24</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+flying+machine+(The+chase)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Me &amp; Baby Brother</name>
+    <duration>166</duration>
+            <playcount>25</playcount>
+                <listeners>24</listeners>
+    
+            <mbid>78eeee43-dbd4-4037-9d21-28422a91949d</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Me+&amp;+Baby+Brother</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images-eu.amazon.com/images/P/B00005B0HJ.02.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images-eu.amazon.com/images/P/B00005B0HJ.02.MZZZZZZZ.jpg</image>
+    <image size="large">http://images-eu.amazon.com/images/P/B00005B0HJ.02.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images-eu.amazon.com/images/P/B00005B0HJ.02.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="172">
+    <name>Low Rider - Español</name>
+    <duration>198</duration>
+            <playcount>44</playcount>
+                <listeners>24</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+-+Espa%C3%B1ol</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>Ballero (Live)</name>
+    <duration>288</duration>
+            <playcount>52</playcount>
+                <listeners>24</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Ballero+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/56876511.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/56876511.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/56876511.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/56876511.jpg</image>
+        </track>                    <track rank="174">
+    <name>Good, Good Feelin'</name>
+    <duration>464</duration>
+            <playcount>54</playcount>
+                <listeners>23</listeners>
+    
+            <mbid>b824ffc0-cf21-472c-9958-164c68461152</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Good,+Good+Feelin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/89138923.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/89138923.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/89138923.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/89138923.jpg</image>
+        </track>                    <track rank="175">
+    <name>what is it good for</name>
+    <duration>202</duration>
+            <playcount>118</playcount>
+                <listeners>23</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/what+is+it+good+for</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="176">
+    <name>World Is A Ghetto (Special US Disco Mix)</name>
+    <duration>534</duration>
+            <playcount>45</playcount>
+                <listeners>23</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/War/_/World+Is+A+Ghetto+(Special+US+Disco+Mix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="177">
+    <name>You Got The Power - Single Version</name>
+    <duration>243</duration>
+            <playcount>44</playcount>
+                <listeners>23</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/You+Got+The+Power+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>You're No Stranger</name>
+    <duration>184</duration>
+            <playcount>29</playcount>
+                <listeners>23</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/You%27re+No+Stranger</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="179">
+    <name>War is Coming</name>
+    <duration>415</duration>
+            <playcount>29</playcount>
+                <listeners>23</listeners>
+    
+            <mbid>a2e749b5-8710-409c-9297-901e7aa8cf5a</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/War+is+Coming</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B00002584O.01._SCMZZZZZZZ_.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00002584O.01._SCMZZZZZZZ_.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00002584O.01._SCMZZZZZZZ_.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00002584O.01._SCMZZZZZZZ_.jpg</image>
+        </track>                    <track rank="180">
+    <name>Leroy's Latin Lament (Medley): Lonnie Dreams, The Way We Feel, La Fiesta, Lament</name>
+    <duration>404</duration>
+            <playcount>29</playcount>
+                <listeners>23</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Leroy%27s+Latin+Lament+(Medley):+Lonnie+Dreams,+The+Way+We+Feel,+La+Fiesta,+Lament</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>Home Cookin'</name>
+    <duration>254</duration>
+            <playcount>36</playcount>
+                <listeners>22</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Home+Cookin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>Galaxy (Plump's Remix)</name>
+    <duration>430</duration>
+            <playcount>30</playcount>
+                <listeners>22</listeners>
+    
+            <mbid>1d66079e-8e95-4f33-b889-edb9cd995f7b</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Galaxy+(Plump%27s+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/6208757.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/6208757.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/6208757.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/6208757.jpg</image>
+        </track>                    <track rank="183">
+    <name>Nights In White Satin I</name>
+    <duration>269</duration>
+            <playcount>54</playcount>
+                <listeners>22</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Nights+In+White+Satin+I</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="184">
+    <name>Nuts, Seeds &amp; Life</name>
+    <duration>239</duration>
+            <playcount>46</playcount>
+                <listeners>21</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Nuts,+Seeds+&amp;+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="185">
+    <name>Ballero - Live At The High Chaparral, Chicago/1972/Single Version</name>
+    <duration>204</duration>
+            <playcount>25</playcount>
+                <listeners>21</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Ballero+-+Live+At+The+High+Chaparral,+Chicago%2F1972%2FSingle+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="186">
+    <name>Jimbo</name>
+    <duration>281</duration>
+            <playcount>40</playcount>
+                <listeners>21</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Jimbo</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="187">
+    <name>Tobacco Road (Soundprops Remix)</name>
+    <duration>256</duration>
+            <playcount>35</playcount>
+                <listeners>21</listeners>
+    
+            <mbid>05038e97-9a8c-45b2-80b7-e9222de269a0</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Tobacco+Road+(Soundprops+Remix)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="188">
+    <name>Beautiful New Born Child</name>
+    <duration>307</duration>
+            <playcount>38</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Beautiful+New+Born+Child</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>The Vision Of Rassan</name>
+    <duration>463</duration>
+            <playcount>32</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+Vision+Of+Rassan</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="190">
+    <name>L.A. Sunshine - Single Version</name>
+    <duration>242</duration>
+            <playcount>21</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/L.A.+Sunshine+-+Single+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="191">
+    <name>The World Is A Ghetto (Rehearsal Take)</name>
+    <duration>486</duration>
+            <playcount>29</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/The+World+Is+A+Ghetto+(Rehearsal+Take)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/85038701.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/85038701.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/85038701.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/85038701.jpg</image>
+        </track>                    <track rank="192">
+    <name>Baby Face (She Said Do Do Do Do)</name>
+    <duration>307</duration>
+            <playcount>44</playcount>
+                <listeners>20</listeners>
+    
+            <mbid>9f2d8ad6-10f4-4516-9300-a192c4f564e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Baby+Face+(She+Said+Do+Do+Do+Do)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="193">
+    <name>Nights In White Satin II</name>
+    <duration>184</duration>
+            <playcount>46</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Nights+In+White+Satin+II</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="194">
+    <name>Slippin' Part 2</name>
+    <duration>535</duration>
+            <playcount>26</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Slippin%27+Part+2</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                <image size="small">http://images.amazon.com/images/P/B0000032VA.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B0000032VA.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B0000032VA.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B0000032VA.01.MZZZZZZZ.jpg</image>
+        </track>                    <track rank="195">
+    <name>Bob Marley</name>
+    <duration></duration>
+            <playcount>26</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Bob+Marley</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="196">
+    <name>Low Rider (HQ Audio)</name>
+    <duration>194</duration>
+            <playcount>30</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Low+Rider+(HQ+Audio)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Out Of Nowhere</name>
+    <duration>200</duration>
+            <playcount>39</playcount>
+                <listeners>20</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Out+Of+Nowhere</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="198">
+    <name>Youngblood (Livin' The Streets) - Edit</name>
+    <duration>241</duration>
+            <playcount>19</playcount>
+                <listeners>19</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Youngblood+(Livin%27+The+Streets)+-+Edit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="199">
+    <name>Leroy's Latin Lament: Lonnie Dreams/The Way We Feel/La Fiesta/Lament</name>
+    <duration>404</duration>
+            <playcount>22</playcount>
+                <listeners>19</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/Leroy%27s+Latin+Lament:+Lonnie+Dreams%2FThe+Way+We+Feel%2FLa+Fiesta%2FLament</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>09. Why Can't We Be Friends</name>
+    <duration>230</duration>
+            <playcount>45</playcount>
+                <listeners>18</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/War/_/09.+Why+Can%27t+We+Be+Friends</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>War</name>
+                <mbid>3e6bbdb8-66c8-439c-a3d9-87391ce88740</mbid>
+     
+        <url>http://www.last.fm/music/War</url>
+    </artist>
+                </track></toptracks></lfm>

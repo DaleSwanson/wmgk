@@ -1,0 +1,4105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<toptracks artist="Journey" page="1" perPage="200" totalPages="5" total="1000">
+
+                        <track rank="1">
+    <name>Don't Stop Believin'</name>
+    <duration>250</duration>
+            <playcount>280282</playcount>
+                <listeners>96320</listeners>
+    
+            <mbid>7a6403fb-c546-450e-ac72-490dc195b742</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="2">
+    <name>Any Way You Want It</name>
+    <duration>202</duration>
+            <playcount>88744</playcount>
+                <listeners>34594</listeners>
+    
+            <mbid>13fe0390-653d-4014-a837-37c93604d0b1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Any+Way+You+Want+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="3">
+    <name>Separate Ways (Worlds Apart)</name>
+    <duration>326</duration>
+            <playcount>57750</playcount>
+                <listeners>19677</listeners>
+    
+            <mbid>11184e38-d8d4-4a62-9f83-63d07493588a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Separate+Ways+(Worlds+Apart)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="4">
+    <name>Faithfully</name>
+    <duration>266</duration>
+            <playcount>52123</playcount>
+                <listeners>19159</listeners>
+    
+            <mbid>088922a8-922e-44e6-825c-e05709673117</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Faithfully</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="5">
+    <name>Wheel in the Sky</name>
+    <duration>250</duration>
+            <playcount>42605</playcount>
+                <listeners>17119</listeners>
+    
+            <mbid>03f85d92-0785-45f0-8428-4658f03c3250</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Wheel+in+the+Sky</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="6">
+    <name>Open Arms</name>
+    <duration>196</duration>
+            <playcount>46693</playcount>
+                <listeners>16779</listeners>
+    
+            <mbid>086b93db-a143-4abd-ba7c-598a77d92241</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Open+Arms</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="7">
+    <name>Lights</name>
+    <duration>211</duration>
+            <playcount>27728</playcount>
+                <listeners>11594</listeners>
+    
+            <mbid>a4dea6a9-4969-4d20-83a1-80a9a043fe26</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lights</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="8">
+    <name>Who's Crying Now</name>
+    <duration>300</duration>
+            <playcount>25299</playcount>
+                <listeners>10568</listeners>
+    
+            <mbid>16f4ad52-f337-49b0-b7ac-d6a2bf7f8c8c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Who%27s+Crying+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="9">
+    <name>Lovin', Touchin', Squeezin'</name>
+    <duration>234</duration>
+            <playcount>18436</playcount>
+                <listeners>8264</listeners>
+    
+            <mbid>483b811c-9521-493e-9ae8-309fb7e1cbc7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lovin%27,+Touchin%27,+Squeezin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="10">
+    <name>Only the Young</name>
+    <duration>246</duration>
+            <playcount>15239</playcount>
+                <listeners>7061</listeners>
+    
+            <mbid>0acb9a89-43d3-424c-bddc-9ccc1ab133bd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Only+the+Young</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="11">
+    <name>Ask the Lonely</name>
+    <duration>234</duration>
+            <playcount>13619</playcount>
+                <listeners>6136</listeners>
+    
+            <mbid>0de25ad2-1d7b-420a-b565-6d217a4aada3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Ask+the+Lonely</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="12">
+    <name>Send Her My Love</name>
+    <duration>234</duration>
+            <playcount>14523</playcount>
+                <listeners>6043</listeners>
+    
+            <mbid>37249b42-80e7-4d6e-b794-572e0cd2f7f1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Send+Her+My+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="13">
+    <name>Stone in Love</name>
+    <duration>265</duration>
+            <playcount>12144</playcount>
+                <listeners>5359</listeners>
+    
+            <mbid>07ea4d1b-e3d9-462e-858e-e8d443a7c8a4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Stone+in+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="14">
+    <name>I'll Be Alright Without You</name>
+    <duration>274</duration>
+            <playcount>11867</playcount>
+                <listeners>5241</listeners>
+    
+            <mbid>4d65f3a3-37c4-49ce-b81d-99daf97f5037</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/I%27ll+Be+Alright+Without+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="15">
+    <name>Be Good to Yourself</name>
+    <duration>231</duration>
+            <playcount>11589</playcount>
+                <listeners>5215</listeners>
+    
+            <mbid>0d3a7c0a-2c77-4d51-92a8-32b4facedfb3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Be+Good+to+Yourself</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="16">
+    <name>Separate Ways</name>
+    <duration>324</duration>
+            <playcount>15065</playcount>
+                <listeners>4923</listeners>
+    
+            <mbid>4b016826-75ad-4452-bd1a-c4fddb31c5e9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Separate+Ways</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91774773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91774773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91774773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91774773.jpg</image>
+        </track>                    <track rank="17">
+    <name>Girl Can't Help It</name>
+    <duration>230</duration>
+            <playcount>10618</playcount>
+                <listeners>4906</listeners>
+    
+            <mbid>28bda7ef-f6c0-4d3f-a182-4f732d5a7b95</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Girl+Can%27t+Help+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="18">
+    <name>Don't Stop Believing</name>
+    <duration>250</duration>
+            <playcount>13161</playcount>
+                <listeners>4040</listeners>
+    
+            <mbid>465d7775-f3b7-4b84-a179-dfb5c0ca5813</mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Journey/_/Don%27t+Stop+Believing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="19">
+    <name>When You Love A Woman</name>
+    <duration>250</duration>
+            <playcount>6922</playcount>
+                <listeners>3111</listeners>
+    
+            <mbid>556d7037-6d84-4ec1-b9c5-f9da8763aec7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/When+You+Love+A+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="20">
+    <name>Still They Ride</name>
+    <duration>229</duration>
+            <playcount>4918</playcount>
+                <listeners>2451</listeners>
+    
+            <mbid>25a14b41-dfd9-414a-8909-bc1d50bbae76</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Still+They+Ride</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="21">
+    <name>After The Fall</name>
+    <duration>300</duration>
+            <playcount>4765</playcount>
+                <listeners>2345</listeners>
+    
+            <mbid>5059763f-33f3-4f34-87e0-f39f2cf36f8a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/After+The+Fall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="22">
+    <name>Anytime</name>
+    <duration>209</duration>
+            <playcount>4069</playcount>
+                <listeners>1990</listeners>
+    
+            <mbid>60b9bbce-518b-4a7d-b4cf-d833212cee22</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Anytime</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="23">
+    <name>Escape</name>
+    <duration>318</duration>
+            <playcount>4569</playcount>
+                <listeners>1957</listeners>
+    
+            <mbid>ff66e937-a20f-43c2-ba33-f4a002d77e2d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Escape</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="24">
+    <name>Mother, Father</name>
+    <duration>327</duration>
+            <playcount>3864</playcount>
+                <listeners>1848</listeners>
+    
+            <mbid>2b64dc0b-dd99-470d-9820-21705c9cc9e8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Mother,+Father</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="25">
+    <name>Chain Reaction</name>
+    <duration>259</duration>
+            <playcount>3801</playcount>
+                <listeners>1807</listeners>
+    
+            <mbid>36b0139a-6d75-49ae-a3a7-87aa6cc5904e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Chain+Reaction</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="26">
+    <name>Just the Same Way</name>
+    <duration>197</duration>
+            <playcount>2880</playcount>
+                <listeners>1631</listeners>
+    
+            <mbid>06a4ae57-204c-44eb-9921-0f6c1d2d4f20</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Just+the+Same+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="27">
+    <name>Feeling That Way</name>
+    <duration>208</duration>
+            <playcount>3312</playcount>
+                <listeners>1631</listeners>
+    
+            <mbid>d69c3fc0-1172-4292-b1a8-4c187bd8e172</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Feeling+That+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87865661.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87865661.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87865661.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87865661.jpg</image>
+        </track>                    <track rank="28">
+    <name>Keep On Runnin'</name>
+    <duration>219</duration>
+            <playcount>3135</playcount>
+                <listeners>1551</listeners>
+    
+            <mbid>0b8d995e-0a9c-4cf4-9e75-d172f908f21c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Keep+On+Runnin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94244531.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94244531.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94244531.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94244531.png</image>
+        </track>                    <track rank="29">
+    <name>Patiently</name>
+    <duration>201</duration>
+            <playcount>2530</playcount>
+                <listeners>1380</listeners>
+    
+            <mbid>23bf3aa7-0e13-4c64-8495-e7cf2b5adfd4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Patiently</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="30">
+    <name>Message of Love</name>
+    <duration>333</duration>
+            <playcount>2635</playcount>
+                <listeners>1269</listeners>
+    
+            <mbid>4670da6d-2bdf-4e01-b1d2-7e25cfd9ced3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Message+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="31">
+    <name>Dont Stop Believing</name>
+    <duration>250</duration>
+            <playcount>3687</playcount>
+                <listeners>1266</listeners>
+    
+            <mbid>f180425f-32bd-4e8f-8bf5-23b60e04738e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Dont+Stop+Believing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="32">
+    <name>Lay It Down</name>
+    <duration>253</duration>
+            <playcount>2203</playcount>
+                <listeners>1202</listeners>
+    
+            <mbid>003a3807-e614-482c-a55e-abd334a7529a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lay+It+Down</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94244531.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94244531.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94244531.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94244531.png</image>
+        </track>                    <track rank="33">
+    <name>Suzanne</name>
+    <duration>218</duration>
+            <playcount>2542</playcount>
+                <listeners>1180</listeners>
+    
+            <mbid>41d5b955-d083-448d-9c89-77a2eadc1d6c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Suzanne</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="34">
+    <name>Good Morning Girl</name>
+    <duration>105</duration>
+            <playcount>2061</playcount>
+                <listeners>1168</listeners>
+    
+            <mbid>25f04cb8-6f1e-40d7-932c-f4e0ae65f924</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Good+Morning+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="35">
+    <name>Somethin' to Hide</name>
+    <duration>207</duration>
+            <playcount>1977</playcount>
+                <listeners>1165</listeners>
+    
+            <mbid>bf5d0483-1a07-4ffe-9b10-2f5000d2cb54</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Somethin%27+to+Hide</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="36">
+    <name>City of Hope</name>
+    <duration>362</duration>
+            <playcount>2091</playcount>
+                <listeners>1161</listeners>
+    
+            <mbid>04b614f3-3210-4376-9c3d-6568c5c70510</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/City+of+Hope</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="37">
+    <name>Eye Of The Tiger</name>
+    <duration>223</duration>
+            <playcount>2697</playcount>
+                <listeners>1159</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Eye+Of+The+Tiger</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="38">
+    <name>Dead Or Alive</name>
+    <duration>199</duration>
+            <playcount>2388</playcount>
+                <listeners>1144</listeners>
+    
+            <mbid>e1178ea2-ffb6-4dea-a19a-9b0247ef6d19</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Dead+Or+Alive</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94244531.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94244531.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94244531.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94244531.png</image>
+        </track>                    <track rank="39">
+    <name>Walks Like a Lady</name>
+    <duration>194</duration>
+            <playcount>1906</playcount>
+                <listeners>1136</listeners>
+    
+            <mbid>3b92fc45-14f6-432b-9c06-00b464957bc6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Walks+Like+a+Lady</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="40">
+    <name>Of a Lifetime</name>
+    <duration>410</duration>
+            <playcount>2224</playcount>
+                <listeners>1073</listeners>
+    
+            <mbid>1d825d37-f7c3-4831-9078-570b4025e6dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Of+a+Lifetime</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="41">
+    <name>The Party's Over (Hopelessly in Love)</name>
+    <duration>220</duration>
+            <playcount>1925</playcount>
+                <listeners>1069</listeners>
+    
+            <mbid>4d59bd81-d56e-49f8-8b88-d55a67af608b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/The+Party%27s+Over+(Hopelessly+in+Love)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="42">
+    <name>The Eyes of a Woman</name>
+    <duration>273</duration>
+            <playcount>2163</playcount>
+                <listeners>1053</listeners>
+    
+            <mbid>2338d570-9816-44ca-b48d-57321b41e9ed</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/The+Eyes+of+a+Woman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="43">
+    <name>Edge Of The Blade</name>
+    <duration>270</duration>
+            <playcount>2395</playcount>
+                <listeners>982</listeners>
+    
+            <mbid>c2ea379d-f567-4186-9ff6-015ae93451ff</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Edge+Of+The+Blade</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="44">
+    <name>Stay Awhile</name>
+    <duration>133</duration>
+            <playcount>2017</playcount>
+                <listeners>935</listeners>
+    
+            <mbid>2b20477e-009c-426a-9d02-aaf37c2c15a8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Stay+Awhile</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="45">
+    <name>Only Solutions</name>
+    <duration>213</duration>
+            <playcount>1781</playcount>
+                <listeners>932</listeners>
+    
+            <mbid>20f5bd54-7dab-4e4a-ba24-c88575be9af5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Only+Solutions</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="46">
+    <name>Edge of the Moment</name>
+    <duration>328</duration>
+            <playcount>1577</playcount>
+                <listeners>908</listeners>
+    
+            <mbid>bf043936-87c2-4864-ba98-2a8f6c6ee9d2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Edge+of+the+Moment</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="47">
+    <name>Why Can't This Night Go on Forever</name>
+    <duration>221</duration>
+            <playcount>1729</playcount>
+                <listeners>847</listeners>
+    
+            <mbid>9093b7a1-04c9-4467-840b-c490e44eca4c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Why+Can%27t+This+Night+Go+on+Forever</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="48">
+    <name>Troubled Child</name>
+    <duration>269</duration>
+            <playcount>1856</playcount>
+                <listeners>841</listeners>
+    
+            <mbid>4e442883-4c0f-43db-ab4b-4c310f16e284</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Troubled+Child</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="49">
+    <name>Who's Cryin' Now</name>
+    <duration>299</duration>
+            <playcount>1381</playcount>
+                <listeners>836</listeners>
+    
+            <mbid>0b592c64-7ced-400e-a5da-59092920d5c1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Who%27s+Cryin%27+Now</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/5915773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/5915773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5915773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/5915773.jpg</image>
+        </track>                    <track rank="50">
+    <name>Line Of Fire</name>
+    <duration>184</duration>
+            <playcount>1841</playcount>
+                <listeners>821</listeners>
+    
+            <mbid>7f7a81d6-9102-4ebd-bfe7-273e64a4d540</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Line+Of+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="51">
+    <name>Frontiers</name>
+    <duration>249</duration>
+            <playcount>1756</playcount>
+                <listeners>808</listeners>
+    
+            <mbid>9b474487-8d09-4927-869b-756b11fd87dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Frontiers</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="52">
+    <name>Too Late</name>
+    <duration>178</duration>
+            <playcount>1548</playcount>
+                <listeners>798</listeners>
+    
+            <mbid>12d53b9e-92f5-41dc-9e59-776a3500d68a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Too+Late</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="53">
+    <name>Majestic</name>
+    <duration>75</duration>
+            <playcount>1342</playcount>
+                <listeners>766</listeners>
+    
+            <mbid>189c9e87-d586-41e7-8f44-821d0bd058ed</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Majestic</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="54">
+    <name>Rubicon</name>
+    <duration>257</duration>
+            <playcount>1710</playcount>
+                <listeners>764</listeners>
+    
+            <mbid>724c2dc4-5301-4080-aff4-d13a5d9f6d5d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Rubicon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="55">
+    <name>Anyway You Want It</name>
+    <duration>209</duration>
+            <playcount>2109</playcount>
+                <listeners>742</listeners>
+    
+            <mbid>19094684-e467-446e-9e5e-9b6d50f6ba53</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Anyway+You+Want+It</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="56">
+    <name>Where Were You</name>
+    <duration>181</duration>
+            <playcount>1421</playcount>
+                <listeners>740</listeners>
+    
+            <mbid>1c9912fa-e325-41ee-8eab-f7f5994fd002</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Where+Were+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="57">
+    <name>Back Talk</name>
+    <duration>196</duration>
+            <playcount>1439</playcount>
+                <listeners>727</listeners>
+    
+            <mbid>53a4b296-47d2-4d31-86ae-1140704b733d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Back+Talk</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="58">
+    <name>Winds of March</name>
+    <duration>304</duration>
+            <playcount>1335</playcount>
+                <listeners>720</listeners>
+    
+            <mbid>289c9498-b486-4fee-99d1-f0b9146e84db</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Winds+of+March</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87865661.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87865661.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87865661.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87865661.jpg</image>
+        </track>                    <track rank="59">
+    <name>After All These Years</name>
+    <duration>249</duration>
+            <playcount>2187</playcount>
+                <listeners>716</listeners>
+    
+            <mbid>10b8fc7c-909c-41fd-9004-60ee2cd940dc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/After+All+These+Years</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="60">
+    <name>La Do Da</name>
+    <duration>181</duration>
+            <playcount>1229</playcount>
+                <listeners>714</listeners>
+    
+            <mbid>32e326f9-69f2-4f62-adf9-3f12eea9d368</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/La+Do+Da</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87865661.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87865661.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87865661.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87865661.jpg</image>
+        </track>                    <track rank="61">
+    <name>Chain of Love</name>
+    <duration>373</duration>
+            <playcount>1202</playcount>
+                <listeners>710</listeners>
+    
+            <mbid>a4680d5f-5f03-489f-81f1-4662ea954a10</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Chain+of+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="62">
+    <name>Resonate</name>
+    <duration>315</duration>
+            <playcount>1281</playcount>
+                <listeners>703</listeners>
+    
+            <mbid>364afea7-c85a-422c-8400-dbbafbbe71f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Resonate</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="63">
+    <name>Faith In The Heartland</name>
+    <duration>417</duration>
+            <playcount>1663</playcount>
+                <listeners>694</listeners>
+    
+            <mbid>b1971fad-720b-4c26-8605-df4d2531a708</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Faith+In+The+Heartland</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="64">
+    <name>Positive Touch</name>
+    <duration>256</duration>
+            <playcount>1396</playcount>
+                <listeners>679</listeners>
+    
+            <mbid>692ff649-3b29-4453-8a13-9392e663c42a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Positive+Touch</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="65">
+    <name>Once You Love Somebody</name>
+    <duration>280</duration>
+            <playcount>1392</playcount>
+                <listeners>671</listeners>
+    
+            <mbid>7f7e1591-a0b3-4d6b-b559-ef0c6cfbdcc4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Once+You+Love+Somebody</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="66">
+    <name>Never Walk Away</name>
+    <duration>257</duration>
+            <playcount>1773</playcount>
+                <listeners>665</listeners>
+    
+            <mbid>cd276d26-c38a-4389-81b4-71e67ce0d836</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Never+Walk+Away</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="67">
+    <name>Anything is Possible</name>
+    <duration>322</duration>
+            <playcount>1113</playcount>
+                <listeners>656</listeners>
+    
+            <mbid>05d4cb2f-5355-4ded-9960-edf70a814508</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Anything+is+Possible</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="68">
+    <name>Tantra</name>
+    <duration>388</duration>
+            <playcount>1087</playcount>
+                <listeners>647</listeners>
+    
+            <mbid>29ca6425-1f99-4366-9e39-bd0e3efc2c6c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Tantra</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="69">
+    <name>If He Should Break Your Heart</name>
+    <duration>261</duration>
+            <playcount>1250</playcount>
+                <listeners>637</listeners>
+    
+            <mbid>19368ba6-2d43-4c9e-b9f3-12dc5f9b7aaa</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/If+He+Should+Break+Your+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="70">
+    <name>Mystery Mountain</name>
+    <duration>263</duration>
+            <playcount>1061</playcount>
+                <listeners>634</listeners>
+    
+            <mbid>31f8a7f9-5736-44de-898e-f83c952dbd81</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Mystery+Mountain</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="71">
+    <name>Happy to Give</name>
+    <duration>228</duration>
+            <playcount>1246</playcount>
+                <listeners>633</listeners>
+    
+            <mbid>dd9dbccf-f54c-4c0e-9e9a-d3d0996e3db8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Happy+to+Give</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="72">
+    <name>Do You Recall</name>
+    <duration>193</duration>
+            <playcount>1071</playcount>
+                <listeners>630</listeners>
+    
+            <mbid>57af3cb1-2219-4a1c-8f0e-c3cc0aa6a307</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Do+You+Recall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="73">
+    <name>Someday Soon</name>
+    <duration>211</duration>
+            <playcount>1052</playcount>
+                <listeners>630</listeners>
+    
+            <mbid>8256522a-f3e0-4d76-8f83-cb13ad3fcd50</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Someday+Soon</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="74">
+    <name>All the Way</name>
+    <duration>215</duration>
+            <playcount>1255</playcount>
+                <listeners>619</listeners>
+    
+            <mbid>44f98849-3f60-4740-9118-a1d4f604eea1</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/All+the+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="75">
+    <name>Sweet and Simple</name>
+    <duration>251</duration>
+            <playcount>1232</playcount>
+                <listeners>617</listeners>
+    
+            <mbid>0941ed17-a654-4e67-9e64-c122325dcc1a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Sweet+and+Simple</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="76">
+    <name>It Could Have Been You</name>
+    <duration>216</duration>
+            <playcount>1378</playcount>
+                <listeners>600</listeners>
+    
+            <mbid>30ed95a5-e40c-40f1-88a8-0709eb993ac7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/It+Could+Have+Been+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="77">
+    <name>Raised on Radio</name>
+    <duration>228</duration>
+            <playcount>1263</playcount>
+                <listeners>585</listeners>
+    
+            <mbid>c52296fd-421a-4619-83d1-10733485dd3e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Raised+on+Radio</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/83594591.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/83594591.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/83594591.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/83594591.jpg</image>
+        </track>                    <track rank="78">
+    <name>Remember Me</name>
+    <duration>329</duration>
+            <playcount>1380</playcount>
+                <listeners>567</listeners>
+    
+            <mbid>37ba76d4-13ff-44b8-b6f9-eed3a625fd96</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Remember+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/37949177.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/37949177.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/37949177.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/37949177.jpg</image>
+        </track>                    <track rank="79">
+    <name>Little Girl</name>
+    <duration>346</duration>
+            <playcount>1014</playcount>
+                <listeners>566</listeners>
+    
+            <mbid>f52f2865-1f44-4078-aa55-16b0b2881cdf</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Little+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="80">
+    <name>Lights (Live)</name>
+    <duration>192</duration>
+            <playcount>1152</playcount>
+                <listeners>564</listeners>
+    
+            <mbid>d30368ef-cab1-4dbf-b2b7-93795647d368</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lights+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91774773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91774773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91774773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91774773.jpg</image>
+        </track>                    <track rank="81">
+    <name>Can Do</name>
+    <duration>159</duration>
+            <playcount>950</playcount>
+                <listeners>554</listeners>
+    
+            <mbid>ae2dff84-e3c3-4505-a02c-b1901460cfc4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Can+Do</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87865661.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87865661.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87865661.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87865661.jpg</image>
+        </track>                    <track rank="82">
+    <name>Opened the Door</name>
+    <duration>277</duration>
+            <playcount>957</playcount>
+                <listeners>549</listeners>
+    
+            <mbid>d7c1d4cc-bdf0-4c25-a286-6e2f819b156a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Opened+the+Door</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87865661.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87865661.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87865661.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87865661.jpg</image>
+        </track>                    <track rank="83">
+    <name>Human Feel</name>
+    <duration>263</duration>
+            <playcount>965</playcount>
+                <listeners>548</listeners>
+    
+            <mbid>2ba24c99-24e4-4fd9-a4a2-2d7c8294ba1d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Human+Feel</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="84">
+    <name>I'm Cryin'</name>
+    <duration>222</duration>
+            <playcount>937</playcount>
+                <listeners>548</listeners>
+    
+            <mbid>90219630-224f-4f1a-b8fd-d21cc0a56fa9</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/I%27m+Cryin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="85">
+    <name>Kohoutek</name>
+    <duration>403</duration>
+            <playcount>949</playcount>
+                <listeners>544</listeners>
+    
+            <mbid>1d81d869-44f7-4e42-b617-b1e95fadb956</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Kohoutek</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="86">
+    <name>In the Morning Day</name>
+    <duration>262</duration>
+            <playcount>926</playcount>
+                <listeners>539</listeners>
+    
+            <mbid>54a322da-bd48-4ab4-8c4a-d8f481939758</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/In+the+Morning+Day</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="87">
+    <name>Ritual</name>
+    <duration>298</duration>
+            <playcount>864</playcount>
+                <listeners>537</listeners>
+    
+            <mbid>5b49cfbe-9f17-4044-803d-1c56010b28d5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Ritual</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="88">
+    <name>Baby I'm a Leavin' You</name>
+    <duration>167</duration>
+            <playcount>892</playcount>
+                <listeners>535</listeners>
+    
+            <mbid>58c1ff42-c7bc-4f32-ae29-71b27db8256f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Baby+I%27m+a+Leavin%27+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="89">
+    <name>When You're Alone (It Ain't Easy)</name>
+    <duration>194</duration>
+            <playcount>1031</playcount>
+                <listeners>535</listeners>
+    
+            <mbid>e6a8f9f5-5890-455f-8fcb-92d9474613f7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/When+You%27re+Alone+(It+Ain%27t+Easy)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="90">
+    <name>People and Places</name>
+    <duration>305</duration>
+            <playcount>987</playcount>
+                <listeners>530</listeners>
+    
+            <mbid>6b55c0b6-e630-4d45-b536-a37728437f52</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/People+and+Places</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="91">
+    <name>City of the Angels</name>
+    <duration>187</duration>
+            <playcount>870</playcount>
+                <listeners>522</listeners>
+    
+            <mbid>7ab4adcc-6fa3-4ef3-8543-93752e106c57</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/City+of+the+Angels</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="92">
+    <name>Can't Tame the Lion</name>
+    <duration>270</duration>
+            <playcount>859</playcount>
+                <listeners>511</listeners>
+    
+            <mbid>3d0b2241-1f8c-43fd-a157-235efdae40b5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Can%27t+Tame+the+Lion</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="93">
+    <name>Precious Time</name>
+    <duration>288</duration>
+            <playcount>902</playcount>
+                <listeners>505</listeners>
+    
+            <mbid>c52c68e1-b8d5-4537-ac65-55fa4bb244d3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Precious+Time</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="94">
+    <name>Homemade Love</name>
+    <duration>172</duration>
+            <playcount>834</playcount>
+                <listeners>504</listeners>
+    
+            <mbid>0b1328da-fbad-4915-87da-bfa5419e99be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Homemade+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="95">
+    <name>When I Think of You</name>
+    <duration>260</duration>
+            <playcount>987</playcount>
+                <listeners>504</listeners>
+    
+            <mbid>0d4c4dda-cd7b-4898-a0bb-03778a4ef4c6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/When+I+Think+of+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="96">
+    <name>Seperate Ways</name>
+    <duration>394</duration>
+            <playcount>1232</playcount>
+                <listeners>504</listeners>
+    
+            <mbid>edabea52-e342-4761-a7b9-07a49cf28823</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Seperate+Ways</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="97">
+    <name>Lovin' You Is Easy</name>
+    <duration>216</duration>
+            <playcount>903</playcount>
+                <listeners>503</listeners>
+    
+            <mbid>83c72262-1382-4c66-a11c-1c711236832c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lovin%27+You+Is+Easy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="98">
+    <name>Spaceman</name>
+    <duration>240</duration>
+            <playcount>919</playcount>
+                <listeners>493</listeners>
+    
+            <mbid>b683691e-12bc-44a6-86da-dca9f831a246</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Spaceman</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="99">
+    <name>Higher Place</name>
+    <duration>308</duration>
+            <playcount>1064</playcount>
+                <listeners>492</listeners>
+    
+            <mbid>3a3a5e94-6b86-4df1-b9f7-04b68f696106</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Higher+Place</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="100">
+    <name>Change For The Better</name>
+    <duration>351</duration>
+            <playcount>1300</playcount>
+                <listeners>490</listeners>
+    
+            <mbid>cb9a7564-d313-4f2c-9f6e-e66127587834</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Change+For+The+Better</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="101">
+    <name>Nickel &amp; Dime</name>
+    <duration>254</duration>
+            <playcount>770</playcount>
+                <listeners>484</listeners>
+    
+            <mbid>8a47e162-421c-4c76-a10f-dd9529702d79</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Nickel+&amp;+Dime</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="102">
+    <name>To Whom It May Concern</name>
+    <duration>315</duration>
+            <playcount>754</playcount>
+                <listeners>481</listeners>
+    
+            <mbid>8d193244-48a4-4ea5-a8a3-b8be3dcb1881</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/To+Whom+It+May+Concern</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="103">
+    <name>Don't Stop Believin</name>
+    <duration>250</duration>
+            <playcount>1629</playcount>
+                <listeners>480</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        </track>                    <track rank="104">
+    <name>Daydream</name>
+    <duration>281</duration>
+            <playcount>868</playcount>
+                <listeners>480</listeners>
+    
+            <mbid>fd0e77f9-136f-4106-b6c5-8312d7bc15f2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Daydream</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="105">
+    <name>Liberty</name>
+    <duration>173</duration>
+            <playcount>945</playcount>
+                <listeners>470</listeners>
+    
+            <mbid>33bfca2f-37a9-4d3a-8d4f-77adda67daad</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Liberty</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87048891.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87048891.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87048891.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87048891.jpg</image>
+        </track>                    <track rank="106">
+    <name>I'm Gonna Leave You</name>
+    <duration>418</duration>
+            <playcount>787</playcount>
+                <listeners>470</listeners>
+    
+            <mbid>6127cd52-c27f-4e03-8012-457924a0acdc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/I%27m+Gonna+Leave+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="107">
+    <name>Topaz</name>
+    <duration>371</duration>
+            <playcount>932</playcount>
+                <listeners>464</listeners>
+    
+            <mbid>a52af2d9-04d5-4383-be30-ddd4015cda31</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Topaz</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="108">
+    <name>Venus</name>
+    <duration>216</duration>
+            <playcount>725</playcount>
+                <listeners>461</listeners>
+    
+            <mbid>e139a2e8-60b2-4ea9-af20-5a1d60ff594e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Venus</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="109">
+    <name>Like A Sunshower</name>
+    <duration>267</duration>
+            <playcount>1012</playcount>
+                <listeners>461</listeners>
+    
+            <mbid>78e0ccbf-499f-4f51-a64b-b6281317c60f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Like+A+Sunshower</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="110">
+    <name>Departure</name>
+    <duration>37</duration>
+            <playcount>770</playcount>
+                <listeners>460</listeners>
+    
+            <mbid>af704b21-223e-4a45-a6c5-07bbc011183b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Departure</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="111">
+    <name>Where Did I Lose Your Love</name>
+    <duration>300</duration>
+            <playcount>1022</playcount>
+                <listeners>459</listeners>
+    
+            <mbid>23c36cbc-da8c-46cf-874b-9771302c0f3b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Where+Did+I+Lose+Your+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="112">
+    <name>Lady Luck</name>
+    <duration>214</duration>
+            <playcount>785</playcount>
+                <listeners>456</listeners>
+    
+            <mbid>22f0dce4-9416-45a0-8ed2-561ee72ff20a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lady+Luck</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/94520373.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/94520373.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/94520373.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/94520373.png</image>
+        </track>                    <track rank="113">
+    <name>Separate Ways Worlds Apart</name>
+    <duration>324</duration>
+            <playcount>1878</playcount>
+                <listeners>456</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Separate+Ways+Worlds+Apart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="114">
+    <name>Someone</name>
+    <duration>277</duration>
+            <playcount>814</playcount>
+                <listeners>455</listeners>
+    
+            <mbid>c5ff37ef-3925-4371-a885-2417d7f28541</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Someone</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="115">
+    <name>Kiss Me Softly</name>
+    <duration>286</duration>
+            <playcount>1132</playcount>
+                <listeners>455</listeners>
+    
+            <mbid>23071c5e-9945-4a7e-8f67-5cca008488fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Kiss+Me+Softly</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="116">
+    <name>To Play Some Music</name>
+    <duration>195</duration>
+            <playcount>795</playcount>
+                <listeners>453</listeners>
+    
+            <mbid>855ead6c-dfaf-4153-9ba0-eba4fddf9ed5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/To+Play+Some+Music</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="117">
+    <name>Natural Thing</name>
+    <duration>222</duration>
+            <playcount>747</playcount>
+                <listeners>447</listeners>
+    
+            <mbid>d319bee8-f3d6-4ad3-aa1b-b28003fa0bb3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Natural+Thing</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/80172281.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80172281.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80172281.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80172281.jpg</image>
+        </track>                    <track rank="118">
+    <name>Lovin' Touchin' Squeezin'</name>
+    <duration>308</duration>
+            <playcount>1097</playcount>
+                <listeners>444</listeners>
+    
+            <mbid>314a8af5-8cd1-4ba8-89eb-84c9c7035b44</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lovin%27+Touchin%27+Squeezin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/70008478.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70008478.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70008478.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70008478.jpg</image>
+        </track>                    <track rank="119">
+    <name>Still She Cries</name>
+    <duration>303</duration>
+            <playcount>942</playcount>
+                <listeners>440</listeners>
+    
+            <mbid>8fe49bac-58cd-4fae-82d1-c6b4ca6cf2c2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Still+She+Cries</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="120">
+    <name>Seperate Ways (Worlds Apart)</name>
+    <duration>325</duration>
+            <playcount>1340</playcount>
+                <listeners>439</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/+noredirect/Journey/_/Seperate+Ways+(Worlds+Apart)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/25809745.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/25809745.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25809745.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/25809745.jpg</image>
+        </track>                    <track rank="121">
+    <name>Don't Be Down On Me Baby</name>
+    <duration>239</duration>
+            <playcount>763</playcount>
+                <listeners>439</listeners>
+    
+            <mbid>02253db3-ac20-4442-80e2-4bf000e6ba1a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Be+Down+On+Me+Baby</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="122">
+    <name>Forever In Blue</name>
+    <duration>214</duration>
+            <playcount>835</playcount>
+                <listeners>428</listeners>
+    
+            <mbid>3e9ba4d0-205c-460d-b172-8700ff3e4abd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Forever+In+Blue</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="123">
+    <name>Wildest Dream</name>
+    <duration>300</duration>
+            <playcount>920</playcount>
+                <listeners>424</listeners>
+    
+            <mbid>8b3c91ff-d731-4f3b-97a7-b94c72f6df02</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Wildest+Dream</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="124">
+    <name>One More</name>
+    <duration>327</duration>
+            <playcount>823</playcount>
+                <listeners>424</listeners>
+    
+            <mbid>1e2efa5f-929f-4ff8-bc48-ee7657e5ff9c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/One+More</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="125">
+    <name>What It Takes To Win</name>
+    <duration>321</duration>
+            <playcount>1073</playcount>
+                <listeners>421</listeners>
+    
+            <mbid>e2753543-fa25-4ad8-a34a-3b066a700420</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/What+It+Takes+To+Win</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="126">
+    <name>Loved by You</name>
+    <duration>242</duration>
+            <playcount>890</playcount>
+                <listeners>420</listeners>
+    
+            <mbid>b8442d24-a38f-4013-bc3a-dda8937e7a51</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Loved+by+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="127">
+    <name>What I Needed</name>
+    <duration>326</duration>
+            <playcount>1150</playcount>
+                <listeners>420</listeners>
+    
+            <mbid>cd2ea33f-6131-4728-9344-239e2e69e1be</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/What+I+Needed</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="128">
+    <name>On a Saturday Nite</name>
+    <duration>238</duration>
+            <playcount>649</playcount>
+                <listeners>411</listeners>
+    
+            <mbid>6890f715-d19d-4fa9-a4d2-12165ba5a284</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/On+a+Saturday+Nite</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="129">
+    <name>Turn Down The World Tonight</name>
+    <duration>294</duration>
+            <playcount>1088</playcount>
+                <listeners>405</listeners>
+    
+            <mbid>fd344287-07c1-4b51-a792-393a61f1bd1f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Turn+Down+The+World+Tonight</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="130">
+    <name>It's All Too Much</name>
+    <duration>244</duration>
+            <playcount>669</playcount>
+                <listeners>397</listeners>
+    
+            <mbid>5a457c2b-495d-42bb-b6fd-704bbdc44487</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/It%27s+All+Too+Much</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88742603.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88742603.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88742603.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88742603.jpg</image>
+        </track>                    <track rank="131">
+    <name>Look into the Future</name>
+    <duration>490</duration>
+            <playcount>749</playcount>
+                <listeners>389</listeners>
+    
+            <mbid>3737603d-c061-48ee-b3bd-580c2dc8db1c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Look+into+the+Future</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88742603.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88742603.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88742603.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88742603.jpg</image>
+        </track>                    <track rank="132">
+    <name>People</name>
+    <duration>319</duration>
+            <playcount>646</playcount>
+                <listeners>389</listeners>
+    
+            <mbid>f3bd9bf7-9af7-456f-ad9c-c82655c7828e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/People</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="133">
+    <name>Easy to Fall</name>
+    <duration>314</duration>
+            <playcount>769</playcount>
+                <listeners>388</listeners>
+    
+            <mbid>088d148e-5305-43cb-826a-4304f7b6fe9b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Easy+to+Fall</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="134">
+    <name>She's A Mystery</name>
+    <duration>401</duration>
+            <playcount>630</playcount>
+                <listeners>373</listeners>
+    
+            <mbid>078167de-7922-4fc2-a6d2-0f1784375fbc</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/She%27s+A+Mystery</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/63689459.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/63689459.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63689459.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/63689459.jpg</image>
+        </track>                    <track rank="135">
+    <name>Stone In Love - GH 2 Version</name>
+    <duration>265</duration>
+            <playcount>623</playcount>
+                <listeners>373</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Stone+In+Love+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="136">
+    <name>The Journey (Revelation)</name>
+    <duration>325</duration>
+            <playcount>628</playcount>
+                <listeners>359</listeners>
+    
+            <mbid>372eae36-8ad1-4b1e-8ebd-b0a2d4a5d31c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/The+Journey+(Revelation)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/97072823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/97072823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/97072823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/97072823.jpg</image>
+        </track>                    <track rank="137">
+    <name>Signs of Life</name>
+    <duration>294</duration>
+            <playcount>752</playcount>
+                <listeners>356</listeners>
+    
+            <mbid>826c8718-1169-46b2-807c-810030839df2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Signs+of+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="138">
+    <name>Anyway</name>
+    <duration>250</duration>
+            <playcount>596</playcount>
+                <listeners>351</listeners>
+    
+            <mbid>069df39c-4059-41e6-b285-fab66b6e7e10</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Anyway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88742603.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88742603.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88742603.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88742603.jpg</image>
+        </track>                    <track rank="139">
+    <name>With Your Love</name>
+    <duration>264</duration>
+            <playcount>678</playcount>
+                <listeners>344</listeners>
+    
+            <mbid>41e0022f-8176-412e-8440-a820d41ad2ec</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/With+Your+Love</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="140">
+    <name>It's Just the Rain</name>
+    <duration>319</duration>
+            <playcount>658</playcount>
+                <listeners>339</listeners>
+    
+            <mbid>23cb386b-a245-4da4-bd92-4b6c5de3a585</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/It%27s+Just+the+Rain</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="141">
+    <name>Trial by Fire</name>
+    <duration>280</duration>
+            <playcount>717</playcount>
+                <listeners>335</listeners>
+    
+            <mbid>7c4b9776-e9ed-4bd2-ba38-41a95ae6e848</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Trial+by+Fire</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="142">
+    <name>You're On Your Own</name>
+    <duration>353</duration>
+            <playcount>575</playcount>
+                <listeners>334</listeners>
+    
+            <mbid>36da6f06-9f6d-4bd0-8d43-6da99ffe48b2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/You%27re+On+Your+Own</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88742603.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88742603.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88742603.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88742603.jpg</image>
+        </track>                    <track rank="143">
+    <name>Castles Burning</name>
+    <duration>357</duration>
+            <playcount>588</playcount>
+                <listeners>334</listeners>
+    
+            <mbid>28451c77-c214-4726-af5e-e699f08e4a93</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Castles+Burning</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="144">
+    <name>Colors of the Spirit</name>
+    <duration>340</duration>
+            <playcount>640</playcount>
+                <listeners>327</listeners>
+    
+            <mbid>0864a9c0-8b50-4bc0-a50c-4e82447e6bac</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Colors+of+the+Spirit</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="145">
+    <name>I Would Find You</name>
+    <duration>352</duration>
+            <playcount>557</playcount>
+                <listeners>326</listeners>
+    
+            <mbid>1e2cf549-4047-49c8-b119-2918cc17dcb5</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/I+Would+Find+You</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84150455.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84150455.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84150455.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84150455.jpg</image>
+        </track>                    <track rank="146">
+    <name>Line of Fire - Live</name>
+    <duration></duration>
+            <playcount>460</playcount>
+                <listeners>322</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Line+of+Fire+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="147">
+    <name>All the Things</name>
+    <duration>262</duration>
+            <playcount>566</playcount>
+                <listeners>310</listeners>
+    
+            <mbid>4c72a3d5-70d0-483b-8917-e4c6f475dde2</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/All+the+Things</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="148">
+    <name>The Place In Your Heart</name>
+    <duration>260</duration>
+            <playcount>596</playcount>
+                <listeners>309</listeners>
+    
+            <mbid>7a0ed7b6-1333-43ea-9aea-0e1017e5c82c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/The+Place+In+Your+Heart</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="149">
+    <name>Lifetime of Dreams</name>
+    <duration>329</duration>
+            <playcount>672</playcount>
+                <listeners>308</listeners>
+    
+            <mbid>4b319378-0dfe-41ab-9b9f-e9aac7b41b84</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lifetime+of+Dreams</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="150">
+    <name>Live and Breathe</name>
+    <duration>315</duration>
+            <playcount>579</playcount>
+                <listeners>307</listeners>
+    
+            <mbid>00f26e00-4907-4869-91e6-9e5cfac5ae3b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Live+and+Breathe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="151">
+    <name>Don't Stop Believin' - Live Version</name>
+    <duration>248</duration>
+            <playcount>558</playcount>
+                <listeners>304</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+-+Live+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="152">
+    <name>Livin' to Do</name>
+    <duration>384</duration>
+            <playcount>536</playcount>
+                <listeners>304</listeners>
+    
+            <mbid>1ade1bed-8c6a-4811-8307-fbaddfc8b4a4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Livin%27+to+Do</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="153">
+    <name>Don't Stop Believin' (Album Version)</name>
+    <duration>251</duration>
+            <playcount>728</playcount>
+                <listeners>303</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="154">
+    <name>I Got a Reason</name>
+    <duration>258</duration>
+            <playcount>543</playcount>
+                <listeners>302</listeners>
+    
+            <mbid>200970b3-466e-4cb7-879a-1ca5bd3b560c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/I+Got+a+Reason</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="155">
+    <name>She Makes Me (Feel Alright)</name>
+    <duration>191</duration>
+            <playcount>513</playcount>
+                <listeners>299</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/She+Makes+Me+(Feel+Alright)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88742603.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88742603.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88742603.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88742603.jpg</image>
+        </track>                    <track rank="156">
+    <name>Next</name>
+    <duration>327</duration>
+            <playcount>548</playcount>
+                <listeners>296</listeners>
+    
+            <mbid>087d5a1d-2a94-4c88-8872-4f09bccf09f6</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Next</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84150455.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84150455.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84150455.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84150455.jpg</image>
+        </track>                    <track rank="157">
+    <name>World Gone Wild</name>
+    <duration>359</duration>
+            <playcount>537</playcount>
+                <listeners>295</listeners>
+    
+            <mbid>4f852c55-8ada-4f03-859a-2ac5d7bdd866</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/World+Gone+Wild</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="158">
+    <name>In My Lonely Feeling/Conversations</name>
+    <duration>295</duration>
+            <playcount>562</playcount>
+                <listeners>293</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/In+My+Lonely+Feeling%2FConversations</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="159">
+    <name>To Be Alive Again</name>
+    <duration>260</duration>
+            <playcount>532</playcount>
+                <listeners>284</listeners>
+    
+            <mbid>4fb74742-43bb-42c8-ac6d-f63a3cea155f</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/To+Be+Alive+Again</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="160">
+    <name>Midnight Dreamer</name>
+    <duration>313</duration>
+            <playcount>497</playcount>
+                <listeners>280</listeners>
+    
+            <mbid>062ca114-47df-4192-89cd-95ec03135910</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Midnight+Dreamer</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88742603.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88742603.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88742603.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88742603.jpg</image>
+        </track>                    <track rank="161">
+    <name>Here We Are</name>
+    <duration>256</duration>
+            <playcount>491</playcount>
+                <listeners>279</listeners>
+    
+            <mbid>3ba7762a-f910-415f-909c-946629658a00</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Here+We+Are</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84150455.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84150455.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84150455.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84150455.jpg</image>
+        </track>                    <track rank="162">
+    <name>Don't Stop Believin' (Live)</name>
+    <duration>249</duration>
+            <playcount>547</playcount>
+                <listeners>278</listeners>
+    
+            <mbid>bf7aff53-d39a-43af-9abc-f3fd7e050d5b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91774773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91774773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91774773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91774773.jpg</image>
+        </track>                    <track rank="163">
+    <name>We Will Meet Again</name>
+    <duration>304</duration>
+            <playcount>547</playcount>
+                <listeners>273</listeners>
+    
+            <mbid>241d3a7f-a1bf-479d-9e95-35a65f873d29</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/We+Will+Meet+Again</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="164">
+    <name>Hustler</name>
+    <duration>195</duration>
+            <playcount>488</playcount>
+                <listeners>267</listeners>
+    
+            <mbid>c54aaf9b-b271-4ec6-b8e0-170b8e9b379d</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Hustler</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84150455.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84150455.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84150455.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84150455.jpg</image>
+        </track>                    <track rank="165">
+    <name>Karma</name>
+    <duration>307</duration>
+            <playcount>460</playcount>
+                <listeners>262</listeners>
+    
+            <mbid>df61c39e-2145-45d5-964d-d94edd5a02b4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Karma</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/84150455.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/84150455.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/84150455.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/84150455.jpg</image>
+        </track>                    <track rank="166">
+    <name>Lovin', Touchin' Squeezin'</name>
+    <duration>296</duration>
+            <playcount>332</playcount>
+                <listeners>261</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Lovin%27,+Touchin%27+Squeezin%27</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96420007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96420007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96420007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96420007.jpg</image>
+        </track>                    <track rank="167">
+    <name>In My Lonely Feeling / Conversations</name>
+    <duration>298</duration>
+            <playcount>313</playcount>
+                <listeners>244</listeners>
+    
+            <mbid>6792b85c-26ec-4971-8c46-1c97de728eec</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/In+My+Lonely+Feeling+%2F+Conversations</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87725691.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87725691.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87725691.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87725691.jpg</image>
+        </track>                    <track rank="168">
+    <name>Butterfly (She Flies Alone)</name>
+    <duration>357</duration>
+            <playcount>436</playcount>
+                <listeners>244</listeners>
+    
+            <mbid>68ae7f82-a14b-4e3a-9ad9-896cf06d9ed0</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Butterfly+(She+Flies+Alone)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="169">
+    <name>A Better Life</name>
+    <duration>340</duration>
+            <playcount>507</playcount>
+                <listeners>244</listeners>
+    
+            <mbid>187c59bf-5dd5-43bf-9713-d264c9ab334b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/A+Better+Life</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="170">
+    <name>After The Fall - GH 2 Version</name>
+    <duration>301</duration>
+            <playcount>342</playcount>
+                <listeners>244</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/After+The+Fall+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="171">
+    <name>Dont Stop Believin</name>
+    <duration></duration>
+            <playcount>746</playcount>
+                <listeners>241</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Dont+Stop+Believin</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="172">
+    <name>Feeling That Way - GH 2 Version</name>
+    <duration>208</duration>
+            <playcount>393</playcount>
+                <listeners>236</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Feeling+That+Way+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="173">
+    <name>Nothin' Comes Close</name>
+    <duration>339</duration>
+            <playcount>416</playcount>
+                <listeners>235</listeners>
+    
+            <mbid>500bc14f-1705-4b45-a902-b98f9e78d031</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Nothin%27+Comes+Close</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/90500181.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/90500181.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/90500181.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/90500181.jpg</image>
+        </track>                    <track rank="174">
+    <name>Faithfully (Album Version)</name>
+    <duration>266</duration>
+            <playcount>568</playcount>
+                <listeners>235</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Faithfully+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="175">
+    <name>Every Generation</name>
+    <duration>353</duration>
+            <playcount>391</playcount>
+                <listeners>231</listeners>
+    
+            <mbid>84cb95c6-0f98-4707-b43c-2058e18ed806</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Every+Generation</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="176">
+    <name>Open Arms (Album Version)</name>
+    <duration>199</duration>
+            <playcount>519</playcount>
+                <listeners>229</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Open+Arms+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="177">
+    <name>Don't Stop Believin' - Live</name>
+    <duration>250</duration>
+            <playcount>399</playcount>
+                <listeners>223</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="178">
+    <name>Believe</name>
+    <duration>342</duration>
+            <playcount>404</playcount>
+                <listeners>222</listeners>
+    
+            <mbid>cb793f28-4a84-4754-8ef5-7fe8442d25d8</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Believe</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="179">
+    <name>Knowing That You Love Me</name>
+    <duration>321</duration>
+            <playcount>409</playcount>
+                <listeners>222</listeners>
+    
+            <mbid>18fe4f45-e70a-426e-87da-afe71e6260fd</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Knowing+That+You+Love+Me</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="180">
+    <name>Don't Stop Believin' (live in Houston)</name>
+    <duration>136</duration>
+            <playcount>326</playcount>
+                <listeners>221</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Don%27t+Stop+Believin%27+(live+in+Houston)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="181">
+    <name>The Party's Over (Hopelessly In Love) - GH 2 Version</name>
+    <duration>221</duration>
+            <playcount>314</playcount>
+                <listeners>215</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/The+Party%27s+Over+(Hopelessly+In+Love)+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="182">
+    <name>Anytime - GH 2 Version</name>
+    <duration>209</duration>
+            <playcount>327</playcount>
+                <listeners>213</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Anytime+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="183">
+    <name>Beyond The Clouds</name>
+    <duration>415</duration>
+            <playcount>433</playcount>
+                <listeners>211</listeners>
+    
+            <mbid>676db150-6229-4356-bde1-2c5409716f6a</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Beyond+The+Clouds</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="184">
+    <name>I Can See It in Your Eyes</name>
+    <duration>252</duration>
+            <playcount>411</playcount>
+                <listeners>209</listeners>
+    
+            <mbid>b0abe94b-6791-47d6-a294-4e18d038a0c3</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/I+Can+See+It+in+Your+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/87701095.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/87701095.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/87701095.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/87701095.jpg</image>
+        </track>                    <track rank="185">
+    <name>Still They Ride - GH 2 Version</name>
+    <duration>229</duration>
+            <playcount>308</playcount>
+                <listeners>207</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Still+They+Ride+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="186">
+    <name>Escape - GH 2 Version</name>
+    <duration>317</duration>
+            <playcount>294</playcount>
+                <listeners>205</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Escape+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="187">
+    <name>Gone Crazy</name>
+    <duration>245</duration>
+            <playcount>417</playcount>
+                <listeners>203</listeners>
+    
+            <mbid>99ccf60a-a155-47e5-b0b3-6f91fa99cd27</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Gone+Crazy</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="188">
+    <name>Faithfully - Live</name>
+    <duration>258</duration>
+            <playcount>319</playcount>
+                <listeners>202</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Faithfully+-+Live</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="189">
+    <name>Open Arms (Live)</name>
+    <duration>202</duration>
+            <playcount>366</playcount>
+                <listeners>202</listeners>
+    
+            <mbid>4a99e005-a026-4792-8e48-243a3fcef49c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Open+Arms+(Live)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/91774773.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/91774773.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/91774773.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/91774773.jpg</image>
+        </track>                    <track rank="190">
+    <name>Dixie Highway</name>
+    <duration>408</duration>
+            <playcount>357</playcount>
+                <listeners>200</listeners>
+    
+            <mbid>731443d1-0eaa-4249-8281-7bb280786f7b</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Dixie+Highway</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/96448153.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/96448153.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/96448153.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/96448153.jpg</image>
+        </track>                    <track rank="191">
+    <name>Stay Awhile - GH 2 Version</name>
+    <duration>167</duration>
+            <playcount>319</playcount>
+                <listeners>197</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Stay+Awhile+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="192">
+    <name>Better Together</name>
+    <duration>306</duration>
+            <playcount>313</playcount>
+                <listeners>194</listeners>
+    
+            <mbid>3daa56a0-b41d-4cc2-95d6-92c7e041d03e</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Better+Together</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="193">
+    <name>In Self-Defense</name>
+    <duration>190</duration>
+            <playcount>328</playcount>
+                <listeners>193</listeners>
+    
+            <mbid>acdd977e-ff3b-4fb9-808e-2139490ff404</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/In+Self-Defense</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="194">
+    <name>Separate Ways (Worlds Apart) (Album Version)</name>
+    <duration>327</duration>
+            <playcount>618</playcount>
+                <listeners>188</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Separate+Ways+(Worlds+Apart)+(Album+Version)</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="195">
+    <name>Chain Reaction - GH 2 Version</name>
+    <duration>260</duration>
+            <playcount>263</playcount>
+                <listeners>186</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Chain+Reaction+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="196">
+    <name>Good Morning Girl - GH 2 Version</name>
+    <duration>103</duration>
+            <playcount>279</playcount>
+                <listeners>185</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Good+Morning+Girl+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="197">
+    <name>Out Of Harms Way</name>
+    <duration>314</duration>
+            <playcount>288</playcount>
+                <listeners>180</listeners>
+    
+            <mbid>0dbe81e5-8c8e-429a-bc8a-19f261ae9ad7</mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Out+Of+Harms+Way</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                <image size="small">http://userserve-ak.last.fm/serve/34s/88473549.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/88473549.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/88473549.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/88473549.jpg</image>
+        </track>                    <track rank="198">
+    <name>She’s a Mystery</name>
+    <duration>402</duration>
+            <playcount>239</playcount>
+                <listeners>178</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/She%E2%80%99s+a+Mystery</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="199">
+    <name>Suzanne - GH 2 Version</name>
+    <duration>219</duration>
+            <playcount>257</playcount>
+                <listeners>177</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Suzanne+-+GH+2+Version</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track>                    <track rank="200">
+    <name>Small Town Girl</name>
+    <duration></duration>
+            <playcount>505</playcount>
+                <listeners>174</listeners>
+    
+            <mbid></mbid>
+         
+    
+    <url>http://www.last.fm/music/Journey/_/Small+Town+Girl</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Journey</name>
+                <mbid>a26ff336-32ef-4adc-a800-3581c9a517a9</mbid>
+     
+        <url>http://www.last.fm/music/Journey</url>
+    </artist>
+                </track></toptracks></lfm>
